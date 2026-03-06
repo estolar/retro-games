@@ -526,7 +526,7 @@ background-color: #000;
 
 .showcase-screen{
   position: relative;
-  height: 96px;
+  height: 280px;
   overflow: hidden;
   border: 3px solid var(--border-color);
   background:
@@ -534,6 +534,7 @@ background-color: #000;
     radial-gradient(circle at 80% 30%, rgba(255,0,255,.07), transparent 18%),
     linear-gradient(180deg, #05070d 0%, #08111a 100%);
   box-shadow: inset 0 0 20px rgba(0,255,255,.05);
+  
 }
 
 .showcase-overlay{
@@ -555,9 +556,9 @@ background-color: #000;
 .showcase-label{
   position:absolute;
   right:10px;
-  top:8px;
+  top:14px;
   font-family: var(--font-mono);
-  font-size: 14px;
+  font-size: 1.2rem;
   color: var(--neon-cyan);
   z-index: 6;
 }
@@ -568,40 +569,113 @@ background-color: #000;
   width:100%;
 }
 
-.lane-top{ top:8px; height:22px; }
-.lane-middle{ top:37px; height:22px; }
-.lane-bottom{ bottom:4px; height:24px; }
+.lane-top{
+  top:28px;
+  height:60px;
+}
+
+.lane-middle{
+  top:110px;
+  height:60px;
+}
+
+.lane-bottom{
+  bottom:28px;
+  height:60px;
+}
 
 /* línea tipo laberinto */
 .maze-line{
   position:absolute;
   left:0;
   right:0;
-  top:9px;
-  height:2px;
+  top:26px;
+  height:3px;
   background: rgba(0,255,255,.45);
+}
+
+.maze-line{
+  top:9px;
 }
 
 /* COME-PIXELES */
 .chaser{
   position:absolute;
-  top:2px;
-  left:-40px;
-  width:18px;
-  height:18px;
+  top:4px;
+  left:-60px;
+  width:27px;
+  height:27px;
   background: var(--neon-yellow);
   border-radius:50%;
-  clip-path: polygon(100% 50%, 55% 15%, 0 0, 0 100%, 55% 85%);
-  animation: chaseRun 8s linear infinite;
   box-shadow: 0 0 8px rgba(255,211,0,.25);
+  animation: chaseRun 8s linear infinite;
+  overflow: hidden;
 }
 
+/* boca superior */
+.chaser::before{
+  content:"";
+  position:absolute;
+  right:-1px;
+  top:50%;
+  width:16px;
+  height:16px;
+  background:#08111a; /* mismo color del fondo del showcase */
+  transform-origin: left center;
+  clip-path: polygon(0 0, 100% 0, 0 100%);
+  animation: chompTop 0.18s steps(2, end) infinite;
+}
+
+/* boca inferior */
+.chaser::after{
+  content:"";
+  position:absolute;
+  right:-1px;
+  top:50%;
+  width:16px;
+  height:16px;
+  background:#08111a;
+  transform-origin: left center;
+  clip-path: polygon(0 0, 100% 100%, 0 100%);
+  animation: chompBottom 0.18s steps(2, end) infinite;
+}
+@keyframes chompTop{
+  0%, 100%{
+    transform: translateY(-100%) rotate(-38deg);
+  }
+  50%{
+    transform: translateY(-100%) rotate(-10deg);
+  }
+}
+
+@keyframes chompBottom{
+  0%, 100%{
+    transform: rotate(38deg);
+  }
+  50%{
+    transform: rotate(10deg);
+  }
+}
 @keyframes chaseRun{
-  0%   { left:-30px; transform: scaleX(1); }
-  48%  { left: calc(100% - 20px); transform: scaleX(1); }
-  49%  { transform: scaleX(-1); }
-  98%  { left:-30px; transform: scaleX(-1); }
-  100% { left:-30px; transform: scaleX(1); }
+  0%{
+    left:-40px;
+    transform: scaleX(1);
+  }
+  48%{
+    left: calc(100% - 32px);
+    transform: scaleX(1);
+  }
+  50%{
+    transform: scaleX(-1);
+  }
+  98%{
+    left:-40px;
+    transform: scaleX(-1);
+  }
+  100%{
+    left:-40px;
+    transform: scaleX(1);
+  }
 }
 
 /* fantasmas */
