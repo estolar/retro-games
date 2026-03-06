@@ -519,6 +519,7 @@ background-color: #000;
    ARCADE SHOWCASE
    ========================= */
 
+
 .arcade-showcase{
   margin-bottom: 18px;
   padding: 10px;
@@ -598,115 +599,150 @@ background-color: #000;
   top:9px;
 }
 
-/* COME-PIXELES */
-.chaser{
-  position:absolute;
-  top:4px;
-  left:-60px;
-  width:27px;
-  height:27px;
-  background: var(--neon-yellow);
-  border-radius:50%;
-  box-shadow: 0 0 8px rgba(255,211,0,.25);
+/* CONTENEDOR PRINCIPAL */
+
+:root {
+  --neon-yellow: #fff300;
+  --bg-color: #000a12; /* Fondo oscuro retro */
+}
+.chaser {
+  position: absolute;
+  top: -6px;
+  left: -60px;
+  width: 30px; /* Un poco más grande para el estilo arcade */
+  height: 30px;
+  background: transparent; /* El contenedor es invisible */
   animation: chaseRun 8s linear infinite;
-  overflow: hidden;
+  z-index: 10; /* Pac-Man por encima de todo */
 }
 
-/* boca superior */
-.chaser::before{
-  content:"";
-  position:absolute;
-  right:-1px;
-  top:50%;
-  width:16px;
-  height:16px;
-  background:#08111a; /* mismo color del fondo del showcase */
-  transform-origin: left center;
-  clip-path: polygon(0 0, 100% 0, 0 100%);
-  animation: chompTop 0.18s steps(2, end) infinite;
+/* ESTILO COMÚN PARA LAS MANDÍBULAS */
+.chaser::before,
+.chaser::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: var(--neon-yellow);
+  border-radius: 50%;
+  /* La clave: la mitad del círculo */
+  clip-path: polygon(0% 0%, 100% 0%, 100% 50%, 0% 50%); 
 }
 
-/* boca inferior */
-.chaser::after{
-  content:"";
-  position:absolute;
-  right:-1px;
-  top:50%;
-  width:16px;
-  height:16px;
-  background:#08111a;
-  transform-origin: left center;
-  clip-path: polygon(0 0, 100% 100%, 0 100%);
-  animation: chompBottom 0.18s steps(2, end) infinite;
+/* LA MANDÍBULA SUPERIOR TIENE EL OJITO */
+.chaser::before {
+  top: 0;
+  background-image: radial-gradient(circle at 20px 10px, blue 2px, transparent 3px); /* EL OJITO */
+  animation: chompTop 0.2s steps(2) infinite;
 }
-@keyframes chompTop{
-  0%, 100%{
-    transform: translateY(-100%) rotate(-38deg);
-  }
-  50%{
-    transform: translateY(-100%) rotate(-10deg);
-  }
+/* MANDÍBULA INFERIOR */
+.chaser::after {
+  bottom: 0;
+  transform: scaleY(-1); /* Volteamos el semicírculo */
+  animation: chompBottom 0.2s steps(2) infinite;
 }
 
-@keyframes chompBottom{
-  0%, 100%{
-    transform: rotate(38deg);
-  }
-  50%{
-    transform: rotate(10deg);
-  }
-}
-@keyframes chaseRun{
-  0%{
-    left:-40px;
-    transform: scaleX(1);
-  }
-  48%{
-    left: calc(100% - 32px);
-    transform: scaleX(1);
-  }
-  50%{
-    transform: scaleX(-1);
-  }
-  98%{
-    left:-40px;
-    transform: scaleX(-1);
-  }
-  100%{
-    left:-40px;
-    transform: scaleX(1);
-  }
+/* ANIMACIONES DE MORDIDA */
+@keyframes chompTop {
+  0%, 100% { transform: rotate(-35deg); }
+  50% { transform: rotate(0deg); }
 }
 
+@keyframes chompBottom {
+  0%, 100% { transform: scaleY(-1) rotate(-35deg); }
+  50% { transform: scaleY(-1) rotate(0deg); }
+}
+
+/* MOVIMIENTO POR LA PANTALLA */
+@keyframes chaseRun {
+  0% { left: -40px; transform: scaleX(1); }
+  48% { left: calc(100% - 40px); transform: scaleX(1); }
+  50% { transform: scaleX(-1); } /* Gira para regresar */
+  98% { left: -40px; transform: scaleX(-1); }
+  100% { left: -40px; transform: scaleX(1); }
+}
 /* fantasmas */
-.ghost{
-  position:absolute;
-  top:1px;
-  width:16px;
-  height:16px;
-  border-radius:8px 8px 3px 3px;
-  animation: ghostRun 8s linear infinite;
+/* CUERPO DEL FANTASMA */
+/* CUERPO MEJORADO */
+.ghost {
+  position: absolute;
+  top: -4px;
+  width: 26px;
+  height: 26px;
+  border-radius: 13px 13px 0 0;
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 80% 85%, 60% 100%, 40% 85%, 20% 100%, 0% 85%);
+  display: flex;
+  animation: 
+    ghostRun 8s linear infinite,
+    ghostScared 8s linear infinite;
+  z-index: 5;
 }
-.ghost::before,
-.ghost::after{
-  content:"";
-  position:absolute;
-  top:5px;
-  width:3px;
-  height:3px;
-  background:#0b0f17;
-}
-.ghost::before{ left:4px; }
-.ghost::after{ right:4px; }
 
-.ghost-1{ background:#ff6b6b; animation-delay: .2s; }
-.ghost-2{ background:#7df9ff; animation-delay: .7s; }
-.ghost-3{ background:#ff7cf2; animation-delay: 1.2s; }
+/* OJOS (Contenedor de ambos ojos) */
+.ghost::before {
+  content: "";
+  position: absolute;
+  top: 6px;
+  left: 4px;
+  width: 18px;
+  height: 8px;
+  background: white;
+  border-radius: 4px;
+}
+
+/* PUPILAS (Ambas en un solo pseudo-elemento) */
+.ghost::after {
+  content: "";
+  position: absolute;
+  top: 8px;
+  left: 6px;
+  width: 4px;
+  height: 4px;
+  background: #0000ff;
+  box-shadow: 10px 0 0 #0000ff; /* Esto crea la segunda pupila */
+  animation: ghostEyes 8s linear infinite;
+}
+
+
+
+/* COLORES Y RETRASOS INDIVIDUALES (Para separarlos) */
+.ghost-1 { background: #ff0000; animation-delay: 0s, 0s; }    /* Blinky */
+.ghost-2 { background: #ffb8ff; animation-delay: 0.6s, 0.6s; } /* Pinky */
+.ghost-3 { background: #00ffff; animation-delay: 1.2s, 1.2s; } /* Inky */
+.ghost-4 { background: #ffb847; animation-delay: 1.8s, 1.8s; } /* Clyde */
+
 
 @keyframes ghostRun{
   0%   { left:100%; }
   100% { left:-30px; }
 }
+
+/* ANIMACIÓN DE ESTADO (Color y Visibilidad) */
+/* Ajuste en el HTML: añade la clase ghost-1, ghost-2, etc. a cada uno */
+
+@keyframes ghostScared {
+  0%, 9% { opacity: 1; background: inherit; }
+  10% { background: #2121ff; } /* Todos se asustan al 10% */
+  10%, 35% { filter: contrast(1.5) brightness(1.2); }
+  
+  /* Desaparición escalonada: 
+     Ajustamos el % para que coincida con el encuentro con Pac-Man */
+  22% { opacity: 1; } 
+  24% { opacity: 0; } /* El primero muere rápido */
+  
+  48%, 100% { opacity: 1; } 
+}
+
+/* Si quieres que sea perfecto, cada fantasma debería tener su propio keyframe de muerte, 
+   pero con el delay de 0.6s ya se nota la diferencia de posición */
+
+/* LA MIRADA: Cambia según la dirección del movimiento */
+@keyframes ghostEyes {
+  0%, 48% { transform: translateX(2px); }   /* Miran a la derecha */
+  50%, 98% { transform: translateX(-2px); }  /* Miran a la izquierda */
+}
+
+
 
 /* bolitas */
 .pellet{

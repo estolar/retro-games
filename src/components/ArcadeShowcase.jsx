@@ -13,6 +13,7 @@ export default function ArcadeShowcase() {
           <div className="ghost ghost-1" />
           <div className="ghost ghost-2" />
           <div className="ghost ghost-3" />
+          <div className="ghost ghost-4" />
 
           <div className="pellet pellet-1" />
           <div className="pellet pellet-2" />
