@@ -514,3 +514,367 @@ background-color: #000;
   white-space:nowrap;
   border:0;
 }
+
+/* =========================
+   ARCADE SHOWCASE
+   ========================= */
+
+.arcade-showcase{
+  margin-bottom: 18px;
+  padding: 10px;
+}
+
+.showcase-screen{
+  position: relative;
+  height: 96px;
+  overflow: hidden;
+  border: 3px solid var(--border-color);
+  background:
+    radial-gradient(circle at 20% 20%, rgba(0,255,255,.08), transparent 20%),
+    radial-gradient(circle at 80% 30%, rgba(255,0,255,.07), transparent 18%),
+    linear-gradient(180deg, #05070d 0%, #08111a 100%);
+  box-shadow: inset 0 0 20px rgba(0,255,255,.05);
+}
+
+.showcase-overlay{
+  position:absolute;
+  inset:0;
+  pointer-events:none;
+  background:
+    repeating-linear-gradient(
+      to bottom,
+      rgba(255,255,255,0.02),
+      rgba(255,255,255,0.02) 1px,
+      rgba(0,0,0,0.03) 2px,
+      rgba(0,0,0,0.03) 3px
+    );
+  opacity:.45;
+  z-index: 5;
+}
+
+.showcase-label{
+  position:absolute;
+  right:10px;
+  top:8px;
+  font-family: var(--font-mono);
+  font-size: 14px;
+  color: var(--neon-cyan);
+  z-index: 6;
+}
+
+.lane{
+  position:absolute;
+  left:0;
+  width:100%;
+}
+
+.lane-top{ top:8px; height:22px; }
+.lane-middle{ top:37px; height:22px; }
+.lane-bottom{ bottom:4px; height:24px; }
+
+/* línea tipo laberinto */
+.maze-line{
+  position:absolute;
+  left:0;
+  right:0;
+  top:9px;
+  height:2px;
+  background: rgba(0,255,255,.45);
+}
+
+/* COME-PIXELES */
+.chaser{
+  position:absolute;
+  top:2px;
+  left:-40px;
+  width:18px;
+  height:18px;
+  background: var(--neon-yellow);
+  border-radius:50%;
+  clip-path: polygon(100% 50%, 55% 15%, 0 0, 0 100%, 55% 85%);
+  animation: chaseRun 8s linear infinite;
+  box-shadow: 0 0 8px rgba(255,211,0,.25);
+}
+
+@keyframes chaseRun{
+  0%   { left:-30px; transform: scaleX(1); }
+  48%  { left: calc(100% - 20px); transform: scaleX(1); }
+  49%  { transform: scaleX(-1); }
+  98%  { left:-30px; transform: scaleX(-1); }
+  100% { left:-30px; transform: scaleX(1); }
+}
+
+/* fantasmas */
+.ghost{
+  position:absolute;
+  top:1px;
+  width:16px;
+  height:16px;
+  border-radius:8px 8px 3px 3px;
+  animation: ghostRun 8s linear infinite;
+}
+.ghost::before,
+.ghost::after{
+  content:"";
+  position:absolute;
+  top:5px;
+  width:3px;
+  height:3px;
+  background:#0b0f17;
+}
+.ghost::before{ left:4px; }
+.ghost::after{ right:4px; }
+
+.ghost-1{ background:#ff6b6b; animation-delay: .2s; }
+.ghost-2{ background:#7df9ff; animation-delay: .7s; }
+.ghost-3{ background:#ff7cf2; animation-delay: 1.2s; }
+
+@keyframes ghostRun{
+  0%   { left:100%; }
+  100% { left:-30px; }
+}
+
+/* bolitas */
+.pellet{
+  position:absolute;
+  top:8px;
+  width:4px;
+  height:4px;
+  background:#fff6b0;
+  border-radius:50%;
+  opacity:.8;
+}
+.pellet-1{ left:12%; }
+.pellet-2{ left:28%; }
+.pellet-3{ left:44%; }
+.pellet-4{ left:60%; }
+.pellet-5{ left:76%; }
+
+/* TANKS */
+.tank{
+  position:absolute;
+  top:3px;
+  width:28px;
+  height:16px;
+}
+
+.tank-body{
+  position:absolute;
+  left:0;
+  bottom:0;
+  width:18px;
+  height:12px;
+  background: var(--neon-green);
+  box-shadow: 0 0 8px rgba(57,255,20,.18);
+}
+.tank-cannon{
+  position:absolute;
+  top:4px;
+  width:12px;
+  height:3px;
+  background: #dfffe7;
+}
+
+.tank-left{
+  left:-40px;
+  animation: tankLeftMove 10s linear infinite;
+}
+.tank-left .tank-cannon{
+  left:16px;
+}
+
+.tank-right{
+  right:-40px;
+  animation: tankRightMove 10s linear infinite;
+}
+.tank-right .tank-body{
+  right:0;
+  left:auto;
+}
+.tank-right .tank-cannon{
+  right:16px;
+}
+
+@keyframes tankLeftMove{
+  0%   { left:-40px; }
+  100% { left:100%; }
+}
+@keyframes tankRightMove{
+  0%   { right:-40px; }
+  100% { right:100%; }
+}
+
+.shot{
+  position:absolute;
+  top:10px;
+  width:6px;
+  height:2px;
+  background: var(--neon-yellow);
+  opacity:.9;
+}
+.shot-1{
+  left:10%;
+  animation: shotMove1 3s linear infinite;
+}
+.shot-2{
+  right:15%;
+  animation: shotMove2 2.8s linear infinite;
+}
+
+@keyframes shotMove1{
+  0%{ left:20%; opacity:0; }
+  10%{ opacity:1; }
+  100%{ left:70%; opacity:0; }
+}
+@keyframes shotMove2{
+  0%{ right:20%; opacity:0; }
+  10%{ opacity:1; }
+  100%{ right:70%; opacity:0; }
+}
+
+/* RUNNER */
+.vine{
+  position:absolute;
+  top:-10px;
+  width:3px;
+  height:28px;
+  background: #66ff99;
+  opacity:.75;
+}
+.vine-1{ left:18%; }
+.vine-2{ left:68%; }
+
+.platform{
+  position:absolute;
+  top:10px;
+  width:42px;
+  height:4px;
+  background: #8b6f47;
+}
+.platform-1{ left:30%; }
+.platform-2{ left:78%; }
+
+.runner{
+  position:absolute;
+  bottom:0;
+  left:-20px;
+  width:10px;
+  height:14px;
+  background: #ffd37c;
+  animation: runnerMove 7s linear infinite;
+}
+.runner::before{
+  content:"";
+  position:absolute;
+  top:-4px;
+  left:1px;
+  width:8px;
+  height:8px;
+  border-radius:50%;
+  background:#ffd37c;
+}
+
+@keyframes runnerMove{
+  0%{ left:-20px; transform: translateY(0); }
+  20%{ transform: translateY(-8px); }
+  40%{ transform: translateY(0); }
+  60%{ transform: translateY(-8px); }
+  100%{ left:100%; transform: translateY(0); }
+}
+
+/* =========================
+   INSERT COIN + RANURA
+   ========================= */
+
+.arcade-blink{
+  animation: insertCoinBlink 1s steps(2, end) infinite;
+}
+
+@keyframes insertCoinBlink{
+  0%, 100%{
+    opacity: 1;
+    text-shadow:
+      0 0 8px rgba(57,255,20,.25),
+      0 0 18px rgba(57,255,20,.18);
+  }
+  50%{
+    opacity: .25;
+    text-shadow: none;
+  }
+}
+
+.coin-slot-wrap{
+  display:flex;
+  justify-content:center;
+  margin: 4px 0 16px;
+}
+
+.coin-slot-machine{
+  position:relative;
+  width: 130px;
+  height: 44px;
+  border: 3px solid var(--border-color);
+  background: linear-gradient(180deg, #121212, #050505);
+  box-shadow: 4px 4px 0 #1a1a1a;
+}
+
+.coin-slot{
+  position:absolute;
+  left:50%;
+  top:23px;
+  transform:translateX(-50%);
+  width:44px;
+  height:6px;
+  background:#000;
+  border:1px solid #777;
+  box-shadow: inset 0 0 4px rgba(255,255,255,.08);
+}
+
+.coin-drop{
+  position:absolute;
+  left:50%;
+  top:2px;
+  transform:translateX(-50%);
+  width:12px;
+  height:12px;
+  border-radius:50%;
+  background: linear-gradient(180deg, #ffe27a, #d5a400);
+  border:1px solid #fff3b0;
+  animation: coinInsert 2.2s ease-in-out infinite;
+}
+
+.coin-drop::before{
+  content:"¢";
+  position:absolute;
+  inset:0;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:8px;
+  color:#5b4300;
+  font-family: var(--font-main);
+}
+
+@keyframes coinInsert{
+  0%{
+    top:2px;
+    opacity:0;
+  }
+  10%{
+    opacity:1;
+  }
+  55%{
+    top:14px;
+    opacity:1;
+  }
+  70%{
+    top:20px;
+    opacity:0.9;
+    transform:translateX(-50%) scale(.88);
+  }
+  100%{
+    top:20px;
+    opacity:0;
+    transform:translateX(-50%) scale(.6);
+  }
+}

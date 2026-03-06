@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import ArcadeShowcase from "./ArcadeShowcase";
 
 export default function BootScreen({ onContinue }) {
   const [ready, setReady] = useState(false);
@@ -10,12 +11,23 @@ export default function BootScreen({ onContinue }) {
 
   return (
     <section className="card boot">
-      <div className="boot-title">INSERT COIN</div>
+      <ArcadeShowcase />
+
+      <div className="boot-title arcade-blink">INSERT COIN</div>
+
+      <div className="coin-slot-wrap" aria-hidden="true">
+        <div className="coin-slot-machine">
+          <div className="coin-drop" />
+          <div className="coin-slot" />
+        </div>
+      </div>
 
       <div className="boot-lines">
         <div>▶ Inicializando CRT… OK</div>
         <div>▶ Cargando sprites imaginarios… OK</div>
-        <div>▶ Preparando nostalgia… <span className="neon">MAX</span></div>
+        <div>
+          ▶ Preparando nostalgia… <span className="neon">MAX</span>
+        </div>
       </div>
 
       <div className="boot-action">
@@ -27,6 +39,7 @@ export default function BootScreen({ onContinue }) {
         >
           {ready ? "START" : "LOADING…"}
         </button>
+
         <div className="muted boot-hint">
           (Si escuchas el “beep” en tu cabeza: funciona.)
         </div>
