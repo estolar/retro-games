@@ -704,7 +704,6 @@ background-color: #000;
 }
 
 
-
 /* COLORES Y RETRASOS INDIVIDUALES (Para separarlos) */
 .ghost-1 { background: #ff0000; animation-delay: 0s, 0s; }    /* Blinky */
 .ghost-2 { background: #ffb8ff; animation-delay: 0.6s, 0.6s; } /* Pinky */
