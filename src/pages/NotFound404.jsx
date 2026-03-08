@@ -2,6 +2,12 @@ import React from "react";
 import { Link, useLocation } from "react-router-dom";
 import bg404 from "../assets/404-player-lost.png";
 
+const tips = [
+  "¿Has probado a reiniciar el juego?",
+  "Asegúrate de que tu carpeta es /retro-arcade/",
+  "Intenta navegar a la página de inicio"
+];
+
 export default function NotFound404() {
   const location = useLocation();
 
@@ -33,10 +39,10 @@ export default function NotFound404() {
           </a>
         </nav>
 
-        <p className="nf404__tip" aria-live="polite">
-          Tip: revisa si tu carpeta es <span>/retro-arcade/</span> o{" "}
-          <span>/retro-games/</span>
+        <p className="nf404__tip">
+          Tip: <span>{tips[Math.floor(Math.random() * tips.length)]}</span>
         </p>
+
       </section>
     </main>
   );

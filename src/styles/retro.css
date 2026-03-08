@@ -493,10 +493,12 @@ background-color: #000;
   text-shadow: 0 2px 10px rgba(0,0,0,0.65);
   white-space: normal; /* Cambiado de nowrap para evitar desbordes en móviles mini */
   text-align: center;
+  z-index: 10;
 }
 
 .nf404__tip span{
   color: rgba(255,206,92,0.95);
+  font-weight: bold;
 }
 
 /* Responsive: si la pantalla es baja, subimos botones y tip */
@@ -934,57 +936,80 @@ background-color: #000;
   top:23px;
   transform:translateX(-50%);
   width:44px;
-  height:6px;
+  height:8px;
   background:#000;
   border:1px solid #777;
   box-shadow: inset 0 0 4px rgba(255,255,255,.08);
+  overflow: hidden; /* CLAVE: La moneda se cortará al entrar */
 }
 
-.coin-drop{
-  position:absolute;
-  left:50%;
-  top:2px;
-  transform:translateX(-50%);
-  width:12px;
-  height:12px;
-  border-radius:50%;
+.coin-drop {
+  position: absolute;
+  left: 50%;
+  top: 2px;
+  transform: translateX(-50%);
+  /* Aumentamos tamaño proporcionalmente a la ranura */
+  width: 36px;  /* Triplicado de 12px a 36px */
+  height: 36px; /* Triplicado de 12px a 36px */
+  border-radius: 50%;
   background: linear-gradient(180deg, #ffe27a, #d5a400);
-  border:1px solid #fff3b0;
+  border: 2px solid #fff3b0; /* Borde un poco más grueso para que destaque */
+  box-shadow: 0 0 10px rgba(255, 226, 122, 0.4); /* Glow sutil */
   animation: coinInsert 2.2s ease-in-out infinite;
+  z-index: 2; /* Por encima de la ranura al bajar */
 }
 
-.coin-drop::before{
-  content:"¢";
-  position:absolute;
-  inset:0;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  font-size:8px;
-  color:#5b4300;
+/* --- 2. AJUSTE DEL SÍMBOLO INTERNO (::before) --- */
+.coin-drop::before {
+  content: "¢";
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* Escalamos la fuente proporcionalmente */
+  font-size: 24px; /* De 8px a 24px */
+  font-weight: bold;
+  color: #5b4300;
   font-family: var(--font-main);
+  text-shadow: 0 1px 0 rgba(255,255,255,0.3);
 }
 
-@keyframes coinInsert{
-  0%{
-    top:2px;
-    opacity:0;
+
+
+
+/* --- 3. REFACTORIZACIÓN DE LA ANIMACIÓN (coinInsert) --- */
+/* La moneda ahora es más grande, debemos ajustar la física de la caída 
+   para que parezca que "entra" en la ranura de 6px de alto */
+/* Rediseño de la animación para el "efecto de profundidad" */
+
+@keyframes coinInsert {
+  0% {
+    top: -40px;
+    opacity: 0;
+    clip-path: inset(0 0 0 0); /* Totalmente visible */
   }
-  10%{
-    opacity:1;
+  20% {
+    opacity: 1;
   }
-  55%{
-    top:14px;
-    opacity:1;
+  /* La moneda llega a la ranura */
+  60% {
+    top: 15px;
+    opacity: 1;
+    clip-path: inset(0 0 0 0);
+    transform: translateX(-50%) scale(1);
   }
-  70%{
-    top:20px;
-    opacity:0.9;
-    transform:translateX(-50%) scale(.88);
+  /* SIMULACIÓN DE ENTRADA: La moneda se "corta" de abajo hacia arriba */
+  85% {
+    top: 25px; /* Baja un poco más */
+    opacity: 1;
+    /* El recorte sube mientras la moneda baja, simulando que entra */
+    clip-path: inset(0 0 70% 0); 
+    transform: translateX(-50%) scaleY(0.4) scaleX(0.9);
   }
-  100%{
-    top:20px;
-    opacity:0;
-    transform:translateX(-50%) scale(.6);
+  100% {
+    top: 30px;
+    opacity: 0;
+    clip-path: inset(0 0 100% 0); /* Totalmente "dentro" */
   }
 }
