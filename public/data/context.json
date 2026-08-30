@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T04:13:57.518Z",
+  "generatedAt": "2026-08-30T15:11:56.740Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -25,6 +25,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOGNsLXJac3ZKV0dyUXNKMG10T2ZjNEN1bnA1NFBmUkFOTTcwNVlETlFpVkhMQzZiNXJJSHdqM1NBQ25wZnhTNEZTQmswSnloNUpBS1BPOE5Xc2VKbkVkWk5YdzhxazlaTEJLNGl5aEQ4S2FqNWRzU0FPSjBpV1BGd1c3NERPNEhDZ01VbDBSbFNZRWl3T1hPcW4ybEVrdGkyZ3lZeEZOclI4QUVIVmtSVU9WbFU3Q3BMVmdqNndLTHRuWDYzaXhOVnhvNUllQzgxYnA3ZnNLWk5iZjlrRVRVTGxiNWRIUWRjZlBnS2xwRdIBigJBVV95cUxNWEZUdkkzaTZ5V3EzMVpxSkJucXpCcENYMmd4MENLNXdiZ0lOZk1kOWl4Y0xqTGU5WUllVW1vSWttWUhXWGptcnF6bzFUSUhyY1BMWjRPUl9VLVdydzlaRWNfcWtuZWRja0FLZUFuV05GcVVXbUNHb0c3WndLRW8wc2hoTnItTnRsLWZkOGxwdHAtalZOMGh6R0lGbG84eWZLVFhabkVSWm04SkwxT3FDNTFBdHpiUXNjSVNzaVJzMWkyek9jU2hMelowSWZUdkVsdmJVRzFFWmx3bHJ2RV9tdVdQSWVKQ0V2QmR2SU8tNHVVMG1NN2dmNHEwNkVBaXM2VzRJd3BrUjdZQQ?oc=5",
         "publishedAt": "2026-08-28T15:02:00.000Z"
+      },
+      {
+        "title": "PCM evaluará este jueves 27 de agosto el pedido de facultades legislativas ante el Congreso - La República",
+        "summary": "PCM evaluará este jueves 27 de agosto el pedido de facultades legislativas ante el Congreso &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQzdvaTh4VUZnX0Y3ZldhbjVSaV8wcms5Q09zWkdka3NvRGswclpGbF9jZGxmYUNqWXA4MnpTbGZjWHBKbjV0ejdMRmZ3ajU3VHA5RzNtZWhMLU02cmhBX1pCcWpiWUdfamxlRThBVHBnemw4Rmp6Mm1mRVZFTmhqS1h0TVZ3UUk3SG5vV3lzYjYwNHBMVElSaXdDUjJqanJjc3o3X2ZsTnl3b0NqYnZ0MGNOQVJWb25HWk1YN1dHWmgtSnd3ckk0N3ZDZExkdGxtYXllLVp3TlhFcUVhVVhyZjFn0gHnAUFVX3lxTE1BeHNvTEZZU0RuZkd2UWUwQU8tcnI0ejM3aXJfTUozY0pLa3Q5R181TW9GRmpkbDFGUGNhYUtmZzRhZ09zZmlsNU5XelhXeS1kOGQzRk1td1g5R1NjS1R4MXFWYzNwV3ZoYWRQajRoLTFlR2hoLVZDNUhKbnAyZy0waWlNYWltTzhILTlwemYtTGZtR3FxZ20yNUliU1V0S0w3OF9ncG1RcGlXMElUanRSdnBHMGJsejBRZDdscnlSUFFrQ2Y0Mk01NGFUdElLSEpXSnFnTGNMdTBMOUtxMzg0aS1keXJuTQ?oc=5",
+        "publishedAt": "2026-08-28T10:00:00.000Z"
       },
       {
         "title": "Gobierno de Keiko Fujimori aprueba 66 pedidos de facultades legislativas y los enviará este viernes al Congreso - Infobae",
@@ -53,29 +60,22 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcjVoMnQzZ1RHd3dDVC1ZMUNiaXVIQUxVb3lSSG9nNzZvdmd4aEtoT1dseW01WmFsRGNkdGNjMVdJdzNhdl9lclU1UXl2TkJQek8wNG1EMkYzRUdvNFlyLVktaFdUVkRqb3dVOWlKV2M3TmxhVElYWUdOMGl1bjNjR01FU1U5bkZISnZJTjNtTkpwVmtVOFFXNjhvMmFlbEtabURfMHl3akhkMG5HbW5oTXNOS3dGdGZuSFo3NzJ6c1RxbTB1Wi1lV2NrWlFaUFF4V25PT1R1VXFQZ0M1bWlNWlJTdHE3Y08zdFJJTVVlVU9KWm9JbnNtd3NFVWVXdzl2d19TemY3WGxyOUxnMzBKODdGRdIBmAJBVV95cUxQckQ1bWNJVWR6SFVwSDlXWFEtRHZyQUItaHJOOVE0SENlZ1hJLU5peUFXdmhkdkF3dml4SE9tMm9tcWxaMXJkVVEtMnp2dXFoSW4tb3d3d0FXNllfYXFTd2tLYmJnTVFvWjJ1VXZGTlNTTV9VdHdfWDl2Mkhsc3V2TDViSmVYbFQ5MUR1cGxPelRvNGpZdEpyRktuMERjMGZUazZkLWs3eHJPNXZGNlNVdE9pemVISVVfclFLLVlVTjE0NWFHSDJqakZySHFhbGZ0c3JIMHdNcjFOMnNadDJ6My03NGoxWXdVTXZYSjZyRGFQeVMxUUpTcWk4U24talVZYXdkckNrNGp5UThBbllWSVhXQzliZkR2?oc=5",
         "publishedAt": "2026-08-24T10:10:00.000Z"
-      },
-      {
-        "title": "Gabinete de Luis Galarreta ante el Congreso: ¿Cuáles serán las primeras acciones y los lineamientos de la política general del gobierno de Keiko Fujimori? - El Comercio Perú",
-        "summary": "Gabinete de Luis Galarreta ante el Congreso: ¿Cuáles serán las primeras acciones y los lineamientos de la política general del gobierno de Keiko Fujimori? &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQUGRmVGRUM21JbHhyZzJMYUJfanFaV2xaWkg3LUdOcm1mNVZZcS05RnhKdHVHS1lMbDdBRHRtSTQ0dlA5TEUtWGFZV2RfLWNhZ0s1OUhoVV8zTVE2clYtQWVWQzlmQkNUdGhYZnlqQ3dRMVgxRVFodHdyd0doX0Zqbll6czVlZnphNi1sb2RyNVlaWXl6T21mdGNTdG5ZbTc0Zk45emxRQndSUDM4MG41Wl9TZG4wVU56R2xLZkxvTU1LcEVNemx3U2U4Rk1Ua2JFWDQ2MDFXQjRXQ0hkV3BmMzFwXzd1TGhJdS10cmRHSE5maXRTc3BvLWZ4T2VMMDhsX2tQQ3B4Q3dabmhDUUlMMDFCa2ROM0RncGJF?oc=5",
-        "publishedAt": "2026-08-21T20:36:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "De residuo a negocio: las industrias que puede desarrollar Perú por su potencial - Gestión",
-        "summary": "De residuo a negocio: las industrias que puede desarrollar Perú por su potencial &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcDgzNEhxLVJBS2NkdGNLM001dUpNYWlGU2VTeWhONHhPdFNLRkp5cmxGTWRMbGVVQWloeUNuVG9DbUpuWFZ6bXNJbVJPVDZENkRXZl9TSFg5cDBKdk55cGJQVG96a2ZfamNZT1Jwa19fWnY1NEVnQjdVOEx6ZHJEV013NjhmMjRjM1NKU3JfNFoyM0MxQ2lod1g1dS1vdXI0Q3pVaHFFbXFNdjl6THFvaWJkNmhiR0ZPMVZyTTZIb01ISzA?oc=5",
-        "publishedAt": "2026-08-29T22:44:08.000Z"
+        "title": "Metales al rojo vivo: producción de hierro en Perú crece 41.1% y lidera el repunte minero en 2026 - Infobae",
+        "summary": "Metales al rojo vivo: producción de hierro en Perú crece 41.1% y lidera el repunte minero en 2026 &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUU5OSVYyb2lMS3M3ckxicU9YaVI1UTVkZ2RtLVJUZTJxbFdjNGRaUWJDV1QzYV9PUDAyVkhlSmI0UmtKR3JWTXZwRnFNRVZDMldQMXZaZmNqZmFiODlfbzFhSkJCbFdHTkEzRjdHcXFsTmhvVHVYVmszbkgxUzhHdWR1TUliT3pac29oSUQ5aGJ4VjIwODhJc3hyYmo4MHJENXhOZWdicXg5TENBZk9INWNaZXJYQ2ZqWDd6SXJGU1JzQXlSWU5nQzRQc2JvbGVq0gHrAUFVX3lxTFA5azJOUTI5TUR2UWFXZFczZnd5bUpmQVpTdGtROVU2OV9oZGU5dFNleHFwUnFRNUFwUmVDUk9nakZlWlBJSjQ5NVlPRGczMVpYNTdVbEVQazZtb1QxeDQxUExYUEZvYVRzSk93U2tzTTNBcnBQazh2UnFSZ1pPVjl1dWpGQmFsOURIZlRScXBjYkdZZld5aTh1NDNhVlBoc0hhQU9iWVZxdzJNR2VtQk9WLU0xWU9MX21ONGExQjJoLXJSUjNCSXBfdHgtb0Fic1QwZ2hrQ3RKd09ZaDBsWDBCdzAxV2lFWGpsQ0U?oc=5",
+        "publishedAt": "2026-08-30T14:34:00.000Z"
       },
       {
-        "title": "Perú tiene 50 oportunidades concretas para diversificar su economía, revela estudio - Business Empresarial",
-        "summary": "Perú tiene 50 oportunidades concretas para diversificar su economía, revela estudio &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNFl0YnlNak4zQ3NzOWItVGlhdVhBWGxBUm9vLXFJb09sb01LWEw1Uk1ZMzVhYWlzZzdGMHBrWHVMLS1nbjl3NUhBYWt3aG1vb3ZhakxHWFFqMUhOZmZIeGNoMzZVZGRPSmh5MElydjFnd3FBZ0dUUjJ4V2NwOUVLNTdtMmR2Z2N6SXk4aHk5N2gxbmg4ajIwd2lKTGhwYm5OeVJxY2lPYjNVZURyaHFMLUttTERxbUt1QTVkcnV0Yw?oc=5",
-        "publishedAt": "2026-08-29T18:35:52.000Z"
+        "title": "Habla el MEF - El Comercio Perú",
+        "summary": "Habla el MEF &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16ZWsxTlVPS0dXNFVTcF9YdG9Bdnk1aC1rdXdDOWVQU09EeFBXejlCcURTRVFnUXFfWHBtcHdRVmNVVHhkdzJqLWcxaVE1eE9XRGhVNWp6TEFuZ3JrUXQtTW5ROUhsellsQ1BRQXln?oc=5",
+        "publishedAt": "2026-08-30T05:10:00.000Z"
       },
       {
         "title": "Gobierno propone régimen laboral de sueldos y derechos ‘progresivos’ para aumentar la formalidad - Infobae",
@@ -83,6 +83,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc1NSZC1mWlBWUTd5VjhBS1dXRWFSVTA3Skg5VmJzNFJsZGU5MVkyd1JJLWgzRnF6RzcxQ3NrbW5YUXJrQlMyV0NjQXk4cUotdy1yZFNnWUpYZzVHMXNydnF3VlJqMVdyTndkandBdFZ1TllNd3BIckM1Z1gzV0YyNFo5dGxPbi1TT2tOQ0J4UDRmUmRtSUoya1Brc3IxQkNWaTRYQ3pxam51OWJYbDBOaFVRODFOMExxUl9QZzBnZHdxNUhIc0JhY2JoZFJvMkts0gHrAUFVX3lxTFBPaG1LM0x0RGkwcDBmU0tCcDd6ZWZIODBNUkg5UnVJOEdob2ZnZDFod1JSdzBuUXdwa3dsa29heDhnSGE5RnFyZUU1MHZaWXpHSl8tUVlicFNvOHp4eUJHZjlqdFE0emFMTlgyYkpTSnZvU0tWQkhlNXpDNkxIbUNjVElFdVNabWloR0JxMVhLT2pLTjdkRWdjdWxwNzN4bVR1NVRUcGpYQlpvN096VVMwYTYxVVl1ZTh6aEVqaHYtam5JTnU1aVlWWG1QMm9TUlVPcWhzb2E3T0FHWmp3VmVZYXhlZl9Eb1I4R3c?oc=5",
         "publishedAt": "2026-08-29T15:21:00.000Z"
+      },
+      {
+        "title": "Cambios a feriados en el pedido de facultades legislativas: Lo que modificará el Gobierno - Infobae",
+        "summary": "Cambios a feriados en el pedido de facultades legislativas: Lo que modificará el Gobierno &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc2g3Z0ZLM3Byd1RMeVRvWkE0dnlfZEp5WThDWk9qZTNSVlB4REs2c1MyWko5alhoaVB5RFlrWVJvekVBM1lpS1ZhYzA2dzRERFduLXF6bVhfeEt4a0cxaW40ZmNYLUdldEpKMWpxcG12clhJd0E2Y2dDOEtvWlBpQ2JVRVY1RndxWURmSWtvUHFsUnV5Y3hCNWo0YTl5V3EzTWlNa3Q2MWpzcU5KRG5lRzRfaDFVNWhsd3ZyaUdFUmpYOGJ1QkRJc9IB4wFBVV95cUxOTFh3NC1YczR5amtUTGJBTzhIb3BvcGFJY1daZXg4bVNmVlBta2tMUTNCblI5a2RjLU9OQWtKNEhoYU81azJIZ2ZVR0F0UU1ueExjWU1IRlg5WjNZZUF2elVtaV9nQWRuQjJjWnRhYzZUZjI2Qkp1OGxlcFo4Qjdhc2dmSm5tLUxHS25lX0lPVHE3WW14anNWR0c2bHh1TF9PUHdWM2tBd0pxQlZiT1FUWjB0Q01ySXJVeU1FN1hNUkgzcGszSkFSNmlHYVFfajByOFliUGJwWGNKMFB5YTlhai15QQ?oc=5",
+        "publishedAt": "2026-08-29T13:49:00.000Z"
       },
       {
         "title": "Gobierno de Fujimori eleva proyección de crecimiento para 2026 y 2027 pese a El Niño - Gestión",
@@ -111,13 +118,6 @@
         "source": "Perú Retail",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2paMzRMUTR0M1JHMnlwRGdJWG84RnVCNWE0c3lEekVrMzg3c0cwbUdGY3RCN0VsaXh1OWhwbjNSbC13MS1kZS0xRF9CMHFsTXRtRmJHYlBMam5HMGt0VjRGR1JtYlhlYWNOb0dkZXZEXzdCbHo5SVptNTBxVnJzbi1DMlVYbmVHNUNsZEJUaWdGWHJweWxTYXZjWm0tRHZzM1lQZERWTG1SM0dPalFkYnAteldNZUE?oc=5",
         "publishedAt": "2026-08-28T17:31:03.000Z"
-      },
-      {
-        "title": "MEF mejora proyección de la economía peruana hasta 2030, pero no alcanza la meta de 6% planteada por el Gobierno de Keiko Fujimori - RPP Noticias",
-        "summary": "MEF mejora proyección de la economía peruana hasta 2030, pero no alcanza la meta de 6% planteada por el Gobierno de Keiko Fujimori &nbsp;&nbsp; RPP Noticias",
-        "source": "RPP Noticias",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMGcyLW5YZktPV29YTnd0UERCQ2xCeTJxR2JYb1Jkb0V6R25JeWg1ejF3S1oydEU2RzBfcnJTaTBmYVIzVWMycnZoMmpSOXBjX2lXNDItTEQwZDQ2QmVVNFUxOE9NYjRCVlplcmdndVVpSVo4OG4ydHc1bjFJbUlpRVlHdTdwOVhMZzlmNHFuLUxrNnVseW5VS3BIVnJzRWxwS19ZUTlwNHVwcDRoTTJlcjAtS2tjaXlFcDQtRXRNMFd4TXdnYkhkbU1XNlBFSjY4b1NoMHJIQTRXQl9jUW9RUDdXaTZtb3Y0cTl5R08yZmdOZWRGNlcxV09XUDhjUm9oRV80SG9weXg?oc=5",
-        "publishedAt": "2026-08-28T15:30:56.000Z"
       }
     ],
     "sociedad": [
@@ -126,7 +126,7 @@
         "summary": "🔴🔵El Ejecutivo aprobó el proyecto de Ley de Presupuesto Público para 2027, que contempla S/266 506 millones y un incremento de 3,5% frente al presupuesto inicial de 2026. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; facebook.com",
         "source": "facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcU9FYldIYlQ3a1J0elMxMVgybzJELTF2Umtsd0NEczRSXzhQYXFEWTVkY1dZYVh1VWVScVZVcjBuU2Nad0RZN3Y2azRCNHR1X2luQlhFb0hzbTdsLVNPb09Jczh4VjNjYjFCTWdrWllQZ1p5V2ZhVzlRNWpBa19NX1MzOVZKUERCanB5YWdlbDVUWlB1TFIzUnp1RmpkSllFN3Y5aFBSQ21QX3AwZ2RrdDlSY3YwQ0FCU2NVeWhrV3Nfd2dVTmU1TnhVakVITEo5X1pIak5xX293c1VjSmhoenVxNlJGcFJsR0xB?oc=5",
-        "publishedAt": "2026-08-29T23:43:57.000Z"
+        "publishedAt": "2026-08-29T18:13:19.000Z"
       },
       {
         "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - Agencia Andina",
@@ -150,6 +150,13 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
+        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
+        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
+        "source": "EL PAÍS",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
+        "publishedAt": "2026-06-07T07:00:00.000Z"
+      },
+      {
         "title": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad - Diario Correo",
         "summary": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad &nbsp;&nbsp; Diario Correo",
         "source": "Diario Correo",
@@ -169,13 +176,6 @@
         "source": "facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNVhDaDhPcjlQMHIyVW9aU0o2ci1XOUlSeXU3ZVh6UEluUi05c25RTEpfdzRVOEd5WmVFaWJTRHp4VkpqVGtZUkN2My1VM3JUSDkxSHdQWXZPbW9LTG1VNW1GcHpJU0QtR0NtaXh0VnFxSUlWaUp0bTNDNzB0QUUzeGtYaThQS0gyVzBOQ29kS0k5cFNCUGtfand3cnVGNXF4NTgzZWZHa1ZNdFdGS0hZazNMbkEwTk1saUdMTWY4d2dKMjFKZUhOUklkWm5vdGRhOUlPWDRhRDJ6Sm9pWGltU3c0blk?oc=5",
         "publishedAt": "2026-05-28T07:00:00.000Z"
-      },
-      {
-        "title": "FIL Lima 2026: CAEN llevará el diálogo sobre seguridad y desarrollo al corazón de la feria - Perú 21",
-        "summary": "FIL Lima 2026: CAEN llevará el diálogo sobre seguridad y desarrollo al corazón de la feria &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQczgxV2JXWDEyM3Vlbm9zaDdaNVcxU1Z6TXU4M2RpSGFaempCQzBIRWZHamphRE01UjNoM3VxbnM1UGVmRENuanNzWkJyR24xMzlYRjliRFlOQnhudVRjSUxBSzVVNEVsdHdKWDNKSkpIWFp3OGNqSHAxcDVPazRBcVc2NEdUTHdFdm4xbVZHaXUzRDUydWFPRA?oc=5",
-        "publishedAt": "2026-05-26T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -361,6 +361,13 @@
         "publishedAt": "2026-08-22T06:20:10.000Z"
       },
       {
+        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - Imagen de Veracruz",
+        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; Imagen de Veracruz",
+        "source": "Imagen de Veracruz",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLU5fOVFyR1JhZkhPcGs5RGtLX3lGbWtXcVpRLWJtRGxHdElNamtiQURtenhhQVFoQXczdUpva2VUWFotUVJxWFM3ZUFLaENGb1Z6TnJOVVhhUmczbzZiQWltU3pFeC1CVzM1S3ZLbktIMlJSVVBaVklnRUVjNVlFX25pQWJFSzVSS1BGTWpRM2VQalFLSFpGcE1fRTdjZy1KWWU3R29RSF9xX1pNM3pTZjdMemZKakhudHhIUkxNX1VOZklVbWEzc0NpdHN0UUdmMlNpYWNNMnRLU0FmUWxz0gHkAUFVX3lxTE1HTmV6Z3lLcW5pQTNpSGJxT2gwWFptR005THgwbzRyeVhneWVFRm9TV0plWlFoLWlCc2U2QnRZb0VkLVZDa292d0o2RnBaSkhGZDN5VDFtV19Kb0VQQTdTcHZKcExrN1pWVjFWbXVVOVFrekJHNUc5WHhXXzN2d1h3amgtQUw1aThialdock5tME83YWhpUGc2Z1hmbUFFelhlY01tV0VzdmRUU3lnWS11UVJtbGdPYXp3SzBjVFd0ek1rMXlESDNOeXVTcE5SdTZGa1ktWnBsbzk2d21wbGJ5TXpyUA?oc=5",
+        "publishedAt": "2026-08-18T07:00:00.000Z"
+      },
+      {
         "title": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla - Infobae",
         "summary": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -389,9 +396,9 @@
         "publishedAt": "2026-05-21T07:00:00.000Z"
       },
       {
-        "title": "Amenazas de tiroteo en colegios del Perú: todo sobre el reto viral que paralizó las clases en Chile y Argentina - Caretas",
-        "summary": "Amenazas de tiroteo en colegios del Perú: todo sobre el reto viral que paralizó las clases en Chile y Argentina &nbsp;&nbsp; Caretas",
-        "source": "Caretas",
+        "title": "Amenazas de tiroteo en colegios del Perú: todo sobre el reto viral que paralizó las clases en Chile y Argentina - Revista Caretas",
+        "summary": "Amenazas de tiroteo en colegios del Perú: todo sobre el reto viral que paralizó las clases en Chile y Argentina &nbsp;&nbsp; Revista Caretas",
+        "source": "Revista Caretas",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYXk3T3Y2dVV1ZkxGTS1BMmFRbm5wRERwSHZQN3gtYUVFMFU4a0RnTmMtSTFjM05jSTJraEIxNEQwUjVJVFpvT25Tb2JlUHQxRVFQNlA2Mlk2X2pjOU5nT1V5cDJaV1FqRkZqSmJoNzJXb3lMWGxhRnB6NURYYmhsbnFCLU5EelNDLUZxNm9lNzkxZGNDQy1VUV9GNXJ6VnItQk05VkxpbVgtZmh4NEZWekh2cXczTlR4b3VIQUNpMlpFaDJ0amhSLUctMU9haHFTLXFDMEZZdExnSDE2YnZLQWhBRjQ?oc=5",
         "publishedAt": "2026-05-07T07:00:00.000Z"
       },
@@ -400,13 +407,6 @@
         "summary": "Álvaro Paz de la Barra sorprendió con curioso outfit al votar y se vuelve tendencia en redes sociales &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbmx6cXRRdk9sQWFMUVRBa1ptMkpucldLOEs2WTJITk9kbEVSMFJ4cGswNzhLRXhUcllzdWNBWkZPM0lqbXRPc19ndldJN1BZQVJUUjgtSWdKSHV6dGR2dDR0QTFtVWpIa01sSHNuLW9HVFA5amxLdk5aTWhyaHcydE85MHQwUTlOclpETkVzY24xNXN6ekRuV2llcmNqODNfcGxGSF9xbWlYY05LNWdnT2Q5QWR5T1ZibHl6OHY5czZUSnNFQUU1YzlRQnFQT3N3N1hQQXk4aEpOd9IB9AFBVV95cUxOYmlrdk1ZNFV3Wl9wYzBiNHBkTnhveG5uYzZaZHFVT0F4Wk1MZW1fbDE3RFF5c2JZRC1XdUtReGwxdzR2V2hZUlZNMm5SSzN2WGg2a3JlQ01RUWowQjllRW1RZHNLQ0dxcVhJZ3ZIN1R0dUstNXVNR2ItWW0zTkhoME1qa2ZQeDlrdmVhUlNSeG84NkdKNkM2RTAybDFwUDQtZjBjWnNWMmZ5TFBHajVIQm1yTmZKN3JGcXFpM19SUFR5aUVyUDZsem40alRfbjZmMDBWSjl4MzZ2bDAyU2JnMDAwY1YyX0JKNlRERW8wbW4xaGl5?oc=5",
-        "publishedAt": "2026-04-12T07:00:00.000Z"
-      },
-      {
-        "title": "Flash Electoral 2026: los memes más virales tras los primeros resultados a boca de urna en Perú - Infobae",
-        "summary": "Flash Electoral 2026: los memes más virales tras los primeros resultados a boca de urna en Perú &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0lXaHZCRFFQZDlHdF85QnVnYzlKSzRfLUdHcVNiMTRIUDhSdjN1ZDZVd01qMUUtczZiZW9LZlNjNDBFQ2Q1UWJ3X1N0VjhMaFVqNEVpRHZmcE5xNHpyWEFNLXMwblo5dk9OcDd6NVBUNHhVajVMLVVRQnlnQUpkR0k5NTRZb3hjVlNKdmJTUzJ1YklPM29TNGo5VUdRdkNUblREd2RVbFI4cm9ydFgyQkJqeERjTC1COFdEeS1rY0o1MkVPNTk4OExhUURxM1Jy0gHrAUFVX3lxTE5IWGFfV0VLZS15NzFtZU51WU93UWUyZGlFY0Fuem9JSGtJY2dEMTZDSDdsR1k2NWlVQ2lQTkRJUG5mNGRPU1NOOXQyWWJvUlhqMFBrSmhhVk1DQWNFR1NwMEpxYTR2TExYU25mcVFNbWpSSTdmOTIwbFBuY1JZRmJleFJlTUtqT3MycDhEc010T2hmOUt5ak9XRFA0RkYxc0gwQ1BycHpsS2ZBbUExdGQ1SFJkbmx1a3Z5bGNsZHJLSXcta3M0TTFSUlItU1QyQXJDSXFMT29yNERBX1lqZDlEeWZxX1VndWpFOFk?oc=5",
         "publishedAt": "2026-04-12T07:00:00.000Z"
       }
     ],
@@ -505,9 +505,9 @@
         "publishedAt": "2026-08-06T07:00:00.000Z"
       },
       {
-        "title": "¿Cuáles son los cuatro eventos internacionales que se darán en Lima? - Caretas",
-        "summary": "¿Cuáles son los cuatro eventos internacionales que se darán en Lima? &nbsp;&nbsp; Caretas",
-        "source": "Caretas",
+        "title": "¿Cuáles son los cuatro eventos internacionales que se darán en Lima? - Revista Caretas",
+        "summary": "¿Cuáles son los cuatro eventos internacionales que se darán en Lima? &nbsp;&nbsp; Revista Caretas",
+        "source": "Revista Caretas",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0h5WTF4MXVHQjVWY3VYd3VZUWVIWnE5c1VfYTRHbXNMWEhRcUFESUlXYXpmWncyZ1pPNWtjdmN5N3dBOTQzak1mMWswYUUzSTF5aWxUTmFjdnpndmNjenV6dEJORHFRRUFmWG1lU2lDeVNNWENGY1pFYkYtV202QmVUb1djZ2JTS3RYTlNDQVZrM1U5YXBPamlrU2hyT0lzYzk0aA?oc=5",
         "publishedAt": "2026-08-05T17:35:26.000Z"
       },
