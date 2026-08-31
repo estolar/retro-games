@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T01:09:11.920Z",
+  "generatedAt": "2026-08-31T08:15:04.585Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -64,6 +64,13 @@
     ],
     "economia": [
       {
+        "title": "CCL eleva a 3.2% su proyección de crecimiento de la economía peruana para 2026 - altavoz.pe",
+        "summary": "CCL eleva a 3.2% su proyección de crecimiento de la economía peruana para 2026 &nbsp;&nbsp; altavoz.pe",
+        "source": "altavoz.pe",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2RCbEZzTFlnal9LNmFhQVFJSHRBS2ZVMU1NZUE1aDBuZXZPd0dRYUd5Tjc5aFpVRmp2UExwTEUxS2pLeFhjQVo5U1ZCSGFmek4tZEN1d01SUXlaZG1MMFp1N0R5RjNKdzV1QjNXZEw3czFyeFBjdkZNbFJLWDhGZ3o1dVNNMnlKVDdhbTNmcGF5YnlMLW82bENtWmZha2lkLU40WXgyalRTZw?oc=5",
+        "publishedAt": "2026-08-30T23:56:21.000Z"
+      },
+      {
         "title": "Metales al rojo vivo: producción de hierro en Perú crece 41.1% y lidera el repunte minero en 2026 - Infobae",
         "summary": "Metales al rojo vivo: producción de hierro en Perú crece 41.1% y lidera el repunte minero en 2026 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -83,13 +90,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzJpek1MZjFGNEowd0kzeGRMU01NUkxIX1g5VzRjSXBBMktHbUZXVXdoekRVQnFGdnZ5b0NBOFh5SVF0eWs3TndjXzdJcV9yWjlnd2YxUUs5eXhfZ1ZQMDJXRWpIZ2JtcDhiZkttWS1GSkIzd3BNUDlVbklaRjhJWHRsUV9kUUgyWW9zajFmcDJLeENYbzg0YzNJYW4zUnpYVmR4UHNId2xDc3ZocHFCOXU3OUVORmg4V2o4NUxJcGVKRDdqektmVS1lS1pZRGFyNXluN2ZJb2Q0dVHSAfYBQVVfeXFMT1pBMW9YYnZJb0NDYlR3cDJqLTI4eVFNbmxkN21LTEg4VTZXbHlTcVhWbGkzbXNUNEFYcjh1VVpUSVBJek9kWVE3VmJIT1BTQ1p2WFZvQ25DV1NqVThQRGtZdjBPall6UFBDMUVSOE0wMUNoT0g5dktTSnRLZmlNV1Vrd2gxLUJOU0Q5aVRMd0QtaWtteFhFWVVVRGVrcnlSTTZjVDhjbzMwcE5Zek1VUkRVT1d4T2JHNk9oMEN5a19TbTJUVFRWUXQ2ZjlJdnJuRlpYQk55SmFDY05OZ3g1OVVZSi15N2xaNHB5bGhtaDVHU2w2QjVn?oc=5",
         "publishedAt": "2026-08-29T18:56:00.000Z"
-      },
-      {
-        "title": "Gobierno propone régimen laboral de sueldos y derechos ‘progresivos’ para aumentar la formalidad - Infobae",
-        "summary": "Gobierno propone régimen laboral de sueldos y derechos ‘progresivos’ para aumentar la formalidad &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc1NSZC1mWlBWUTd5VjhBS1dXRWFSVTA3Skg5VmJzNFJsZGU5MVkyd1JJLWgzRnF6RzcxQ3NrbW5YUXJrQlMyV0NjQXk4cUotdy1yZFNnWUpYZzVHMXNydnF3VlJqMVdyTndkandBdFZ1TllNd3BIckM1Z1gzV0YyNFo5dGxPbi1TT2tOQ0J4UDRmUmRtSUoya1Brc3IxQkNWaTRYQ3pxam51OWJYbDBOaFVRODFOMExxUl9QZzBnZHdxNUhIc0JhY2JoZFJvMkts0gHrAUFVX3lxTFBPaG1LM0x0RGkwcDBmU0tCcDd6ZWZIODBNUkg5UnVJOEdob2ZnZDFod1JSdzBuUXdwa3dsa29heDhnSGE5RnFyZUU1MHZaWXpHSl8tUVlicFNvOHp4eUJHZjlqdFE0emFMTlgyYkpTSnZvU0tWQkhlNXpDNkxIbUNjVElFdVNabWloR0JxMVhLT2pLTjdkRWdjdWxwNzN4bVR1NVRUcGpYQlpvN096VVMwYTYxVVl1ZTh6aEVqaHYtam5JTnU1aVlWWG1QMm9TUlVPcWhzb2E3T0FHWmp3VmVZYXhlZl9Eb1I4R3c?oc=5",
-        "publishedAt": "2026-08-29T15:21:00.000Z"
       },
       {
         "title": "Cambios a feriados en el pedido de facultades legislativas: Lo que modificará el Gobierno - Infobae",
@@ -143,17 +143,17 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
+        "title": "Reniec: 31 años garantizando la identidad de los peruanos - El Peruano",
+        "summary": "Reniec: 31 años garantizando la identidad de los peruanos &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZDVLWm5qWGFXWk5YdXB4X3VqY3M4OU9KLTl2d1dJNHhlQk1fN2t6eTJURnNfdFdNYnpmT212T2lKU2NZNXpwZVdfdkVOSF9pejZpQzJSMldpbEQ1MEVIM1VjSmR4NVh1WVlCdVNqWmxlVVZaSk9mNE1ubUpIbzNPV19POUQxTUdxYkRiSV9yeUtpemFyZUFJ?oc=5",
+        "publishedAt": "2026-07-13T07:00:00.000Z"
+      },
+      {
         "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
         "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
         "source": "EL PAÍS",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
-        "publishedAt": "2026-06-07T07:00:00.000Z"
-      },
-      {
-        "title": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad - Diario Correo",
-        "summary": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUdWWFZ0azN6ZVg2TUdyclVlRjQyTnk1bFV5aElpNV9OX3AzZGJvX0VRSnhicEUtbGZBYndqMzB2UllBaHlhZ0k4RzlTSU5DOERUN0ZxZkhlZmFhcU9RcDg4b1o1RzZGV0wwYTBLTDJXN3VpT2dpVjRLR3BmVUpUREpKWWNydC1JLWFDOFBNakp6MHF1R2ZtSXA4VTlTMWtkRlk2c1pKZ3hXZmNVSm9OcmxRQy1CUG90MVJWbjBfdmdWNHdl0gHYAUFVX3lxTE5UbVZCUUpheWt2YVBtMldYSGNqUlVIcEhLVkVvZG5CdXBhNmpYZUNJOFlsVDN2SThkdUNjNGlXNXROVkNlOUdHbHF1Uks5bWlsb3lrX2FOZFRYY05ROWd1YTVxQTNJSGpjNTI0MkJvNmtadFlYN1kwN1AtVk8xQXItd05qdWtRaE5QSXR1S1FIdC1Dc0xQTFlZckpFWFplYXl3UEh0bXc4eExUd2I0cXIxazdoRHFnZVF4UlZrVUdQYkczSkp1S25DNmhzNmp1aHV6T1o4QmtSUg?oc=5",
         "publishedAt": "2026-06-07T07:00:00.000Z"
       },
       {
@@ -249,7 +249,7 @@
         "summary": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC &nbsp;&nbsp; Revista COSAS Perú",
         "source": "Revista COSAS Perú",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV0VkdVhtZ2g2YXZjR1hyZHZFMmMySExGRENzOFFLNU5MeF9uT0h3MHdSb0VyRGg3ZVNpeVQ2MnhUczRoMHptZlVmVDd3ODk3QVpvb192d2RQOF9nYjZscEF2TkRDNUMyXzE1SnFSTV96NVAtekI5MS1HQWJGYjV5ZmtFTGpEV3d2eU45OWk4ZXY0ZXJQd28tY3NQSnAyMVpURVk5WGNtZEstRE0zc2V0Y1BsdTM4aG9vOG1lTWFxUTFPem4tUWVWcERTejdMcktVX1EzM3hiLTZSZEtvR2VOalh30gHnAUFVX3lxTFAtN1VPcm1jMWhMWVp4UG9CRmNCZTkxODFteEZ2UmNvUTJXdnRkNXpxX0JyaE1UR3hhQ0pLZGxEcGtUd2xHTzRTTlBRMnVHMnQteHpnODJ6VGdwY2I2aXprS05XMm1lSWRoVWJyVkdfRVViM0JiN0hQQUJ2Um8zaTNpVlM1bDkwbnNPTHJ6dFlQbGltdW85M3V1d0RjMFhFbDBON2tBcE5qeF9MWUplZzQ5VXhmTm9YOUFsbkpUeFlmQXBtdUVNcHhXUXhhRjV0dmJSNXAzX1pTVlhLeVc3bzNiZFBhY3lVbw?oc=5",
-        "publishedAt": "2026-08-20T11:23:44.000Z"
+        "publishedAt": "2026-08-20T07:00:00.000Z"
       },
       {
         "title": "Innovación en Perú: solo 49 % lleva sus ideas a la práctica pese a su alto potencial, de acuerdo con encuesta - Infobae",
@@ -331,6 +331,13 @@
         "publishedAt": "2026-08-26T21:25:30.000Z"
       },
       {
+        "title": "¿La inteligencia artificial está reemplazando el pensamiento? El reto de usarla en las aulas - Infobae",
+        "summary": "¿La inteligencia artificial está reemplazando el pensamiento? El reto de usarla en las aulas &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEFFcldTSTFkb09EblVmcDF3cHBWRE8wdzhheXl3MnJheVZzT2tPZEx0emZES0dpaUpaVEw0alhjRko3a3N3ZU5lcmdSUUxFQmJERGMwZnZURFBLSXdaOVA5U1padlFjdEQzb0lrTF9HMms5YzlWbHdFN2NWSGJ1UUJ6UVZSYzhjVXdUUWFSU0dMbVlqamVLV09wTFFKZ2c2djktRkVWSzczNk40Mklud0tWZm0tYm1FbnE1MjE4aDBUMjAxZG5nLUJJNNIB5gFBVV95cUxOOFg1TG5mOHd5ZVMzSEtjX0wzNGNFYzA1VnVHTWhPWUtycmtoU3g4RkFGekN6QUwwU05VSXMwcU1OYmsyR3ZJQkxXLXZrYVdfd0g4WEpFWW9FR0t0QndyUEt2VXoxY19RazJsOXM4QXlwM2Ffbko5Nk42NXN0SjlYcm50SXV6aEcwaURGX05VYzljUUVsdTQ1d1d0eURWNjVjVjJEQXRiRk16WTNMMFMyUUhIUDJ2V01Yd24wczlDMDFfTlZncW8wSFpCNGYtVkx3TTBMY1NhYkFzMll5ci1kLVBsRno4QQ?oc=5",
+        "publishedAt": "2026-08-21T07:00:00.000Z"
+      },
+      {
         "title": "Reclutamiento con inteligencia artificial: cómo la tecnología está cambiando la selección de personal - Infobae",
         "summary": "Reclutamiento con inteligencia artificial: cómo la tecnología está cambiando la selección de personal &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -343,13 +350,6 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTjhNNzNXX1dTSnBxTlRBdWZHSDQzazZfa2JtOTlzVVdWaHRhSVRSTzdHV2pMMnA5YklNaGVnU19pY1JHSWU5djlqUFJ6WnpBNjZsalVVQml4bHZpTmFaWWVYUDlBcjRrWmRUbzJJd0pleEd5S3JRVF9VdDk4T1otUXVCX2xOWmlDZE9zaXMzbzlKandfUXpVZHY1V2pacGU4YUVLa0J1VFJQb1lnUEE1ZDhWdDViajFOMTEzMlZQVGgyVW5WLUszVkY0VlFKeGxQRmx2c0pjemUyZw?oc=5",
         "publishedAt": "2026-08-19T02:42:25.000Z"
-      },
-      {
-        "title": "La IA es el futuro: 62% de los limeños considera que no saber usar inteligencia artificial resta oportunidades laborales - Infobae",
-        "summary": "La IA es el futuro: 62% de los limeños considera que no saber usar inteligencia artificial resta oportunidades laborales &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSmRqWEdrUElPZmtfbk40ZS1NeGhFZnZZQmZocDlFeDkzWWU5RmtPMk1jeXV2dkFQYVg0VjJZMEtrNmFmV1BuT1pmNkdneTVnUDFvamQybi1jalBlU1FrNGdncTRXd0JFTW1YYk5VdDFteVhwSE5ONTBWck93V0dEUW1QTnRuS3ZSN2I1V2FSV2lQZFRZRndnYmdIdHc1OWQ3di1TVjZzYllJWG1EX293MFBxb2RzYVR6LTN1dE84YTJMY2ZtOTBPTDBpdl9kSkZyRUNqeXVfUWp3RTZDaFE4bWZOSzhFNG1MMEhtMm8zNkTSAYsCQVVfeXFMUEs2NGVYMVFOWkZueFFPblVXd2daNFIwMGdQOHNWRlZjazBRVkpQN2lCcEpnRVVCcndvT1FlUG1LUG9BNTc5ZkZGZGkyaklPcGh4WXhBeG51eW4zcUNtSXgxTmNLVFdHaDdtLTJ5QlRYTmdkRW5ZWkRQX1REanNkTGxBamhrU1F6UDA1bVItZDJQYjV5YjZQa1lYZVhtRzNtVkoxdEJYeHU5aldpeWN2ZEd5S0xWTlVoOHJOSE1LcmFGN1BBNlVsRUhiZDhqSDVEY0pwcXk4NlV6M0dhbGRFWnlBVHJ2X3VleEI5Nm9fdjBWN2F2WlFQMXdKS2h0SzJGRkNnRy1IbFQ0a3Nv?oc=5",
-        "publishedAt": "2026-08-15T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -359,20 +359,6 @@
         "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdFppR05rVjhGQzJMWnpycENKejBfQ2hLMG43cGRXalNvdXRVX2wzcGxzcFlaWmV0X1JxX2JobzZockdvanVVV1daMUl4SkVTaVFVZUkyelRTQWg4cWJyR0VrU1pIZTdYTllqVUhwelg?oc=5",
         "publishedAt": "2026-08-22T06:20:10.000Z"
-      },
-      {
-        "title": "¿Qué significa “farmear aura”? La frase viral que nació en Perú y conquistó a la chaviza - El Momento Yucatán",
-        "summary": "¿Qué significa “farmear aura”? La frase viral que nació en Perú y conquistó a la chaviza &nbsp;&nbsp; El Momento Yucatán",
-        "source": "El Momento Yucatán",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaFJRXzNkMTVqNjR4WjdRQlBBN0Z2XzdTR3hfclN6cUFSTlo1UElncXJzcmNtSTdVOEZhUC1jbENFbnFQNmhYR3A3QnJCYURzU0ZncTdOVFBXTFVGTWFKVEtNdW1CUVZvRXBPd2pxX1cwRUNxSDRMQ2xLSGFLcTBRNm5MUDFsNnVDcTlmby0tcVJ3bm5qSUtnQTU1V3pFZjRHbVdRdWt6cHlDa1EzeVVPNzhyTQ?oc=5",
-        "publishedAt": "2026-08-18T20:26:34.000Z"
-      },
-      {
-        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - Imagen de Veracruz",
-        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; Imagen de Veracruz",
-        "source": "Imagen de Veracruz",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLU5fOVFyR1JhZkhPcGs5RGtLX3lGbWtXcVpRLWJtRGxHdElNamtiQURtenhhQVFoQXczdUpva2VUWFotUVJxWFM3ZUFLaENGb1Z6TnJOVVhhUmczbzZiQWltU3pFeC1CVzM1S3ZLbktIMlJSVVBaVklnRUVjNVlFX25pQWJFSzVSS1BGTWpRM2VQalFLSFpGcE1fRTdjZy1KWWU3R29RSF9xX1pNM3pTZjdMemZKakhudHhIUkxNX1VOZklVbWEzc0NpdHN0UUdmMlNpYWNNMnRLU0FmUWxz0gHkAUFVX3lxTE1HTmV6Z3lLcW5pQTNpSGJxT2gwWFptR005THgwbzRyeVhneWVFRm9TV0plWlFoLWlCc2U2QnRZb0VkLVZDa292d0o2RnBaSkhGZDN5VDFtV19Kb0VQQTdTcHZKcExrN1pWVjFWbXVVOVFrekJHNUc5WHhXXzN2d1h3amgtQUw1aThialdock5tME83YWhpUGc2Z1hmbUFFelhlY01tV0VzdmRUU3lnWS11UVJtbGdPYXp3SzBjVFd0ek1rMXlESDNOeXVTcE5SdTZGa1ktWnBsbzk2d21wbGJ5TXpyUA?oc=5",
-        "publishedAt": "2026-08-18T07:00:00.000Z"
       },
       {
         "title": "🔴🔵 Conoce la nueva tendencia nacida en las redes sociales que es viral entre los más jóvenes - apnoticias.pe",
@@ -396,6 +382,13 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
+        "title": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos - Infobae",
+        "summary": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYkxYWU1GV09vM243VlB3NWZhbWt5RzF1bE9PdXRhR3BkM2cyb25NTjVMMG1XbnM3aU1rMXBIb3FFV3cwRjRrYkduVm9Gd0hyRFlKWElDSk8ybEtXVUJkRHlXc2FuWkhodTg1Z1ZGbmpUZVZxcTN4M1J6ZlpxZHJFNUtTN2tRQWE3MVR5SkhwLWVCelVKU3FNZVowYjh3YVJYWDFHWm1PbUlJOVNBOTVQT19hQ2tGbXNYWTllU3ZoLVNlNE9aUGwzZzl3LTJHaDN6TWpaNkJsOXBTRVIwMmtfVjUyaGo4X1E1bFBvb3ZkMUZ5QmozSGtYcUx5VdIBlgJBVV95cUxPUElwalRLcFI3MTN6a3dqaV9pWHA2NjFYWVFHZU00NTNTblYzYXo3aDdXaEF1NzM3bmx0MkFCbnFGdmtFd2syOVRwNE1HRVV4dnhsOUtva2E5ZUVvbW1CVDBneGc5a3hZUU9oVjFfVE0xOExvbG5TM0FoeW81Wll1UWtxRTNqdkJiTWoxbm42aG9PWVNjTmlvbmgzaUdmVDA1bkFmUm1RRVVua2VxY0tldUlQTGEzZ3k2Sk10N0JKWUxTTkF6OGQtVlV6RzhmcGlJdlA1OF9JaEFIcFI1U3NoZDZtUnpmbEpBWVZCTUE1bVNDQUxZcm9QVDB2OEhpekVtcGItWjNDekpHY0xKSk1GQXpMRGhYdw?oc=5",
+        "publishedAt": "2026-07-08T07:00:00.000Z"
+      },
+      {
         "title": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud - Infobae",
         "summary": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -408,9 +401,30 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNlhRa3hZRWhpSGh3SVFmWkEzTUM3WXlIeXJCdlYycXE0U0NCSnZFbnM0M2RweVpoalhnTXROWkpLYlExbjA4RGF4dEVXZHk2d0t1Z0lYZHdrcUU4eERIZ1htcTdlUW5ETmNycXVUUFM0d3F0RTRHeVlzZ1hwU2liXzJoTFJ2NVlMV183X1VkS09CcGJrckQ1SFl2TFg1NjBTT082VFVwanVfVmtkZ1RVZVo5WE84TEpzeEF0MUVLallqSzd4c21zeF8yQzN2M1ZUT0xpYllKZ09BUEFKZmw5akhWc2NBaUZ4bFlBQ0hPLXJXRF95N3cwdWlpZGwyNXpFd04zVNIBnwJBVV95cUxPSmowXzdWYTdRbnhzb2lob0R4M0tqYWxJeTRSdUQ5N002RUpGOEJOdU9fSmw2WGlqNWhfaEVZcXhnUEtkS3VpZFdXZDJHbi1oSnJNd1FDWkJxcTN6Q1RtNGZoSkViTTVaOUtnQVZURmlCRVFUcHYtekZJQXc4OEdseTcxOFBrYmVzN2VJdElRalhuaFJSWkQyZHhHZG5Ldlg2ZldsemNHS2xSVHdTRzB1aHpnZF9iZXI3MDlGeXVyVjAydFN0OGdTc2pGX2VjVEVmRG1JbjNxaGFWZkd6VFd2NmVENmJjV2RMU3FwbUMzQjZQMEs1MWtJYUFocnl0T2RqQXNyNnRMYUZMY200cnB0S0FvSWo3dlRZOEl0enB6cw?oc=5",
         "publishedAt": "2026-05-21T07:00:00.000Z"
+      },
+      {
+        "title": "Amenazas de tiroteo en colegios del Perú: todo sobre el reto viral que paralizó las clases en Chile y Argentina - Revista Caretas",
+        "summary": "Amenazas de tiroteo en colegios del Perú: todo sobre el reto viral que paralizó las clases en Chile y Argentina &nbsp;&nbsp; Revista Caretas",
+        "source": "Revista Caretas",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYXk3T3Y2dVV1ZkxGTS1BMmFRbm5wRERwSHZQN3gtYUVFMFU4a0RnTmMtSTFjM05jSTJraEIxNEQwUjVJVFpvT25Tb2JlUHQxRVFQNlA2Mlk2X2pjOU5nT1V5cDJaV1FqRkZqSmJoNzJXb3lMWGxhRnB6NURYYmhsbnFCLU5EelNDLUZxNm9lNzkxZGNDQy1VUV9GNXJ6VnItQk05VkxpbVgtZmh4NEZWekh2cXczTlR4b3VIQUNpMlpFaDJ0amhSLUctMU9haHFTLXFDMEZZdExnSDE2YnZLQWhBRjQ?oc=5",
+        "publishedAt": "2026-05-07T07:00:00.000Z"
       }
     ],
     "farandula": [
+      {
+        "title": "Daytona Park, que marcó a toda una generación de peruanos, regresa a Lima como Paradox Park - La República",
+        "summary": "Daytona Park, que marcó a toda una generación de peruanos, regresa a Lima como Paradox Park &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWi04NWd1R3hfODJQckdUZm45NV9vbExqZmM3SXdESlBGYWhmM1BBa0t1WkRYSU9jTnc0ekZnZ3dIMmJWb28xVGwxZVNCamU1R3lDTzRGbk5OMUN5dU1BNHFCX2xHdjR2aGY2OWtmQWFCTEFhVlJvRGhONHBRaFIxWGY0NlpEOWY1ZXFzUWVLTTJLX3JmeXBUdHpGeFByS3VDTXZJdkNPQ0VjUWZScjRaQjVSakdJWVNHeWhUVXlta1VYSmN0Y0FKM3JzZElZWUZPM3BkVklQcmxkYS1CbkpHb0UzUGjSAeQBQVVfeXFMUFotODVndUd4XzgyUHJHVGZuOTVfb2xMamZjN0l3REpQRmFoZjNQQWtLdVpEWElPY053NHpGZ2d3SDJiVm9vMVRsMWVTQmplNUd5Q080Rm5OTjFDeXVNQTRxQl9sR3Y0dmhmNjlrZkFhQkxBYVZSb0RoTjRwUWhSMVhmNDZaRDlmNWVxc1FlS00yS19yZnlwVHR6RnhQckt1Q012SXZDT0NFY1FmUnI0WkI1UmpHSVlTR3loVFV5bWtVWEpjdGNBSjNyc2RJWVlGTzNwZFZJUHJsZGEtQm5KR29FM1Bo?oc=5",
+        "publishedAt": "2026-08-31T04:09:58.000Z"
+      },
+      {
+        "title": "Conciertos en Lima Septiembre 2026: fechas, horarios, precios y dónde comprar entradas para los próximos eventos musicales en Perú - La República",
+        "summary": "Conciertos en Lima Septiembre 2026: fechas, horarios, precios y dónde comprar entradas para los próximos eventos musicales en Perú &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZVBScnpMYUdFeGdXck5BcWNUTGRfcG9rMEx2UHY2VDZXaFhLeFc4RzhmNzRWN1BFck4zM0RkMGxNSHlBTVFnN0RVMUdWZTM0Y29nbE1fSjBabk1DNFMwbFJRMFJBUzhEYWxkV2V4bm94VUxwY3JmVXlSRXo2NkQ2OGpBUzhCclU5ZnpWYU0tMDlNWFMySWx6dmQxSDVmTGVKTmdVMWVEOGw5TEh4OW9PLTFyWWtNYzEydHFrRVAtOWREdlFCOVh6YlB5TFNfRlRPcGpCQXVMYmpsbTRnSW5xMnA5MUN3LS13bHczalozcVdUV2tiVDZieHI4ZVoybllCZEtCek5QTXJKTmNxV3lBaHZHYXFBYjBT0gGYAkFVX3lxTE1lUFJyekxhR0V4Z1dyTkFxY1RMZF9wb2swTHZQdjZUNldoWEt4VzhHOGY3NFY3UEVyTjMzRGQwbE1IeUFNUWc3RFUxR1ZlMzRjb2dsTV9KMFpuTUM0UzBsUlEwUkFTOERhbGRXZXhub3hVTHBjcmZVeVJFejY2RDY4akFTOEJyVTlmelZhTS0wOU1YUzJJbHp2ZDFINWZMZUpOZ1UxZUQ4bDlMSHg5b08tMXJZa01jMTJ0cWtFUC05ZER2UUI5WHpiUHlMU19GVE9wakJBdUxiamxtNGdJbnEycDkxQ3ctLXdsdzNqWjNxV1RXa2JUNmJ4cjhlWjJuWUJkS0J6TlBNckpOY3FXeUFodkdhcUFiMFM?oc=5",
+        "publishedAt": "2026-08-31T03:37:08.000Z"
+      },
       {
         "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
         "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
@@ -452,20 +466,6 @@
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWG5HWlZ0eXJNRE9fUU1JUnpIdGpPRkdJQnJ4dm9DTTlHbzNhNEdTdS1STHlJenZPVEdHS1ZpdzZYVk9wTndfaVFiWm13VXRnQUliZWt1Ry1Eamtta2Y1X3NsVVZwUHhGRzd0N1dqVWNaYmJCZWYyNGV2UmR6RFZ5WW9HZTR0RVRlOUJmT2hVUVhqSlZLSTB3VEh0c3M0MDhRMmNiWHJubllsaXBiSHJ6TlU2MktadTVuY2ZxX1ctUUhvd1VqSmQ3X3FMcGRmNmNZN0VJ0gHnAUFVX3lxTE9aV3hwbzd6WjI3THNKc19ucGZfakhKSmZocF9XYnFQWFhEZWkwT2NQekFtdV9xSjlKRmNxcTNkNUM5YlNiXzFkeW1KWlRFV3VSUXFRQzRNM0Z5T25HZGVkNkxaaHN5UXdPOW5paWtPNW1KZXJlYnY0Ukg4ZXMxaEFRRXpaSlQ2c3IzQlNvUHlVUWR5dTRCZnVoM2dqcW11ZXprYm4wWGZCd25BSUNPTXZJUThXMkQ4LUUxSHRsamlYUWltbzFmalhQTkZ2ckE4eFJWOGg4VW1NQjNpOXNDWERITFJMU25pcw?oc=5",
         "publishedAt": "2026-05-31T07:00:00.000Z"
-      },
-      {
-        "title": "¡Del Perú para el mundo! Natalie Vértiz confirma casting para el Victoria’s Secret Fashion Show 2026: “¡Está pasando!” - Trome.com",
-        "summary": "¡Del Perú para el mundo! Natalie Vértiz confirma casting para el Victoria’s Secret Fashion Show 2026: “¡Está pasando!” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRk11SnVkS1VMZ2o0Mmo5QW5kZld0VUlXdXpvZlRZem1yNk56XzZDRDlfRTM2ckxpUGMtNzZGLVItbWx6TjlvX3o4TnhBWHEzdnpucnlHTUNPajc1aHE1MkRPWmZyalVFSFdjRFRUemdpLTN2NFl4VmxWRTlvT0pla2VBVXkyT2swdW5pME9fSU9OeHhIZ2UweGtlcFduVmZ3eWRIUkNicnVYY19oN3lQY1RnR2VnWVo0M3hiZlF4V3gzemRUM3ZmMnNFclBtNFhkTll0TjFsU3VLbGFpWG5R0gHzAUFVX3lxTE95SlRBNFNnOGNFU2ZWOXlaTXpUMjJTLVZrWDN2SUFST1ZhRGYyNmplMVpETVgzZFo0NmhJNjdDY3lMMGdxbUxEMXVSekFadV83VUF0VGdQTlk2cFVXVEZqbHBlOTBET3dxd2JxNGQ2NzI3ZmYxRUo2TEMydEx0N2JwbjRlVUlmSWhyRVpqc1ZHeEVEMWdLOHlrYktSeVBuLW9ZdHlQNnRZUHlGb0RUQnd0S3NnSjdwaHYycTU1VVMyTURSVzBNZ00tNWprbTVJTDd0bVNKOWhNMzE2WVBFRmd6REhaeFotcWppbm1nWVlFeHZ2MA?oc=5",
-        "publishedAt": "2026-05-19T07:00:00.000Z"
-      },
-      {
-        "title": "¡Lima vibró! Milo J encendió el Estadio Nacional con show inolvidable: “Perú es clave” - Trome.com",
-        "summary": "¡Lima vibró! Milo J encendió el Estadio Nacional con show inolvidable: “Perú es clave” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVXVaSDg1R3Bwb201eE5KQUh5WW1ScDZ0dkozZHlVeFlyRlpGR1A3TlgtSEpOc2FCbTdDcWUtWHJScF92LWViZ0pBZEhpcTBiRktmN01RU3NDdEtHVGVKcF9KYkJ0OUgzbDRTOHE3Vk9PN1ktZHNYUXk2VW9ZWkI1WU1VV2FqNFFkWFMzZ1FtbDdBMjZ1QU9MTGJpNmJIeVBUSnZ3bzVMNkV5endDblhzbjVsNkhvcjMtdmJ6SnpPSzZZT2pUNjVJRDk4STBWUlViN2ZwVW4yNUt5eDVENWRkYVBwMW5fNTdVN2hvaE1xMk5YenN1ZXfSAYoCQVVfeXFMTmd6QzhlcjQ0eGRTN2ZxbTdkdXhackZLUzV2U1ZXU1cza2hsZE5iZDVodzhZd3dnNVJjTHpkbTc4Yk9SZ1h1MjU0OFRWTkZZSzBsVlZOdWg5MWVtQlJTVl9IWUM0Q21OOW5qd0dNMkQtR182SmRUWWJsd3V5THkycXA0N2dZX0UtaHNValNUUjlUekU1dmZ6LWVlWjZESTFPRDZNWlJBaGY0d1ZhUHJHS3RTYUE1RkRqcWQ5TTA5QzQyazBZejV5RWkyQ0NJeVdXWFFUVkYtV1U5X1QyZVQ0ZTJmTy14cVlyMlZyTFItOVNhZGttVE9YSlRQUFpsem90QVhQbWI1Ni1RcWc?oc=5",
-        "publishedAt": "2026-04-18T07:00:00.000Z"
       }
     ],
     "cultura": [
@@ -474,7 +474,7 @@
         "summary": "Agenda cultural en Lima del 27 de agosto al 2 de setiembre: Black Eyed Peas, Paulo Londra, Animatissimo y el Festival Escape del MALI &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYXF1LXQtc1VqT1hYLU1JWFJwTVRUZ09RbjhPdHoyRTBxMVptUFMxMC1vNTlYelBDUFdwaldxX091ckNfeFJueUJkdVBDOGZ1VENfX3NwaXhjTnNiLVJabkdpQ0VOUWtBcGdsUldYTXpxazNEWmp2TWhmMFkxVExXM2xiRHg5RDBQdFlNQk1hZmtwWWNrY09GZkFlMExpQ0Q2cGdkcVJENDBPQXhBWHJ3Vzc2RW1pZmVBLUJSa2xLRUY3cFAxVkxsVHZrLWIwamdESEJ4Mm5GS3Bnbk4yQUhKTzNQSVRaYUp0WnBEb1lnemF4ZExEY1FuOTdBQUpWQ3Bl0gGbAkFVX3lxTE5hOHV3dU1TbmlvMUl6cWJpVmdGRXVPWmVJMnR5VUtTNjNfSnkxSC1pTTktaVVid2c5TUo0NEQ0aS1GTFpwOUxvRUswcmtVQUZwY0dEaEtBMmlpYkhsaHZYWUtleVlTenVyWGVQSTVJQ3F2NVZPVUw4emxQRU9wSUY1cTQxTkZtVDlScnpwcXJhTTVlejZSak4ySVY2MHQ0MkhnMHR3N21wNTA2Q2owd2hqcWlRWVYtQVU1QVl1VnJRaXpOS2NMVE95b1pFZmdFX0NZRk9RSE9obUN4UHhrYXUyR3pEYXBncnpJbEwxYWhqSmRkVUlOUmlSOUFkOGkwWG9CWDFGM3hXUUdpQ2xOalFmdld6OWF5LWpRNFk?oc=5",
-        "publishedAt": "2026-08-28T09:21:00.000Z"
+        "publishedAt": "2026-08-30T21:29:00.000Z"
       },
       {
         "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
