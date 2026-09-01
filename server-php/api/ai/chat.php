@@ -254,7 +254,7 @@ function requestGemini(string $endpoint, string $jsonBody): array
             CURLOPT_POSTFIELDS => $jsonBody,
             CURLOPT_HTTPHEADER => ['Content-Type: application/json'],
             CURLOPT_RETURNTRANSFER => true,
-            CURLOPT_TIMEOUT => 35,
+            CURLOPT_TIMEOUT => 28,
         ]);
 
         $responseBody = curl_exec($curl);
@@ -274,7 +274,7 @@ function requestGemini(string $endpoint, string $jsonBody): array
             'method' => 'POST',
             'header' => "Content-Type: application/json\r\n",
             'content' => $jsonBody,
-            'timeout' => 35,
+            'timeout' => 28,
             'ignore_errors' => true,
         ],
     ]);

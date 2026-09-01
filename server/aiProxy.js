@@ -13,6 +13,7 @@ const MAX_CONTEXT_ITEMS = 6;
 const MAX_CONTEXT_TEXT_LENGTH = 320;
 const WINDOW_MS = 60_000;
 const MAX_REQUESTS_PER_WINDOW = 20;
+const GEMINI_TIMEOUT_MS = 28_000;
 
 function readLocalEnv() {
   const envPath = path.join(process.cwd(), ".env.local");
@@ -321,9 +322,15 @@ async function generateReply(message, history, playerName, memory, dailyContext)
   const context = shouldUseDailyContext(message) ? sanitizeDailyContext(dailyContext) : null;
   const dailyContextText = formatDailyContext(context);
 
-  const apiResponse = await fetch(endpoint, {
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), GEMINI_TIMEOUT_MS);
+
+  let apiResponse;
+  try {
+    apiResponse = await fetch(endpoint, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
+    signal: controller.signal,
     body: JSON.stringify({
       system_instruction: {
         parts: [{ text: `${SYSTEM_INSTRUCTION}${playerContext}${memoryContext}${dailyContextText}` }],
@@ -334,7 +341,10 @@ async function generateReply(message, history, playerName, memory, dailyContext)
         maxOutputTokens: 120,
       },
     }),
-  });
+    });
+  } finally {
+    clearTimeout(timeoutId);
+  }
 
   const payload = await apiResponse.json().catch(() => ({}));
 

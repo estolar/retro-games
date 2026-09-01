@@ -20,6 +20,7 @@ const PLAYER_NAME_STORAGE_KEY = "retro-games.chacalon.player-name";
 const PLAYER_PROFILE_STORAGE_KEY = "retro-games.chacalon.profile";
 const MAX_SAVED_ANSWERS = 20;
 const MAX_SAVED_ANSWER_LENGTH = 240;
+const AI_REQUEST_TIMEOUT_MS = 30_000;
 
 function formatAudioTime(seconds) {
   if (!Number.isFinite(seconds) || seconds < 0) return "0:00";
@@ -580,6 +581,11 @@ export default function ChacalonChat({ onExit }) {
     setStatus("CONNECTING");
     if (shouldTriggerSalute(message)) triggerSalute();
     const nextAnswers = rememberAnswer(message);
+    const requestController = new AbortController();
+    const timeoutId = window.setTimeout(
+      () => requestController.abort(),
+      AI_REQUEST_TIMEOUT_MS
+    );
 
     try {
       const response = await fetch(
@@ -587,6 +593,7 @@ export default function ChacalonChat({ onExit }) {
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
+          signal: requestController.signal,
           body: JSON.stringify({
             message,
             history: toApiHistory(messages),
@@ -616,7 +623,8 @@ export default function ChacalonChat({ onExit }) {
         },
       ]);
       setStatus("ONLINE");
-    } catch {
+    } catch (error) {
+      const timedOut = error?.name === "AbortError";
       setMessages((current) => [
         ...current,
         {
@@ -626,8 +634,14 @@ export default function ChacalonChat({ onExit }) {
           fallback: true,
         },
       ]);
-      setError("IA no disponible: usamos el modo de respaldo local.");
+      setError(
+        timedOut
+          ? "La IA está tardando demasiado: usamos el modo de respaldo local."
+          : "IA no disponible: usamos el modo de respaldo local."
+      );
       setStatus("OFFLINE");
+    } finally {
+      window.clearTimeout(timeoutId);
     }
   }
 
