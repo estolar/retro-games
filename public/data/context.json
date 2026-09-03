@@ -1,127 +1,70 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T13:19:55.434Z",
+  "generatedAt": "2026-09-03T17:36:26.197Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
-    "politica": [],
-    "economia": [],
-    "sociedad": [
+    "politica": [
       {
-        "title": "Chile lidera indicadores de bienestar juvenil en la región pero jóvenes mantienen percepción crítica - El Mostrador",
-        "summary": "Chile lidera indicadores de bienestar juvenil en la región pero jóvenes mantienen percepción crítica &nbsp;&nbsp; El Mostrador",
-        "source": "El Mostrador",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOU14V3ExSkNoT21xT1NBSUNabmZzYnotckplbmF1Uzc2VlE3c2lmMVBZQmNyMWs3aWxjTFBoZ3oyZm1zRk42OHpERlpDa0lCMVUxeXBMWUw0Umx6T0dNQlBVcTVEVXRnZFQ3MGZTRlpVblBPNll3N05BZUM4QUplUnVoUlpoTVZDd3htTmpOcEF0Y3k0WGdYX0VDUThlYVJzQmdibkQ0V3NkajBCTjhlZmUxR2d0aVB1MkZpSk5VR0RZNjIwcHBQSEUxcFQ1dFdyR2N5aV9DOFFEU25qUlNxMThSRmlkYnd0ekFoWkxmZ240RzNwUmU0Ug?oc=5",
-        "publishedAt": "2026-09-03T09:22:11.000Z"
-      },
-      {
-        "title": "Presupuesto 2027 prioriza seguridad e inclusión social - El Peruano",
-        "summary": "Presupuesto 2027 prioriza seguridad e inclusión social &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamxsSVRWMkFFa0dWbWxwZHpGQS1udGM4eFBMMmJXbGphc251QlBoVFNZTllXZFkxTmtxYkN6S2NuQmVmWDFyeXA2MUhUNDlFZnR3cHIwZ1p3bWxtX1daWFdySVU1dngxNFBxdWFqQWtGTTQ0ZWhvNlM1N1JScjRhekFOd0VnQkdwRUFNTlA3WkdtRnN4?oc=5",
-        "publishedAt": "2026-08-31T03:41:00.000Z"
-      },
-      {
-        "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - Agencia Andina",
-        "summary": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDg3MFVjQnE2eHFPRWpXV3RHcFUwQ3NzalN5MTBFNFhNV1ZYNVpkRFBRSlh1QmhCUzhCdXRWWE5xRnNHYWhIMzRwMnQ3Vl9CMWZBalFwTzd4eFI1cW9LYmkwS2toT3RpeC1pZC1paFlhOVlxdXdJUUJYQ3dzT1pGU3NLSVhIaUMzdXZ3QThaTGFMbF9SRFYyOWQtZy0yUE1NWFZtX0hNTUM0ZFZlSDZtck53Nmpqc2tYSkpZN0ZBTl9NbVBBMlAw?oc=5",
-        "publishedAt": "2026-08-11T07:00:00.000Z"
-      },
-      {
-        "title": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú - Al Poniente",
-        "summary": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú &nbsp;&nbsp; Al Poniente",
-        "source": "Al Poniente",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2lTSUtNanNoaFpqZkxDRDh0X0hNdFpUcGVvdllPamNXb2t0MXhIQUZNUUZxTm1Bel9CSUVHT1c4b3RTdlRKSlhGRFJUTjY4aEM2UTQ0bDlVSF80Zk9VekliWXAzVzJjcDdmRnhUWW5VSzRxdGt2ZnEzSDBPXzBhbzFpZ2NobUVPLWM3T3QxTGxjSE0?oc=5",
-        "publishedAt": "2026-07-29T07:00:00.000Z"
-      },
-      {
-        "title": "Exitosa Noticias. . 🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | Seguridad ciudadana y salud encabezan las principales demandas de los cusqueños al próximo Gobierno. A pocos días del inicio de la g",
-        "summary": "Exitosa Noticias. . 🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | Seguridad ciudadana y salud encabezan las principales demandas de los cusqueños al próximo Gobierno. A pocos días del inicio de la gestión de Keiko Fujimori, ciudadanos piden que ambas áreas sean priorizad &nbsp;&nbsp; facebook.com",
+        "title": "KEIKO FUJIMORI | Pese a los cuestionamientos sobre la conducción policial, Fujimori volvió a insistir en la necesidad de que el Congreso apruebe cuanto antes el pedido de facultade",
+        "summary": "KEIKO FUJIMORI | Pese a los cuestionamientos sobre la conducción policial, Fujimori volvió a insistir en la necesidad de que el Congreso apruebe cuanto antes el pedido de facultades legislativas presentado por su Gobierno. &nbsp;&nbsp; facebook.com",
         "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYWZSaXJSemg1czhMSlRLbUw0MllJLWZDRzVxTWUtdGxtSzBpSHFDbjhJVlVHdnhtYmROcTZnQmhRc3BMS3ZVbm9NU3Q0emt0ZTFqN0E3dW9DZDJrcFRsSmNIQ2x3NlROelo4WFFXMERzdEkxb0lnV0stb1U2UVh3SFludVV2NERuMGV5bEVGN1h0anpWUEZZSjdoSFZubmk3eFV1NElCb3YxaWhIRHcxY1JKNkpNUWE2ZDIzNkcwQVV2R1laREpaVHZvTkxDLXFxd3h3a2J4WFVlVmRQUUVoblZQVUhwdw?oc=5",
-        "publishedAt": "2026-07-26T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRUJQNExJMERWWjBuUkNXYjVvT0trOUFiZHp3S2E0aUlJcGpiekE1WmtLY3o1M1FXM05fVkU4dVFHOGZUdkx0ekxDYVJ2QVhoc0Y0bC1aVU5QY1ZfLVozWldCZ29pUG5kamZPTkNUY3I1bW1jLTNoaGUyLXhBZzJ4YWN2Nkp5Y011MnhPZ0M5ZW4tUk40a214NHBfNHI0bUl0OUNfa3BPdUd0X2xmVXk2Q0dMS0sxNlAxcHJXazJVb0g5ZmlUVTBQV3QtQ0JxYmxXUFlxSmdWeUxrM0pv?oc=5",
+        "publishedAt": "2026-09-02T22:22:53.000Z"
       },
       {
-        "title": "GESS 2026: JÓVENES EXIGEN PASAR DE ESPECTADORES A PROTAGONISTAS DEL DESARROLLO SOSTENIBLE EN EL PERÚ - rcrperu.com",
-        "summary": "GESS 2026: JÓVENES EXIGEN PASAR DE ESPECTADORES A PROTAGONISTAS DEL DESARROLLO SOSTENIBLE EN EL PERÚ &nbsp;&nbsp; rcrperu.com",
-        "source": "rcrperu.com",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObTBlSGdUaDAyelBpdkZ6WC05X2x2R2w0Sm9WRlk3eWFQZWxQSU1hNGNpZnRBQ0dMVkVER2h1a1l6YUVUaTJPX0hNX1RoWW1pYTVtbWE1MWtCZTlGaDRXMnhtVGl0ODRuaFV5amw0VGU2Mm1hcGJacW1GRFZleWtGbzY0RVBrM0sxZmtVYVh0LW5sdjdVbEpoVXpabG5qTG9DX3JpZEpWX3M4dTYxb0NROEM3RXQtQ3dxOHBfRVF2bkRFQQ?oc=5",
-        "publishedAt": "2026-07-19T07:00:00.000Z"
+        "title": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad - Infobae",
+        "summary": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHp2T1ZoLS01bUlPNy1CZ0pvYlV1MTRzYkFwWHF3a1lWcWw0UVVmeG1Rd080N0FLSTgzejEwMDhVNUN4MXN4R3FBbUNBTXZuVkRUYTUwSDgwS1FiR0t2V3EzVjlKUWZpcVBrWnozOUpIMVVYeW5VSlZDRjZISmQ3Q0pyYndzTDhQZVRLR1N5bnhobVZrbkdJNXZraWlab1llak04N0g0NnFZTUpNNHNoZ19rcDE4cXlvUmxYeVBpRVQzSXNWLUFqdDM0TlV6V0RJVTZQSmMxSmVYbFVXd2NjN2h4bTdoTFFCVlN6QjRB0gGIAkFVX3lxTFBKclJfUEdTdXdGMkQ0enlHTmExUnl0emRmZGRUM3dIQ3BSandEVk5TaEhwU1NaVlR4SldydExWNVNpWGxub2tJTnRxVnZGRC02MGRabVkwSkM3MG5fWklUWkl6UlR1UDN2WDdUcllaZktNMm5BM20zNFpncmNyeXNZbElnLU9OUmFxWU5uMnhLN2xwMEltVXExeFRuQ2diYVNBT1dySXJQc2ljTDN3NHFHNFlpN2NMMHd3cUJkOXI5RE5GVWdvT1czY2VselNwX2xhaXJ3M0ZvQlBkQXZBUDBMTlM0SlhKblhJdW54NUxuYkVHdC1jUEN5bXRsQWhnOVlIRGJicEo5WA?oc=5",
+        "publishedAt": "2026-08-31T18:02:00.000Z"
       },
       {
-        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - Diario Ahora",
-        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; Diario Ahora",
+        "title": "El presidente del Consejo de Ministros, Luis Galarreta, instó al Congreso a otorgar las facultades legislativas solicitadas por el Gobierno de Keiko Fujimori en materia de segurida",
+        "summary": "El presidente del Consejo de Ministros, Luis Galarreta, instó al Congreso a otorgar las facultades legislativas solicitadas por el Gobierno de Keiko Fujimori en materia de seguridad ciudadana, tras el ataque ocurrido en Trujillo durante el secuestro de un empr &nbsp;&nbsp; facebook.com",
+        "source": "facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ3lvZVUwSlB4aXEwbHJoN2JobEJONDM3ZUEyMnM0RFBrZmM4UzhOU25ZaFhvRnExVWNFSnpyLVRtSFZLVlZVN3F2UGFIYXdaV0Myc1l5b05xcE5ORDVvZnpDWmhZLW9fNHMyVkJPQ1JJQ3N1cFBuZFJiX0VVMzBNMnFEMmFVVmlSbG1Sb1NtUFJzRG42UDJ5SEFEMm9rUFBiV3k1TjRubnBpS1NmUHQyZmxpbWtGSEF1Vl9MZXpPdkpzMDh1R3NQc3E0aWNJYlJwa0t5NjRqQlR3T2Nv?oc=5",
+        "publishedAt": "2026-08-31T17:03:42.000Z"
+      },
+      {
+        "title": "Luis Galarreta revela cómo avanza pedido de facultades al Congreso: \"Estamos puliendo los últimos detalles\" - Willax",
+        "summary": "Luis Galarreta revela cómo avanza pedido de facultades al Congreso: \"Estamos puliendo los últimos detalles\" &nbsp;&nbsp; Willax",
+        "source": "Willax",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWkExT2xGV2p4WnF6VEplejZaampDeUlQdDRFemljdnV5Y2NvTFk2QVhUQTNJYnlkWGNDUVktUmJhdmpfSVJGWENIZUF0VXNlbGdiQUdhamozOHlLZ0Nnc3MzQURIQXRVWFRJWnFycDRWbWdxaGNGUUU3a3JjNkJXYzlYYW1Wd1hnNHFKRmNtM3ppcXkxNHU1Nm5kSlJHZDR5MXNZa3BSSnJNNXN4bDRMcWhfT01BanpuOW5TN3U5cW9SLWduT1NCMFlHVQ?oc=5",
+        "publishedAt": "2026-08-25T12:26:50.000Z"
+      },
+      {
+        "title": "Premier Galarreta confía en que el Congreso apoyará delegación de facultades legislativas - Diario Ahora",
+        "summary": "Premier Galarreta confía en que el Congreso apoyará delegación de facultades legislativas &nbsp;&nbsp; Diario Ahora",
         "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
-        "publishedAt": "2026-07-15T15:44:23.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05ajJyWU9Wbm4wR2FodkVGUHlxSFhudzdjN3g1NGpIZUdQNVBFOXAya0pqVmwyOGtTTWNNTmpNbTR5aF9vZ2V2QnJsRDl2QkpHT08yQ3JBMHppQmc4cnJ0YS1LTzJfZGJvaDVPc1hBYjQzSW9jUlpqeFRR?oc=5",
+        "publishedAt": "2026-08-25T07:00:00.000Z"
       },
       {
-        "title": "Reniec: 31 años garantizando la identidad de los peruanos - El Peruano",
-        "summary": "Reniec: 31 años garantizando la identidad de los peruanos &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZDVLWm5qWGFXWk5YdXB4X3VqY3M4OU9KLTl2d1dJNHhlQk1fN2t6eTJURnNfdFdNYnpmT212T2lKU2NZNXpwZVdfdkVOSF9pejZpQzJSMldpbEQ1MEVIM1VjSmR4NVh1WVlCdVNqWmxlVVZaSk9mNE1ubUpIbzNPV19POUQxTUdxYkRiSV9yeUtpemFyZUFJ?oc=5",
-        "publishedAt": "2026-07-13T07:00:00.000Z"
+        "title": "Nueve ministros del Gabinete deberán responder ante el Congreso en los primeros días del Gobierno de Keiko Fujimori - La República",
+        "summary": "Nueve ministros del Gabinete deberán responder ante el Congreso en los primeros días del Gobierno de Keiko Fujimori &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcjVoMnQzZ1RHd3dDVC1ZMUNiaXVIQUxVb3lSSG9nNzZvdmd4aEtoT1dseW01WmFsRGNkdGNjMVdJdzNhdl9lclU1UXl2TkJQek8wNG1EMkYzRUdvNFlyLVktaFdUVkRqb3dVOWlKV2M3TmxhVElYWUdOMGl1bjNjR01FU1U5bkZISnZJTjNtTkpwVmtVOFFXNjhvMmFlbEtabURfMHl3akhkMG5HbW5oTXNOS3dGdGZuSFo3NzJ6c1RxbTB1Wi1lV2NrWlFaUFF4V25PT1R1VXFQZ0M1bWlNWlJTdHE3Y08zdFJJTVVlVU9KWm9JbnNtd3NFVWVXdzl2d19TemY3WGxyOUxnMzBKODdGRdIBmAJBVV95cUxQckQ1bWNJVWR6SFVwSDlXWFEtRHZyQUItaHJOOVE0SENlZ1hJLU5peUFXdmhkdkF3dml4SE9tMm9tcWxaMXJkVVEtMnp2dXFoSW4tb3d3d0FXNllfYXFTd2tLYmJnTVFvWjJ1VXZGTlNTTV9VdHdfWDl2Mkhsc3V2TDViSmVYbFQ5MUR1cGxPelRvNGpZdEpyRktuMERjMGZUazZkLWs3eHJPNXZGNlNVdE9pemVISVVfclFLLVlVTjE0NWFHSDJqakZySHFhbGZ0c3JIMHdNcjFOMnNadDJ6My03NGoxWXdVTXZYSjZyRGFQeVMxUUpTcWk4U24talVZYXdkckNrNGp5UThBbllWSVhXQzliZkR2?oc=5",
+        "publishedAt": "2026-08-24T07:00:00.000Z"
+      },
+      {
+        "title": "🔵⚪ Keiko Fujimori informa cuándo llegará al Congreso el pedido de facultades legislativas. 📸 Foto: Difusión 📲 Lee la nota completa aquí: https://shorturl.at/fQM3z - instagram.co",
+        "summary": "🔵⚪ Keiko Fujimori informa cuándo llegará al Congreso el pedido de facultades legislativas. 📸 Foto: Difusión 📲 Lee la nota completa aquí: https://shorturl.at/fQM3z &nbsp;&nbsp; instagram.com",
+        "source": "instagram.com",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yVDFZM25DelRQWm85a0tXb3l1NDFlUVNfOGtwUjV6RWlyaXNub2xmQ2tNVW82eE80WDJRNXBxS3F2VHF4QkVjY3JSMW9mTER0NEE?oc=5",
+        "publishedAt": "2026-08-24T07:00:00.000Z"
+      },
+      {
+        "title": "Perú: el Gobierno incrementará la expulsión de inmigrantes ilegales con ayuda militar - RFI",
+        "summary": "Perú: el Gobierno incrementará la expulsión de inmigrantes ilegales con ayuda militar &nbsp;&nbsp; RFI",
+        "source": "RFI",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT1Z6cV9qZzJHTFEtS3RKQkxoN0xwNm92bHVYODl6QUs3YmR3cFQ3MVhoQXl3SnZRRzk0OHh5cGdreXJ5djZZS0lqUmQ1d2RkYklJTHYzeXhxMXU5SVhpUnk2N1M3eVVkQjdCd1IyaFRfZ25DZzRnMGlzUjdZakpDMEpKbHByOXVCcEx5eDVYT09QNlR4R2dLZGxVbldMa2Z2MlpaZFdDdGNBVUNjSGVHUXg3YW1LeE9oZW5KMUc0MGdSUk52Wnk4RlFPeHFCN0dNUm1SaTI5aEFod25O?oc=5",
+        "publishedAt": "2026-08-21T08:54:27.000Z"
       }
     ],
-    "negocios": [
-      {
-        "title": "Los emprendimientos dinámicos en el Perú - proexpansion.com",
-        "summary": "Los emprendimientos dinámicos en el Perú &nbsp;&nbsp; proexpansion.com",
-        "source": "proexpansion.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ2xwZk5iNDhxTkE4ZW1POXVPZWNjVDgtNHNiVHBFSWtkdUlZN2paMlFLelVvZWoteEtBcGJXcFVsajBCTjBfWU04Q0pnQkkwY1hkT0N0VW00aGwydU1TVTNZay1SOHppQ3ZOOE5qMjJ0NUlXMmhpLXBOLWZ1YmV0dkU4eEd0Qlgx?oc=5",
-        "publishedAt": "2026-07-17T07:00:00.000Z"
-      },
-      {
-        "title": "Joven emprendedor lidera la primera convención sneaker del Perú y busca expandirla por Latinoamérica - Business Empresarial",
-        "summary": "Joven emprendedor lidera la primera convención sneaker del Perú y busca expandirla por Latinoamérica &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORW1HTmxZWG5YdXc5QVZMVTJ4ZE9rVUoxODBXSnRIRnJtVjc0NzlnV2xQeFFrRkVzWkdRMTVyU3YxQU1kQ0UzejMxcGI3NzdqdGZMZWQtZlp1eEdwWHhGYnJRMFRIeHcyMFE4OGI4bFdCekl6NlF1U2NoXzNiNEo3LXk4N0hodWJnTldoUEtqY3BUU3Q4S01GZTNMdDFySmMzeDY4emVXSjdQSGtXNmd0NGxQQi1pT0ZWWnlGTHk3cWtxd2lBR2xvTlRUWEJrQVVFaU83NnF0SQ?oc=5",
-        "publishedAt": "2026-07-16T07:00:00.000Z"
-      },
-      {
-        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
-        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
-        "publishedAt": "2026-07-04T07:00:00.000Z"
-      },
-      {
-        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
-        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
-        "publishedAt": "2026-06-26T07:00:00.000Z"
-      },
-      {
-        "title": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio - Business Empresarial",
-        "summary": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONjJuRlg3UTRITXRKYUJwSDU1RzU0cURfLXl1WFQyd2pPVTdnTnJfMU1JMW5Pb3hMc3lOaXlIT0xHdkVqN3VwR1JQYzZJd3lzaUpUVFAzSEpjOWlNNV9tbEE2MUctWnFHTnFsOFo5dVNpVWtsTEt5dkxhRmtLV1ZhQmUtM0g0RVoxdDNDWjl3Vk1zV1M2SHZkY29aNkJZWkFhV2M4cl9wMXpWZzRzQVJMdWtSc2ZJY250ekRxekc0cUw3dGFXYm81SkxjREYxLXFtTS13TkphejBrQ1VQY2Nfc05QMUxnVDFfZ0M2RmRieS04djY1amZxdU0wSjY4QWhOZUE?oc=5",
-        "publishedAt": "2026-06-26T07:00:00.000Z"
-      },
-      {
-        "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
-        "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
-        "publishedAt": "2026-06-18T07:00:00.000Z"
-      },
-      {
-        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Gan@Más",
-        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Gan@Más",
-        "source": "Gan@Más",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
-        "publishedAt": "2026-06-17T17:04:18.000Z"
-      },
-      {
-        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
-        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
-      }
-    ],
+    "economia": [],
+    "sociedad": [],
+    "negocios": [],
     "ideas": [],
     "ia": [],
     "tendencias": [],
@@ -134,7 +77,7 @@
       "id": "politica",
       "label": "Política",
       "ok": true,
-      "items": 0
+      "items": 8
     },
     {
       "id": "economia",
@@ -146,13 +89,13 @@
       "id": "sociedad",
       "label": "Sociedad",
       "ok": true,
-      "items": 8
+      "items": 0
     },
     {
       "id": "negocios",
       "label": "Negocios y emprendimiento",
       "ok": true,
-      "items": 8
+      "items": 0
     },
     {
       "id": "ideas",
