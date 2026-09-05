@@ -1,23 +1,30 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T13:42:45.305Z",
+  "generatedAt": "2026-09-05T16:36:22.667Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
     "politica": [
-      {
-        "title": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial - infobae.com",
-        "summary": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial &nbsp;&nbsp; infobae.com",
-        "source": "infobae.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHlnUW12Z25xWXFVV3N1dVN4UzNLY1ZlYzFqcXk2NDZWSENpcGhjRGtTOTBnRE9fWmlPbzNzOXU1RldUVXRkR1JhUFZwd1NRODBWb1FsYTNLV3JvcDU3NUtLUVVPdEhhejNlWU5CZ1dXSk9TTThhbUtnSGVlQi1XMHJrSm1QLUpTNG1oaGNRN0lWeXkwWVlxM2l4MGFuTkZUNTZfQmdISXNOMW9MdnRxVlV0QzhCWXZzQVE4cVJrTzZtWnA2TEU5MFExdUhYanZoWVhMblVHNi1yQ3RFQXFWLTZyNlDSAf8BQVVfeXFMTzYycU1uN3FkcS05SkdXb21BUHljZFc2ZVczUXZsdDFSNEVOTmQzcXNmOEFCdVQxdUlTaHByelZrSTNYcGwtZ3hZa0VmbkJqSWVxQUNCRHRiWS1PRnhmUDc3NzNiUkRHVWtJSGZ5cnAxTGdJWkRRWHFvVzdoX1YycGROWFVBeDZaU2lQM25PcU91bGU1NTVwLWhOTU83MlUyZGR2bnJ1Z1Q1cnNubHg4bE8zSGhNaVI0Y2NFTXJ4TXc5UmNOcUM1eGpPTlFRYzZSbHVIZzNyaGNQMXR3TGNRVG1mbC1Jb3huRFZFWWhhTkxIN1RWOFVpUk91SzZRbk5z?oc=5",
-        "publishedAt": "2026-09-05T03:11:00.000Z"
-      },
       {
         "title": "KEIKO FUJIMORI | Pese a los cuestionamientos sobre la conducción policial, Fujimori volvió a insistir en la necesidad de que el Congreso apruebe cuanto antes el pedido de facultade",
         "summary": "KEIKO FUJIMORI | Pese a los cuestionamientos sobre la conducción policial, Fujimori volvió a insistir en la necesidad de que el Congreso apruebe cuanto antes el pedido de facultades legislativas presentado por su Gobierno. &nbsp;&nbsp; facebook.com",
         "source": "facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRUJQNExJMERWWjBuUkNXYjVvT0trOUFiZHp3S2E0aUlJcGpiekE1WmtLY3o1M1FXM05fVkU4dVFHOGZUdkx0ekxDYVJ2QVhoc0Y0bC1aVU5QY1ZfLVozWldCZ29pUG5kamZPTkNUY3I1bW1jLTNoaGUyLXhBZzJ4YWN2Nkp5Y011MnhPZ0M5ZW4tUk40a214NHBfNHI0bUl0OUNfa3BPdUd0X2xmVXk2Q0dMS0sxNlAxcHJXazJVb0g5ZmlUVTBQV3QtQ0JxYmxXUFlxSmdWeUxrM0pv?oc=5",
         "publishedAt": "2026-09-02T22:22:53.000Z"
+      },
+      {
+        "title": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad - infobae.com",
+        "summary": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad &nbsp;&nbsp; infobae.com",
+        "source": "infobae.com",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHp2T1ZoLS01bUlPNy1CZ0pvYlV1MTRzYkFwWHF3a1lWcWw0UVVmeG1Rd080N0FLSTgzejEwMDhVNUN4MXN4R3FBbUNBTXZuVkRUYTUwSDgwS1FiR0t2V3EzVjlKUWZpcVBrWnozOUpIMVVYeW5VSlZDRjZISmQ3Q0pyYndzTDhQZVRLR1N5bnhobVZrbkdJNXZraWlab1llak04N0g0NnFZTUpNNHNoZ19rcDE4cXlvUmxYeVBpRVQzSXNWLUFqdDM0TlV6V0RJVTZQSmMxSmVYbFVXd2NjN2h4bTdoTFFCVlN6QjRB0gGIAkFVX3lxTFBKclJfUEdTdXdGMkQ0enlHTmExUnl0emRmZGRUM3dIQ3BSandEVk5TaEhwU1NaVlR4SldydExWNVNpWGxub2tJTnRxVnZGRC02MGRabVkwSkM3MG5fWklUWkl6UlR1UDN2WDdUcllaZktNMm5BM20zNFpncmNyeXNZbElnLU9OUmFxWU5uMnhLN2xwMEltVXExeFRuQ2diYVNBT1dySXJQc2ljTDN3NHFHNFlpN2NMMHd3cUJkOXI5RE5GVWdvT1czY2VselNwX2xhaXJ3M0ZvQlBkQXZBUDBMTlM0SlhKblhJdW54NUxuYkVHdC1jUEN5bXRsQWhnOVlIRGJicEo5WA?oc=5",
+        "publishedAt": "2026-08-31T18:02:00.000Z"
+      },
+      {
+        "title": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen - La República",
+        "summary": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSXJGRzRyNy1fM0h1a2hYZFNTVW5wZDJqcGg2dy1qU0llYTRGeUVGNXdHYVZlZWZyMlFvVmZ1bElRZnp5QllnaVpsbUZiX2l0cVVtVFRWdVo4NGdOQzZ5Q3FJWWF2cmVkdG9JYlZ6emFLT01tcGp0VjN6c2JkYk93UkZMREx5UFVwcVVkZ2NQY242ZnlGR1J3cFlBb0lTYWU5ZW5yS3lab3BfcXBUdzgwVk9qY0RfWHFYQVk2dzkyY3hQZkg1OV9FbTdncXp4eHFYY3pIRU1EVlhTS2dKNDIwZTRuUDdqWGZRblc2V3lUTG44eDhKNktZTk1R0gH_AUFVX3lxTE9PcXNVNkFVT0dpLVE5S2NCVjAtNTdNczVEMXNJLWljVktQUklzQ3MxNUotd3VZXzZzVVhWMHlQVk9WbWJwM0VDeGo3ODR1SHRLcF9LU056R1hBOS04Ql8xd3d6UEZjSE5lUW9DZlh3RnNIdFRlVVhwTzRRcWw5NUpFTmtrOVpLN3BOWmhkTHY0V3R2SVpGUk5LVHp2Vlh5TzcxdmhXY0JYNUtKSHdVMmJDM0Y4MUZLcUJlNzltdDg0U0hQcGEyOHZLRTdYaWpYclJnekdBcXM1ZDlZRTlSd0xGdDhpdDlESUNQYXBXc0RRdE4xODVpNXZVWi02Um5RMA?oc=5",
+        "publishedAt": "2026-08-29T20:41:15.000Z"
       },
       {
         "title": "🔴🔵El Gobierno de Keiko Fujimori presentó este viernes 28 de agosto al Congreso, los proyectos de ley de Presupuesto, Endeudamiento y de Equilibrio Financiero para el año fiscal 2",
@@ -34,32 +41,25 @@
         "publishedAt": "2026-08-28T07:00:00.000Z"
       },
       {
+        "title": "Gobierno de Keiko Fujimori aprueba 66 pedidos de facultades legislativas y los enviará este viernes al Congreso - infobae.com",
+        "summary": "Gobierno de Keiko Fujimori aprueba 66 pedidos de facultades legislativas y los enviará este viernes al Congreso &nbsp;&nbsp; infobae.com",
+        "source": "infobae.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeHcxMWhfVnNON2JhY0J4QVJKdWFYTGNtajFhTVVQLUNVaEtONGFfZG5rekF2ZVRoMnVFdlRCYWc5d3BwNDJoMkpSY08tSlF6VFZUaEx1d25SY3l4Q3lYRklILUc3X3hjOHRkcEZsckpVTlJDZkJpdER3U2k0SEdRel9zWFY3SzhzNm02TVpTekFOQjV6STBTUnZ2WTVUQWpwZ1dHZnB4U2xVanM2MEQ4TzFKaDRTOGhYUlZXRXRoZ3JwUE44MnFBNFdIY2ZPckxrNVd5SzBkUXFjT3FSTDNkdmdwRjU1Z3NSN1HSAYQCQVVfeXFMUG1JUDEyS3F1V2pubkw0aVlOcE5lRFRWN3RPSHllNWluTnZWa2hnZzZwcjFvTjBmQ2tuVzNmaERCdWVPTzJpa3RyMDNBS1FxZjk1ZWlrcGFCaV9KZlRIUVQ2NnBvUlZuTEpJLW9CMmhzMVdaNU54cEF2MGx1WThETC04Vm80RnBQallPMk9lRHVxOGRfd1BCX2c2N2lfMUxjNXJqSXIzOC0yYUdENjkxRVdpQmNrZDdoYy1WLUJiNF9paU5kZVZGdFctaE9XOGlrTkxyek9BV0lxWm1GRXJqX2JvdUtwcUJ1UVl4SndWNWpTQkpYWnJnbjMwT1dTZEFwOUZzYjM?oc=5",
+        "publishedAt": "2026-08-27T07:00:00.000Z"
+      },
+      {
+        "title": "Consejo de Ministros aprueba facultades legislativas y presentaría el pedido este viernes 28 ante el Congreso - La República",
+        "summary": "Consejo de Ministros aprueba facultades legislativas y presentaría el pedido este viernes 28 ante el Congreso &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRm1CLXYwalJLbFZwYjY2SFQyd0lhVFYycExCV09PbXdSeDdPOTlBUXQ5MUpGYzhsRXRadjdVRllxUWdaRFp5WmpicUtMQ0Fjb2dLLTZYTGpJZUcxbjZUcFVOdDc1MkNfMGNOYmttTDk1SmlZZC1STEhId2xsZGNReFpMeEV6OG4ydUY0UUhiTzk1TDVRQ3l4V1hJUkVpb0JVOEZhdXl2NE5SMTdkM29keUlZRmRDM25vekcyTnRHbDk2dXpYN0lLVEV5Mjh0Z2UtQ2l1RGN2cS16OFdSWTRESnMwekktZENmOE03eNIB8gFBVV95cUxNdDVVNWowcm9lLTF5a2tfXzB6YlZrR2Zrbnoxc3JHeEpOZ1dyS3R6VHZSb0tEaVlPWWlQVXNmcVYyajFObjNPWXhKOFFBRklLaXBUSkVZMVRXQ0EyanJPTmY5dHdFN1NESVFabTFwX3VMLVVVRU1wbExnY05wTFk0dnVsdzJnbHJvREcyRnBCSDJrM0Z3ejZ6WFJzTVhmdVA0VXd1Z2s0WFVUNGFKcnJFTllvOExKVXFxaXpYVGdDQmk1bU1UbnRUd0V3bDMxUEdlODFRMnlTd1V0dEJRS0VTQzdVb2hlazJvOHM2ZlpGMHBjZw?oc=5",
+        "publishedAt": "2026-08-27T07:00:00.000Z"
+      },
+      {
         "title": "Consejo de Ministros debate hoy jueves el pedido de facultades legislativas - infobae.com",
         "summary": "Consejo de Ministros debate hoy jueves el pedido de facultades legislativas &nbsp;&nbsp; infobae.com",
         "source": "infobae.com",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHdoaFZIS0xWTDBhcXYzU3JhU1hxM3c0VmhkakZXclNGaGtKNTVwVFp2SEdHaWJ3d0RNaHFlRXVMSm1XQUlxbFZGanlFRFZiU3FCUzZ1V0p5dmp0LW1PbThsUTBhb1VOSmRDcmR0dDE4LTdzWTU4a2lYd0tuYzVZN29lWjg5eFN5NVlXYnZPMVBQRU5lUkdyTmVxamc4SlNEaElEbHh6dS05TnpZclVCVEVPU2ZGOG_SAdIBQVVfeXFMT05uX2o2Z3REcFRXakVHYlcyNzZDVmNBektyenBpeUpVd0ZvaHVrV1ZYdUs3UW1EZmljTW9VUzRzWndieFNKSXVSVlU2b2NZbWJlbDVneGNnd2MtSUw4VUZhYlEwdndlRkY2NDdGNk9zcGFqM0RHTHVsbVhzdWN3SnAwaUQteHN4UVlhN1RIeklpQWVoLUZGLVpva3BFUlNLdXIwbFBWUkdFNDVTNzJvN0huLWlKNzV1VjZ2ZG1WTkVSQng0RFRibEtncFNlUjVvMEpR?oc=5",
         "publishedAt": "2026-08-27T07:00:00.000Z"
-      },
-      {
-        "title": "Nueve ministros del Gabinete deberán responder ante el Congreso en los primeros días del Gobierno de Keiko Fujimori - La República",
-        "summary": "Nueve ministros del Gabinete deberán responder ante el Congreso en los primeros días del Gobierno de Keiko Fujimori &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcjVoMnQzZ1RHd3dDVC1ZMUNiaXVIQUxVb3lSSG9nNzZvdmd4aEtoT1dseW01WmFsRGNkdGNjMVdJdzNhdl9lclU1UXl2TkJQek8wNG1EMkYzRUdvNFlyLVktaFdUVkRqb3dVOWlKV2M3TmxhVElYWUdOMGl1bjNjR01FU1U5bkZISnZJTjNtTkpwVmtVOFFXNjhvMmFlbEtabURfMHl3akhkMG5HbW5oTXNOS3dGdGZuSFo3NzJ6c1RxbTB1Wi1lV2NrWlFaUFF4V25PT1R1VXFQZ0M1bWlNWlJTdHE3Y08zdFJJTVVlVU9KWm9JbnNtd3NFVWVXdzl2d19TemY3WGxyOUxnMzBKODdGRdIBmAJBVV95cUxQckQ1bWNJVWR6SFVwSDlXWFEtRHZyQUItaHJOOVE0SENlZ1hJLU5peUFXdmhkdkF3dml4SE9tMm9tcWxaMXJkVVEtMnp2dXFoSW4tb3d3d0FXNllfYXFTd2tLYmJnTVFvWjJ1VXZGTlNTTV9VdHdfWDl2Mkhsc3V2TDViSmVYbFQ5MUR1cGxPelRvNGpZdEpyRktuMERjMGZUazZkLWs3eHJPNXZGNlNVdE9pemVISVVfclFLLVlVTjE0NWFHSDJqakZySHFhbGZ0c3JIMHdNcjFOMnNadDJ6My03NGoxWXdVTXZYSjZyRGFQeVMxUUpTcWk4U24talVZYXdkckNrNGp5UThBbllWSVhXQzliZkR2?oc=5",
-        "publishedAt": "2026-08-24T07:00:00.000Z"
-      },
-      {
-        "title": "Gabinete de Luis Galarreta ante el Congreso: ¿Cuáles serán las primeras acciones y los lineamientos de la política general del gobierno de Keiko Fujimori? - El Comercio Perú",
-        "summary": "Gabinete de Luis Galarreta ante el Congreso: ¿Cuáles serán las primeras acciones y los lineamientos de la política general del gobierno de Keiko Fujimori? &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQUGRmVGRUM21JbHhyZzJMYUJfanFaV2xaWkg3LUdOcm1mNVZZcS05RnhKdHVHS1lMbDdBRHRtSTQ0dlA5TEUtWGFZV2RfLWNhZ0s1OUhoVV8zTVE2clYtQWVWQzlmQkNUdGhYZnlqQ3dRMVgxRVFodHdyd0doX0Zqbll6czVlZnphNi1sb2RyNVlaWXl6T21mdGNTdG5ZbTc0Zk45emxRQndSUDM4MG41Wl9TZG4wVU56R2xLZkxvTU1LcEVNemx3U2U4Rk1Ua2JFWDQ2MDFXQjRXQ0hkV3BmMzFwXzd1TGhJdS10cmRHSE5maXRTc3BvLWZ4T2VMMDhsX2tQQ3B4Q3dabmhDUUlMMDFCa2ROM0RncGJF?oc=5",
-        "publishedAt": "2026-08-21T07:00:00.000Z"
-      },
-      {
-        "title": "🔵⚪ La presidenta Keiko Fujimori sostuvo una reunión de coordinación con el gabinete de Luis Galarreta antes de su presentación ante la Cámara de Diputados para exponer la Política",
-        "summary": "🔵⚪ La presidenta Keiko Fujimori sostuvo una reunión de coordinación con el gabinete de Luis Galarreta antes de su presentación ante la Cámara de Diputados para exponer la Política General de Gobierno. 📲 Lee la nota completa aquí: https://shorturl.at/BNy &nbsp;&nbsp; instagram.com",
-        "source": "instagram.com",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLMVVzY3FMTFBrRTNHeHc1dmpZejVrYU00cmhSTVNOUVpVVTV0bWU4YTJMWWtZemFRMXZiQV8tQ185cFBpdXdmOHBDV1lhS1ZlWFE?oc=5",
-        "publishedAt": "2026-08-20T17:29:12.000Z"
       }
     ],
     "economia": [
@@ -259,11 +259,18 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Solve for Tomorrow: Samsung extiende hasta el 31 de julio las inscripciones para proyectos escolares de impacto - news.samsung.com",
-        "summary": "Solve for Tomorrow: Samsung extiende hasta el 31 de julio las inscripciones para proyectos escolares de impacto &nbsp;&nbsp; news.samsung.com",
-        "source": "news.samsung.com",
+        "title": "Solve for Tomorrow: Samsung extiende hasta el 31 de julio las inscripciones para proyectos escolares de impacto - Samsung Global Newsroom",
+        "summary": "Solve for Tomorrow: Samsung extiende hasta el 31 de julio las inscripciones para proyectos escolares de impacto &nbsp;&nbsp; Samsung Global Newsroom",
+        "source": "Samsung Global Newsroom",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSVQxLVVxUVdxTXBmZ2JhNzlRV2g5WThnRXl4SkdBWjg0ZERjdmJaT0pqeDlLRmgyZmtQbjNTeXpPMFRVbzNkMVNKcUpISkNpU0hjSjBQejR3THlhRklmeTFBX0pDSmVkSUFoRmpsMnkxY3FXSDRnUGY3TVFDdGpuekdoMXdIVFlFNHpmMk1qNnNqOGwzUXc5U2JJcnlLT252QUJQZS1wV0o4S3BqeVN1R25RVGN0SFJ3UkhFQVA4SUxnOFlCNVY5R3BWZF9UbG9IMGduZQ?oc=5",
         "publishedAt": "2026-07-17T07:00:00.000Z"
+      },
+      {
+        "title": "Perú da un paso adelante en la seguridad energética con el uranio y litio % - larazon.pe",
+        "summary": "Perú da un paso adelante en la seguridad energética con el uranio y litio % &nbsp;&nbsp; larazon.pe",
+        "source": "larazon.pe",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVU3eHAwN19tVTd6YlI0dE44dXc2cm96bmVxOEktWnBQbndNcVQzY0xqRkhVbE9rM2hVUXJEcm5CdXVxdTRYXzVMb1ptLU9IUWc1X3Q4UjNjZ0UzRkl0WmR4RTN6Ym5MXzU3SVFCbFB2QjZqZXBVVmMzMnFyajdfS2xrR2ptZ0Y2cXUyVzlHTFgxaC1iNmZPWg?oc=5",
+        "publishedAt": "2026-07-09T07:00:00.000Z"
       },
       {
         "title": "La paradoja peruana: Crecer sin innovar - Gan@Más",
@@ -271,13 +278,6 @@
         "source": "Gan@Más",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "publishedAt": "2026-06-25T07:00:00.000Z"
-      },
-      {
-        "title": "Estudiantes ayacuchanos transformaron el cuy en gomitas: la apuesta que busca ofrecer una alternativa rica en hierro - infobae.com",
-        "summary": "Estudiantes ayacuchanos transformaron el cuy en gomitas: la apuesta que busca ofrecer una alternativa rica en hierro &nbsp;&nbsp; infobae.com",
-        "source": "infobae.com",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbEhKWkVPQl9UdVJLZU84ck9vZG5KUTljSXlEU185RTdhSG45aWRkR1FqWWMzcEYxdUpyNWVlWGhoVVpXaWx6Ri1RazAwWVNzcGZKNGlmSW1tUjA1ekpHVXRKelY2bEpFUG5PVWptaDRQd3RCNHF1czlMQlNZMVIxYnVxb0VMVDlIbGlRYXlnSlZKd2J6eUZLNDRwVnM1dk9zYWdPRmk3M2I0b05rUTJSeUl1X3YxSmtGX2lyS2JzczVudGdGWEl1ckd0NWNWM1Y2bHp1LUVFN3BEc3hiRDJYM2QwemZsRC12d19BddIBhwJBVV95cUxNOWY3N1p1a1Y2dTNlMFpSM1ZOa3hhN3ZPd09jZnYzOHB5SGg1NjdGOW9Oc0l2aUpuM2RiSkxRT3NaQUZNS1V1WnhDNnUzdDBfX3BUMDRaZUpBUW9FVG4xRW1kSUh3b3BXWGZDbXNCaHd2UUNyUzJ2SkpndjE3ekJtYXBnZXMzSEpUc0VHY0xFZDFxQkdsdVZOLUdWTGJmWXVHZDR5dk9pZGhlZXNuZDZTdXFhbEpGejM1RnVSZjl2V3lnWVJZX0JfbGo1ZzFhRndXWi0xM2xkWFdMS09qQTc3MlNyTVI2WGgzTmxzbEl3MnMzdkU1STRDcUZQUnRDYzhOdEF4d0N5WQ?oc=5",
-        "publishedAt": "2026-06-10T07:00:00.000Z"
       },
       {
         "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
@@ -317,39 +317,39 @@
         "publishedAt": "2026-09-02T12:00:00.000Z"
       },
       {
-        "title": "48% de empresas en Perú ya usa IA para decidir tecnología - El Ecosistema Startup",
-        "summary": "48% de empresas en Perú ya usa IA para decidir tecnología &nbsp;&nbsp; El Ecosistema Startup",
-        "source": "El Ecosistema Startup",
+        "title": "IA, robótica y ciudades inteligentes: innovaciones que mostrará UNICTEC 2026 - La República",
+        "summary": "IA, robótica y ciudades inteligentes: innovaciones que mostrará UNICTEC 2026 &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTTcxWjB2cS0tc1NpWFRNWVhCa3VEUkRhN21IVy01cFl4akZzMlp1MUVfV01rZENVcTFzTHB3U0s1MWlmX1cxbVA1MENFRmZ1RjZwS2FzX3VIVktTZE1RVDVGY2FsN3lDbmdDdzluMlAySUpNSU9ZZ3NWS3o3UUxWWEFqVTdqSFRuRUpFR0szOE50WlVPd2hKSHdTQ1ZWSUVEdzBzU0tQaEFGTi1ENlVhVnRQZEgwWmVjS19mTURZVlFPSGFJ?oc=5",
+        "publishedAt": "2026-09-01T18:11:25.000Z"
+      },
+      {
+        "title": "48% de empresas en Perú ya usa IA para decidir tecnología - ecosistemastartup.com",
+        "summary": "48% de empresas en Perú ya usa IA para decidir tecnología &nbsp;&nbsp; ecosistemastartup.com",
+        "source": "ecosistemastartup.com",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHRERGFZMl9McEdhSktmdFR2S21xcWtQYnIwVWNxdjFOeGFTSlpoRnVubWFNS3BMYUkzVjVGSWZ5OF84ZGk3d0t5MTNxLVE2cGY0MkhUamdSRFdmdXcySUZGNFNsd2RzM2VCejNWNklFYjZfWGVQMmxhZm0zNmpqN21Bb2RpSTNidEVXdWctTkE?oc=5",
         "publishedAt": "2026-09-01T00:36:42.000Z"
+      },
+      {
+        "title": "Uso de IA en empresas en Perú: 48% ya la utiliza para decisiones de tecnología e inversión - La República",
+        "summary": "Uso de IA en empresas en Perú: 48% ya la utiliza para decisiones de tecnología e inversión &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcm5QZWtMU3hqczlvbmM4b2tvbV9uN29TN19VTWt5Z0xrV2I0OTJkelNFcFU4YmY3aUVfQ2QtYWNnQldIaGpXNVE0d0V1dmhQeGRxUE00dXpWaERrRzVkUmVKZUcxenNjejhxeVBQSzg1NmVHUTg4TFBZWlNXdVNqM0h1SHRRNUMyblBrTDVrX2o5STZ0SjI3eEtVV3VveGVldGd3U0U5d0ZmMFlrVmYxMi0tM29mSGdHSWVaOGMzV0Q4YUhpR0hZUnRxekp2VkNXeGtvbERDTlpQX0xfc1Vsc01vZXl3TmtYQ1M3Ukt0Yw?oc=5",
+        "publishedAt": "2026-08-31T22:12:01.000Z"
       },
       {
         "title": "Educación en tiempos de la IA: los retos en Perú y cómo viene cambiando el aprendizaje de idiomas - El Comercio Perú",
         "summary": "Educación en tiempos de la IA: los retos en Perú y cómo viene cambiando el aprendizaje de idiomas &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQQ3E0Wk53M0ZYWlRIZnd5U2hWcXRFbGhzRWNwUjFSOFZndmZnaF9ValIybmxiSG0zclY4RlJYY201ZGtiRGRXTkhyVXh5eHlWb0pCZGZERU9OVnVrTWc5ODRjTy1wLVI2cE4taENzSGFNNXBVcUVwSFlLaHpOb3BQN0V1dnZObk9ReC15alkzNlZ0X1RRWDZhQVZobjFJSUpHQVNBRy1PbklTWnFjNmJ2TkgwS2hValR6QkphdUxtMUNhZF9ocldvbklLX2hJS1M2aWEwNi1lSEdsc29qWWVfcnJsS2lJUkhiOTVIbHk1VE4xWDh4bU1ONU5EeDNKazk5bjhVY2dZb1FKampQT0xwa2gyZ3k?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQQ3E0Wk53M0ZYWlRIZnd5U2hWcXRFbGhzRWNwUjFSOFZndmZnaF9ValIybmxiSG0zclY4RlJYY201ZGtiRGRXTkhyVXh5eHlWb0pCZGZERU9OVnVrTWc5ODRjTy1wLVI2cE4taENzSGFNNXBVcUVwSFlLaHpOb3BQN0V1dnZObk9ReC15alkzNlZ0X1RRWDZhQVZobjFJSUpHQVNBRy1PbklTWnFjNmJ2TkgwS2hValR6QkphdUxtMUNhZF9ocldvbklLX2hJS1M2aWEwNi1lSEdsc29qWWVfcnJsS2lJUkhiOTVIbHk1VE4xWDh4bU1ONU5EeDNKazk5bjhVY2dZb1FKampQT0xwa2gyZ3nSAagCQVVfeXFMTzNsNDRScVoxRXVtalZXVVg3Z2hkOTVRR3hCcHhaYWxDT2Vub0p1dWFiclp2ODAyVXd6OHdGeVNoTXpSaGRsRFNmaFhscUo0dHhBYmEtR0xid1VjazFnOHFmelE3UEY0X2FGLXV5VmowUWJoM21DUUhmMGdJTy1xaWNSSjVMcGJ1VERvVWZCNENueXk0VjdXc1NhR0h4TW9JeWNUNG9NVWlIaXItTk5uUnMyMDZFYnNDSXBmWmkzQzZaNXVZWG9BMFBSaFRMLXg3V29RRWFIRmVGREJqMkJ1Q2Q1TTNTb2F4d3F6STlNZjJmTWJCRmwwdmJ0RFJSNGR4VENQVk9KNXhYZlF0cjRPU0ZaX3BpbUF6ZjNOWHhiT1B4eTcyTmY3eHc?oc=5",
         "publishedAt": "2026-08-29T21:15:00.000Z"
       },
       {
-        "title": "OSIPTEL evalúa nuevas reglas para el internet en Perú ante el 5G y la IA - La República",
-        "summary": "OSIPTEL evalúa nuevas reglas para el internet en Perú ante el 5G y la IA &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU3UwTlZ2TkQ5MFN4V0ctX0RTWk5HcmcxcGQ5QVFfbzQ2Z2RveFdmbVZTdk53TFNHQWpRa2V5c0U0RjFneFdKLUJGZ2hKN3QxRXhvaXpFWnFYczFfaHhrNEZxV0ROMExIV252SF90SnZXLXpoSG9ybVBfZFpkVy1Fby1iRlFZUnRQMVFLb2MwTHR6Zml4YlhjbkxFRVJrRHlWY2FWV1pPMnBqSmlWRG9uRE9hN0RRRVh4UnBaOXdaYWlwVnhIaVhMel9Iemh2VHBFZ3ZPb1FzQXkwR1k?oc=5",
-        "publishedAt": "2026-08-26T21:25:30.000Z"
-      },
-      {
-        "title": "La IA avanza en Perú, pero las empresas enfrentan un reto clave: mejorar su infraestructura tecnológica - infobae.com",
-        "summary": "La IA avanza en Perú, pero las empresas enfrentan un reto clave: mejorar su infraestructura tecnológica &nbsp;&nbsp; infobae.com",
-        "source": "infobae.com",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcHcxMHZXbVRFdm1rYVdjR05vdWkwRC1YZEs1STVyMjNVNTJ6RjlmcVgwUUFMWDNpeU1aR3I3TWMzdVczRW4tRkg2S1pmR2haZE9WdE9MT0pwZFktcC0xQk5KbGpoYTZrWGE2VDViYmhRVmZfS1pkOHc1UGw3OU5oNmtfeU1Sc1Q0NnZ5amVPZFR2MzB1dkllZVB2U3dhYVFfN3Q4OWJxdXI5Z3dEMkcwdi1sWWtHNTBIZ0daa1E2bDN1UlU4UDdPN2dlOFVpZGZrTkZOenZVMl9TVkXSAfYBQVVfeXFMTWhZejBPWVJvRWc5VmowYS1ocnJIQlU3TnJxcUlzWGpRVHJOZGJVcXlKZll6SlhycDRMOC0wMkZIbnZOZVpKTDlSSHFNY21qYjRRWjBEeGVHdXFQOWRwSVVoVFR3UVZwTzRHb1ZidWktcklvOGZjYVRxZk00WnE5MmlVZXhzVVRaV0RjMk1VLThMak9lYUZOTERPWGtwcTZCTXZmT0stUkhxeVlkQ3V6SzJkYnVfMXBScTZuWHlrVVEyLWQtdENYZzlMSkpERl9xdWZyZmVkV1Z2bXVMRVBaajlzNUF0Q3pfT2R2S1kzaHA1NWNFeURB?oc=5",
-        "publishedAt": "2026-08-26T07:00:00.000Z"
-      },
-      {
-        "title": "Google AI Plus gratis para estudiantes en Perú: Requisitos, beneficios y cómo solicitarlo - atv.pe",
-        "summary": "Google AI Plus gratis para estudiantes en Perú: Requisitos, beneficios y cómo solicitarlo &nbsp;&nbsp; atv.pe",
-        "source": "atv.pe",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45eVZTXzg5WkVPdjVGcENmLTF4Z1BoWC15eHIxTExOWENZYTlLSnJvdFNVemlqdjhJWVVwakpZVTV0V2w3SVdldk54REZqTEU3cld3WmVEZUJpSFNSMXp1UWd0OVdrSzYxb184MHlvVG1aeVdi?oc=5",
-        "publishedAt": "2026-08-26T07:00:00.000Z"
+        "title": "Belleza, tecnología e IA: las claves que dejó el Beauty & Health Retail Forum 2026 de Perú Retail - peru-retail.com",
+        "summary": "Belleza, tecnología e IA: las claves que dejó el Beauty & Health Retail Forum 2026 de Perú Retail &nbsp;&nbsp; peru-retail.com",
+        "source": "peru-retail.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTEZhQmMyTGgwSmlDM1cyUVNRYzBpZjkxZDg3dWFKb291VUVVOGVramIyWmZsdHJ5VS1LbjNVS3RETEotcGE0Y05YOGM2WHVzelp2TzAzMGxRZ2NHQzBhNUpQdFYxZmhmNGR5Y2pkRkdvUGdjS3Y5bzBVZXVYalNMSGZtd05qanN2dFNhZFBnWXZ4YmJDU0lWUnBiZjRROFQtNGVFSHgzX3lpMXEtbXNRU3ZpOTNPUUlJSnphdHd4NA?oc=5",
+        "publishedAt": "2026-08-28T21:18:09.000Z"
       }
     ],
     "tendencias": [
@@ -382,6 +382,13 @@
         "publishedAt": "2026-08-15T07:00:00.000Z"
       },
       {
+        "title": "Dr. Guali, la botarga peruana que desató comparaciones con el Dr. Simi en redes sociales - Canal 44",
+        "summary": "Dr. Guali, la botarga peruana que desató comparaciones con el Dr. Simi en redes sociales &nbsp;&nbsp; Canal 44",
+        "source": "Canal 44",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTFsQ2ZkX0d0V2FnTXBncWYyVGlGejdENURmN0llZ2Q4Z3F2a0liVEYzcnI5UHUtYkxSZlV1WHNHV25CUlEwdThPXzRHODZWWHNVV0F4RVFnRDBCdGNIZVR5d2luZTBuOE9ia21TRGcxVjhOZnlnOVBWX2hUaGlOWURnZ1ZpM0xoQ0I5dno2TThhc0lUdXNCMzdBdGU4dmUweDlYQWZJUUh3dw?oc=5",
+        "publishedAt": "2026-08-04T18:37:14.000Z"
+      },
+      {
         "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - infobae.com",
         "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; infobae.com",
         "source": "infobae.com",
@@ -401,13 +408,6 @@
         "source": "infobae.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19nT2YyMlR5RFhzZVRjTXpPcjZXYjhHZ25aV1BkeTFuWDVKTHZxUFRyQklUb0JYaGFIMUJEbEdVbTg3Y01OV255QmN3OHlEbWNaS185UXVqUHhydnF1YTlrZTNSQmtmVGNKc2xyb28zTmt4czlsd2Z1OC0wQTZYWmpjT0pUNU0yN21CWnpYamV6eU43TkdQUE1FdjUxUGVRQ0tzbGpDbEk2Y0xrS3Y1bl9hY2UxSnVuMTF2ZV82MTZ2dGVkQ0tPVG1R0gHkAUFVX3lxTE5xaE1KVl9TLXVjQW16VUhTbmotZWRBcUJueDBnQWZLZFhPaC1hSjZNSGVXSnFEQlotekUweWloX0xEc2txcEt5N2RGOUFBYXBFaXBZYTdZaWpkaktoNUd4cDFsV2R3bGdOOGNDVV9qajFLMy1ZTUh3TXU4dlZmVmprRnlvQzhLMlM4RnpTT2FMSzhKdS1PaXdvZE0tQnlIUmIyM3l4akJrYjIwcnMwY25yMXl2TFIwdjg1YXpBNmRnNDBrdU9oZTN5LVU4MGp6dHVVR09fTnh5cmN1eGNsaXBDNUlZXw?oc=5",
         "publishedAt": "2026-07-07T07:00:00.000Z"
-      },
-      {
-        "title": "😱 ¿Coincidencia o realmente hay un parecido sorprendente? 👀🍗 ¿Tú qué opinas? ¿De verdad se parecen o es solo un meme más de internet? 💬 ¡Te leemos en los comentarios! ¿Quién ga",
-        "summary": "😱 ¿Coincidencia o realmente hay un parecido sorprendente? 👀🍗 ¿Tú qué opinas? ¿De verdad se parecen o es solo un meme más de internet? 💬 ¡Te leemos en los comentarios! ¿Quién ganó esta comparación? 😂👇 #ExpresoNoticias #Viral #Tendencia #KF &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWnN0T0I3UGZOMENvODVOSko2akk1ZmUxVS1EZnNwN0dnUDM2MTNSckxyTC1la1podjhOVEl0SWd6aWFDc3ZnZ19PYWk5VzNkZ0FiT1BZdGR1VFo2aUhpSWQycFcyMXB0TGlyTGpsNG9QQWEtQkxIWXQ4Umd3LW5PQkxmWWJIZTFRdVVSMmhUTGRjMzRPYmxweE9LT2dybnhxNGNBVUR1cWVOeUlvUzlBeXNtZXZaTEN1bWh1V0dQNVRSREZvWWFVVHBaZ0x0WnhMNS1MZUdGMTN4X2pzUkZHaGZlcjItUE5NaWc?oc=5",
-        "publishedAt": "2026-06-27T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -426,9 +426,9 @@
         "publishedAt": "2026-09-03T14:39:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
+        "source": "diariocorreo.pe",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
@@ -498,16 +498,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial - Agencia Andina",
-        "summary": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeXB6VFBlM1RPTWI4dlVYbG9uMHFmSm8teUlmek51TVhua2dpZTFJWTg4bUdkOXp0TkFnWnJfeTRWYUVXN01tblcxOWhLc1RyX3l0THI0dUdSdVJEb1dfLTVOY3o1YXlNXzk0SFhLTFRFejdrVGlOdmpiWmREcXB3cTVIMVBHd3FJLUJrNGcwUENqbUpyelNqbjhIZDhVNGlZYUthVHFfMHg4WERlSVlXZ0l0RHZTcnVMc1RiYjAtOA?oc=5",
-        "publishedAt": "2026-08-06T07:00:00.000Z"
-      },
-      {
-        "title": "¿Cuáles son los cuatro eventos internacionales que se darán en Lima? - Revista Caretas",
-        "summary": "¿Cuáles son los cuatro eventos internacionales que se darán en Lima? &nbsp;&nbsp; Revista Caretas",
-        "source": "Revista Caretas",
+        "title": "¿Cuáles son los cuatro eventos internacionales que se darán en Lima? - caretas.pe",
+        "summary": "¿Cuáles son los cuatro eventos internacionales que se darán en Lima? &nbsp;&nbsp; caretas.pe",
+        "source": "caretas.pe",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0h5WTF4MXVHQjVWY3VYd3VZUWVIWnE5c1VfYTRHbXNMWEhRcUFESUlXYXpmWncyZ1pPNWtjdmN5N3dBOTQzak1mMWswYUUzSTF5aWxUTmFjdnpndmNjenV6dEJORHFRRUFmWG1lU2lDeVNNWENGY1pFYkYtV202QmVUb1djZ2JTS3RYTlNDQVZrM1U5YXBPamlrU2hyT0lzYzk0aA?oc=5",
         "publishedAt": "2026-08-05T17:35:26.000Z"
       },
@@ -524,6 +517,13 @@
         "source": "infobae.com",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNakh4U3JYZGg5SFplLUd5U1U0SXgyUGRBUkxsVzVhbi1yZW85Mm0xem02Vm11N0FFUGhJZlA0QU5EXzlQNmdkTnJOOHRHVnNaWFNERUVWcWJ2ZEtEVlBtQUd1d0dDT3hwY3BhNm5OVTd3aGlOcWRHd2o3dE11U3poVExlMVhkRE55NHNNNjJTSTV4VEJTRU5XZnc2a1RibW1iRE4xai1YMmwtMUF3c3Z2THNId3I1RmZSZVFiOWl5YWdIaDZYUDhzWUppdlhrOWJieHFVSFFOWE9UYUk5X2hnYTQtQndwQTY5MlFDdkVldG5RNk1DbU14ZzRZd0c3YWxC0gGbAkFVX3lxTE0yaWZzMGM0Z0hRanBLWWNWYVJvZzVTejd2VTgtQVZ0LTJURG0zRmYzR21RSnpjOUlKUTUtWmY2em9aZGFjLWZGa1UzWnQ2NEs0N25ydXJhc25xUGxoMTRlc3dBc3FoU2Z1X21DVTI4dUpsQ2thaDJvTmxMQVlrb0dIM2lmb1JtanRoZ1JzQWZsMC1lazFSelRQZjd2cl9zOHJpN1JNNEN1NTlTOVBsZVg2blVDRUI2QnJlYndXbnlTczRNek9hZ29lSDdZOGVNMUVpWldHaXJPSzQ0YW9qcXRtem1QQkNleUVTNHlRTU9NN2VudDktUkRySUtKSmxMbDdQZ2VTYXkxRjYzLWtTcDdsV2JBNTBkWTBDclE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "¿Qué hacer en Lima este 28 y 29 de julio? La agenda cultural y de circo por Fiestas Patrias - altavoz.pe",
+        "summary": "¿Qué hacer en Lima este 28 y 29 de julio? La agenda cultural y de circo por Fiestas Patrias &nbsp;&nbsp; altavoz.pe",
+        "source": "altavoz.pe",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFg3R3g2Y2RlalJ6UTdvUUpjNDJ2bU5jSzRjTXpBT0FaOE5TdjdQdTlkelpGYnhWQnBLZ09IZ3Fmb19nYjd2azhBaW04Q0Qya2FydHZKVVdjRE9tWWZCeUtaQ1dFOUNoWlRUcklyakZtNFdFWVY4b1NaME5ScERDNktzel83UlNLdkpMdW95Vl9SM1ZBcHR6WF9XZGRYMHJvVmt0MV90ek9iWGc4Vkw3QVdaTjE3Vm0z?oc=5",
+        "publishedAt": "2026-07-27T07:00:00.000Z"
       }
     ]
   },
