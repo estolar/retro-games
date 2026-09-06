@@ -1,17 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T22:47:28.797Z",
+  "generatedAt": "2026-09-06T00:40:21.902Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
     "politica": [
-      {
-        "title": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial - Infobae",
-        "summary": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHlnUW12Z25xWXFVV3N1dVN4UzNLY1ZlYzFqcXk2NDZWSENpcGhjRGtTOTBnRE9fWmlPbzNzOXU1RldUVXRkR1JhUFZwd1NRODBWb1FsYTNLV3JvcDU3NUtLUVVPdEhhejNlWU5CZ1dXSk9TTThhbUtnSGVlQi1XMHJrSm1QLUpTNG1oaGNRN0lWeXkwWVlxM2l4MGFuTkZUNTZfQmdISXNOMW9MdnRxVlV0QzhCWXZzQVE4cVJrTzZtWnA2TEU5MFExdUhYanZoWVhMblVHNi1yQ3RFQXFWLTZyNlDSAf8BQVVfeXFMTzYycU1uN3FkcS05SkdXb21BUHljZFc2ZVczUXZsdDFSNEVOTmQzcXNmOEFCdVQxdUlTaHByelZrSTNYcGwtZ3hZa0VmbkJqSWVxQUNCRHRiWS1PRnhmUDc3NzNiUkRHVWtJSGZ5cnAxTGdJWkRRWHFvVzdoX1YycGROWFVBeDZaU2lQM25PcU91bGU1NTVwLWhOTU83MlUyZGR2bnJ1Z1Q1cnNubHg4bE8zSGhNaVI0Y2NFTXJ4TXc5UmNOcUM1eGpPTlFRYzZSbHVIZzNyaGNQMXR3TGNRVG1mbC1Jb3huRFZFWWhhTkxIN1RWOFVpUk91SzZRbk5z?oc=5",
-        "publishedAt": "2026-09-05T03:11:00.000Z"
-      },
       {
         "title": "KEIKO FUJIMORI | Pese a los cuestionamientos sobre la conducción policial, Fujimori volvió a insistir en la necesidad de que el Congreso apruebe cuanto antes el pedido de facultade",
         "summary": "KEIKO FUJIMORI | Pese a los cuestionamientos sobre la conducción policial, Fujimori volvió a insistir en la necesidad de que el Congreso apruebe cuanto antes el pedido de facultades legislativas presentado por su Gobierno. &nbsp;&nbsp; facebook.com",
@@ -60,6 +53,13 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRm1CLXYwalJLbFZwYjY2SFQyd0lhVFYycExCV09PbXdSeDdPOTlBUXQ5MUpGYzhsRXRadjdVRllxUWdaRFp5WmpicUtMQ0Fjb2dLLTZYTGpJZUcxbjZUcFVOdDc1MkNfMGNOYmttTDk1SmlZZC1STEhId2xsZGNReFpMeEV6OG4ydUY0UUhiTzk1TDVRQ3l4V1hJUkVpb0JVOEZhdXl2NE5SMTdkM29keUlZRmRDM25vekcyTnRHbDk2dXpYN0lLVEV5Mjh0Z2UtQ2l1RGN2cS16OFdSWTRESnMwekktZENmOE03eNIB8gFBVV95cUxNdDVVNWowcm9lLTF5a2tfXzB6YlZrR2Zrbnoxc3JHeEpOZ1dyS3R6VHZSb0tEaVlPWWlQVXNmcVYyajFObjNPWXhKOFFBRklLaXBUSkVZMVRXQ0EyanJPTmY5dHdFN1NESVFabTFwX3VMLVVVRU1wbExnY05wTFk0dnVsdzJnbHJvREcyRnBCSDJrM0Z3ejZ6WFJzTVhmdVA0VXd1Z2s0WFVUNGFKcnJFTllvOExKVXFxaXpYVGdDQmk1bU1UbnRUd0V3bDMxUEdlODFRMnlTd1V0dEJRS0VTQzdVb2hlazJvOHM2ZlpGMHBjZw?oc=5",
         "publishedAt": "2026-08-27T07:00:00.000Z"
+      },
+      {
+        "title": "Consejo de Ministros debate hoy jueves el pedido de facultades legislativas - Infobae",
+        "summary": "Consejo de Ministros debate hoy jueves el pedido de facultades legislativas &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHdoaFZIS0xWTDBhcXYzU3JhU1hxM3c0VmhkakZXclNGaGtKNTVwVFp2SEdHaWJ3d0RNaHFlRXVMSm1XQUlxbFZGanlFRFZiU3FCUzZ1V0p5dmp0LW1PbThsUTBhb1VOSmRDcmR0dDE4LTdzWTU4a2lYd0tuYzVZN29lWjg5eFN5NVlXYnZPMVBQRU5lUkdyTmVxamc4SlNEaElEbHh6dS05TnpZclVCVEVPU2ZGOG_SAdIBQVVfeXFMT05uX2o2Z3REcFRXakVHYlcyNzZDVmNBektyenBpeUpVd0ZvaHVrV1ZYdUs3UW1EZmljTW9VUzRzWndieFNKSXVSVlU2b2NZbWJlbDVneGNnd2MtSUw4VUZhYlEwdndlRkY2NDdGNk9zcGFqM0RHTHVsbVhzdWN3SnAwaUQteHN4UVlhN1RIeklpQWVoLUZGLVpva3BFUlNLdXIwbFBWUkdFNDVTNzJvN0huLWlKNzV1VjZ2ZG1WTkVSQng0RFRibEtncFNlUjVvMEpR?oc=5",
+        "publishedAt": "2026-08-27T07:00:00.000Z"
       }
     ],
     "economia": [
@@ -85,9 +85,9 @@
         "publishedAt": "2026-09-04T20:18:00.000Z"
       },
       {
-        "title": "Perú: inversión minera se consolida como motor de economía y proyecta crecimiento a 2030 - Agencia Andina",
-        "summary": "Perú: inversión minera se consolida como motor de economía y proyecta crecimiento a 2030 &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
+        "title": "Perú: inversión minera se consolida como motor de economía y proyecta crecimiento a 2030 - andina.pe",
+        "summary": "Perú: inversión minera se consolida como motor de economía y proyecta crecimiento a 2030 &nbsp;&nbsp; andina.pe",
+        "source": "andina.pe",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkI1VktKYVFST0kxOTd1VFQ4eWVSSW9RQ3QtbUNiMU1zenVhQ0t2RldiUEJqUWwxN3VBNG9UaWRyQ2xxdW13LU9QNGVIVEM2a1VCekYxYWtjcVU2N3hsb0E4TC00R0dSZFhBalJ3MTJkUlNVSDdXODNTMVlPU0VOUXhSaEViUmktUkxMQk5HQVFRUm1rTW1UNkhiVFB1Rnk3MEk3aGpnaXlkbGt1djBGZUg0Y3MwbGsxWGRjNUk5eVd5ZUQ5bGF2ZU5XSQ?oc=5",
         "publishedAt": "2026-09-04T17:00:00.000Z"
       },
@@ -129,9 +129,9 @@
         "publishedAt": "2026-09-03T20:31:42.000Z"
       },
       {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión en Perú - Agencia Andina",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión en Perú &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión en Perú - andina.pe",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión en Perú &nbsp;&nbsp; andina.pe",
+        "source": "andina.pe",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVkJ0Y1FxZmF2aHRpLW9xaklTbXpRVWdPSTFGUEtlTFBrQWxVV0xVdkY5ek1XUTRJWmdCeGVONUxMZW56Z19kLUkwMmhUdi0xSlVMVW5vSFVoR2Z6eVlFdzg1Q3FnUXR3RTBEWmZsc3prSnNHTUljdGp2YmFBbHIwUXMzNDBqUHBrbE1aQ0h2cE5fX1h4ZjNTZ3h5T2I1clVQUVdqQ0RZS2o?oc=5",
         "publishedAt": "2026-09-03T17:53:37.000Z"
       },
@@ -157,9 +157,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - Agencia Andina",
-        "summary": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
+        "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - andina.pe",
+        "summary": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos &nbsp;&nbsp; andina.pe",
+        "source": "andina.pe",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDg3MFVjQnE2eHFPRWpXV3RHcFUwQ3NzalN5MTBFNFhNV1ZYNVpkRFBRSlh1QmhCUzhCdXRWWE5xRnNHYWhIMzRwMnQ3Vl9CMWZBalFwTzd4eFI1cW9LYmkwS2toT3RpeC1pZC1paFlhOVlxdXdJUUJYQ3dzT1pGU3NLSVhIaUMzdXZ3QThaTGFMbF9SRFYyOWQtZy0yUE1NWFZtX0hNTUM0ZFZlSDZtck53Nmpqc2tYSkpZN0ZBTl9NbVBBMlAw?oc=5",
         "publishedAt": "2026-08-11T07:00:00.000Z"
       },
@@ -229,9 +229,9 @@
         "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
-        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Gan@Más",
-        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Gan@Más",
-        "source": "Gan@Más",
+        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - revistaganamas.com.pe",
+        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; revistaganamas.com.pe",
+        "source": "revistaganamas.com.pe",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
         "publishedAt": "2026-06-17T17:04:18.000Z"
       }
@@ -273,31 +273,31 @@
         "publishedAt": "2026-07-09T07:00:00.000Z"
       },
       {
-        "title": "La paradoja peruana: Crecer sin innovar - Gan@Más",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Gan@Más",
-        "source": "Gan@Más",
+        "title": "La paradoja peruana: Crecer sin innovar - revistaganamas.com.pe",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; revistaganamas.com.pe",
+        "source": "revistaganamas.com.pe",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
       {
-        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
-        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
+        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - andina.pe",
+        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; andina.pe",
+        "source": "andina.pe",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "publishedAt": "2026-05-29T07:00:00.000Z"
       },
       {
-        "title": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación - Tu Diario Huánuco",
-        "summary": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación &nbsp;&nbsp; Tu Diario Huánuco",
-        "source": "Tu Diario Huánuco",
+        "title": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación - tudiariohuanuco.pe",
+        "summary": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación &nbsp;&nbsp; tudiariohuanuco.pe",
+        "source": "tudiariohuanuco.pe",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGpsT3FrekhQWTg2UDZlY1JyaUJzQWI4UDEyRjZGUDY4ZXRtQjBUUHlmdmtrSW8wN29HalpYQWswZFA1OHg0SVAyRldYdFR3bUk1V0xwRHRWc1ExQnNXN0VzejE0eHFacXpMd1RnQ2hjR0ktQU1CeGZrZm1HMUUyci0tdW1xWnpyeWl3NHRua0pSRXE2azVCNEk4aTg4VDN4czhsZXV1T1F3THByYkJyajF5blp0cjlKanJ6blRGNEsxS3dOMnFYMFAyZXRqbEJyRDhVX2x5WWxadw?oc=5",
         "publishedAt": "2026-05-05T07:00:00.000Z"
       }
     ],
     "ia": [
       {
-        "title": "Entiendo.ai: talento peruano que innova con inteligencia - Revista Caretas",
-        "summary": "Entiendo.ai: talento peruano que innova con inteligencia &nbsp;&nbsp; Revista Caretas",
+        "title": "Conoce el talento peruano que innova con inteligencia artificial - Revista Caretas",
+        "summary": "Conoce el talento peruano que innova con inteligencia artificial &nbsp;&nbsp; Revista Caretas",
         "source": "Revista Caretas",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlFmcDhwYmxRR1ZRenY4SlZSckQzY3RnOHlOUXBxVG1nb2dFY19xN0RQbVF2SldOVHluS2toOWlSa3BEMXFLS3lYVGpjZ3A0NHZTYm5JNU1rVXU3NHd5R0ZCTG5mOXJsTHpfb0ZRNnRXVkUxQS1ldHowcHh2QUlzS0RSaEtibko5ZXI4a3hQZVFlbzkwM1NpWg?oc=5",
         "publishedAt": "2026-09-05T17:21:04.000Z"
@@ -338,9 +338,9 @@
         "publishedAt": "2026-08-31T22:12:01.000Z"
       },
       {
-        "title": "Educación en tiempos de la IA: los retos en Perú y cómo viene cambiando el aprendizaje de idiomas - El Comercio Perú",
-        "summary": "Educación en tiempos de la IA: los retos en Perú y cómo viene cambiando el aprendizaje de idiomas &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
+        "title": "Educación en tiempos de la IA: los retos en Perú y cómo viene cambiando el aprendizaje de idiomas - elcomercio.pe",
+        "summary": "Educación en tiempos de la IA: los retos en Perú y cómo viene cambiando el aprendizaje de idiomas &nbsp;&nbsp; elcomercio.pe",
+        "source": "elcomercio.pe",
         "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQQ3E0Wk53M0ZYWlRIZnd5U2hWcXRFbGhzRWNwUjFSOFZndmZnaF9ValIybmxiSG0zclY4RlJYY201ZGtiRGRXTkhyVXh5eHlWb0pCZGZERU9OVnVrTWc5ODRjTy1wLVI2cE4taENzSGFNNXBVcUVwSFlLaHpOb3BQN0V1dnZObk9ReC15alkzNlZ0X1RRWDZhQVZobjFJSUpHQVNBRy1PbklTWnFjNmJ2TkgwS2hValR6QkphdUxtMUNhZF9ocldvbklLX2hJS1M2aWEwNi1lSEdsc29qWWVfcnJsS2lJUkhiOTVIbHk1VE4xWDh4bU1ONU5EeDNKazk5bjhVY2dZb1FKampQT0xwa2gyZ3nSAagCQVVfeXFMTzNsNDRScVoxRXVtalZXVVg3Z2hkOTVRR3hCcHhaYWxDT2Vub0p1dWFiclp2ODAyVXd6OHdGeVNoTXpSaGRsRFNmaFhscUo0dHhBYmEtR0xid1VjazFnOHFmelE3UEY0X2FGLXV5VmowUWJoM21DUUhmMGdJTy1xaWNSSjVMcGJ1VERvVWZCNENueXk0VjdXc1NhR0h4TW9JeWNUNG9NVWlIaXItTk5uUnMyMDZFYnNDSXBmWmkzQzZaNXVZWG9BMFBSaFRMLXg3V29RRWFIRmVGREJqMkJ1Q2Q1TTNTb2F4d3F6STlNZjJmTWJCRmwwdmJ0RFJSNGR4VENQVk9KNXhYZlF0cjRPU0ZaX3BpbUF6ZjNOWHhiT1B4eTcyTmY3eHc?oc=5",
         "publishedAt": "2026-08-29T21:15:00.000Z"
       },
@@ -426,9 +426,9 @@
         "publishedAt": "2026-09-03T14:39:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
+        "source": "diariocorreo.pe",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
@@ -454,18 +454,18 @@
         "publishedAt": "2026-07-03T07:00:00.000Z"
       },
       {
+        "title": "Fiestas Patrias 2026: sector entretenimiento proyecta crecer 7% con un gasto familiar de hasta S/1.500 - elcomercio.pe",
+        "summary": "Fiestas Patrias 2026: sector entretenimiento proyecta crecer 7% con un gasto familiar de hasta S/1.500 &nbsp;&nbsp; elcomercio.pe",
+        "source": "elcomercio.pe",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZndMbmM4U1MyR2VURnZLbGMzSHF3bDRJTWo4WDU4WGRRMG9MZ0tPdkFvcFlnODRLejB5cFZ6OVJwZFhuQnB2VGlaRXNmVVJqMGgwUEZ5WGppVnViOHRUdDVEazVnbkZxUkNYUDFZRVp4ZzZaMWRkT2RVM3otR1N0alhSa2NKYUZoZkRKYWE1eGc5ZlQ5ck1iUThWcUJ1ME84RWw0Z3JEbTllTmFlRlVWbnNBdWEzbHJvd2xwRXc3MjBZS3dqbERQZXJHX3RHbEtNZmpnYVlXcllfdGplN2w2RDY0X0h2SjlV0gH8AUFVX3lxTE9jT2drbzFXWndYUFd4REFLcWdQYWZGTy1uNzJTNzUtLVNhUU9SS3ZfSUlzQkNwa3lpOWhRUXpOMkg5MFhtNGNXRi1lMzJIdGhyNC16dXJNOTBvckpHMzNOUUdfcl9PeC1CN2hTMjcyUm53dWRvYnRSY2lxdDlDeWxLQkplVGozWVJrQ3hMQVF2QmRscUNfMXlZNXVkS0xQYUl3SmxOdHZyRVlxT1dZMlhScDRsOE1xN21DR2llQm9UVi1LaVlxRFBUVkZMUmJBeTVpSkJDYXo4c19OTzh4a0VoMmRvaXBJSVlOaDVuQ1pEYlVlUWxmOFlXQmtwQQ?oc=5",
+        "publishedAt": "2026-06-30T07:00:00.000Z"
+      },
+      {
         "title": "Ricardo Arjona se solidariza con los venezolanos en su concierto en Perú tras los dos terremotos - Trome.com",
         "summary": "Ricardo Arjona se solidariza con los venezolanos en su concierto en Perú tras los dos terremotos &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOERDMDlhVkRZY3pybFhrVE5xT19RbVRHcFpzNFFzbkY1bFVQYkdWaFg4djBNTEtuTGZSQ1NZdV9Lc2NKNm1PTzN5amk3Mk1HZHdHSWtrcWlsa21hbFpsSnpTa2ZGWEhsbTVhd2RjQXRzLWFjampfNFJfMUNTVlVmT1ZDZVJZcDdPS3NSSUliX2s2SVpGNUQtSFVUUXBDTEJYMlM2eTczTEVHQldVVS1nY2ZYQmJPeWY0LVRYbm1yV096b3U1eFpaQzhPZjJxWVFtelRwWnZSN3dSeFpMY1VSbFVjenJ2VDRzb3JvbHl2VTFOZ9IBhgJBVV95cUxOMjMzZ1BDa21SQ0lraS1malU3Rzl5NEtkMldjUlBzbVBzeV9TV1R1N3ZOTFlOcjNKYnZqR3E2Nl8tUzRNZ3kxXzdCcXEzNXh4b3FTRzRsZjJWNmNYdk9SckJua185UkxRaFNHRmgtblpaOW1NcU5rUkhTVk1OX3EzN2YwNV94RWh5WUQ3dXV0ZklNclFyTDJuQzNkLVRiX0NSRlBSZ2hYMHpxTC1ZU2dJZEs1ZTFlS3lsV3ZpOXFlVmxjQlUxcVFFYnZ6RUZoUklJYXh0cVlJTlpwdHNVMnFxc29KOUJYbk84d2lodmFnRko1WXB6ejUwTFh1Z3FZdXJpcjBTNUJR?oc=5",
         "publishedAt": "2026-06-26T07:00:00.000Z"
-      },
-      {
-        "title": "Chola Chabuca brilló el fin de semana siendo líder del entretenimiento - wapa.pe",
-        "summary": "Chola Chabuca brilló el fin de semana siendo líder del entretenimiento &nbsp;&nbsp; wapa.pe",
-        "source": "wapa.pe",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbkpZaXlsRVo3WXQxTmpWemROSEtVLW1VeVdaWEQzSDFqSU9JMWRFaVNoaFlpYlU1dlh2bkJjVEthQkFsZzJSdnJQM1FxcVJnbGM3QjcwR2RYbnFfVTY0eU9DZDdVd1RTTHNGQXFZUmpmSjF0cWMydVBHSTR1SGJIZVZoc3FJQUZKWktUT1BLdWRvVEExVzRTSVNEdjNQZWxzTEcxMmtUS2VyNUpVQ2J1WVlEYnpOWUd3S1g1bFZONNIBxAFBVV95cUxQbXdlaVZwLUI5TmtnZkZ2bFp0VGtGdk1vZ0VJdkUtZ1RRRUNtZ09sR3lnd1FIRkV2MGpDN1VBYWJmeTNIdWNUdE1lNTZCTURJZkFKUGhqd1RnaHpsQktjMGZFNldlaXlzWmRYN2kxcGlvd00yeUEyc2RZZlJFXzFGbk8zYjNfTWdlWVJJVS1henhSOTJuNmZOclp2VURmQmxKLWFSZHRGVENLa1NUSmVCR2dNVXg4V2JHNHNMazQwV0pOLUVZ?oc=5",
-        "publishedAt": "2026-06-13T07:00:00.000Z"
       }
     ],
     "cultura": [
@@ -477,9 +477,9 @@
         "publishedAt": "2026-09-01T01:09:00.000Z"
       },
       {
-        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
-        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
+        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - andina.pe",
+        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; andina.pe",
+        "source": "andina.pe",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTNTd1VMWGJFRlFGZG1LOXpLSllZVE5JUG1xU19TaFdKbnJzam85dVlJN0VVVWQ1ZzJLanExY0xmbXV2cXY4a0Y4M1JXcExuUm1Nc0Q0S2N2WkhtZzNwWlJJdmoxS0gwdTFYYjVQT0VkVTJHcEtrZFFES1R3X3JWTWNMaWtvQkM0S1lyRXNNblBJaUh3c3hNX3JYaFhiUXFkemVJa1F4Y1NJNjRmX2tPekJ1Snc2aWVDRFE?oc=5",
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
@@ -498,9 +498,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial - Agencia Andina",
-        "summary": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
+        "title": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial - andina.pe",
+        "summary": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial &nbsp;&nbsp; andina.pe",
+        "source": "andina.pe",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeXB6VFBlM1RPTWI4dlVYbG9uMHFmSm8teUlmek51TVhua2dpZTFJWTg4bUdkOXp0TkFnWnJfeTRWYUVXN01tblcxOWhLc1RyX3l0THI0dUdSdVJEb1dfLTVOY3o1YXlNXzk0SFhLTFRFejdrVGlOdmpiWmREcXB3cTVIMVBHd3FJLUJrNGcwUENqbUpyelNqbjhIZDhVNGlZYUthVHFfMHg4WERlSVlXZ0l0RHZTcnVMc1RiYjAtOA?oc=5",
         "publishedAt": "2026-08-06T07:00:00.000Z"
       },
