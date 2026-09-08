@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T22:35:46.720Z",
+  "generatedAt": "2026-09-08T00:58:36.963Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -11,13 +11,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHlnUW12Z25xWXFVV3N1dVN4UzNLY1ZlYzFqcXk2NDZWSENpcGhjRGtTOTBnRE9fWmlPbzNzOXU1RldUVXRkR1JhUFZwd1NRODBWb1FsYTNLV3JvcDU3NUtLUVVPdEhhejNlWU5CZ1dXSk9TTThhbUtnSGVlQi1XMHJrSm1QLUpTNG1oaGNRN0lWeXkwWVlxM2l4MGFuTkZUNTZfQmdISXNOMW9MdnRxVlV0QzhCWXZzQVE4cVJrTzZtWnA2TEU5MFExdUhYanZoWVhMblVHNi1yQ3RFQXFWLTZyNlDSAf8BQVVfeXFMTzYycU1uN3FkcS05SkdXb21BUHljZFc2ZVczUXZsdDFSNEVOTmQzcXNmOEFCdVQxdUlTaHByelZrSTNYcGwtZ3hZa0VmbkJqSWVxQUNCRHRiWS1PRnhmUDc3NzNiUkRHVWtJSGZ5cnAxTGdJWkRRWHFvVzdoX1YycGROWFVBeDZaU2lQM25PcU91bGU1NTVwLWhOTU83MlUyZGR2bnJ1Z1Q1cnNubHg4bE8zSGhNaVI0Y2NFTXJ4TXc5UmNOcUM1eGpPTlFRYzZSbHVIZzNyaGNQMXR3TGNRVG1mbC1Jb3huRFZFWWhhTkxIN1RWOFVpUk91SzZRbk5z?oc=5",
         "publishedAt": "2026-09-05T03:11:00.000Z"
-      },
-      {
-        "title": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad - Infobae",
-        "summary": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHp2T1ZoLS01bUlPNy1CZ0pvYlV1MTRzYkFwWHF3a1lWcWw0UVVmeG1Rd080N0FLSTgzejEwMDhVNUN4MXN4R3FBbUNBTXZuVkRUYTUwSDgwS1FiR0t2V3EzVjlKUWZpcVBrWnozOUpIMVVYeW5VSlZDRjZISmQ3Q0pyYndzTDhQZVRLR1N5bnhobVZrbkdJNXZraWlab1llak04N0g0NnFZTUpNNHNoZ19rcDE4cXlvUmxYeVBpRVQzSXNWLUFqdDM0TlV6V0RJVTZQSmMxSmVYbFVXd2NjN2h4bTdoTFFCVlN6QjRB0gGIAkFVX3lxTFBKclJfUEdTdXdGMkQ0enlHTmExUnl0emRmZGRUM3dIQ3BSandEVk5TaEhwU1NaVlR4SldydExWNVNpWGxub2tJTnRxVnZGRC02MGRabVkwSkM3MG5fWklUWkl6UlR1UDN2WDdUcllaZktNMm5BM20zNFpncmNyeXNZbElnLU9OUmFxWU5uMnhLN2xwMEltVXExeFRuQ2diYVNBT1dySXJQc2ljTDN3NHFHNFlpN2NMMHd3cUJkOXI5RE5GVWdvT1czY2VselNwX2xhaXJ3M0ZvQlBkQXZBUDBMTlM0SlhKblhJdW54NUxuYkVHdC1jUEN5bXRsQWhnOVlIRGJicEo5WA?oc=5",
-        "publishedAt": "2026-08-31T18:02:00.000Z"
       },
       {
         "title": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen - La República",
@@ -60,9 +53,23 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRm1CLXYwalJLbFZwYjY2SFQyd0lhVFYycExCV09PbXdSeDdPOTlBUXQ5MUpGYzhsRXRadjdVRllxUWdaRFp5WmpicUtMQ0Fjb2dLLTZYTGpJZUcxbjZUcFVOdDc1MkNfMGNOYmttTDk1SmlZZC1STEhId2xsZGNReFpMeEV6OG4ydUY0UUhiTzk1TDVRQ3l4V1hJUkVpb0JVOEZhdXl2NE5SMTdkM29keUlZRmRDM25vekcyTnRHbDk2dXpYN0lLVEV5Mjh0Z2UtQ2l1RGN2cS16OFdSWTRESnMwekktZENmOE03eNIB8gFBVV95cUxNdDVVNWowcm9lLTF5a2tfXzB6YlZrR2Zrbnoxc3JHeEpOZ1dyS3R6VHZSb0tEaVlPWWlQVXNmcVYyajFObjNPWXhKOFFBRklLaXBUSkVZMVRXQ0EyanJPTmY5dHdFN1NESVFabTFwX3VMLVVVRU1wbExnY05wTFk0dnVsdzJnbHJvREcyRnBCSDJrM0Z3ejZ6WFJzTVhmdVA0VXd1Z2s0WFVUNGFKcnJFTllvOExKVXFxaXpYVGdDQmk1bU1UbnRUd0V3bDMxUEdlODFRMnlTd1V0dEJRS0VTQzdVb2hlazJvOHM2ZlpGMHBjZw?oc=5",
         "publishedAt": "2026-08-27T07:00:00.000Z"
+      },
+      {
+        "title": "Nueve ministros del Gabinete deberán responder ante el Congreso en los primeros días del Gobierno de Keiko Fujimori - La República",
+        "summary": "Nueve ministros del Gabinete deberán responder ante el Congreso en los primeros días del Gobierno de Keiko Fujimori &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcjVoMnQzZ1RHd3dDVC1ZMUNiaXVIQUxVb3lSSG9nNzZvdmd4aEtoT1dseW01WmFsRGNkdGNjMVdJdzNhdl9lclU1UXl2TkJQek8wNG1EMkYzRUdvNFlyLVktaFdUVkRqb3dVOWlKV2M3TmxhVElYWUdOMGl1bjNjR01FU1U5bkZISnZJTjNtTkpwVmtVOFFXNjhvMmFlbEtabURfMHl3akhkMG5HbW5oTXNOS3dGdGZuSFo3NzJ6c1RxbTB1Wi1lV2NrWlFaUFF4V25PT1R1VXFQZ0M1bWlNWlJTdHE3Y08zdFJJTVVlVU9KWm9JbnNtd3NFVWVXdzl2d19TemY3WGxyOUxnMzBKODdGRdIBmAJBVV95cUxQckQ1bWNJVWR6SFVwSDlXWFEtRHZyQUItaHJOOVE0SENlZ1hJLU5peUFXdmhkdkF3dml4SE9tMm9tcWxaMXJkVVEtMnp2dXFoSW4tb3d3d0FXNllfYXFTd2tLYmJnTVFvWjJ1VXZGTlNTTV9VdHdfWDl2Mkhsc3V2TDViSmVYbFQ5MUR1cGxPelRvNGpZdEpyRktuMERjMGZUazZkLWs3eHJPNXZGNlNVdE9pemVISVVfclFLLVlVTjE0NWFHSDJqakZySHFhbGZ0c3JIMHdNcjFOMnNadDJ6My03NGoxWXdVTXZYSjZyRGFQeVMxUUpTcWk4U24talVZYXdkckNrNGp5UThBbllWSVhXQzliZkR2?oc=5",
+        "publishedAt": "2026-08-24T07:00:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Dinero del crimen organizado ya se mezcla con la economía formal y minería ilegal podría escalar en Perú, advierte experto - Infobae",
+        "summary": "Dinero del crimen organizado ya se mezcla con la economía formal y minería ilegal podría escalar en Perú, advierte experto &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdnloR01wZjRnemljZURmQjdtbzR3emhuS0FzWXF1RUdmbk5sQ25zWG1INlhhd1ppTGJXYmc2b3NMMUVublpTNXI4aHBwRFRPRUw2VncyOVVBMFdic1A0eWRpZ0w3dG1DREJUcTlOT2xJV2VfbHJwR1hxNW15LW5lbVd3dkptcjgwaVN6eUdNeFUtR3ZUOHB1S21jemdFLUJrNGl1ckNLZTRqRzl4MDJiTGJrdVBLanlJVTQ0WlZRTWhabUoya3c4d3Z0UVNFd2E1VDRpZzE4T0FUNUxjSktVR1RNRWhyQlQ5b1EzN0R1Sm1rM1Jy0gGPAkFVX3lxTE5xelYwcEJUOEhiTXdiRUxJRVlNSnhIcXJlWVhSbUJVV0NUcDZEM0J1Q0dyRExSWVAwbFdFS2VhRkp3RGxqNEVkV0ZOSl9QWjEwUHlvOTNPTU5ES1YtMGNBMTFxaXVwb0pxWFhDeVk5OTlBSUgyT2FPVlNOcERqbGtBUDhBZ2ktSktaRWx6UzFpbFVNYXRXOUhOTnRCWk1KbnVnTl95c0cteHprWFdjNzhka29leklGaFpCd3BfTkRmRVEyaHNsa3l0SkpmZDRyOE1VOTJmS1VVTjNyWEhQWG5iR3pIYWpyRWE0S24ycUszZTJuMHBVOFAzYkJ4MkVSQ0ZmVG8wb1p6X3dRalBac1U?oc=5",
+        "publishedAt": "2026-09-07T23:41:00.000Z"
+      },
       {
         "title": "Cada vez más peruanos cambian hijos por “perrhijos”: 60% de este producto de higiene personal ya se consume en hogares sin bebés - Infobae",
         "summary": "Cada vez más peruanos cambian hijos por “perrhijos”: 60% de este producto de higiene personal ya se consume en hogares sin bebés &nbsp;&nbsp; Infobae",
@@ -90,13 +97,6 @@
         "source": "Diario Expreso",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc1ozOUJRV0JiSXJteDRMX3paVDdlblZaUmpma0hGYUp3TXFUTGlLVXkyTGZWNlMwWGZfeGNCdmtvMC1oS1BJQXpZZW9pbUVLTDJJcUlDbm9mb1RRbFNVeUx5RUdmMHJKSzAxRFdNcTQwT0pJMTlIX3MwRjBYa3JXSjhjOC1MYnh5ZWNxWUtUS25rWXgxSmNXc0lOQWxqM1BvZ2pDZTE1ZVRTWXp4N2RZbWZVbW45RWc1NnE2LXg3RFVuVFJKSkNqVzVkd2ZQbHppb1FjYWhUamZtYmlPYUw0TGFsdEZuNWhKZGNhOUxuMDB4NnM?oc=5",
         "publishedAt": "2026-09-07T18:02:57.000Z"
-      },
-      {
-        "title": "Perú deberá devolver cerca de USD 200 millones a filial de Sumitomo por disputa tributaria en Cerro Verde - Infobae",
-        "summary": "Perú deberá devolver cerca de USD 200 millones a filial de Sumitomo por disputa tributaria en Cerro Verde &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLUFCNEw4T1VkQkV6X1ljUU03VXdDblAwcXpPdk5reEJOLVA3R1F6MENDYkFQNGJsSTBrcHd0RU5jZzRZS2JCUjdHSnVzT3dlT1JMZTJKQzVUMndvRHdNLWVsdmFsZEU4eHJlWjlvQmZ1MHItdGRwZVEzUXBvQU9jLWd2TjRtYUM3MmNDZUZIemRKU21oT0s1LVBvcktDbUJ0bWM0UTZjbjI4T21rcUNQenhhYjAxSmRLZ1JJcXBXa3J0Y0R3THh0WmJhRkRfaVFNa0h1S2FlT2ZXbUNrOGZF0gH6AUFVX3lxTFB6Slg0SUczcnRZZ0RFUEVkcGxHTWdaT0g3c2NIUlZWTVhtTFg4NXVvWkhfdzhtMkZ5LU5rS1dCNjZVR1Q3TFJQWnhCazBoZHYxaDVYMnJ3Tk9QSzZzc0FaOFJHX25EUVpNeEc5Zkg4QVd3OHdXMUZfTmZ3WHd3MWJuclBFS0pCeDZjdDJTOXhBTDFWT3NHekNBVTQ0UUpjbzl1Z2ZqOER4VzJ3QV91aG9qel84QVNpckJGSUh2bkR0eW9MSnFGSUVEeExXZ1N0OWE5ejYwU0c3cHlsa3dSa190bndMdEVEVHItalZhTGxUREk2ejdvbEVqaVE?oc=5",
-        "publishedAt": "2026-09-07T17:02:00.000Z"
       },
       {
         "title": "Mujeres en tecnología: Perú tiene una oportunidad para acelerar el talento femenino en la economía digital - Revista Economía",
@@ -129,9 +129,9 @@
         "publishedAt": "2026-09-03T20:31:42.000Z"
       },
       {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - elperuano.pe",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; elperuano.pe",
+        "source": "elperuano.pe",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "publishedAt": "2026-09-03T16:27:00.000Z"
       },
@@ -296,9 +296,9 @@
     ],
     "ia": [
       {
-        "title": "El nuevo perfil del abogado: tecnología, adaptación, visión internacional y prevención de riesgos. Entrevista - El Peruano",
-        "summary": "El nuevo perfil del abogado: tecnología, adaptación, visión internacional y prevención de riesgos. Entrevista &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
+        "title": "El nuevo perfil del abogado: tecnología, adaptación, visión internacional y prevención de riesgos. Entrevista - elperuano.pe",
+        "summary": "El nuevo perfil del abogado: tecnología, adaptación, visión internacional y prevención de riesgos. Entrevista &nbsp;&nbsp; elperuano.pe",
+        "source": "elperuano.pe",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmxBZm5OR3BVbTItZVlzaWlJS1pnUkJXRThCZ2FSekk2RjU0SlJIZFlGWTZoSFZQOHU3bDUxRE04dGlLa0RNMzVkUEJWaUpxYmgwZ25EcU92UmVtSVA4M2I3dEctcE1NOHBJTzNiY0tqZjlVYUpNUVhXZkw1Q3NQY3NYb2l5Z2hTWHlOWXhCeWNnM3F3UzRSY09iTUtFRk9GTzRYMFNWbjJPdW9UaV9tNW1ORVRoTjZ6SlBYQ295YU9sMlQyRGszRm9oOUxSZEhkZEtFWjRRdGI?oc=5",
         "publishedAt": "2026-09-07T14:17:00.000Z"
       },
@@ -321,14 +321,7 @@
         "summary": "Emprendedores peruanos crean plataforma con IA ‘Entiendo.ai’ para personalizar el aprendizaje: ¿cómo funciona? &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcVBlVjVSYXJFZERqODhUUDZEbUhFNjBiQy1Da2g2RW4xME5WY0RhWVl5aTQ3Y0ZZd3BRR2FiSVN0YWhyLTkwR05WalJmN0ktRmVIdHNOSTFvYWdRZExLT2N4Wk5RZXBJaldRTTR0MXY2cFR3YzlwSGNRa0lJRUNtTXJ1aXpPSHBxeXdJSXVJcWk3ZW5IbVl5Z0F4ZEtqU0dPM0FaRDVkZXFVWWdfN0dWSF8zX3kxSDhOMkhiNmc4bnZCMnNOS0MxbmpwbjlqeE1VRVRBRFBMclh2ZnUwT2fSAfgBQVVfeXFMTzBJQ1J4NnJaRU9pMFhRMmJQOU50amlhNUpZV01LY0lzTXBIcF9ZXy0zWERMUzNrdUpYaUpQZkZGNUdMNWlNQUt5OEJMMWNhVHlQTnNiNm50RFB3eXlZcEEwNzg2ZnF6VGVXa1JQdkozUFRESmtTMGp2RlZ4RG5wTERmNkJicUtMRkdNbTNBaV9wM0tsemx1ZGFKLThkNDUyUGJTcmo4LUtkemVWLVJ4cUJPRk1aSnhfQzNmSXVacUJ3ZVVEZEg1MXoweUlBZnRGUVlxZnJlMnFxR3pZbHRQU2tocm5nY2tBUTFpTXB5Z2M0MG1VYmNYYWU?oc=5",
-        "publishedAt": "2026-09-06T21:15:39.000Z"
-      },
-      {
-        "title": "Entiendo.ai, edtech peruana con IA, entra a Venture Ready - El Ecosistema Startup",
-        "summary": "Entiendo.ai, edtech peruana con IA, entra a Venture Ready &nbsp;&nbsp; El Ecosistema Startup",
-        "source": "El Ecosistema Startup",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdXBKUldZSVlVTzNveWJINHp3djBvWGk5WmZKSHdvb3BXUDJhV01odklKeDBxT00wZmFCdVJZNzVrc1lZdzZUMFNEMXJyT2NZV25DbGN3YWF1WnBBYnVjUTcyS09pVEFxMXdVTWhpNDBEdnNlbFVHWXg5TWphRDhJNFBSVzd1V01XMERXMktZbw?oc=5",
-        "publishedAt": "2026-09-06T17:21:43.000Z"
+        "publishedAt": "2026-09-06T21:30:00.000Z"
       },
       {
         "title": "MTPE crea comisión para analizar el impacto de la IA en el empleo - El Ecosistema Startup",
@@ -350,6 +343,13 @@
         "source": "Panamericana TV",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZS12Y0l2d0hneGhfZE9yd1ZKNTRkMTlhZWQ2M0xrcnctQWktazg3d25GM25TaTNOLW9sbkNBNkVjdXpZZEs5ZWoxQ0JsRzNoZVRuSUJ6VUNUdi1veEJ6elpKOWZrYTBKS2xobnpDcXc2WENBSEpFVkVFR2hTMkpzY3l2dHdVR3NxTXAzZWdiNWJYNmFrVEM5cnNUY9IBoAFBVV95cUxPaWlqREVSa2cycmdGSHRYWWF4cTE2ZzB2QkEwSnlfRWFnQlhoVVliYzVtaWtaSm9NVWxIWnRJRUlBbzUxQ3BlNTh3d2ljc0QxRW04UjMtLWh4TUI3cmxsSWFwTG04RlpJM0lSMVpaNmhidlU1SG1CN3hUOWlZLW1SY1ZWaVVXNEFNanFiU1R5SmJHbDBodnhsVkNMLXR0MVpZ?oc=5",
         "publishedAt": "2026-09-05T17:31:08.000Z"
+      },
+      {
+        "title": "Conoce el talento peruano que innova con inteligencia artificial - Revista Caretas",
+        "summary": "Conoce el talento peruano que innova con inteligencia artificial &nbsp;&nbsp; Revista Caretas",
+        "source": "Revista Caretas",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlFmcDhwYmxRR1ZRenY4SlZSckQzY3RnOHlOUXBxVG1nb2dFY19xN0RQbVF2SldOVHluS2toOWlSa3BEMXFLS3lYVGpjZ3A0NHZTYm5JNU1rVXU3NHd5R0ZCTG5mOXJsTHpfb0ZRNnRXVkUxQS1ldHowcHh2QUlzS0RSaEtibko5ZXI4a3hQZVFlbzkwM1NpWg?oc=5",
+        "publishedAt": "2026-09-05T17:21:04.000Z"
       }
     ],
     "tendencias": [
@@ -426,9 +426,9 @@
         "publishedAt": "2026-09-03T14:39:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
+        "source": "diariocorreo.pe",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
@@ -438,13 +438,6 @@
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "title": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina - Infobae",
-        "summary": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
-        "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
         "title": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” - Trome.com",
@@ -466,6 +459,13 @@
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOERDMDlhVkRZY3pybFhrVE5xT19RbVRHcFpzNFFzbkY1bFVQYkdWaFg4djBNTEtuTGZSQ1NZdV9Lc2NKNm1PTzN5amk3Mk1HZHdHSWtrcWlsa21hbFpsSnpTa2ZGWEhsbTVhd2RjQXRzLWFjampfNFJfMUNTVlVmT1ZDZVJZcDdPS3NSSUliX2s2SVpGNUQtSFVUUXBDTEJYMlM2eTczTEVHQldVVS1nY2ZYQmJPeWY0LVRYbm1yV096b3U1eFpaQzhPZjJxWVFtelRwWnZSN3dSeFpMY1VSbFVjenJ2VDRzb3JvbHl2VTFOZ9IBhgJBVV95cUxOMjMzZ1BDa21SQ0lraS1malU3Rzl5NEtkMldjUlBzbVBzeV9TV1R1N3ZOTFlOcjNKYnZqR3E2Nl8tUzRNZ3kxXzdCcXEzNXh4b3FTRzRsZjJWNmNYdk9SckJua185UkxRaFNHRmgtblpaOW1NcU5rUkhTVk1OX3EzN2YwNV94RWh5WUQ3dXV0ZklNclFyTDJuQzNkLVRiX0NSRlBSZ2hYMHpxTC1ZU2dJZEs1ZTFlS3lsV3ZpOXFlVmxjQlUxcVFFYnZ6RUZoUklJYXh0cVlJTlpwdHNVMnFxc29KOUJYbk84d2lodmFnRko1WXB6ejUwTFh1Z3FZdXJpcjBTNUJR?oc=5",
         "publishedAt": "2026-06-26T07:00:00.000Z"
+      },
+      {
+        "title": "Chola Chabuca brilló el fin de semana siendo líder del entretenimiento - wapa.pe",
+        "summary": "Chola Chabuca brilló el fin de semana siendo líder del entretenimiento &nbsp;&nbsp; wapa.pe",
+        "source": "wapa.pe",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbkpZaXlsRVo3WXQxTmpWemROSEtVLW1VeVdaWEQzSDFqSU9JMWRFaVNoaFlpYlU1dlh2bkJjVEthQkFsZzJSdnJQM1FxcVJnbGM3QjcwR2RYbnFfVTY0eU9DZDdVd1RTTHNGQXFZUmpmSjF0cWMydVBHSTR1SGJIZVZoc3FJQUZKWktUT1BLdWRvVEExVzRTSVNEdjNQZWxzTEcxMmtUS2VyNUpVQ2J1WVlEYnpOWUd3S1g1bFZONNIBxAFBVV95cUxQbXdlaVZwLUI5TmtnZkZ2bFp0VGtGdk1vZ0VJdkUtZ1RRRUNtZ09sR3lnd1FIRkV2MGpDN1VBYWJmeTNIdWNUdE1lNTZCTURJZkFKUGhqd1RnaHpsQktjMGZFNldlaXlzWmRYN2kxcGlvd00yeUEyc2RZZlJFXzFGbk8zYjNfTWdlWVJJVS1henhSOTJuNmZOclp2VURmQmxKLWFSZHRGVENLa1NUSmVCR2dNVXg4V2JHNHNMazQwV0pOLUVZ?oc=5",
+        "publishedAt": "2026-06-13T07:00:00.000Z"
       }
     ],
     "cultura": [
