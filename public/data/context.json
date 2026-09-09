@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T20:37:06.414Z",
+  "generatedAt": "2026-09-09T23:00:37.074Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -64,6 +64,13 @@
     ],
     "economia": [
       {
+        "title": "Proyecto de interconexión eléctrica Ecuador-Perú obtiene licencia ambiental | Economía | Noticias - El Universo",
+        "summary": "Proyecto de interconexión eléctrica Ecuador-Perú obtiene licencia ambiental | Economía | Noticias &nbsp;&nbsp; El Universo",
+        "source": "El Universo",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUllzbnViZFk3YmJod0tpdFlodEVLRHNTQ3dfdGFSTWpjRU54U1lMRmlMcnBhY083Y1lrZkpkQkwzc1JpdnZaTGVRR0RxN3VYQWxxSUtpQzE2bXJwMjVoNWZlOGxhTHo2czVxQXcxMUd0Y1BFUEZnX29XV041VTIwWjZnWEFoOXRLYnMwZjFuX2luNFNyTnhRQTBWemN0T1ctYm05aHBSYlotLVZmZmJEQTlqM0tXNktnSkdWUHhJNVFVTGs?oc=5",
+        "publishedAt": "2026-09-09T20:26:00.000Z"
+      },
+      {
         "title": "¿El café gratis ya no alcanza? El 75% de oficinistas en Perú afirma que sus beneficios ya no cubren sus necesidades - Infobae",
         "summary": "¿El café gratis ya no alcanza? El 75% de oficinistas en Perú afirma que sus beneficios ya no cubren sus necesidades &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -111,13 +118,6 @@
         "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQS1fYWVZbDNNTlIxaTNiaDNVU2RaYnZvajN5Z1BtWUZKVmhrOFRucDRnYWFUZnFMdERSSWFja3kzNnBQLTM3MjQtUEVicW5Mb0ozY1ZzNlpPaVA1R29pOXc3enItM2ZVSmdaOVpTWGctT24wWTItbUVCbzFjbEFwZGdOdWtTc3NhNk9vc1k5Z0Q3Y1BNZktSTEdoT3BiSlhObGtEeUx6bnFKb2JwMVNNdnB1a3N6VnNDaFdj?oc=5",
         "publishedAt": "2026-09-08T18:59:37.000Z"
-      },
-      {
-        "title": "Más mascotas, nuevos compromisos: 6 de cada 10 hogares en Perú convive con animales y destina 5,2% de su presupuesto a cuidarlos - Infobae",
-        "summary": "Más mascotas, nuevos compromisos: 6 de cada 10 hogares en Perú convive con animales y destina 5,2% de su presupuesto a cuidarlos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOclpqSGY0RDRaQ010U2k4cE90TnVJZlJIQzdlX1M5Z1ZZLVBubTZ3RWhxTm5jZUZlM2FaQTNsUllteUU3NHR3R3dCcVFkQ24xcFB0cWRxQmRmNDJCMmpqdkhIRU1uYzNRQXZLaFpQbF9zdC1lUjdCcTl2VEhhb1dKWnQtQ3Y0Q3RsR2JWUF9PdExQZ2VMcXJ4cUR4cF9sRVlPRU1mU3lMVjQwTDJjQldZVW5ROTJJQ2VodkxsOE9SV1FBbUtEQVlCdXBOMzVEbTQ1MXRCeEpjUGY5Ri1wSS1GRTZSNHlFS2VveF9FMXZkR3dkXzJHY3NnbdIBkwJBVV95cUxNVWhtdzdubDNadEtEUTlHdlZfMHJkSE1XTGw3WlYxNUhKOXllWjZ2ZmFIT2Mzc0QyS1BtckRDYlg2cnlqZzNLVllxc090T19EZ1FMR3pxWC1CSkpPaHlvWWNvM1ppOFQ0akQ1OW4yLWRFUkFpYjRNWk1XYWxKNVMwUTVjVG5kaWRHSEVQM3VWSVAwUEZHbUMyS2xkeE04eWdEMDR0dEE3cUR6b3pWd295Mk9vOHAtdmZTd0VJRWFYcXFfa3J6aEdCSVBhYXVHMjFNaF9MN0Iyam1VTE9zWmd2YlBpbVZrSU9wZG5oMmNWV1RQaHNWZlExSDN6V19LN1hldDQySTZUc19GWWVfeWVQMU1oYw?oc=5",
-        "publishedAt": "2026-09-08T16:39:00.000Z"
       }
     ],
     "sociedad": [
@@ -164,18 +164,18 @@
         "publishedAt": "2026-06-06T07:00:00.000Z"
       },
       {
-        "title": "Así fue el debate presidencial entre Keiko... - Panamericana TV",
-        "summary": "Así fue el debate presidencial entre Keiko... &nbsp;&nbsp; Panamericana TV",
-        "source": "Panamericana TV",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdDQxbVY3WEU1XzFWR0trRW9QOWV5ZDFkQm1jN2Rmd1pMNEN6dk1XTFFhUW5FZm5KTUlyS0RDR0daMy16d092ZWxIVEVQTG5aUndwbGhOVTdKaHRsUS1mSVY2UEZQVjRsX3BqMjViaHJDNHR6NFMya2VqZ3J5Ymo0YzBIZHRmOVFpbjdmRnR4UHg2ZXgzZDNVYzVPS2l5WUtPTzdRNmZ0Q1BJRUwwWWoyanN6a3JVUmI4UFltUmgzVmdQUldocXgxV1JWajNKVGVvSG51WE1qRExWd9IB3wFBVV95cUxQMGFMTzZBZDdLRURHM0wyU3NWUlhqY2s1bEVvU3RibFdGajkxLTYxWGpuTjROTngwLWVtNG1Kc1UtbUxFWWJ6V1p3SDV5MUpBdVQwYjFMX2Rkc1VpZnhXZHZUelc4bDkweGRoVDhLd2ZmZVgzdnpjN1I3SUNLWVZjLUNuc1pkSDBLSkxNdWNaRW1aRUZqZ2k2ZW1fMXh4Q3h5VkJFVlZzeFZ1dWhNcFJ2bnRzbjR1MmpMUTM0eERIdDY0QlpDMnJ0UGthLUhhWGVoM21rTUNkak9RRXVZM1ow?oc=5",
-        "publishedAt": "2026-05-31T07:00:00.000Z"
-      },
-      {
         "title": "Así está el país en seguridad, economía y salud, según los datos 👉🏽 https://bbc.in/3Q602JK - facebook.com",
         "summary": "Así está el país en seguridad, economía y salud, según los datos 👉🏽 https://bbc.in/3Q602JK &nbsp;&nbsp; facebook.com",
         "source": "facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNVhDaDhPcjlQMHIyVW9aU0o2ci1XOUlSeXU3ZVh6UEluUi05c25RTEpfdzRVOEd5WmVFaWJTRHp4VkpqVGtZUkN2My1VM3JUSDkxSHdQWXZPbW9LTG1VNW1GcHpJU0QtR0NtaXh0VnFxSUlWaUp0bTNDNzB0QUUzeGtYaThQS0gyVzBOQ29kS0k5cFNCUGtfand3cnVGNXF4NTgzZWZHa1ZNdFdGS0hZazNMbkEwTk1saUdMTWY4d2dKMjFKZUhOUklkWm5vdGRhOUlPWDRhRDJ6Sm9pWGltU3c0blk?oc=5",
         "publishedAt": "2026-05-28T07:00:00.000Z"
+      },
+      {
+        "title": "A 200 años de la Independencia, ¿somos una sociedad más igualitaria? - encuentro.pe",
+        "summary": "A 200 años de la Independencia, ¿somos una sociedad más igualitaria? &nbsp;&nbsp; encuentro.pe",
+        "source": "encuentro.pe",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUlaNUUzQmFYaWl5cjdvNmtPekpQYmdqVUJremhtNks0MGVYZ1RnY01zV21kNUotMVNOc1EwWGNFVjFnR3BYa0lFeWxfUHFoOXNuUzB3YWhqWlk0ek1nMUwzZnBraG1fNnlRVll4Mm01dUlfcHIyakhCb0JmTG90bmlZQzNHSmd0SXd2SlRMcHgwNDhqYVZxWWZXdVFYOHM?oc=5",
+        "publishedAt": "2026-05-10T00:13:07.000Z"
       }
     ],
     "negocios": [
@@ -215,13 +215,6 @@
         "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
-        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - revistaganamas.com.pe",
-        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; revistaganamas.com.pe",
-        "source": "revistaganamas.com.pe",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
-        "publishedAt": "2026-06-17T17:04:18.000Z"
-      },
-      {
         "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
         "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -234,6 +227,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
         "publishedAt": "2026-06-10T07:00:00.000Z"
+      },
+      {
+        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
+        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
+        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -259,9 +259,9 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "La paradoja peruana: Crecer sin innovar - revistaganamas.com.pe",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; revistaganamas.com.pe",
-        "source": "revistaganamas.com.pe",
+        "title": "La paradoja peruana: Crecer sin innovar - Gan@Más",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Gan@Más",
+        "source": "Gan@Más",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
@@ -324,9 +324,9 @@
         "publishedAt": "2026-09-09T02:51:42.000Z"
       },
       {
-        "title": "Embajador Bernie Navarro: \"Perú ha sido un líder en regulación de IA en el mundo\" VIDEO - peru21.pe",
-        "summary": "Embajador Bernie Navarro: \"Perú ha sido un líder en regulación de IA en el mundo\" VIDEO &nbsp;&nbsp; peru21.pe",
-        "source": "peru21.pe",
+        "title": "Embajador Bernie Navarro: \"Perú ha sido un líder en regulación de IA en el mundo\" VIDEO - Perú 21",
+        "summary": "Embajador Bernie Navarro: \"Perú ha sido un líder en regulación de IA en el mundo\" VIDEO &nbsp;&nbsp; Perú 21",
+        "source": "Perú 21",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1V3QnM4Rkcwa3BpVHBsaGxCdV9lajFkdjNCNVdrS0xxbi1fQVpYSTFPSDFuQk1rdFp3VlpkeFJEMlU1UjV6U2Y2OE00a0h4a0I1NXlBSXMzaXJzZHBGTkFVTlN5ZTVkTkVJYzl2OHZKQmJKNXdSM2tsTlpIODJrcHkwNWpmX1FrYmFLcXVjOU95eEU5dTNXRG9hWTQwN2MtZTdtazdFcks5Sl9FTVZkOHQ2aGE?oc=5",
         "publishedAt": "2026-09-09T00:43:24.000Z"
       },
@@ -354,6 +354,13 @@
     ],
     "tendencias": [
       {
+        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
+        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
+        "publishedAt": "2026-09-09T20:03:00.000Z"
+      },
+      {
         "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
         "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -361,11 +368,18 @@
         "publishedAt": "2026-09-09T19:48:09.000Z"
       },
       {
-        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
-        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
-        "publishedAt": "2026-09-09T17:03:00.000Z"
+        "title": "La Kachame video viral Twitter: Alexlumix1 tendencia en Telegram por filtración - TuNota",
+        "summary": "La Kachame video viral Twitter: Alexlumix1 tendencia en Telegram por filtración &nbsp;&nbsp; TuNota",
+        "source": "TuNota",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWFVJZUZRdFl2VTJFZU9pcWEzOHZPVnhwTzNqN1MtbW5VSHFkcnk0OWd5RTM1bmdWUzV5ekxaak84Rl8zcjZIS2dPem9OWnRvajBJM2dvVUhna3diUVZuNGJRUTlFTzJYSjZUcUYzQkl1WWJJcFpaR0tYc2JqRjlZcUFnQllXQm96Nmpoenl3eE5EOF91M3ROUjFJZmdOVlpzbXhpa3p5d1ZoWVBiN2hUZHVxT1huRDFWVThDdlFVT2VESG9fQVE?oc=5",
+        "publishedAt": "2026-09-06T15:47:28.000Z"
+      },
+      {
+        "title": "La Cachame video viral Telegram, ¿filtran videos de La Santa, tiktoker de Perú? - radiohrn.hn",
+        "summary": "La Cachame video viral Telegram, ¿filtran videos de La Santa, tiktoker de Perú? &nbsp;&nbsp; radiohrn.hn",
+        "source": "radiohrn.hn",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVUxUm1zWXNwXzhIRFh5QmllcXpGZDhJVTZlTGozenJUU3JDUEF6cGdxSy1aZkVfMEd4czVpd0d2eENvSXlvUzBweEFoU3pERzEyTlF2ckx1UVl5MTlVT3FGLW9GQXlQdGROaXdCMlhjZFV3UU1ON3Myb0wtTEdYZFFFbURXaVVubTRtNWlTbkc2T1ZNRjVEUlBEamJ5LXZVMFI3U01Cb2tGRjB1Ul9n?oc=5",
+        "publishedAt": "2026-09-06T04:30:43.000Z"
       },
       {
         "title": "🔴🔵 Una heladera y una emolientera se unieron al viral dle momento en las redes sociales y protagonizaron una batalla de 'farmear aura' causando furor con comentarios y reacciones",
@@ -373,13 +387,6 @@
         "source": "facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcEppUW9Kb2JaZktiR3BucVVJOXRNSk9mamZvcEs5SkNIdjNidHFsS3ZmWVRUazEya05oSzdCS1hjbWNVdVR2VW85cGZWczhGQTVzS3hvSWR2SDZTYVRrbEgtOVMxWWxSRTNCU2c3cGVpUTA1WFp5ZVItMkxuV1NCeGttWmp6QlczQWswMHhISV9YZ0QtVDk4amVkT0EwSmdtMnFsZDZkTWFwV3J3bGN0dzd0YXhtTGtET2JtWHBqVnBJYndmTVpQOG9hUF9zaF9sUVRlS3FEYmVLLTQwMVE?oc=5",
         "publishedAt": "2026-08-30T04:30:15.000Z"
-      },
-      {
-        "title": "Qué significa ‘farmear aura’ si tienes más de 30 debes conocer qué es y por qué lo usa la Generación Z - Infobae",
-        "summary": "Qué significa ‘farmear aura’ si tienes más de 30 debes conocer qué es y por qué lo usa la Generación Z &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGVnY0xEajd1WjFMWGdqWi1DZmdwRVRtb1R2aHBBLTNORlBJZ0VRb1d5UEdnZGxSdXh6UWZkcThTZTZHb1dwRGtIS3BVT3RFcXRnRkJKOXI4b3NaVGVvN1ZFeS1PWnhoRENyd3V3LXVxWV9jblBfdmpKZElJaHhoY3NkNzlLUlVKd01FenVLaXBZZVFNbUV4czhSTWd3X1MzaTUxLUxjQ1AtZlB6ZTRHQ2dwR1ZQN3RaMk9HVHJjQ2lVc2V2YV9hUkE0ZDlILWl6MjJ4N05Kb0l1Z9IB9AFBVV95cUxNNXRmX2Y0Y2hFbXJjUEFDaHIwRnVwZkw3OUZfcnRod0t6cUE2TW1NRU9Sc3M0ZXhPTDZkVDBfUDMwTjhkazZITTE1dGJaRmVYQ1NuSXN3NzdfcTA0TW55ZVBNWXZzQUIwTHE4VjJQQ1FlR0Z3ZDVxbjFMeFlYR2dLUm1ZaDJyc1BSRlRPMVYwZC1MTXliRlBndHg1anp6cnBQemFzZFNkYk1Wc3NkY0VsOTViN2pSZGEwYjJfWDdLNE1nRzRheHA4eXhCbml5b1VuYk5vMlZrZzk5MUw5alZ0RE9VR2JRZFFER2ZaY0Y4dzlfSXVo?oc=5",
-        "publishedAt": "2026-08-18T07:00:00.000Z"
       },
       {
         "title": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla - Infobae",
@@ -401,13 +408,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYkxYWU1GV09vM243VlB3NWZhbWt5RzF1bE9PdXRhR3BkM2cyb25NTjVMMG1XbnM3aU1rMXBIb3FFV3cwRjRrYkduVm9Gd0hyRFlKWElDSk8ybEtXVUJkRHlXc2FuWkhodTg1Z1ZGbmpUZVZxcTN4M1J6ZlpxZHJFNUtTN2tRQWE3MVR5SkhwLWVCelVKU3FNZVowYjh3YVJYWDFHWm1PbUlJOVNBOTVQT19hQ2tGbXNYWTllU3ZoLVNlNE9aUGwzZzl3LTJHaDN6TWpaNkJsOXBTRVIwMmtfVjUyaGo4X1E1bFBvb3ZkMUZ5QmozSGtYcUx5VdIBlgJBVV95cUxPUElwalRLcFI3MTN6a3dqaV9pWHA2NjFYWVFHZU00NTNTblYzYXo3aDdXaEF1NzM3bmx0MkFCbnFGdmtFd2syOVRwNE1HRVV4dnhsOUtva2E5ZUVvbW1CVDBneGc5a3hZUU9oVjFfVE0xOExvbG5TM0FoeW81Wll1UWtxRTNqdkJiTWoxbm42aG9PWVNjTmlvbmgzaUdmVDA1bkFmUm1RRVVua2VxY0tldUlQTGEzZ3k2Sk10N0JKWUxTTkF6OGQtVlV6RzhmcGlJdlA1OF9JaEFIcFI1U3NoZDZtUnpmbEpBWVZCTUE1bVNDQUxZcm9QVDB2OEhpekVtcGItWjNDekpHY0xKSk1GQXpMRGhYdw?oc=5",
         "publishedAt": "2026-07-08T07:00:00.000Z"
-      },
-      {
-        "title": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud - Infobae",
-        "summary": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19nT2YyMlR5RFhzZVRjTXpPcjZXYjhHZ25aV1BkeTFuWDVKTHZxUFRyQklUb0JYaGFIMUJEbEdVbTg3Y01OV255QmN3OHlEbWNaS185UXVqUHhydnF1YTlrZTNSQmtmVGNKc2xyb28zTmt4czlsd2Z1OC0wQTZYWmpjT0pUNU0yN21CWnpYamV6eU43TkdQUE1FdjUxUGVRQ0tzbGpDbEk2Y0xrS3Y1bl9hY2UxSnVuMTF2ZV82MTZ2dGVkQ0tPVG1R0gHkAUFVX3lxTE5xaE1KVl9TLXVjQW16VUhTbmotZWRBcUJueDBnQWZLZFhPaC1hSjZNSGVXSnFEQlotekUweWloX0xEc2txcEt5N2RGOUFBYXBFaXBZYTdZaWpkaktoNUd4cDFsV2R3bGdOOGNDVV9qajFLMy1ZTUh3TXU4dlZmVmprRnlvQzhLMlM4RnpTT2FMSzhKdS1PaXdvZE0tQnlIUmIyM3l4akJrYjIwcnMwY25yMXl2TFIwdjg1YXpBNmRnNDBrdU9oZTN5LVU4MGp6dHVVR09fTnh5cmN1eGNsaXBDNUlZXw?oc=5",
-        "publishedAt": "2026-07-07T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -417,13 +417,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFRYakI4T1o2cXhXN2pKSzc2bXBiLVlUZ1R1VFAxSWtDRW10LUl1TnNZaWJLRXpXSlBEZmJzN2lZdGF1SG5NUDBWQXUzZXp3VTlnbXlTODd1clZtRXZQUENXWlRydS0ydkhyWFg3SHJScVdKZ1VlU1l2cWpBM2RJcndGYjNWRVJNblpCa29EOHpXRGlnRVVCb0JOd0s4allqdVVjS0FEMGZXU2c5OXB4S214NUhIb1FFRWlaNVc3OHA0Uk0xcmpVbGFkdW1Kb1laTXZTSzZNY0J1WkFNM3BCRkRqdVNsV185WEdkSGtmMjZhLU00eW9mcExBdkvSAZcCQVVfeXFMTUlaaHZOVlluQ2hONUZIY1Y0bnBXNDVmN2tYNXFvbjNBVFBSR3RRUXNYOWVJdU9oQ0dHbUExc3FwTkEzWFM4UkVMTmFjX1dRdVR4VFRncThQWXFFV2pNUmhGZDBFRHZyUnZXcDVBWnhneG9fSklpMDFScE9nZlNjMzQ4aFI4MnNBTmtiTnM4SkhzRGFWWVZSai1IYnV4QkFsU1FSUGZXU1V4SGNlSjYtNUY1UFNiSXVDWEtEV3VjaXljZDZkdFEyMFJhenFNaXB3VVhRcTNEWTJzU2prTm1MMzkzOTdPT3laQV9sNkItOGRoWFo2SXZzRmZNTU9UYjhuYjd0VnZWTVY5WmNoRktEczI5b3dKbGVr?oc=5",
         "publishedAt": "2026-09-09T09:43:14.000Z"
-      },
-      {
-        "title": "Jaime ‘Choca’ Mandros celebra que Feria Fusión sea Marca Perú: “Que el público pueda disfrutar de nuestra rica comida” - Trome.com",
-        "summary": "Jaime ‘Choca’ Mandros celebra que Feria Fusión sea Marca Perú: “Que el público pueda disfrutar de nuestra rica comida” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSTVYYlBqX2t4N1ZWUmtaMHg2N0F6c1lscms1Q0pjWWZsc1hHVUZlbGU0VnNWVVJjN3kxU1EzakFUd0poUWpQSmVYOXgwUWxiT3M3VjFCQXJtaFBaVV9tOXcyVUZLRUJPNmpZRjBOUDdGUDNTWnVLTkhyUDhtVkd4TVlpRGJRTUN3VURKYVVPNnpkWkZ0Mkk4dmwtMkRSRXdVRVlFbllfOGJwZjZjVjJhcG9YNTZhakY5Y01DMWFuRDJTdzNiVGJiV0tyeVpRY3B1cXBNWUZvUkt5QzUyYjNNTFNHSjBGUdIB-gFBVV95cUxOVmpYdExMQzREcHh1bS1kMFY2azJHekdad0U0ZWMyX2QwN2Y3Y0ZKSWhzbFZKYjNlWW1HNXJmZzRVZWdXTjVIZmVqeGRfS0U5azFzT3VsdXZ3QXhUUkhjZFJBWmI0Y0kxWlUzdllGV2VtckR0VFpYRmZ4SGcwbkdGZEtXTnJuelhXbFExS0VBZF9jbXlpc0JCZDFrWGdsTFh5SXJUcllVZXV4V1Q0WFRpVVhjRlJ6YkxHNk1vaG9oMGNTdkJoU2VNS25kRVl6VTRfRVZzYW9XdG1VYVpxLTdJWDZVZVdMcWZUbmw2aHZiNlNiUEl3Y0lCLU5R?oc=5",
-        "publishedAt": "2026-09-04T13:44:02.000Z"
       },
       {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
@@ -440,9 +433,9 @@
         "publishedAt": "2026-08-23T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
+        "source": "diariocorreo.pe",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
@@ -466,6 +459,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
         "publishedAt": "2026-07-26T07:00:00.000Z"
+      },
+      {
+        "title": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” - Trome.com",
+        "summary": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONHE2VHgwbHpNX1RiaWdQUGVFTkc5NDJEcXZQUDFuRHhCcUpCdzR0Y2NHbDNvRURMQlMzSlk5cHRSb3BjclRaMkNEMEF4R0lqLTVxRGQ2SDRBV2x5cklZcTdjTkp2RExYb2VVZWZHb2piLUFBM3lNS0Rqc2R3Mndrdmlvalp2alhMd1ZZYlNrU240YUs4a003el9jSS1sSFNLNzMxNmxaeGV1bWRGQUJpcmVRMkl3MERDbUVfa0VTbTZkVmR1MjdwVnhHQXMxUS1lTDNKNjBCU0V4UksxN1hFUFdWYUdZN2drV0lyNTR2cy1kMXdNZndXV09KeHN0M2NxNG1SQVhjUVRMaWxZemxXTVN30gGmAkFVX3lxTE1BR29NZk9mczFZd284MzBxZWY3S1lvLTRGYzNxU1R6MDVDZEwwdkktb0t0ZkRtMG03SlVKYjNlVmMyMUVTNG8waFc4NnBDUWRwcUI1cl92SmZQQXVnckFaRGdDSEVyLVN0ekl4Y2ppMm9BeUxWVUthQjRhUzhiNkRDMUNuclA1Xzg4MU80V3AzeEFHWVdDUnRjWEpwTEtmQ0k4OUdyX0lHMTV6TGJ5UUNiSW8tZkVqcmRZMmpLOEpfZl8wNnhGdmg0T01ZVVgyVGRKeUhqVXJmWm56NndqNTJ5d09PczhNekQ3cFJWQTBkWUJJUVEyekdlRUJTSk5HdUZaakUxR2VXaFE1YXg4NXVnTjFFZFdxanl6UXUxUFByUjlXSVVNQQ?oc=5",
+        "publishedAt": "2026-07-24T07:00:00.000Z"
       }
     ],
     "cultura": [
