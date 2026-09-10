@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T20:31:57.830Z",
+  "generatedAt": "2026-09-10T22:57:40.842Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -64,11 +64,25 @@
     ],
     "economia": [
       {
+        "title": "BCP: Perú podría crecer 6% anual tras El Niño - Revista Economía",
+        "summary": "BCP: Perú podría crecer 6% anual tras El Niño &nbsp;&nbsp; Revista Economía",
+        "source": "Revista Economía",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRzh2Q096Z25kbUVHaFRHYzlMcmltZDFyU0tNazlBdE5iMVZmdEVwWGRIS0pFclJlaVNrVjQ0R0xUVXctYlVVeHVFd25WeENXNHVPd2RES0w5SGFicW1pOTVBQ0hmdVpuTGs2LW1NT1o0d2lUWnpzNm5YY3lOVWFKWkFn?oc=5",
+        "publishedAt": "2026-09-10T21:50:43.000Z"
+      },
+      {
         "title": "Perú a un paso de tener conexión aérea con una de las economías más poderosas de Medio Oriente - Infobae",
         "summary": "Perú a un paso de tener conexión aérea con una de las economías más poderosas de Medio Oriente &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX2h6a01VTjBseTNveEI4UUJfcEU3MVhUNzNzcFlQMl9vdW9Lek56R0VYamk1RTNYUjNUbUxuQ3dsYUhQT3ppeVlKVTBKRm9Jc2tHVjVxZnBFLUhIbUhfOGlxZjM3ejMtdHRzeElITG11UXVId09XWkpzZXJyOE1MR1ZRMko2UXBOZHY4R2wtdGt1aUx2MTJ2X3lSQlFqNUdjdkhsdlFuaWwzWXU2Z3hzUVNTQW9Dazl5UTZlVHZ0YVJSUEJtR1FSVTlrQW90R2Ri0gHrAUFVX3lxTE5ub2tDSnZxTTc0NEhyWEJFMjJlNXAwTU1NRUUxdHhOMXU2VENnbURYOHBJWklSSm4xN3RCeTBUckV6VkQ1WkhjbTdwdEhjZ3A0Y09qNlNYNVlGU0xHVXQwODgtMGs2VUtUVlVNeTk2UWFEUFVFN2dnejNfQ0tkY0p3Vng4Vi1LelVPYk1EWlhWSV9ueEtlRDFFd0sxbWg1SzI4WS1pREp6bV8zdG9mSGtLRmZGU18xYjhRdXNvRm5fMzBjUlVlYWxwYlIxOFR6UlpfUVlFbThCWV9JZFFEUElud09xcjFiWGFMejg?oc=5",
         "publishedAt": "2026-09-10T16:07:44.000Z"
+      },
+      {
+        "title": "¿Puede Perú mantener el ritmo de la revolución digital empresarial? - Revista Economía",
+        "summary": "¿Puede Perú mantener el ritmo de la revolución digital empresarial? &nbsp;&nbsp; Revista Economía",
+        "source": "Revista Economía",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUgzVW1WNUEwNGk2dWdMZlkzUzdiXzZ4aFNhM01maUU0cVlIUnFtUkM5c2R6aURYN2FFTm1mWWhYOFN2R1haTVdNRFAzVlhia2s0elNidGZod1F0RVFKYjNLY0g2WGhUZjc5cmlseE1TSXhma3FNWGtwVGdjMkpVSFpLWUdKMWF0OVhiWV9qWGlpd2VBbGEwNHhxcnN0aTQ?oc=5",
+        "publishedAt": "2026-09-10T14:29:19.000Z"
       },
       {
         "title": "Embajador de EE. UU.: Perú es un país clave para el comercio y la economía - Agencia Andina",
@@ -92,35 +106,28 @@
         "publishedAt": "2026-09-09T20:26:00.000Z"
       },
       {
+        "title": "¿El café gratis ya no alcanza? El 75% de oficinistas en Perú afirma que sus beneficios ya no cubren sus necesidades - Infobae",
+        "summary": "¿El café gratis ya no alcanza? El 75% de oficinistas en Perú afirma que sus beneficios ya no cubren sus necesidades &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRXduZnJnUXFBRlY1ZENVSm9wOWhuQmJrV2g3YnVNOFk0VjBZOGZzZ09KcC1QS0RVeGhxdklRR0hWVXhEUFQ5VzB4d1dXcjhkeFBqUEl4aWRKem1PNHo4TDJFZW5aUkdZWU9fOTJ3eDFha0VZSGZCWGMycVZjVzg2dFloa3MzSU1pQnl1ZUZqQlRRTzMzSXl0RVFlU1pyRklKRG85U3dYNjhoMGdJT0JzcUJ2M250RkRPeGZEYVowTGJYUWJWdUdncUdncG02SzBoSmpYNUl3YmVkYUxTVjh0SmV2dHJpRlh00gGDAkFVX3lxTFBDbWZiNUl5VXV3ekU0LU11Ykx5QjVzTVBzNWR2NnA2NjVMSHk2bWVPUzU1TVVwSkswVWtzVlNJT291WG01VXY3TkxRTDBacG00Nll1bHF0aHY0LVVBVVllV3ZmZmlpS05zMjBmVExHTWltMGJwd3VQTmR0UVpaaGZsdFdiV1VuOUtwZjFWOTBuMHpBcERicFlqakRtaW5KTDRUR2dib0stWFZ0bGU5UEhYamlVQ08wTWhrUXp5MTZLTnlVOFB1VjhiWEdKUHlaRktmVE56M1A2b0dudEVRY1RmdDhXX2E0eWJXRkdsRlVpOVRZX3VNLWFFN0d5cW0yX1hBTEU?oc=5",
+        "publishedAt": "2026-09-09T19:05:18.000Z"
+      },
+      {
         "title": "Economía peruana ‘golpea’ a mascotas: Ahora se gasta menos en perros y gatos - Infobae",
         "summary": "Economía peruana ‘golpea’ a mascotas: Ahora se gasta menos en perros y gatos &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXpvUjFGSlBRbm9tdUxCSW5uNHJHbmx6bUx4Y0dtNFBoSEg5SzhFRHFsTmZObzR2U2xkbTZTbjh6NXdJNnFzMVZlUXB1VGNpeTNyMVplVHItektZcG9DdmZIcUVMcXd2Z1ZrLUJEUzRVRjR3TXczeVBwZVllajlYUkhLWWJWaFVSVEtuekx0ZVhKQ3otdVZLdGJYM3g4VkoweFczYUpaaDA3eUNiZy1ONUIwX0bSAc8BQVVfeXFMTy16dnVveVJJNk9HdkljelpXYU1md1dGUzdFVG4zYmhYUHNIMUE1RjQ4OUFqUUYyd1ZwM0tEdU4wNXRrNEhrTWtSX01tNGRqZlNmTWx6aE42NHNKSWNuSm9hQTlDZDRxX0tPMk0yWUNIRms1R2Q1bUFqa0dWUElPRVl4c2ZfeDc3RWtGbHNnaTA0UjItQnc5b0RiY3UyTE5WUk5DSnpxcFZQNzFxeHdrLXlVcXN1NmlUMFZzb1pjYlBINDVxY2FHYmVxb1ducWFr?oc=5",
         "publishedAt": "2026-09-09T12:40:00.000Z"
-      },
-      {
-        "title": "Uber, Rappi y otras apps de movilidad y reparto: usuarios crecen sin freno. ¿cómo impactan? - Gestión",
-        "summary": "Uber, Rappi y otras apps de movilidad y reparto: usuarios crecen sin freno. ¿cómo impactan? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQjRVRXdwRWdfU0RoNGRidmNsRENUQjA2STRzYVplT21DMTQzVVA3LU1nUUdUbnNaWDVKaUlSWm1acmRXeTVQRm15cm5UT0hSWmZBN0ZpTF9iZFpWamFXd2VCNGhtcndoa19SZVFySzZqUkNiWFEycnRGSV9vbHRwalZYdXZxdjNLQkN2VDJsQWJSYVJzREFORndlUmJraV8xQi0zU1V4V1VvOFlITll4NUpIb0VlaDYxaUhPWG5ia3hpc2g5SThB?oc=5",
-        "publishedAt": "2026-09-09T11:30:00.000Z"
-      },
-      {
-        "title": "Tu prisa es mi progreso: plataformas de movilidad y reparto generaron más de S/10.700 millones en 2025 - Infobae",
-        "summary": "Tu prisa es mi progreso: plataformas de movilidad y reparto generaron más de S/10.700 millones en 2025 &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSFRRWk9UOHlVTDVrOEtiakQ5TWJCNGZ5dDhTSTN3LU9MSU0xSC1MOEJ3VEFZVmF3R0d1aGNiYVcwZnFBRXRuN204dVlwYk5YWW9GajgtQ0xWNmtCbmZrbWp5ZjF1R21zR0lPcjRENFV1eDFoMU9MXzVDbzZpUUR2ZlcyR2FXeUlJTU4zVjlDQTNGUUVCMUNZamNxU1RTNW13WTEwZVNlVkRzYU5Yd2pTRWk3NFBNM1ZhTDZNcHdfcm1RWUtBVG10Y2Ywd2ZLMUxheWlBUExhSdIB8gFBVV95cUxNcFA1aGsteU13Ym5CMmRYelZfOTg2NU54OVdOekxqbGI4UVVIQlZqdnRTbE1DMklxbFA1WWFPY1VpWTdQYmZ0V1lrUUVnT2hJTFhLTkZ3ZWdnUE0zTHdDRkFFak85ZFdTbVk2OTg5MHBYbDJuV0dURFJrcjRrTGtFTUJrWU0zMzE2VVE5Y0RXV2RWYzU4QTNzZFZiUENfQm5tWVZzNGZ2SWs5ckVGZFFEd1BIY1lhTG05LWlqZ05jN2xOcURUa2NwdVVxWnVGY1VfelVhSVkzRlBGR2NEVTFOcGppWFBtZDhSclF1VDZVT0haQQ?oc=5",
-        "publishedAt": "2026-09-08T23:52:00.000Z"
-      },
-      {
-        "title": "MEF: “Post El Niño la economía va a rebotar y estimamos una tasa de crecimiento de 4%” - Gestión",
-        "summary": "MEF: “Post El Niño la economía va a rebotar y estimamos una tasa de crecimiento de 4%” &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQS1fYWVZbDNNTlIxaTNiaDNVU2RaYnZvajN5Z1BtWUZKVmhrOFRucDRnYWFUZnFMdERSSWFja3kzNnBQLTM3MjQtUEVicW5Mb0ozY1ZzNlpPaVA1R29pOXc3enItM2ZVSmdaOVpTWGctT24wWTItbUVCbzFjbEFwZGdOdWtTc3NhNk9vc1k5Z0Q3Y1BNZktSTEdoT3BiSlhObGtEeUx6bnFKb2JwMVNNdnB1a3N6VnNDaFdj?oc=5",
-        "publishedAt": "2026-09-08T18:59:37.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Elecciones en Piura: Pedro Alama plantea destrabar obras, reforzar la salud y mejorar la seguridad - Norte Sostenible",
+        "summary": "Elecciones en Piura: Pedro Alama plantea destrabar obras, reforzar la salud y mejorar la seguridad &nbsp;&nbsp; Norte Sostenible",
+        "source": "Norte Sostenible",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kMkgyOFQ3UzgzQUo2RmJmVnl3TGpOTE45eFFOWVYySkF1NFJKcXptcWtEdXRMdlBPUkNpMFdzT29TUDlpTTdfWFk2Q2lweEowLWFPVE9oS0xuLXZmRjRVT3IyM2RaQ19qOWh6VTRTX3dTNURIOHQwY1Bpb1dmUQ?oc=5",
+        "publishedAt": "2026-09-10T14:46:52.000Z"
+      },
       {
         "title": "La crisis de seguridad no da tregua en Sinaloa: gobernadora interina responsabiliza a gobiernos anteriores - Infobae",
         "summary": "La crisis de seguridad no da tregua en Sinaloa: gobernadora interina responsabiliza a gobiernos anteriores &nbsp;&nbsp; Infobae",
@@ -150,13 +157,6 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - Diario Ahora",
-        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
-        "publishedAt": "2026-07-15T15:44:23.000Z"
-      },
-      {
         "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
         "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
         "source": "EL PAÍS",
@@ -180,9 +180,9 @@
     ],
     "negocios": [
       {
-        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - businessempresarial.com.pe",
-        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
         "publishedAt": "2026-07-24T07:00:00.000Z"
       },
@@ -194,16 +194,16 @@
         "publishedAt": "2026-07-21T07:00:00.000Z"
       },
       {
-        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - businessempresarial.com.pe",
-        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
+        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
         "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
-        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - businessempresarial.com.pe",
-        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
+        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
@@ -213,6 +213,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
         "publishedAt": "2026-06-18T07:00:00.000Z"
+      },
+      {
+        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Revista Gana Más",
+        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Revista Gana Más",
+        "source": "Revista Gana Más",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
+        "publishedAt": "2026-06-17T17:04:18.000Z"
       },
       {
         "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
@@ -227,13 +234,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
         "publishedAt": "2026-06-10T07:00:00.000Z"
-      },
-      {
-        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - businessempresarial.com.pe",
-        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
-        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -273,9 +273,9 @@
         "publishedAt": "2026-07-08T10:21:37.000Z"
       },
       {
-        "title": "La paradoja peruana: Crecer sin innovar - Gan@Más",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Gan@Más",
-        "source": "Gan@Más",
+        "title": "La paradoja peruana: Crecer sin innovar - Revista Gana Más",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Revista Gana Más",
+        "source": "Revista Gana Más",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
@@ -295,6 +295,13 @@
       }
     ],
     "ia": [
+      {
+        "title": "La IA creada por un peruano que busca acabar con las reuniones interminables y convertir acuerdos en tareas - TVPerú",
+        "summary": "La IA creada por un peruano que busca acabar con las reuniones interminables y convertir acuerdos en tareas &nbsp;&nbsp; TVPerú",
+        "source": "TVPerú",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVEhzOFlyU2NmNGIzYVY5ejlBNGZpelJDT0RhWE9Bc1NEV0RFMFBYRUNEUWFkbzd6OWtWczk0eGFuSDNLZ1R2WTFQcDRVRERQQ241M3Q3UkxoWXZiY0dwVjBvSlExQ1dCX3FnNE1nLVFYQXNsTWNyNnBEd3k2YlZxQ1NBME11V3VHQjFuRkFRN2NaT2hfWFdvbGVpTmdzUGROQ1JnU2U0SEhxblpaOE1fRmYwaWVxQ3J3WjYyV2tTMFBQVGp2OHBsQmxxcnBmenF4c1diYWo0WjJJcy1mbnM4VHh1Y2htVWVp?oc=5",
+        "publishedAt": "2026-09-10T20:55:45.000Z"
+      },
       {
         "title": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e inteligencia artificial - diarioelnoticiero.com",
         "summary": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e inteligencia artificial &nbsp;&nbsp; diarioelnoticiero.com",
@@ -343,13 +350,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVER3X1pEb1VQeDJTVGZDcWRxUVFEOTlMczlGNXFveTFzWHdRbG52YWhndGlDTTdHRk9CMXBwbEZ3Y0xVR0o1WFdkbkhTQ1VyZXA4SDg1ZGdOdUxFc2hLZHgyQ1V6NGc3clExellickw3LTMyMGJNNU44VW9GQUtzZGJlX1dMZFB4UlZtcGZyeWxSVjB6MGwtbFhBQXV0VEhwdkNmaUdMdXNDaldzU0NvS05IUVltaXNEWVJqZVVCOHZwenhrbm9MUE5BNEdmRTRDREotUG1ST3M5UUZCUDJR0gH6AUFVX3lxTE04d3N2Q1NoZ282eVlEbjZtandqRTdqUWRSWnBocW1pS2tKVXpRNGwtYS1nUlkySmU0T2UzYVFkYjRFOU5JUWhobXZkQUhJVVVaMnhkdmk2RVpVSW85eU44MGdiUEh1UkVHcW9iYVhoenVKZDdXRXp4eUQ3Q3BnUHFZVUJpWVNWMC1ydGttWk9TN0RRNkY4TG1zZ1lvb0Zva0ViYTk0S1BRX1BQQ2J3OEZPRGl5SkViNVcwSko0MFo2T1pOcDh4Njd4YUR2RXp5WnJqNU5hbjd0Zmg5SUVIYUt5OV95TWhraURRZzNMLUtZY0xmWk5BZE15WGc?oc=5",
         "publishedAt": "2026-09-10T01:27:00.000Z"
-      },
-      {
-        "title": "Gobierno reconoce que la IA sí amenaza el empleo de peruanos y analizará cómo evitarlo - Infobae",
-        "summary": "Gobierno reconoce que la IA sí amenaza el empleo de peruanos y analizará cómo evitarlo &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVHB2d1J3cHpjczFGaXIwbFhfVmd2RUtxNU5OV0lzWm52ZjllRVlLcmplZUVXSk56eTVMSTNUY25hTElBSkFsRXZFYXlRT1l5N1NucTBLc1hnd3NDMUozTWtiZTlraXkzWXl6eFQ0X1dHZWpCTnRUZjMtUTczWnVuc3NjV2NiQzI1Z01VZHc2RF9xNWRkenQxM3d3ZEhhUVdIOWVqb0gwWlprbzU3WGhpZzB3V3YxZHBPNmJaNkN5VmZUdFhXbmfSAeABQVVfeXFMTkJ3UzFoczdBLUU3RVJxTjR0Tk8yaEdpQXNCOXJOZjlURjZBd1lyZFhjenhrT1dQN0dqNWVJUUVqV0NwYTF0VDVZeHVxVGFaR1pLX0lOeEM0dTBSOWcxQmtoRXVjTE84dzhzc19DNE42WWtzSEg3b1ludUNGeFYyS1EyUER2MnMyZzVSNWd4aklEbjhxb1RVUVZRdDJncUh0VGFySzNfcjFVVVIydTdvSGc4LXpfN2tYRlliYkU5X3NjOGk5V1IxWksyWVpPUFBocmtSaC1zNTAzZmlWa3ExeFE?oc=5",
-        "publishedAt": "2026-09-09T16:37:00.000Z"
       }
     ],
     "tendencias": [
@@ -505,9 +505,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - Ticketmaster Peru Blog",
-        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; Ticketmaster Peru Blog",
-        "source": "Ticketmaster Peru Blog",
+        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - blog.ticketmaster.pe",
+        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; blog.ticketmaster.pe",
+        "source": "blog.ticketmaster.pe",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVJKaExOenRRZmxzRzVVZWxoanFOaE1fTFdEZmpiRUV0X3FYcFAtTjVwMGo1R1hoUUo2dUhQVVNIZEl5eDhMSlBSdE1jWWZ3YUJXZncxM3J1d2tCUVJvUnNULS1lMEoxZlZkZ0tBbFpFZGxwYm5TSUYyd1RUZmt2VU1JN2thUl94dHduXzdKRWJGOUxQLUp1cWs4U0NMcEhDLVJrVWdVODJDSjJlYjNZODFmY0I0b3NuS2Jn?oc=5",
         "publishedAt": "2026-08-08T07:00:00.000Z"
       },
