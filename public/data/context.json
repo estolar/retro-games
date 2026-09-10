@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T08:43:43.680Z",
+  "generatedAt": "2026-09-10T13:21:59.771Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -25,13 +25,6 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSXJGRzRyNy1fM0h1a2hYZFNTVW5wZDJqcGg2dy1qU0llYTRGeUVGNXdHYVZlZWZyMlFvVmZ1bElRZnp5QllnaVpsbUZiX2l0cVVtVFRWdVo4NGdOQzZ5Q3FJWWF2cmVkdG9JYlZ6emFLT01tcGp0VjN6c2JkYk93UkZMREx5UFVwcVVkZ2NQY242ZnlGR1J3cFlBb0lTYWU5ZW5yS3lab3BfcXBUdzgwVk9qY0RfWHFYQVk2dzkyY3hQZkg1OV9FbTdncXp4eHFYY3pIRU1EVlhTS2dKNDIwZTRuUDdqWGZRblc2V3lUTG44eDhKNktZTk1R0gH_AUFVX3lxTE9PcXNVNkFVT0dpLVE5S2NCVjAtNTdNczVEMXNJLWljVktQUklzQ3MxNUotd3VZXzZzVVhWMHlQVk9WbWJwM0VDeGo3ODR1SHRLcF9LU056R1hBOS04Ql8xd3d6UEZjSE5lUW9DZlh3RnNIdFRlVVhwTzRRcWw5NUpFTmtrOVpLN3BOWmhkTHY0V3R2SVpGUk5LVHp2Vlh5TzcxdmhXY0JYNUtKSHdVMmJDM0Y4MUZLcUJlNzltdDg0U0hQcGEyOHZLRTdYaWpYclJnekdBcXM1ZDlZRTlSd0xGdDhpdDlESUNQYXBXc0RRdE4xODVpNXZVWi02Um5RMA?oc=5",
         "publishedAt": "2026-08-29T07:00:00.000Z"
-      },
-      {
-        "title": "🔴🔵El Gobierno de Keiko Fujimori presentó este viernes 28 de agosto al Congreso, los proyectos de ley de Presupuesto, Endeudamiento y de Equilibrio Financiero para el año fiscal 2",
-        "summary": "🔴🔵El Gobierno de Keiko Fujimori presentó este viernes 28 de agosto al Congreso, los proyectos de ley de Presupuesto, Endeudamiento y de Equilibrio Financiero para el año fiscal 2027. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeVQ0cTVuRWh5TjdZYUk3QnpIbnh5M3FyZGJNTmxBZ1p3Rm92Q1ZtM1Fia0owWmI1Ujl4ZE03X3NVNFR5Tjl2VnR5VVpBdDU5MTVCX1k1b2VhUUh1M0sySDZHb2Z6d1lxekxHTTd6YVItQ05jNjhtaktqYW4wZmhqeXh4YXV5NUNDMHNUdlpXQzhucFZ5a2NIQjFEUW5nOVNTcldLOVpRYXR3NXM4V0pGMElDVy0xdzBkZHl3Nlp6aEZ3RXZMM01IOGEwZHpXT0FnS3BzT2RNZkFYNWF0YktELWN6MnM?oc=5",
-        "publishedAt": "2026-08-28T07:00:00.000Z"
       },
       {
         "title": "🔴🔵La presidenta Keiko Fujimori descartó que el pedido de facultades legislativas presentado por su Gobierno incluya la fusión de ministerios. \"Eso no se está contemplando\", afirm",
@@ -60,6 +53,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOGNsLXJac3ZKV0dyUXNKMG10T2ZjNEN1bnA1NFBmUkFOTTcwNVlETlFpVkhMQzZiNXJJSHdqM1NBQ25wZnhTNEZTQmswSnloNUpBS1BPOE5Xc2VKbkVkWk5YdzhxazlaTEJLNGl5aEQ4S2FqNWRzU0FPSjBpV1BGd1c3NERPNEhDZ01VbDBSbFNZRWl3T1hPcW4ybEVrdGkyZ3lZeEZOclI4QUVIVmtSVU9WbFU3Q3BMVmdqNndLTHRuWDYzaXhOVnhvNUllQzgxYnA3ZnNLWk5iZjlrRVRVTGxiNWRIUWRjZlBnS2xwRdIBigJBVV95cUxNWEZUdkkzaTZ5V3EzMVpxSkJucXpCcENYMmd4MENLNXdiZ0lOZk1kOWl4Y0xqTGU5WUllVW1vSWttWUhXWGptcnF6bzFUSUhyY1BMWjRPUl9VLVdydzlaRWNfcWtuZWRja0FLZUFuV05GcVVXbUNHb0c3WndLRW8wc2hoTnItTnRsLWZkOGxwdHAtalZOMGh6R0lGbG84eWZLVFhabkVSWm04SkwxT3FDNTFBdHpiUXNjSVNzaVJzMWkyek9jU2hMelowSWZUdkVsdmJVRzFFWmx3bHJ2RV9tdVdQSWVKQ0V2QmR2SU8tNHVVMG1NN2dmNHEwNkVBaXM2VzRJd3BrUjdZQQ?oc=5",
         "publishedAt": "2026-08-28T07:00:00.000Z"
+      },
+      {
+        "title": "Consejo de Ministros debate hoy jueves el pedido de facultades legislativas - Infobae",
+        "summary": "Consejo de Ministros debate hoy jueves el pedido de facultades legislativas &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHdoaFZIS0xWTDBhcXYzU3JhU1hxM3c0VmhkakZXclNGaGtKNTVwVFp2SEdHaWJ3d0RNaHFlRXVMSm1XQUlxbFZGanlFRFZiU3FCUzZ1V0p5dmp0LW1PbThsUTBhb1VOSmRDcmR0dDE4LTdzWTU4a2lYd0tuYzVZN29lWjg5eFN5NVlXYnZPMVBQRU5lUkdyTmVxamc4SlNEaElEbHh6dS05TnpZclVCVEVPU2ZGOG_SAdIBQVVfeXFMT05uX2o2Z3REcFRXakVHYlcyNzZDVmNBektyenBpeUpVd0ZvaHVrV1ZYdUs3UW1EZmljTW9VUzRzWndieFNKSXVSVlU2b2NZbWJlbDVneGNnd2MtSUw4VUZhYlEwdndlRkY2NDdGNk9zcGFqM0RHTHVsbVhzdWN3SnAwaUQteHN4UVlhN1RIeklpQWVoLUZGLVpva3BFUlNLdXIwbFBWUkdFNDVTNzJvN0huLWlKNzV1VjZ2ZG1WTkVSQng0RFRibEtncFNlUjVvMEpR?oc=5",
+        "publishedAt": "2026-08-27T07:00:00.000Z"
       }
     ],
     "economia": [
@@ -113,11 +113,11 @@
         "publishedAt": "2026-09-09T11:30:00.000Z"
       },
       {
-        "title": "MEF: “Post El Niño la economía va a rebotar y estimamos una tasa de crecimiento de 4%” - Gestión",
-        "summary": "MEF: “Post El Niño la economía va a rebotar y estimamos una tasa de crecimiento de 4%” &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQS1fYWVZbDNNTlIxaTNiaDNVU2RaYnZvajN5Z1BtWUZKVmhrOFRucDRnYWFUZnFMdERSSWFja3kzNnBQLTM3MjQtUEVicW5Mb0ozY1ZzNlpPaVA1R29pOXc3enItM2ZVSmdaOVpTWGctT24wWTItbUVCbzFjbEFwZGdOdWtTc3NhNk9vc1k5Z0Q3Y1BNZktSTEdoT3BiSlhObGtEeUx6bnFKb2JwMVNNdnB1a3N6VnNDaFdj?oc=5",
-        "publishedAt": "2026-09-08T18:59:37.000Z"
+        "title": "Tu prisa es mi progreso: plataformas de movilidad y reparto generaron más de S/10.700 millones en 2025 - Infobae",
+        "summary": "Tu prisa es mi progreso: plataformas de movilidad y reparto generaron más de S/10.700 millones en 2025 &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSFRRWk9UOHlVTDVrOEtiakQ5TWJCNGZ5dDhTSTN3LU9MSU0xSC1MOEJ3VEFZVmF3R0d1aGNiYVcwZnFBRXRuN204dVlwYk5YWW9GajgtQ0xWNmtCbmZrbWp5ZjF1R21zR0lPcjRENFV1eDFoMU9MXzVDbzZpUUR2ZlcyR2FXeUlJTU4zVjlDQTNGUUVCMUNZamNxU1RTNW13WTEwZVNlVkRzYU5Yd2pTRWk3NFBNM1ZhTDZNcHdfcm1RWUtBVG10Y2Ywd2ZLMUxheWlBUExhSdIB8gFBVV95cUxNcFA1aGsteU13Ym5CMmRYelZfOTg2NU54OVdOekxqbGI4UVVIQlZqdnRTbE1DMklxbFA1WWFPY1VpWTdQYmZ0V1lrUUVnT2hJTFhLTkZ3ZWdnUE0zTHdDRkFFak85ZFdTbVk2OTg5MHBYbDJuV0dURFJrcjRrTGtFTUJrWU0zMzE2VVE5Y0RXV2RWYzU4QTNzZFZiUENfQm5tWVZzNGZ2SWs5ckVGZFFEd1BIY1lhTG05LWlqZ05jN2xOcURUa2NwdVVxWnVGY1VfelVhSVkzRlBGR2NEVTFOcGppWFBtZDhSclF1VDZVT0haQQ?oc=5",
+        "publishedAt": "2026-09-08T23:52:00.000Z"
       }
     ],
     "sociedad": [
@@ -129,9 +129,9 @@
         "publishedAt": "2026-09-09T23:47:10.000Z"
       },
       {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - elperuano.pe",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; elperuano.pe",
+        "source": "elperuano.pe",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "publishedAt": "2026-09-03T16:27:00.000Z"
       },
@@ -215,13 +215,6 @@
         "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
-        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Revista Gana Más",
-        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Revista Gana Más",
-        "source": "Revista Gana Más",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
-        "publishedAt": "2026-06-17T17:04:18.000Z"
-      },
-      {
         "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
         "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -234,6 +227,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
         "publishedAt": "2026-06-10T07:00:00.000Z"
+      },
+      {
+        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
+        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
+        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -252,11 +252,18 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
-        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
-        "source": "Revista Minería & Energía",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
+        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Instituto de Ingenieros de Minas del Perú - IIMP",
+        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Instituto de Ingenieros de Minas del Perú - IIMP",
+        "source": "Instituto de Ingenieros de Minas del Perú - IIMP",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRE5fZ3JJNF84QkRUbkg3dVFHbWlZbER1STBIYXZMdlU4VnUtYlo5MnROakM2RE1JNC1CbGswOVUyZG1iUWxDeTAtRzY0aEJLY1d3bFdRMlJ1elE5Qmp1UGx0S2I4LWdlSF9SQi1ZSVFveEJwRE1iakhBVTMtUEthOXZyVU1TdlM1dFNNR3ljb3hrR0pBNWpJWTlHUWFzbU1jNWtXVndDclN0Ul9RNGZwSHh6aVpxWWRtNWRnUk1xMHhIVU10NWx3RTQ3QXVyc3BIYm4zTDJXbl8?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética - El Periódico de la Energía",
+        "summary": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética &nbsp;&nbsp; El Periódico de la Energía",
+        "source": "El Periódico de la Energía",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2VQSGwtN0JkSnVaSTJURmJuX2VwcmExRWNzXzhsMmhKamg5WEVwU2plZHBHYzdUMjFZQW9xejJoaG04SDV1YWhkZlNneFZTQUNnN3VQVDltd295ai12R09RRlRJaTVEek5tT2F0c21NY1pQWVRxM1NYWVVaZHdiR050dmp0S1Yzc1JfdEsyR3dOUG95QUJzWFBwVWR1OVhMRWR2WGVmS2NrV0p5UGFpb3pYWTgwMW9Qd1lUOUc2aG1RdUk?oc=5",
+        "publishedAt": "2026-07-08T10:21:37.000Z"
       },
       {
         "title": "La paradoja peruana: Crecer sin innovar - Revista Gana Más",
@@ -285,16 +292,30 @@
         "source": "Tu Diario Huánuco",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGpsT3FrekhQWTg2UDZlY1JyaUJzQWI4UDEyRjZGUDY4ZXRtQjBUUHlmdmtrSW8wN29HalpYQWswZFA1OHg0SVAyRldYdFR3bUk1V0xwRHRWc1ExQnNXN0VzejE0eHFacXpMd1RnQ2hjR0ktQU1CeGZrZm1HMUUyci0tdW1xWnpyeWl3NHRua0pSRXE2azVCNEk4aTg4VDN4czhsZXV1T1F3THByYkJyajF5blp0cjlKanJ6blRGNEsxS3dOMnFYMFAyZXRqbEJyRDhVX2x5WWxadw?oc=5",
         "publishedAt": "2026-05-05T07:00:00.000Z"
-      },
-      {
-        "title": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? - Gestión",
-        "summary": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUTg0TnlVV3lUYTdjLVp2aVdLR3lmU0l0VnBuTUlYRUxtbE43SHplMGgyc3MwUTl5RnBGeE1pR0tkak1tVVVXakhuV0xPaHh5TmVZR283NkNuZUpTY1FxanJELTJLckdKSVlJOTF3QTBhNnBibnlldjQyQkU3c2JYeDBKcXEwaTJxQklVa2J0Y1Q1T0JRcEVrTlZGV1ZTMWtZNHlEbmJtSTVNUHg1eGRCZjhB?oc=5",
-        "publishedAt": "2026-05-01T07:00:00.000Z"
       }
     ],
     "ia": [
+      {
+        "title": "Perú y Estados Unidos preparan alianza para incorporar inteligencia artificial al Estado - Eloriente.com",
+        "summary": "Perú y Estados Unidos preparan alianza para incorporar inteligencia artificial al Estado &nbsp;&nbsp; Eloriente.com",
+        "source": "Eloriente.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTl2NkoxbHVvZGtBLWkyQTRzY25KWll1MnM0d3FKZEc3U2o1SUlPQmVJb092bVlLa2tUWnNKTEt5b21lU0lFN1RGUEppc013dVF2VC1yTEpoQzJiQWlaNXJEaTJWOTZYT3ZfOWp4U1pVb1d1ZGc1d0d4UHMyQlZMSW40Yk5hT3JVUmlGaGVLQ3dmQWlkUTUwb3R4QXRFQm9IYWFEMEcxR3llbnQ4TEhfRw?oc=5",
+        "publishedAt": "2026-09-10T12:03:08.000Z"
+      },
+      {
+        "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
+        "summary": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial &nbsp;&nbsp; teleSUR",
+        "source": "teleSUR",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
+        "publishedAt": "2026-09-10T11:34:25.000Z"
+      },
+      {
+        "title": "Alex Kaiser señala que la IA debe emplearse con cuidado para no dañar el desarrollo humano - notiperú",
+        "summary": "Alex Kaiser señala que la IA debe emplearse con cuidado para no dañar el desarrollo humano &nbsp;&nbsp; notiperú",
+        "source": "notiperú",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYlAxeEVHUE85UEtHYWpsOUh6SGZEUnU3cDh2c0dORlppVE9jb3hwOV9JUE50TmJ4dV9FaVI2V2tLYkNEWVhQR2syMGgwZXJNOXRWYzFWNzFPeFltb2hWZ1dKQzU5b2phbEhuUEVhU0tvVWpUSVQ2ZzFJZWIxZ3RpRm5IYTd3emY5MG5iUVQ1SnU3UFRjRXphWjhKWWdIb21wdkxXaUQ3TzZ5M2dEaS1ZOEdjSUVONXZMdUpJS3Frb3FRSzhNbXVUblFoa1lXV1MyVDVsaUU5WWw?oc=5",
+        "publishedAt": "2026-09-10T11:08:12.000Z"
+      },
       {
         "title": "Perú acuerda importar y adoptar tecnología de EE.UU. - latribuna.com.py",
         "summary": "Perú acuerda importar y adoptar tecnología de EE.UU. &nbsp;&nbsp; latribuna.com.py",
@@ -329,27 +350,6 @@
         "source": "facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYXI5YVo2cGxoMHZZM0kzM2NkVWlCNEFDWEthQXVpa2pPWE1QQXhIMFFvM0Z2Umd0Z1NuMS0xQXdQc0hzaEppZElTQ1IwbnVBVF8xM3h3Q0NqTTAtT09TWmg1UkxSNDdQTWtzOTduRXRNa0ViSkQzcTZTQTJLZlF2d3ppVTlxNnF0aHZhY3B0YzhKRXJ4VDVIMGlZTlhxTTZKQ0dLV21fcVJZUjIzcHV4MzMybm5YMWxQTlUwTllUdnZzWWxQNVpBMnFaX2J6M2pOdjVIbEZ0SWl3NVcxanplWWg0c2E?oc=5",
         "publishedAt": "2026-09-09T02:51:42.000Z"
-      },
-      {
-        "title": "Embajador Bernie Navarro: \"Perú ha sido un líder en regulación de IA en el mundo\" VIDEO - peru21.pe",
-        "summary": "Embajador Bernie Navarro: \"Perú ha sido un líder en regulación de IA en el mundo\" VIDEO &nbsp;&nbsp; peru21.pe",
-        "source": "peru21.pe",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1V3QnM4Rkcwa3BpVHBsaGxCdV9lajFkdjNCNVdrS0xxbi1fQVpYSTFPSDFuQk1rdFp3VlpkeFJEMlU1UjV6U2Y2OE00a0h4a0I1NXlBSXMzaXJzZHBGTkFVTlN5ZTVkTkVJYzl2OHZKQmJKNXdSM2tsTlpIODJrcHkwNWpmX1FrYmFLcXVjOU95eEU5dTNXRG9hWTQwN2MtZTdtazdFcks5Sl9FTVZkOHQ2aGE?oc=5",
-        "publishedAt": "2026-09-09T00:43:24.000Z"
-      },
-      {
-        "title": "Estados Unidos y Perú acuerdan cooperación en IA: ¿qué áreas busca desarrollar el convenio? - Gestión",
-        "summary": "Estados Unidos y Perú acuerdan cooperación en IA: ¿qué áreas busca desarrollar el convenio? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcFJYM2pzNUhSMjE0OHJPazRJTC1ITm5kV2JLdktwZ0F1MWg3TTBfaDhCN0lvMVpLbEh6WEdvTXBndWQ2NkRmSTlsN3RvZVlwZ3RRT04tSGdnanBSYjhIYlh1cE1zV3VSTFczcmdoUldfTXlJVzl4dGlIRGRyZGhJdmV0Q3ZSaUUxLW9GNnhLU0VUY3hTczB3dFV4M01URGdULWpXWk1KLV84b0d2ekZUOWFSMlZWNExWTF94Rm5yTEFvZEhUMXVqLTl3?oc=5",
-        "publishedAt": "2026-09-08T20:52:29.000Z"
-      },
-      {
-        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
-        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
-        "publishedAt": "2026-09-08T17:57:42.000Z"
       }
     ],
     "tendencias": [
@@ -519,11 +519,11 @@
         "publishedAt": "2026-08-06T07:00:00.000Z"
       },
       {
-        "title": "¿Cuáles son los cuatro eventos internacionales que se darán en Lima? - Caretas",
-        "summary": "¿Cuáles son los cuatro eventos internacionales que se darán en Lima? &nbsp;&nbsp; Caretas",
-        "source": "Caretas",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0h5WTF4MXVHQjVWY3VYd3VZUWVIWnE5c1VfYTRHbXNMWEhRcUFESUlXYXpmWncyZ1pPNWtjdmN5N3dBOTQzak1mMWswYUUzSTF5aWxUTmFjdnpndmNjenV6dEJORHFRRUFmWG1lU2lDeVNNWENGY1pFYkYtV202QmVUb1djZ2JTS3RYTlNDQVZrM1U5YXBPamlrU2hyT0lzYzk0aA?oc=5",
-        "publishedAt": "2026-08-05T17:35:26.000Z"
+        "title": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” - Willax",
+        "summary": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” &nbsp;&nbsp; Willax",
+        "source": "Willax",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR3hwa3FscUt6SXJuc294R2I4czZUM0xIaEtrN3dIWnFzdnFhczhDSTlVSzJEa0t6Z2txT2taanQtTEV2anpjWV9xZVpSakdDc1BzY01ISEFpbkppMnZRRnNuWEZ1dEY5MDJMLTRsbnV4d2ZXTDExa3E3alRWaUxEcDRlaFpYUWdGS3Y2T1c4NFlHdlBhQmh5SjN3dVZ1WThqdHpfcjVyYkZ5dW5ZTGUza2R3cEFxb0tod01ZMFBJc1FFZl9PaUlJX19n?oc=5",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
       }
     ]
   },
