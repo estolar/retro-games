@@ -1,17 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T21:34:06.305Z",
+  "generatedAt": "2026-09-11T23:56:00.633Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
     "politica": [
-      {
-        "title": "🔴🔵En entrevista exclusiva con Exitosa, la presidenta de la República, Keiko Fujimori, descartó que su Gobierno tenga previsto realizar cambios en el gabinete ministerial \"por aho",
-        "summary": "🔴🔵En entrevista exclusiva con Exitosa, la presidenta de la República, Keiko Fujimori, descartó que su Gobierno tenga previsto realizar cambios en el gabinete ministerial \"por ahora\". &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU0poS2REOWFKNE5oa1hrRDZvVnV5OG1XQ2piaUlVZU9NWlo5ZVRYSkxXZ2VoTVJENE9BNUNpZ2hkTE5PYVhwVFc1akpCbU1jTHBFc1MwVFVkZ2RfUXNTNHFLOUNhQ25QdXZCYzNZX3VJV1MxdElmREN3bzNKbW5XTVJqbWxvY0NfRlZKTDRMd1BiWGl6LWVhSTFuU1VQS1FYb2wtOEt3VTJMNW93UUt1V3ZOU0U4a2dUTzI1YlNJZjRNS0Vtc2xvUlRubE1PZ0RPWHJCTUM2TGJlRThLWFIwdVVrYm8?oc=5",
-        "publishedAt": "2026-09-11T19:36:10.000Z"
-      },
       {
         "title": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso - Perú 21",
         "summary": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso &nbsp;&nbsp; Perú 21",
@@ -23,7 +16,7 @@
         "title": "Gobierno plantea usar hangares militares para albergar temporalmente a criminales de baja peligrosidad - Infobae",
         "summary": "Gobierno plantea usar hangares militares para albergar temporalmente a criminales de baja peligrosidad &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc3VmWmNjWk45aVVUdXhHU3g1X1JENmtGNlA1bGdOZ1JJTGdnTG9WNzFSRUlZWEowMmJMTjZ4OXRWVDlJUnZMNVlCaktkdHhDLVhqVmlYTkNmZUo0WEljT3l6dWh4VnFmZ2NVZlZuN3l6aWZiaUtOUjl6a29ydkZLa2tFdUtzUUNpaW5sLXVWRzVPdTFCbHh1LVptRkRQQnpaQVZ5MUJOUnVXdUtBT2oyeXJubEs4ek8xeXhQN1R3bkRWYzlzY0MwWXdXQTlKeXNCNmxyc1h3cXZtMlk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc3VmWmNjWk45aVVUdXhHU3g1X1JENmtGNlA1bGdOZ1JJTGdnTG9WNzFSRUlZWEowMmJMTjZ4OXRWVDlJUnZMNVlCaktkdHhDLVhqVmlYTkNmZUo0WEljT3l6dWh4VnFmZ2NVZlZuN3l6aWZiaUtOUjl6a29ydkZLa2tFdUtzUUNpaW5sLXVWRzVPdTFCbHh1LVptRkRQQnpaQVZ5MUJOUnVXdUtBT2oyeXJubEs4ek8xeXhQN1R3bkRWYzlzY0MwWXdXQTlKeXNCNmxyc1h3cXZtMlnSAfYBQVVfeXFMTkFfbWtHRkZzaGtxcV81RTd6YkFEWEtjSVF3WlUxUmMzN0cwZjJPR1VDVEc5QTYwclUzT1hnaFMydkVpX0JrdnExZ1R2UVdEMzV0eTNYUTQ0MHFOOV9NdjBIWk5Qa0xmTkpUMUdHbnY1OGRnSDhUU3BGZXgyWGx4WWpvLWdZMlVVMVBRMjB2d1V4emtaNE1ZVkhOMmY0Z2diNEFTNWhIOE1fdkNsMlB5N2JjZnlaTlBYeTc3alU3VG1tRnFTTlAwdTl0blR0TFpqQlBSSl8yX1czUmpOTW5nbU1ZOG9SVlBWeFRZSEZoSExHTXNUSG1B?oc=5",
         "publishedAt": "2026-09-10T14:43:00.000Z"
       },
       {
@@ -32,6 +25,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHlnUW12Z25xWXFVV3N1dVN4UzNLY1ZlYzFqcXk2NDZWSENpcGhjRGtTOTBnRE9fWmlPbzNzOXU1RldUVXRkR1JhUFZwd1NRODBWb1FsYTNLV3JvcDU3NUtLUVVPdEhhejNlWU5CZ1dXSk9TTThhbUtnSGVlQi1XMHJrSm1QLUpTNG1oaGNRN0lWeXkwWVlxM2l4MGFuTkZUNTZfQmdISXNOMW9MdnRxVlV0QzhCWXZzQVE4cVJrTzZtWnA2TEU5MFExdUhYanZoWVhMblVHNi1yQ3RFQXFWLTZyNlDSAf8BQVVfeXFMTzYycU1uN3FkcS05SkdXb21BUHljZFc2ZVczUXZsdDFSNEVOTmQzcXNmOEFCdVQxdUlTaHByelZrSTNYcGwtZ3hZa0VmbkJqSWVxQUNCRHRiWS1PRnhmUDc3NzNiUkRHVWtJSGZ5cnAxTGdJWkRRWHFvVzdoX1YycGROWFVBeDZaU2lQM25PcU91bGU1NTVwLWhOTU83MlUyZGR2bnJ1Z1Q1cnNubHg4bE8zSGhNaVI0Y2NFTXJ4TXc5UmNOcUM1eGpPTlFRYzZSbHVIZzNyaGNQMXR3TGNRVG1mbC1Jb3huRFZFWWhhTkxIN1RWOFVpUk91SzZRbk5z?oc=5",
         "publishedAt": "2026-09-05T03:11:00.000Z"
+      },
+      {
+        "title": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad - Infobae",
+        "summary": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHp2T1ZoLS01bUlPNy1CZ0pvYlV1MTRzYkFwWHF3a1lWcWw0UVVmeG1Rd080N0FLSTgzejEwMDhVNUN4MXN4R3FBbUNBTXZuVkRUYTUwSDgwS1FiR0t2V3EzVjlKUWZpcVBrWnozOUpIMVVYeW5VSlZDRjZISmQ3Q0pyYndzTDhQZVRLR1N5bnhobVZrbkdJNXZraWlab1llak04N0g0NnFZTUpNNHNoZ19rcDE4cXlvUmxYeVBpRVQzSXNWLUFqdDM0TlV6V0RJVTZQSmMxSmVYbFVXd2NjN2h4bTdoTFFCVlN6QjRB0gGIAkFVX3lxTFBKclJfUEdTdXdGMkQ0enlHTmExUnl0emRmZGRUM3dIQ3BSandEVk5TaEhwU1NaVlR4SldydExWNVNpWGxub2tJTnRxVnZGRC02MGRabVkwSkM3MG5fWklUWkl6UlR1UDN2WDdUcllaZktNMm5BM20zNFpncmNyeXNZbElnLU9OUmFxWU5uMnhLN2xwMEltVXExeFRuQ2diYVNBT1dySXJQc2ljTDN3NHFHNFlpN2NMMHd3cUJkOXI5RE5GVWdvT1czY2VselNwX2xhaXJ3M0ZvQlBkQXZBUDBMTlM0SlhKblhJdW54NUxuYkVHdC1jUEN5bXRsQWhnOVlIRGJicEo5WA?oc=5",
+        "publishedAt": "2026-08-31T07:00:00.000Z"
       },
       {
         "title": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen - La República",
@@ -71,6 +71,13 @@
         "publishedAt": "2026-09-11T20:45:16.000Z"
       },
       {
+        "title": "¡Sí se puede! Tottus lanza una refrescante campaña en Perú centrada en la frescura y la economía familiar - Roastbrief",
+        "summary": "¡Sí se puede! Tottus lanza una refrescante campaña en Perú centrada en la frescura y la economía familiar &nbsp;&nbsp; Roastbrief",
+        "source": "Roastbrief",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX3JscEliUFdPVENVZTFZZjM0N18tblpPbWhfNGI2cDZXeUV4NEhiY3FKLUlQaVNfREJvajc3VnZUMWtzUmxWWXdmUWs4ZFhtU2p0X0RnUUtFVmZoQjNNSDBqZzc1MVRxQ2JpZjh2VVdYQndRenJ6YWZYR2Q0ZGpzWUZtS0NlcEZKeVJMR1RHTFVPUzNsdEJGeERBSzlmNWNlNEVyUUx4YW1tUWw1V1piQU5KOTNTRDM1eUtxelF6NDh0d0lCamNCVTgyMmlCaXRXdDZtcw?oc=5",
+        "publishedAt": "2026-09-11T16:22:59.000Z"
+      },
+      {
         "title": "Keiko Fujimori en Hablemos Claro: Relaciones internacionales y economía peruana - Infobae",
         "summary": "Keiko Fujimori en Hablemos Claro: Relaciones internacionales y economía peruana &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -106,18 +113,11 @@
         "publishedAt": "2026-09-10T23:57:00.000Z"
       },
       {
-        "title": "Marco Rubio en Perú: EE. UU. fortalece cooperación en seguridad, tecnología y economía - Exitosa Noticias",
-        "summary": "Marco Rubio en Perú: EE. UU. fortalece cooperación en seguridad, tecnología y economía &nbsp;&nbsp; Exitosa Noticias",
-        "source": "Exitosa Noticias",
+        "title": "Marco Rubio en Perú: EE. UU. fortalece cooperación en seguridad, tecnología y economía - exitosanoticias.pe",
+        "summary": "Marco Rubio en Perú: EE. UU. fortalece cooperación en seguridad, tecnología y economía &nbsp;&nbsp; exitosanoticias.pe",
+        "source": "exitosanoticias.pe",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHBWTkNaNjBfN1VDZnFrRUlOOW1WMzNrSjFDR3E1NDdwMUNQQUZoWlZ0NVAwaFEtMzloUjNodUc4eGx1QTlyWjNNTUVXQ09DM0x2bFI1Z014WUlVQTI3Mk93ZVh1bWowMTlfcjNHaFZQVTNlWjFNZVlHVklpRXNaNkN6Zmd2aW10aUQ4RVB2VWt0NmtGZnJZcFFkOUw5ZUxQdWppX0RhMzRQLTFiQmdUelJFQXJxdjk0SVFmZWRVcw?oc=5",
         "publishedAt": "2026-09-10T22:00:00.000Z"
-      },
-      {
-        "title": "BCP: Perú podría crecer 6% anual tras El Niño - Revista Economía",
-        "summary": "BCP: Perú podría crecer 6% anual tras El Niño &nbsp;&nbsp; Revista Economía",
-        "source": "Revista Economía",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRzh2Q096Z25kbUVHaFRHYzlMcmltZDFyU0tNazlBdE5iMVZmdEVwWGRIS0pFclJlaVNrVjQ0R0xUVXctYlVVeHVFd25WeENXNHVPd2RES0w5SGFicW1pOTVBQ0hmdVpuTGs2LW1NT1o0d2lUWnpzNm5YY3lOVWFKWkFn?oc=5",
-        "publishedAt": "2026-09-10T21:50:43.000Z"
       }
     ],
     "sociedad": [
@@ -266,6 +266,13 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
+        "title": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética - El Periódico de la Energía",
+        "summary": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética &nbsp;&nbsp; El Periódico de la Energía",
+        "source": "El Periódico de la Energía",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2VQSGwtN0JkSnVaSTJURmJuX2VwcmExRWNzXzhsMmhKamg5WEVwU2plZHBHYzdUMjFZQW9xejJoaG04SDV1YWhkZlNneFZTQUNnN3VQVDltd295ai12R09RRlRJaTVEek5tT2F0c21NY1pQWVRxM1NYWVVaZHdiR050dmp0S1Yzc1JfdEsyR3dOUG95QUJzWFBwVWR1OVhMRWR2WGVmS2NrV0p5UGFpb3pYWTgwMW9Qd1lUOUc2aG1RdUk?oc=5",
+        "publishedAt": "2026-07-08T10:21:37.000Z"
+      },
+      {
         "title": "La paradoja peruana: Crecer sin innovar - Revista Gana Más",
         "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Revista Gana Más",
         "source": "Revista Gana Más",
@@ -285,13 +292,6 @@
         "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "publishedAt": "2026-05-29T07:00:00.000Z"
-      },
-      {
-        "title": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación - Tu Diario Huánuco",
-        "summary": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación &nbsp;&nbsp; Tu Diario Huánuco",
-        "source": "Tu Diario Huánuco",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGpsT3FrekhQWTg2UDZlY1JyaUJzQWI4UDEyRjZGUDY4ZXRtQjBUUHlmdmtrSW8wN29HalpYQWswZFA1OHg0SVAyRldYdFR3bUk1V0xwRHRWc1ExQnNXN0VzejE0eHFacXpMd1RnQ2hjR0ktQU1CeGZrZm1HMUUyci0tdW1xWnpyeWl3NHRua0pSRXE2azVCNEk4aTg4VDN4czhsZXV1T1F3THByYkJyajF5blp0cjlKanJ6blRGNEsxS3dOMnFYMFAyZXRqbEJyRDhVX2x5WWxadw?oc=5",
-        "publishedAt": "2026-05-05T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -303,18 +303,18 @@
         "publishedAt": "2026-09-11T18:18:28.000Z"
       },
       {
-        "title": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA - El Universo",
-        "summary": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA &nbsp;&nbsp; El Universo",
-        "source": "El Universo",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1laN1dIQ3pHNnVxMXhERTlOVEN6MjZjMkNaWUU3MVZXYk54WHFtZnBuUDB6dzJBdFdySEdESWVGaGJ5aWExMjYtdjVIN0tfaTRVUDdnYlZDQnJ3akt6cWgwY1dIMGQ5Z2VYRlkxbHkxYTdFbjVDamdXNVg0QklGNmduZHFLOEx4ckxwdDFWUEM1RC1EX2luT0JBTVhoQnJMQ1BaRVJkVEppY09nNVlOM09nbTQ0U21aV0p1cTVTWDlYVXhwRVVLOGZ3cFZWal9ZVzQxejhFV0g2Zk91cXlEQW9TTWJBelp4V2hsWG9Oc3lwQQ?oc=5",
-        "publishedAt": "2026-09-11T16:27:00.000Z"
-      },
-      {
         "title": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e inteligencia artificial - diarioelnoticiero.com",
         "summary": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e inteligencia artificial &nbsp;&nbsp; diarioelnoticiero.com",
         "source": "diarioelnoticiero.com",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORmpMZ1FhengyVHRvbkhjSE1YU1lHZzh3VTRmQVdoTWNpWk92bDVIUmJZTW9VWVk2RF9kbHJ4alkzWWRINUVFcHJaR055TzNXTXdVRXFtdklpQVVSeDJDcFpaUXFUWUM1Rmd6R3RnczVSOVZwOXJ3YTJFdktJbnJRSUhMQnF1cHludmpUY3NBZktEYlVyVU9FVmI3eDlBZ25BbDhqamdKT3pYMVh4R0lYMUpycHY3aldlRVhoTkdBWlViaG51ZWxHMlpQT0o3NEFtTXM5OFJ6U0M3SGpldEp5akY1Vm5hQ2gxWHBRQ0ctelc3QlBzSkhVMG1zYw?oc=5",
         "publishedAt": "2026-09-10T20:55:35.000Z"
+      },
+      {
+        "title": "Minería, logística y agroindustria concentran las mayores barreras para adoptar inteligencia artificial en Perú - Infobae",
+        "summary": "Minería, logística y agroindustria concentran las mayores barreras para adoptar inteligencia artificial en Perú &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlZRNVdVcHE2LTBjOE9sbkhDMmlGMm5Zd3BzbGFQWDQwTG01XzQwZjloNEw4UjVySHdBSHdtQnBTNFRLX2JaRmFpMXJlWk96OHNwZkFuUG1XR3p6VzBFZDJQT3NUM2hxRlg1eE1CZmctck9laHcxUkExMVU2MDhNOS1ObHlOSG9uNnY4X3dBTkluQ2c4cDZMWG5UT0NiYW5yRm5FN2Q2V2Q3azljX1dQRTVycnJnR0piR3dRWlBnbzVWVzViSllrRW5GWmF1UVBSUnk1bVFrbEphNnR4SEJmenM0MGZKZ9IBgAJBVV95cUxOZmw3c3luSS1IeU1rVUlhMWdBM1BfYi1UUVk2Z1RjR1V2dERLLVZPbFVkRTJ3VEo3VjZWaW1Vd0pUOVRvMHVGVnh0MlVHbW5tcXp6cF9QUGNOaHJyWGFWbTVoVmdwcEw3OU5hRzhpSnVDaDVKcmVzUW04TDBZTWtoUllEUEd1MzdZdkhKWS1JSmswYllRcXdsSm9xakN5UXNwejJha3hZLTh4N29pcmlBMEFjbURraVowdTJ4a3hNbzc1MWF1NXlTUld2OFpaaWl3RnlLbTVSMUhUMzFsa3hoSDR6XzdxR0V1ZUZ5cDBMa240cTRaN2RMOEl0REFFaF9I?oc=5",
+        "publishedAt": "2026-09-10T19:42:00.000Z"
       },
       {
         "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
@@ -433,9 +433,9 @@
         "publishedAt": "2026-08-23T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
-        "source": "diariocorreo.pe",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
