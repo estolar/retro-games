@@ -1,10 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T08:27:32.403Z",
+  "generatedAt": "2026-09-12T12:41:53.941Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
     "politica": [
+      {
+        "title": "El nuevo gobierno de Keiko Fujimori en Perú: un comienzo accidentado en un viaje peligroso - Infobae",
+        "summary": "El nuevo gobierno de Keiko Fujimori en Perú: un comienzo accidentado en un viaje peligroso &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZHhlZV9iZ1lHSE01dEJyTlJIVEtva3NsVEpYYlBscDRYZzhXOGY1a1lJZHVWM3pvZ3pDMHdvQkVDdlpQOHl5Q1JYUFFJbFJpWWhmYVYtZDBDMm9XLVl0T2tEcDl1QnlYbkY5Y19NZUVyNUhaYzNXRzF4RTkwQzN2c0kwV2pVN3paR0Y3bVI1dDhvalVIWHRudl9vSGJ5OXh2Q0daNXFHSDBEdzVPRGZMRG9TQ3FJV0tkZW1fcU84dkdtOGkxRHVGRDZn0gHkAUFVX3lxTE5sZ3gyYUswNkFqR3Zra1JxLUxEcUtiYmxpSnByNVV3NElzeXdFTmFSY3NhbWpLS2drV3ZQd0tMeEp3cWoyZUVyMVZtbFdzZnhuVjNzMUxwSmhmZFlmTkJ0MExibmhTX21kYzc5N2Ixd0huR1hfRW9uWWtqRTBXVTBJOWRPNFhUcU9TM2Rkb3ZpdlhMLU9FYkFiekpTczNOWkZ6S0JxR3BmWno5b2k1RHRlUUowczBZUWtGTHJ2TDFkRGw1dFBwQzBHcU9wZHE2YjBuOFRjQ2N0Q2JLOEZzTHVacjczQg?oc=5",
+        "publishedAt": "2026-09-12T08:20:00.000Z"
+      },
+      {
+        "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - Exitosa Noticias",
+        "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; Exitosa Noticias",
+        "source": "Exitosa Noticias",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXVFeHN5ODA4dEFpY0hYcjZDdVNhbm9TVmhLSUFvMXJ1MUlCR0hpanB6SzcyWXhFMkl3NjFBa2FPdG9rRDd4LTlfVG9LZ1BQZjJNTm03OS1XUkRMR3B1c0EtQmVLcHZVNW1TRWdZOVhxM1Z5Y0NKZFdpX1RrRVV2WEJsdkJqSDgyTWNFYW5sWXBtVC11S210cXh3VXN0NXVEQ2N5UXlscXlDcGZ6T2o3NHk4aXZjeXlnWnA1U09tN3Z2clA4cXl4V0VDWkQtZDZhWkFJOEdFd3R4QQ?oc=5",
+        "publishedAt": "2026-09-11T20:17:00.000Z"
+      },
       {
         "title": "🔴🔵En entrevista exclusiva con Exitosa, la presidenta de la República, Keiko Fujimori, descartó que su Gobierno tenga previsto realizar cambios en el gabinete ministerial \"por aho",
         "summary": "🔴🔵En entrevista exclusiva con Exitosa, la presidenta de la República, Keiko Fujimori, descartó que su Gobierno tenga previsto realizar cambios en el gabinete ministerial \"por ahora\". &nbsp;&nbsp; facebook.com",
@@ -34,16 +48,9 @@
         "publishedAt": "2026-09-05T03:11:00.000Z"
       },
       {
-        "title": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad - Infobae",
-        "summary": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHp2T1ZoLS01bUlPNy1CZ0pvYlV1MTRzYkFwWHF3a1lWcWw0UVVmeG1Rd080N0FLSTgzejEwMDhVNUN4MXN4R3FBbUNBTXZuVkRUYTUwSDgwS1FiR0t2V3EzVjlKUWZpcVBrWnozOUpIMVVYeW5VSlZDRjZISmQ3Q0pyYndzTDhQZVRLR1N5bnhobVZrbkdJNXZraWlab1llak04N0g0NnFZTUpNNHNoZ19rcDE4cXlvUmxYeVBpRVQzSXNWLUFqdDM0TlV6V0RJVTZQSmMxSmVYbFVXd2NjN2h4bTdoTFFCVlN6QjRB0gGIAkFVX3lxTFBKclJfUEdTdXdGMkQ0enlHTmExUnl0emRmZGRUM3dIQ3BSandEVk5TaEhwU1NaVlR4SldydExWNVNpWGxub2tJTnRxVnZGRC02MGRabVkwSkM3MG5fWklUWkl6UlR1UDN2WDdUcllaZktNMm5BM20zNFpncmNyeXNZbElnLU9OUmFxWU5uMnhLN2xwMEltVXExeFRuQ2diYVNBT1dySXJQc2ljTDN3NHFHNFlpN2NMMHd3cUJkOXI5RE5GVWdvT1czY2VselNwX2xhaXJ3M0ZvQlBkQXZBUDBMTlM0SlhKblhJdW54NUxuYkVHdC1jUEN5bXRsQWhnOVlIRGJicEo5WA?oc=5",
-        "publishedAt": "2026-08-31T07:00:00.000Z"
-      },
-      {
-        "title": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen - larepublica.pe",
-        "summary": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen - La República",
+        "summary": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSXJGRzRyNy1fM0h1a2hYZFNTVW5wZDJqcGg2dy1qU0llYTRGeUVGNXdHYVZlZWZyMlFvVmZ1bElRZnp5QllnaVpsbUZiX2l0cVVtVFRWdVo4NGdOQzZ5Q3FJWWF2cmVkdG9JYlZ6emFLT01tcGp0VjN6c2JkYk93UkZMREx5UFVwcVVkZ2NQY242ZnlGR1J3cFlBb0lTYWU5ZW5yS3lab3BfcXBUdzgwVk9qY0RfWHFYQVk2dzkyY3hQZkg1OV9FbTdncXp4eHFYY3pIRU1EVlhTS2dKNDIwZTRuUDdqWGZRblc2V3lUTG44eDhKNktZTk1R0gH_AUFVX3lxTE9PcXNVNkFVT0dpLVE5S2NCVjAtNTdNczVEMXNJLWljVktQUklzQ3MxNUotd3VZXzZzVVhWMHlQVk9WbWJwM0VDeGo3ODR1SHRLcF9LU056R1hBOS04Ql8xd3d6UEZjSE5lUW9DZlh3RnNIdFRlVVhwTzRRcWw5NUpFTmtrOVpLN3BOWmhkTHY0V3R2SVpGUk5LVHp2Vlh5TzcxdmhXY0JYNUtKSHdVMmJDM0Y4MUZLcUJlNzltdDg0U0hQcGEyOHZLRTdYaWpYclJnekdBcXM1ZDlZRTlSd0xGdDhpdDlESUNQYXBXc0RRdE4xODVpNXZVWi02Um5RMA?oc=5",
         "publishedAt": "2026-08-29T07:00:00.000Z"
       },
@@ -52,13 +59,6 @@
         "summary": "🔴🔵El Gobierno de Keiko Fujimori presentó este viernes 28 de agosto al Congreso, los proyectos de ley de Presupuesto, Endeudamiento y de Equilibrio Financiero para el año fiscal 2027. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; facebook.com",
         "source": "facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeVQ0cTVuRWh5TjdZYUk3QnpIbnh5M3FyZGJNTmxBZ1p3Rm92Q1ZtM1Fia0owWmI1Ujl4ZE03X3NVNFR5Tjl2VnR5VVpBdDU5MTVCX1k1b2VhUUh1M0sySDZHb2Z6d1lxekxHTTd6YVItQ05jNjhtaktqYW4wZmhqeXh4YXV5NUNDMHNUdlpXQzhucFZ5a2NIQjFEUW5nOVNTcldLOVpRYXR3NXM4V0pGMElDVy0xdzBkZHl3Nlp6aEZ3RXZMM01IOGEwZHpXT0FnS3BzT2RNZkFYNWF0YktELWN6MnM?oc=5",
-        "publishedAt": "2026-08-28T07:00:00.000Z"
-      },
-      {
-        "title": "🔴🔵La presidenta Keiko Fujimori descartó que el pedido de facultades legislativas presentado por su Gobierno incluya la fusión de ministerios. \"Eso no se está contemplando\", afirm",
-        "summary": "🔴🔵La presidenta Keiko Fujimori descartó que el pedido de facultades legislativas presentado por su Gobierno incluya la fusión de ministerios. \"Eso no se está contemplando\", afirmó al ser consultada por Exitosa sobre una eventual reorganización del Ejecuti &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWXZabHY0NEZkQ1lxOFpuSDBMRFhrTW1WYW5LTHJrZkZDelRacVh1ejJWbzlCSXIySl9vb0paZFc3VHlZbzVId1ROZ2h5bDhvbEZFdW5tU3RKeWJucHVhUGxSMWdRTnc3aFgtcllENWRtTy1xSWcySUFXM2V2Wm5tdlZyZlVMcWkzOHhfRjdCaEZtWkdGSGVMQWtqQ0VtVGtibkRaN1Bvc2lJY2ZFbDJQZ2NOQXBZa0h0Ulg1UGFsT09qSEE3dWNwaml3Q3pmMEZPSUVZalFyZjhBMmt2V2k0QzZtQnY?oc=5",
         "publishedAt": "2026-08-28T07:00:00.000Z"
       }
     ],
@@ -85,16 +85,16 @@
         "publishedAt": "2026-09-11T20:05:05.000Z"
       },
       {
-        "title": "Precio del dólar baja en Perú: Así abrió el tipo de cambio hoy 11 de septiembre - Infobae",
-        "summary": "Precio del dólar baja en Perú: Así abrió el tipo de cambio hoy 11 de septiembre &nbsp;&nbsp; Infobae",
+        "title": "Precio del dólar bajó en Perú: Así se cotiza el tipo de cambio hoy 12 de septiembre - Infobae",
+        "summary": "Precio del dólar bajó en Perú: Así se cotiza el tipo de cambio hoy 12 de septiembre &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnZRelR0azFnNko3eTFJNUdIN0N4dVhTVTFnTFBabF9WeVB1UExTekVGbGkxUkVaLXVTYXJLQUFXM1VXSC1tQ3l0VVVwUFc0M2hxSFIyZjNMczhJSnNVU3JEdGlYRER5MnVnWXkzeW1ZVlM5ejdlQ2pxbjlQSHhWb013cW1yYkRuOER6YWp4QVczMEZiWVQ0Vm1pVmpOQTBWQ0ZhcNIBvwFBVV95cUxPVVJPcHlsN3NrNXVTQ3c2Rzg3N05LLWhSOG84UzNQRlJkdDE5QllnWWlRanNpNUdYbmpLVm9pb2w4Yi1Ib21reGVjUXA0ZDNfRm10cUc1Y3dNbXJ0aDBZbFpDVTBxVjI5aExpZ3RoMHBVV0VWMjV3cUVDSkplcDlPOExxNTNhVk5uSENJQ2RHSkxFMC1aLWthUDg1S21URGVIckJBWEhhNDVoVllYNWlheWpJUzE5U1o4WGFkaHg4dw?oc=5",
         "publishedAt": "2026-09-11T19:43:00.000Z"
       },
       {
-        "title": "¡Sí se puede! Tottus lanza una refrescante campaña en Perú centrada en la frescura y la economía familiar - roastbrief.com.mx",
-        "summary": "¡Sí se puede! Tottus lanza una refrescante campaña en Perú centrada en la frescura y la economía familiar &nbsp;&nbsp; roastbrief.com.mx",
-        "source": "roastbrief.com.mx",
+        "title": "¡Sí se puede! Tottus lanza una refrescante campaña en Perú centrada en la frescura y la economía familiar - Roastbrief",
+        "summary": "¡Sí se puede! Tottus lanza una refrescante campaña en Perú centrada en la frescura y la economía familiar &nbsp;&nbsp; Roastbrief",
+        "source": "Roastbrief",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX3JscEliUFdPVENVZTFZZjM0N18tblpPbWhfNGI2cDZXeUV4NEhiY3FKLUlQaVNfREJvajc3VnZUMWtzUmxWWXdmUWs4ZFhtU2p0X0RnUUtFVmZoQjNNSDBqZzc1MVRxQ2JpZjh2VVdYQndRenJ6YWZYR2Q0ZGpzWUZtS0NlcEZKeVJMR1RHTFVPUzNsdEJGeERBSzlmNWNlNEVyUUx4YW1tUWw1V1piQU5KOTNTRDM1eUtxelF6NDh0d0lCamNCVTgyMmlCaXRXdDZtcw?oc=5",
         "publishedAt": "2026-09-11T16:22:59.000Z"
       },
@@ -126,7 +126,7 @@
         "summary": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" &nbsp;&nbsp; Diario Ahora",
         "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkhrLUtJWXRUa2Zla3ZOVW1nOThaMzJvZzZOcV9Qb2tyUkVjR2pnU1FONjlPX191SzZhWC1YX21YcHUtYWxmMmVXanQxUEU3aDVBV3ppRi1YLTM1ZFJManI4QmtmQ0V2VXp0MnlkanIwWHdpLUNYeHdKcXBaQkptSA?oc=5",
-        "publishedAt": "2026-09-12T05:46:51.000Z"
+        "publishedAt": "2026-09-12T05:17:43.000Z"
       },
       {
         "title": "La crisis de seguridad no da tregua en Sinaloa: gobernadora interina responsabiliza a gobiernos anteriores - Infobae",
@@ -150,9 +150,9 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú - alponiente.com",
-        "summary": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú &nbsp;&nbsp; alponiente.com",
-        "source": "alponiente.com",
+        "title": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú - Al Poniente",
+        "summary": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú &nbsp;&nbsp; Al Poniente",
+        "source": "Al Poniente",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2lTSUtNanNoaFpqZkxDRDh0X0hNdFpUcGVvdllPamNXb2t0MXhIQUZNUUZxTm1Bel9CSUVHT1c4b3RTdlRKSlhGRFJUTjY4aEM2UTQ0bDlVSF80Zk9VekliWXAzVzJjcDdmRnhUWW5VSzRxdGt2ZnEzSDBPXzBhbzFpZ2NobUVPLWM3T3QxTGxjSE0?oc=5",
         "publishedAt": "2026-07-29T07:00:00.000Z"
       },
@@ -208,6 +208,13 @@
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
+        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
+        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
+        "publishedAt": "2026-06-25T07:00:00.000Z"
+      },
+      {
         "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
         "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -227,16 +234,16 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "publishedAt": "2026-06-17T07:00:00.000Z"
-      },
-      {
-        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
-        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
-        "publishedAt": "2026-06-10T07:00:00.000Z"
       }
     ],
     "ideas": [
+      {
+        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
+        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
+        "source": "Forbes Perú",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
+        "publishedAt": "2026-08-25T12:02:15.000Z"
+      },
       {
         "title": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC - Revista COSAS Perú",
         "summary": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC &nbsp;&nbsp; Revista COSAS Perú",
@@ -285,13 +292,6 @@
         "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "publishedAt": "2026-05-29T07:00:00.000Z"
-      },
-      {
-        "title": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación - Tu Diario Huánuco",
-        "summary": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación &nbsp;&nbsp; Tu Diario Huánuco",
-        "source": "Tu Diario Huánuco",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGpsT3FrekhQWTg2UDZlY1JyaUJzQWI4UDEyRjZGUDY4ZXRtQjBUUHlmdmtrSW8wN29HalpYQWswZFA1OHg0SVAyRldYdFR3bUk1V0xwRHRWc1ExQnNXN0VzejE0eHFacXpMd1RnQ2hjR0ktQU1CeGZrZm1HMUUyci0tdW1xWnpyeWl3NHRua0pSRXE2azVCNEk4aTg4VDN4czhsZXV1T1F3THByYkJyajF5blp0cjlKanJ6blRGNEsxS3dOMnFYMFAyZXRqbEJyRDhVX2x5WWxadw?oc=5",
-        "publishedAt": "2026-05-05T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -354,9 +354,9 @@
     ],
     "tendencias": [
       {
-        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - larepublica.pe",
-        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
+        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
         "publishedAt": "2026-09-10T10:19:00.000Z"
       },
@@ -382,9 +382,9 @@
         "publishedAt": "2026-08-18T07:00:00.000Z"
       },
       {
-        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - Imagen de Veracruz",
-        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; Imagen de Veracruz",
-        "source": "Imagen de Veracruz",
+        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - imagendeveracruz.mx",
+        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; imagendeveracruz.mx",
+        "source": "imagendeveracruz.mx",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLU5fOVFyR1JhZkhPcGs5RGtLX3lGbWtXcVpRLWJtRGxHdElNamtiQURtenhhQVFoQXczdUpva2VUWFotUVJxWFM3ZUFLaENGb1Z6TnJOVVhhUmczbzZiQWltU3pFeC1CVzM1S3ZLbktIMlJSVVBaVklnRUVjNVlFX25pQWJFSzVSS1BGTWpRM2VQalFLSFpGcE1fRTdjZy1KWWU3R29RSF9xX1pNM3pTZjdMemZKakhudHhIUkxNX1VOZklVbWEzc0NpdHN0UUdmMlNpYWNNMnRLU0FmUWxz0gHkAUFVX3lxTE1HTmV6Z3lLcW5pQTNpSGJxT2gwWFptR005THgwbzRyeVhneWVFRm9TV0plWlFoLWlCc2U2QnRZb0VkLVZDa292d0o2RnBaSkhGZDN5VDFtV19Kb0VQQTdTcHZKcExrN1pWVjFWbXVVOVFrekJHNUc5WHhXXzN2d1h3amgtQUw1aThialdock5tME83YWhpUGc2Z1hmbUFFelhlY01tV0VzdmRUU3lnWS11UVJtbGdPYXp3SzBjVFd0ek1rMXlESDNOeXVTcE5SdTZGa1ktWnBsbzk2d21wbGJ5TXpyUA?oc=5",
         "publishedAt": "2026-08-18T07:00:00.000Z"
       },
@@ -399,7 +399,7 @@
         "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
         "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
@@ -440,9 +440,9 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
-        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
+        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - trome.com",
+        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; trome.com",
+        "source": "trome.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
@@ -461,9 +461,9 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” - Trome.com",
-        "summary": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
+        "title": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” - trome.com",
+        "summary": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” &nbsp;&nbsp; trome.com",
+        "source": "trome.com",
         "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONHE2VHgwbHpNX1RiaWdQUGVFTkc5NDJEcXZQUDFuRHhCcUpCdzR0Y2NHbDNvRURMQlMzSlk5cHRSb3BjclRaMkNEMEF4R0lqLTVxRGQ2SDRBV2x5cklZcTdjTkp2RExYb2VVZWZHb2piLUFBM3lNS0Rqc2R3Mndrdmlvalp2alhMd1ZZYlNrU240YUs4a003el9jSS1sSFNLNzMxNmxaeGV1bWRGQUJpcmVRMkl3MERDbUVfa0VTbTZkVmR1MjdwVnhHQXMxUS1lTDNKNjBCU0V4UksxN1hFUFdWYUdZN2drV0lyNTR2cy1kMXdNZndXV09KeHN0M2NxNG1SQVhjUVRMaWxZemxXTVN30gGmAkFVX3lxTE1BR29NZk9mczFZd284MzBxZWY3S1lvLTRGYzNxU1R6MDVDZEwwdkktb0t0ZkRtMG03SlVKYjNlVmMyMUVTNG8waFc4NnBDUWRwcUI1cl92SmZQQXVnckFaRGdDSEVyLVN0ekl4Y2ppMm9BeUxWVUthQjRhUzhiNkRDMUNuclA1Xzg4MU80V3AzeEFHWVdDUnRjWEpwTEtmQ0k4OUdyX0lHMTV6TGJ5UUNiSW8tZkVqcmRZMmpLOEpfZl8wNnhGdmg0T01ZVVgyVGRKeUhqVXJmWm56NndqNTJ5d09PczhNekQ3cFJWQTBkWUJJUVEyekdlRUJTSk5HdUZaakUxR2VXaFE1YXg4NXVnTjFFZFdxanl6UXUxUFByUjlXSVVNQQ?oc=5",
         "publishedAt": "2026-07-24T07:00:00.000Z"
       }
