@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T00:54:01.556Z",
+  "generatedAt": "2026-09-14T05:53:57.798Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -13,9 +13,9 @@
         "publishedAt": "2026-09-12T08:20:00.000Z"
       },
       {
-        "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - Exitosa Noticias",
-        "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; Exitosa Noticias",
-        "source": "Exitosa Noticias",
+        "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - exitosanoticias.pe",
+        "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; exitosanoticias.pe",
+        "source": "exitosanoticias.pe",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXVFeHN5ODA4dEFpY0hYcjZDdVNhbm9TVmhLSUFvMXJ1MUlCR0hpanB6SzcyWXhFMkl3NjFBa2FPdG9rRDd4LTlfVG9LZ1BQZjJNTm03OS1XUkRMR3B1c0EtQmVLcHZVNW1TRWdZOVhxM1Z5Y0NKZFdpX1RrRVV2WEJsdkJqSDgyTWNFYW5sWXBtVC11S210cXh3VXN0NXVEQ2N5UXlscXlDcGZ6T2o3NHk4aXZjeXlnWnA1U09tN3Z2clA4cXl4V0VDWkQtZDZhWkFJOEdFd3R4QQ?oc=5",
         "publishedAt": "2026-09-11T20:17:00.000Z"
       },
@@ -41,13 +41,6 @@
         "publishedAt": "2026-09-11T16:38:31.000Z"
       },
       {
-        "title": "Gobierno plantea usar hangares militares para albergar temporalmente a criminales de baja peligrosidad - Infobae",
-        "summary": "Gobierno plantea usar hangares militares para albergar temporalmente a criminales de baja peligrosidad &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc3VmWmNjWk45aVVUdXhHU3g1X1JENmtGNlA1bGdOZ1JJTGdnTG9WNzFSRUlZWEowMmJMTjZ4OXRWVDlJUnZMNVlCaktkdHhDLVhqVmlYTkNmZUo0WEljT3l6dWh4VnFmZ2NVZlZuN3l6aWZiaUtOUjl6a29ydkZLa2tFdUtzUUNpaW5sLXVWRzVPdTFCbHh1LVptRkRQQnpaQVZ5MUJOUnVXdUtBT2oyeXJubEs4ek8xeXhQN1R3bkRWYzlzY0MwWXdXQTlKeXNCNmxyc1h3cXZtMlnSAfYBQVVfeXFMTkFfbWtHRkZzaGtxcV81RTd6YkFEWEtjSVF3WlUxUmMzN0cwZjJPR1VDVEc5QTYwclUzT1hnaFMydkVpX0JrdnExZ1R2UVdEMzV0eTNYUTQ0MHFOOV9NdjBIWk5Qa0xmTkpUMUdHbnY1OGRnSDhUU3BGZXgyWGx4WWpvLWdZMlVVMVBRMjB2d1V4emtaNE1ZVkhOMmY0Z2diNEFTNWhIOE1fdkNsMlB5N2JjZnlaTlBYeTc3alU3VG1tRnFTTlAwdTl0blR0TFpqQlBSSl8yX1czUmpOTW5nbU1ZOG9SVlBWeFRZSEZoSExHTXNUSG1B?oc=5",
-        "publishedAt": "2026-09-10T14:43:00.000Z"
-      },
-      {
         "title": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial - Infobae",
         "summary": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -55,11 +48,18 @@
         "publishedAt": "2026-09-04T07:00:00.000Z"
       },
       {
-        "title": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen - larepublica.pe",
-        "summary": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen - La República",
+        "summary": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSXJGRzRyNy1fM0h1a2hYZFNTVW5wZDJqcGg2dy1qU0llYTRGeUVGNXdHYVZlZWZyMlFvVmZ1bElRZnp5QllnaVpsbUZiX2l0cVVtVFRWdVo4NGdOQzZ5Q3FJWWF2cmVkdG9JYlZ6emFLT01tcGp0VjN6c2JkYk93UkZMREx5UFVwcVVkZ2NQY242ZnlGR1J3cFlBb0lTYWU5ZW5yS3lab3BfcXBUdzgwVk9qY0RfWHFYQVk2dzkyY3hQZkg1OV9FbTdncXp4eHFYY3pIRU1EVlhTS2dKNDIwZTRuUDdqWGZRblc2V3lUTG44eDhKNktZTk1R0gH_AUFVX3lxTE9PcXNVNkFVT0dpLVE5S2NCVjAtNTdNczVEMXNJLWljVktQUklzQ3MxNUotd3VZXzZzVVhWMHlQVk9WbWJwM0VDeGo3ODR1SHRLcF9LU056R1hBOS04Ql8xd3d6UEZjSE5lUW9DZlh3RnNIdFRlVVhwTzRRcWw5NUpFTmtrOVpLN3BOWmhkTHY0V3R2SVpGUk5LVHp2Vlh5TzcxdmhXY0JYNUtKSHdVMmJDM0Y4MUZLcUJlNzltdDg0U0hQcGEyOHZLRTdYaWpYclJnekdBcXM1ZDlZRTlSd0xGdDhpdDlESUNQYXBXc0RRdE4xODVpNXZVWi02Um5RMA?oc=5",
         "publishedAt": "2026-08-29T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵El Gobierno de Keiko Fujimori presentó este viernes 28 de agosto al Congreso, los proyectos de ley de Presupuesto, Endeudamiento y de Equilibrio Financiero para el año fiscal 2",
+        "summary": "🔴🔵El Gobierno de Keiko Fujimori presentó este viernes 28 de agosto al Congreso, los proyectos de ley de Presupuesto, Endeudamiento y de Equilibrio Financiero para el año fiscal 2027. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; facebook.com",
+        "source": "facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeVQ0cTVuRWh5TjdZYUk3QnpIbnh5M3FyZGJNTmxBZ1p3Rm92Q1ZtM1Fia0owWmI1Ujl4ZE03X3NVNFR5Tjl2VnR5VVpBdDU5MTVCX1k1b2VhUUh1M0sySDZHb2Z6d1lxekxHTTd6YVItQ05jNjhtaktqYW4wZmhqeXh4YXV5NUNDMHNUdlpXQzhucFZ5a2NIQjFEUW5nOVNTcldLOVpRYXR3NXM4V0pGMElDVy0xdzBkZHl3Nlp6aEZ3RXZMM01IOGEwZHpXT0FnS3BzT2RNZkFYNWF0YktELWN6MnM?oc=5",
+        "publishedAt": "2026-08-28T07:00:00.000Z"
       }
     ],
     "economia": [
@@ -106,18 +106,18 @@
         "publishedAt": "2026-09-12T13:01:00.000Z"
       },
       {
-        "title": "Aumento de sueldo mínimo: Empresarios buscan que incremento a S/1.300 se aplace al 2027 - Infobae",
-        "summary": "Aumento de sueldo mínimo: Empresarios buscan que incremento a S/1.300 se aplace al 2027 &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWQ1aFNVZmR3Y1ZReS16VllSSlBHNlhNSVN0VmM1aGNPTUdidUI0TGUySi1ielU2aFVnXzhUYndMbm5xczFGRVN1Rzc2Q1g2cFNPN0p6ZlV1WEhtTHNXeWhNRm51MzUwQXp2VmVUTDVrWFFKWkdfZV9wZ2VvTDd4LUo5SmRYQVZWcGJHQS11bV9nNjF4LVVCNEhFRnFISmMyakhQbmNyb0JqMG40M01rSUV3UGN6dDFPcDNB0gHWAUFVX3lxTE1uTkhYUXlxbUhxcHcyRTd3eU40LUl4TjFuMzdNdXZ5WENVbzVqckxMY2MyNk1XRTMydF9ScFNzMXRRTkp0TG5CSG5zNWIyMmI2b0NXTDFqWnFaTHdCcVdGcXBWaVpXQV9JaGpzNVFfSDVYVEE5cWJUNkZBclN6eHN2UktFaXYtTVBvZ2JlWG9MZ2Fodm56STFUdFpXOVFaQ1JLZ3hZeVg5bXdyLTNxRHZoZVlSU1o5WlFxUm1IN0FLM0dtN25ZYUEtWWVmRlpvRXcxUTFaeEE?oc=5",
-        "publishedAt": "2026-09-12T12:57:00.000Z"
-      },
-      {
         "title": "Julio Velarde advierte fuerte impacto de El Niño en Perú - Revista Economía",
         "summary": "Julio Velarde advierte fuerte impacto de El Niño en Perú &nbsp;&nbsp; Revista Economía",
         "source": "Revista Economía",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVUx6aHFfNWVsamw0UGF0ME04M2x4aE5ZWE5taTN0UDRCYzZkTWotYWJQX0F6b2pjZ0FYdWZqZUZwTWFZWHl0eE44UFAzZzVqdFRUUGFyalkwWTF2RUxoVktlRWlKZl9fbThEYngta3lHOGxaVVJ5TkZhNUo5X2ZEVmlnRXJxR0xyS0xsZzRtaWRMVWs?oc=5",
         "publishedAt": "2026-09-11T20:45:16.000Z"
+      },
+      {
+        "title": "Perú y Emiratos Árabes amplían conectividad aérea - Revista Economía",
+        "summary": "Perú y Emiratos Árabes amplían conectividad aérea &nbsp;&nbsp; Revista Economía",
+        "source": "Revista Economía",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQkhTVUpURHB0cmNDYUFnNlZxVXI3SjNBNTlNbXdoRjI0cVRNNVBERG1NRW9PeWk0VDlUbkR4d1BvcFJlczlZSldhS0lheHRUZzFNTFQwX195TlU2ZWpuaHF3RXRKa2VUQ2JjTWROeWpQLTZFRTh2cUYxTHdLVDhIUm9wam5IcXhSSEE?oc=5",
+        "publishedAt": "2026-09-11T20:05:05.000Z"
       }
     ],
     "sociedad": [
@@ -129,9 +129,9 @@
         "publishedAt": "2026-09-13T07:51:33.000Z"
       },
       {
-        "title": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones - larepublica.pe",
-        "summary": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones - La República",
+        "summary": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQjFwRTVET05xTER6ZnZseE9pOUF4cFBBV19hM3RrZ1liRUc1aHFybFMyTExlbEhudk5rUlA1TnM4X1ZhZEEwaVhGX09fWjRrX3c5TVdLanJGQVI0MUhfVUphSXhYRkFuNVZLYmY0UkpzbXQ0NFhaRGFHSzBPd3JMUFlPaWhaT1Z6d01MSFhucDNHSU1fb3JTYlFNN29IQjRfTURSSlZsNThIbjRXajhBVFFJQm5SNDZXTE1MT0xtWHdoR0tFdFQ3YndyYm52U09taW5wZ19zdFRmRHBCOVN3ZkQ4cFcxSDlyTUNXX051aXZSd0xIWjhadEZQVmJZUdIB_gFBVV95cUxPQjFwRTVET05xTER6ZnZseE9pOUF4cFBBV19hM3RrZ1liRUc1aHFybFMyTExlbEhudk5rUlA1TnM4X1ZhZEEwaVhGX09fWjRrX3c5TVdLanJGQVI0MUhfVUphSXhYRkFuNVZLYmY0UkpzbXQ0NFhaRGFHSzBPd3JMUFlPaWhaT1Z6d01MSFhucDNHSU1fb3JTYlFNN29IQjRfTURSSlZsNThIbjRXajhBVFFJQm5SNDZXTE1MT0xtWHdoR0tFdFQ3YndyYm52U09taW5wZ19zdFRmRHBCOVN3ZkQ4cFcxSDlyTUNXX051aXZSd0xIWjhadEZQVmJZUQ?oc=5",
         "publishedAt": "2026-09-12T20:26:13.000Z"
       },
@@ -143,25 +143,25 @@
         "publishedAt": "2026-09-10T00:10:00.000Z"
       },
       {
-        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - elperuano.pe",
-        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; elperuano.pe",
-        "source": "elperuano.pe",
+        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
+        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
         "publishedAt": "2026-09-07T22:31:00.000Z"
       },
       {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - elperuano.pe",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; elperuano.pe",
-        "source": "elperuano.pe",
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo - Infobae",
-        "summary": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeXZsRHloYmRHU3ppR3pKTWg0U0FtSFM1MC1GWjJqeHVVb1M3QzlQelJUWFlGR1gtOWZYQ05iS1VDTlF0aUx6OHphRW1fVmtETVR3Tnc3YXFhQndfc1hRZW1mNnlLNXdDdTlfSlNOUlVPeE5pOXA5ekRsODVnemNSVTB3dzhGTmgwVGFMYVN1Zy1NTnhRVTUxejBjc1lIZ2ZWQjZ0d0cwSHJCUWRMM2xtcHpqWkppOGJXLTZqYzV6RzI0OXc3T1dEZEdiM0VXcjZkZllCcVRYWDMyRlVPS0xkWGdKR2NxWXZPUzVBUzJDSDbSAYsCQVVfeXFMTXgxSkI3ZG1kTXVidU1CMkVvRFNURFFvTmNjaE14UHk1YmFjbklkLThvWGVBWnVnTUtyTXRnM3dRcklHY0JRWE9Kd1FTSDV2QVNDRDlCYW9TOThfZVItcUprZElqazRpd2tDdG4tamVGUGNtYzFhbFEzX1dCanNOY2VMZnEtQmFPYkpvRDJWSDM3U0tZa3VSanlqZkRGOTVIN05tQlhoR2psMlNyNFJUVV9aNnE1bjlidksxNnh6SGlFUGZVcllNUFZPTUpSRVUxVU9UcE9DYlJxWUt3OXEwaDlIWTJPVS1vRlB6SDNBZmZZZHZIcWUtSDZYVGszTGYyMWJSUE8xTUU5RlM0?oc=5",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
+        "title": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú - Al Poniente",
+        "summary": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú &nbsp;&nbsp; Al Poniente",
+        "source": "Al Poniente",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2lTSUtNanNoaFpqZkxDRDh0X0hNdFpUcGVvdllPamNXb2t0MXhIQUZNUUZxTm1Bel9CSUVHT1c4b3RTdlRKSlhGRFJUTjY4aEM2UTQ0bDlVSF80Zk9VekliWXAzVzJjcDdmRnhUWW5VSzRxdGt2ZnEzSDBPXzBhbzFpZ2NobUVPLWM3T3QxTGxjSE0?oc=5",
+        "publishedAt": "2026-07-29T07:00:00.000Z"
       },
       {
         "title": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 - Infobae",
@@ -187,9 +187,9 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
-        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - businessempresarial.com.pe",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
         "publishedAt": "2026-07-24T07:00:00.000Z"
       },
@@ -201,23 +201,23 @@
         "publishedAt": "2026-07-21T07:00:00.000Z"
       },
       {
-        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
-        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - businessempresarial.com.pe",
+        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
         "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
-        "title": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio - Business Empresarial",
-        "summary": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio - businessempresarial.com.pe",
+        "summary": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONjJuRlg3UTRITXRKYUJwSDU1RzU0cURfLXl1WFQyd2pPVTdnTnJfMU1JMW5Pb3hMc3lOaXlIT0xHdkVqN3VwR1JQYzZJd3lzaUpUVFAzSEpjOWlNNV9tbEE2MUctWnFHTnFsOFo5dVNpVWtsTEt5dkxhRmtLV1ZhQmUtM0g0RVoxdDNDWjl3Vk1zV1M2SHZkY29aNkJZWkFhV2M4cl9wMXpWZzRzQVJMdWtSc2ZJY250ekRxekc0cUw3dGFXYm81SkxjREYxLXFtTS13TkphejBrQ1VQY2Nfc05QMUxnVDFfZ0M2RmRieS04djY1amZxdU0wSjY4QWhOZUE?oc=5",
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
-        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
-        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - businessempresarial.com.pe",
+        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
@@ -229,18 +229,18 @@
         "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
-        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - revistaganamas.com.pe",
-        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; revistaganamas.com.pe",
-        "source": "revistaganamas.com.pe",
+        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Revista Gana Más",
+        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Revista Gana Más",
+        "source": "Revista Gana Más",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
         "publishedAt": "2026-06-17T17:04:18.000Z"
       }
     ],
     "ideas": [
       {
-        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - forbes.pe",
-        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; forbes.pe",
-        "source": "forbes.pe",
+        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
+        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
+        "source": "Forbes Perú",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
         "publishedAt": "2026-08-25T12:02:15.000Z"
       },
@@ -259,9 +259,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
-        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
-        "source": "Revista Minería & Energía",
+        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - mineriaenergia.com",
+        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; mineriaenergia.com",
+        "source": "mineriaenergia.com",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
@@ -273,9 +273,9 @@
         "publishedAt": "2026-07-08T10:21:37.000Z"
       },
       {
-        "title": "La paradoja peruana: Crecer sin innovar - revistaganamas.com.pe",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; revistaganamas.com.pe",
-        "source": "revistaganamas.com.pe",
+        "title": "La paradoja peruana: Crecer sin innovar - Revista Gana Más",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Revista Gana Más",
+        "source": "Revista Gana Más",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
@@ -338,32 +338,32 @@
         "publishedAt": "2026-09-09T14:00:00.000Z"
       },
       {
+        "title": "Las empresas en Perú adoptan la inteligencia artificial con pilotos aislados y sin gobernanza - Infobae",
+        "summary": "Las empresas en Perú adoptan la inteligencia artificial con pilotos aislados y sin gobernanza &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUDdUMFdvaGVDNjVpVWg5aHNpdVQtN0JrSWVGWUJIMVdHbi1XVHgtN0Jzb2NFTF9YRENOVmRTNHpTbmRFalhYZkpJcVcxMFNBa2dHSDFMR0lZV1loS3VnRkdMMWlLTWRPT01Qa3NlQzZ2Yi1CZ19NZG9UNXVoTkhfeVJqaWpPTUMzd1ctTUtWVEluQXl2YTVLZXUzSkJmRmJ1U0o4bWotNUlNV29aVjJkbjBTZHBvUFg4YVM3Ri1QVW1NczJINnJ0bWJnR3NLelXSAeoBQVVfeXFMTU1HRDlkODd6Y21ZUGVlNk5aV1RTb0thTHc5b1R5RlB2dm94bWJLUFZhb2puSVZNMG1JUl9xanRlUnJTS0hIdUdUbnRzRGYyWDN5Z1VlWUZ5RzFjV0tWbGpoWFBKVFNid3FJUFNfaF93XzNLVkRNWDdPQnNVV2dDYzB3SklwR3VSWmVhZEk1X2pialNFUkdaNHVlemJrdmdxNzBSaFhuTVhzV1ljcTdReWhVYlJtMkxldG5nRDhWcVc3ZXRzOVZvNFpOQVVWVXRmcDVUcmZfeXBMVUpsdUtWWmJTaXpUU1NMWmd3?oc=5",
+        "publishedAt": "2026-09-09T02:52:00.000Z"
+      },
+      {
         "title": "🔴🔵El Congreso y representantes de la gigante tecnológica establecieron una ruta de trabajo orientada a la protección de datos, la regulación de la IA y el resguardo de niños y ad",
         "summary": "🔴🔵El Congreso y representantes de la gigante tecnológica establecieron una ruta de trabajo orientada a la protección de datos, la regulación de la IA y el resguardo de niños y adolescentes en plataformas digitales. 🌐Más información en: https://www.exitosan &nbsp;&nbsp; facebook.com",
         "source": "facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYXI5YVo2cGxoMHZZM0kzM2NkVWlCNEFDWEthQXVpa2pPWE1QQXhIMFFvM0Z2Umd0Z1NuMS0xQXdQc0hzaEppZElTQ1IwbnVBVF8xM3h3Q0NqTTAtT09TWmg1UkxSNDdQTWtzOTduRXRNa0ViSkQzcTZTQTJLZlF2d3ppVTlxNnF0aHZhY3B0YzhKRXJ4VDVIMGlZTlhxTTZKQ0dLV21fcVJZUjIzcHV4MzMybm5YMWxQTlUwTllUdnZzWWxQNVpBMnFaX2J6M2pOdjVIbEZ0SWl3NVcxanplWWg0c2E?oc=5",
         "publishedAt": "2026-09-09T02:51:42.000Z"
-      },
-      {
-        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
-        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
-        "publishedAt": "2026-09-08T17:57:42.000Z"
       }
     ],
     "tendencias": [
       {
-        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - elcomercio.pe",
-        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; elcomercio.pe",
-        "source": "elcomercio.pe",
+        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
+        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTlFMnQ1b1pJM1dEbTJaWnpNVGZ0T1g4SWpXZ25rWHBsN1hTdmRVTUVfdG9mQXhQOFZZU3F6X3BkQzRXMnFaejgzcmgzdDZZOFk1VEhBZzJsTmQxS3k3aDRBeHRLRnZBTzR0WFU0cjhNal9QUHVoNHY3czFrNGlxN1NpckM1bGVpSFJfVVdNTlp6YnJsRUxURVh2UXZValZzcEJqSkxxSGI4MjdUN3lFNFg0QzlFUmVWc0lCN3A2VzgyN0d6UXZwSG5Bc0xPejhQYkgycDZlblczUlhzekRGTmVEVDFxU2c?oc=5",
         "publishedAt": "2026-09-12T23:13:00.000Z"
       },
       {
-        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - larepublica.pe",
-        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
+        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
         "publishedAt": "2026-09-10T10:19:00.000Z"
       },
@@ -382,9 +382,9 @@
         "publishedAt": "2026-08-18T07:00:00.000Z"
       },
       {
-        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - imagendeveracruz.mx",
-        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; imagendeveracruz.mx",
-        "source": "imagendeveracruz.mx",
+        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - Imagen de Veracruz",
+        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; Imagen de Veracruz",
+        "source": "Imagen de Veracruz",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLU5fOVFyR1JhZkhPcGs5RGtLX3lGbWtXcVpRLWJtRGxHdElNamtiQURtenhhQVFoQXczdUpva2VUWFotUVJxWFM3ZUFLaENGb1Z6TnJOVVhhUmczbzZiQWltU3pFeC1CVzM1S3ZLbktIMlJSVVBaVklnRUVjNVlFX25pQWJFSzVSS1BGTWpRM2VQalFLSFpGcE1fRTdjZy1KWWU3R29RSF9xX1pNM3pTZjdMemZKakhudHhIUkxNX1VOZklVbWEzc0NpdHN0UUdmMlNpYWNNMnRLU0FmUWxz0gHkAUFVX3lxTE1HTmV6Z3lLcW5pQTNpSGJxT2gwWFptR005THgwbzRyeVhneWVFRm9TV0plWlFoLWlCc2U2QnRZb0VkLVZDa292d0o2RnBaSkhGZDN5VDFtV19Kb0VQQTdTcHZKcExrN1pWVjFWbXVVOVFrekJHNUc5WHhXXzN2d1h3amgtQUw1aThialdock5tME83YWhpUGc2Z1hmbUFFelhlY01tV0VzdmRUU3lnWS11UVJtbGdPYXp3SzBjVFd0ek1rMXlESDNOeXVTcE5SdTZGa1ktWnBsbzk2d21wbGJ5TXpyUA?oc=5",
         "publishedAt": "2026-08-18T07:00:00.000Z"
       },
@@ -403,21 +403,14 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud - Infobae",
-        "summary": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud &nbsp;&nbsp; Infobae",
+        "title": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos - Infobae",
+        "summary": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19nT2YyMlR5RFhzZVRjTXpPcjZXYjhHZ25aV1BkeTFuWDVKTHZxUFRyQklUb0JYaGFIMUJEbEdVbTg3Y01OV255QmN3OHlEbWNaS185UXVqUHhydnF1YTlrZTNSQmtmVGNKc2xyb28zTmt4czlsd2Z1OC0wQTZYWmpjT0pUNU0yN21CWnpYamV6eU43TkdQUE1FdjUxUGVRQ0tzbGpDbEk2Y0xrS3Y1bl9hY2UxSnVuMTF2ZV82MTZ2dGVkQ0tPVG1R0gHkAUFVX3lxTE5xaE1KVl9TLXVjQW16VUhTbmotZWRBcUJueDBnQWZLZFhPaC1hSjZNSGVXSnFEQlotekUweWloX0xEc2txcEt5N2RGOUFBYXBFaXBZYTdZaWpkaktoNUd4cDFsV2R3bGdOOGNDVV9qajFLMy1ZTUh3TXU4dlZmVmprRnlvQzhLMlM4RnpTT2FMSzhKdS1PaXdvZE0tQnlIUmIyM3l4akJrYjIwcnMwY25yMXl2TFIwdjg1YXpBNmRnNDBrdU9oZTN5LVU4MGp6dHVVR09fTnh5cmN1eGNsaXBDNUlZXw?oc=5",
-        "publishedAt": "2026-07-07T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYkxYWU1GV09vM243VlB3NWZhbWt5RzF1bE9PdXRhR3BkM2cyb25NTjVMMG1XbnM3aU1rMXBIb3FFV3cwRjRrYkduVm9Gd0hyRFlKWElDSk8ybEtXVUJkRHlXc2FuWkhodTg1Z1ZGbmpUZVZxcTN4M1J6ZlpxZHJFNUtTN2tRQWE3MVR5SkhwLWVCelVKU3FNZVowYjh3YVJYWDFHWm1PbUlJOVNBOTVQT19hQ2tGbXNYWTllU3ZoLVNlNE9aUGwzZzl3LTJHaDN6TWpaNkJsOXBTRVIwMmtfVjUyaGo4X1E1bFBvb3ZkMUZ5QmozSGtYcUx5VdIBlgJBVV95cUxPUElwalRLcFI3MTN6a3dqaV9pWHA2NjFYWVFHZU00NTNTblYzYXo3aDdXaEF1NzM3bmx0MkFCbnFGdmtFd2syOVRwNE1HRVV4dnhsOUtva2E5ZUVvbW1CVDBneGc5a3hZUU9oVjFfVE0xOExvbG5TM0FoeW81Wll1UWtxRTNqdkJiTWoxbm42aG9PWVNjTmlvbmgzaUdmVDA1bkFmUm1RRVVua2VxY0tldUlQTGEzZ3k2Sk10N0JKWUxTTkF6OGQtVlV6RzhmcGlJdlA1OF9JaEFIcFI1U3NoZDZtUnpmbEpBWVZCTUE1bVNDQUxZcm9QVDB2OEhpekVtcGItWjNDekpHY0xKSk1GQXpMRGhYdw?oc=5",
+        "publishedAt": "2026-07-08T07:00:00.000Z"
       }
     ],
     "farandula": [
-      {
-        "title": "Teletón 2026 supera la meta prevista y recauda S/9.8 millones a favor de los niños peruanos - larepublica.pe",
-        "summary": "Teletón 2026 supera la meta prevista y recauda S/9.8 millones a favor de los niños peruanos &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT1J0RkxYS01hUUxUQjJSenZBZDg2MWF2ZmthZUo4STRka01zVGhEZ0lxVlBNMGhLM1ZlZERYRVBkRklTTEQ4RzdFajhrYTMtZGpGZ3NfcUlseGl4WWd1U3NaUFkwS1dINE9Jd0tJR2lLYXQtSU9HaHlWcE1rTVNrREFyazY5aUQxZ2NWUDE5TlphaGlrdTZqV0xDVjdlUFM4MkFTYzVHaU1aU0p4VVJEZm5UVDBQTGppVlo4M2dPclFhNWtBWmxSMlA0UHBGT3dFZWdRS1RBeFhESnRHMGl2d2NCQ3rSAeQBQVVfeXFMTU9SdEZMWEtNYVFMVEIyUnp2QWQ4NjFhdmZrYWVKOEk0ZGtNc1RoRGdJcVZQTTBoSzNWZWREWEVQZEZJU0xEOEc3RWo4a2EzLWRqRmdzX3FJbHhpeFlndVNzWlBZMEtXSDRPSXdLSUdpS2F0LUlPR2h5VnBNa01Ta0RBcms2OWlEMWdjVlAxOU5aYWhpa3U2aldMQ1Y3ZVBTODJBU2M1R2lNWlNKeFVSRGZuVFQwUExqaVZaODNnT3JRYTVrQVpsUjJQNFBwRk93RWVnUUtUQXhYREp0RzBpdndjQkN6?oc=5",
-        "publishedAt": "2026-09-13T12:36:55.000Z"
-      },
       {
         "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
         "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
@@ -440,6 +433,13 @@
         "publishedAt": "2026-08-23T07:00:00.000Z"
       },
       {
+        "title": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? - Infobae",
+        "summary": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOR1NDdF9mS0J6YWhSQTJhRFpYVzFQbHMxMWNtVzJ5eGVfcmRwRS1vWTNiV0tpSGJEaXdPNE4tYkMzM0tobF9yMkV4dTR6NDJ4dXZ4bFR1al80cVVrOUVqbUF3UDBKNHVPVTVhak5VTUhJalJvZUE5aFRQTldJU3JDdm9HLTZDNVBxUE0xZDA4VWVqa3hXWnBhLTkwUlBsTmVuS0p6WHpmQ0tVNkhBWWhGQ1RXcTZPZGs2S2Qwc0hJVlpJWlFTcFI0ZGZ6OXZhLXJzZFRMZ1J3MFMtZS1ueEZLYWNlQWIxQ3RzN3pvVFM1Qi1TTXZsSmRsZXFhbVRNd0JOZkFjWXlsSnbSAaMCQVVfeXFMTXliQkJBdndLUUhLNE92NFA4NlVOQzFCMDhqM2RKNzJWWHM3YV83bnhKTGdHTFFFcHpQckhiOUlPTnpSejNodzRyTElBaFVzNlV5V09wdElvbHdORU84TlRjY2I0dS1SQlFpekZuVlhDcDQyR3hRMW8wZUxNV1dWclhJUDYwTVVlMXFOVHpFWl8zVHAyTloyVUJ5bkVMWW1ZTG9WX0p3X28tQm9Cd0ZZVkQzS05NZ25fSmk1Z1NFbUd3Uy1MSWM3cDBvbnRmTzI5S0VFLWZSdFREQTdMV1BPREQwU2doTVVhTmNWaUgyeHpUbmJvNVprUElyV0tKVk5HR3VMQkNVVTcxUmJJNkh2MUg4TkZFUU9ZcXZZM2FVLWFTOWlv?oc=5",
+        "publishedAt": "2026-08-06T07:00:00.000Z"
+      },
+      {
         "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
         "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
         "source": "Diario Correo",
@@ -447,9 +447,9 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - trome.com",
-        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; trome.com",
-        "source": "trome.com",
+        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
+        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
