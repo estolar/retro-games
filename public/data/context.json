@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T07:21:13.138Z",
+  "generatedAt": "2026-09-15T13:14:25.561Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -27,9 +27,9 @@
         "publishedAt": "2026-09-11T19:36:10.000Z"
       },
       {
-        "title": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso - peru21.pe",
-        "summary": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso &nbsp;&nbsp; peru21.pe",
-        "source": "peru21.pe",
+        "title": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso - Perú 21",
+        "summary": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso &nbsp;&nbsp; Perú 21",
+        "source": "Perú 21",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnV3Ulo1aXZPYlMwS1Jtcm5Kc0tRazlRVkRPc3ZVa01FQzc2NUpQV0tRMXh3WXJ6YTRsQzlZOU5XWmNLWVRyUzFFYXRrZGVvaHFpVmc3NlVIYzR2bDU3Nk9sRnlidks3SlhaVWpWeXFuYmZvSXR3ODJic3A5WFJIelVKQkwwTzhvYUJ3MUJfc3FReUVrelBlaw?oc=5",
         "publishedAt": "2026-09-11T16:59:36.000Z"
       },
@@ -64,11 +64,25 @@
     ],
     "economia": [
       {
+        "title": "Escándalo: hackearon la cuenta del Ministerio de Economía de Perú y la usaron para promocionar una criptomoneda - Ambito",
+        "summary": "Escándalo: hackearon la cuenta del Ministerio de Economía de Perú y la usaron para promocionar una criptomoneda &nbsp;&nbsp; Ambito",
+        "source": "Ambito",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSHFfZjNQZmFCQzFlbHhoLXNmVjh4UXVlNEZ2Q1FOMVNZNzdGaExfaUY0dldyT2hZR3FSYVJhTklpYk11Yy1ITmhhT0R3RnpFT2ZwZjNvTm13dVd4QXpURzZyVGJ4SG8zcGxpUndaakFtSmNaWGRmRHV4Q2hDb25SWWZNYV85YVdRMFBJR3Z3ZUhwSnJVNmx1Z1VMY0tUTVpyWlhyWERSMHQyTWpMU2FObDdwTFB2d1ltY1U5WFIxOFRJVWFCSE5qa2NjODRHbFR2YThj0gHYAUFVX3lxTE4yVEFNY1VYaklwUVZfUmpOOXBwLUZCSGdYSG9vdENhR3hSVGVqQTJNYnAtUGdrZUp1UjBfc3lBLWJXRWFhUjFBS1dJbUJfVDJHa2RINThDMm1iUklZak1sY1FqOHJYV0Y0NEV4c0RNeUxhUWpTb3VwbDRtVEV1VW1MQl9pQzA5aWVhZVFmTHBMZkxoNHhpLVhPQ1AwVU81UUVBamY4WTdtV1ZBcE5tNXI1NGFMa0lTOVhfckp6ZjNFdkdwRWFYOHVWb2RORGZsNkhnY1NhR1h5dA?oc=5",
+        "publishedAt": "2026-09-15T10:47:36.000Z"
+      },
+      {
         "title": "Perú pone en agenda el papel de la calidad digital para impulsar la economía circular - notiperú",
         "summary": "Perú pone en agenda el papel de la calidad digital para impulsar la economía circular &nbsp;&nbsp; notiperú",
         "source": "notiperú",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeEFhbjRlUXE0aVctYjRrQURCV3lKcVV2OHZhaGRBWXBsaXNRYmJUNGlCVDVWcXVpSGJsNTJUSFFENWhBR0I2QkJMeHBzN2tpUGVwanFpQmU4VXdyeHJPcl9jNWtpUE1ZYll1ZU9nZ0lfdzRQVkRGRE9FOThraUQ4V0JpV1EtX3NJSjc1MXhtZE1DWHFWZ3RIa0FhOHg5QXY5ZnBkNDNPVDBDdkdoX0lfdWlwN2xtRXNIeTktcDhFOU9HTmZlZDR0dVdsdTVVNDNE?oc=5",
         "publishedAt": "2026-09-15T03:24:25.000Z"
+      },
+      {
+        "title": "Ministro de Economía Elmer Cuba: \"la pesca, el agro y textil ya están en recesión\" por impacto del Fenómeno El Niño - RPP Noticias",
+        "summary": "Ministro de Economía Elmer Cuba: \"la pesca, el agro y textil ya están en recesión\" por impacto del Fenómeno El Niño &nbsp;&nbsp; RPP Noticias",
+        "source": "RPP Noticias",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVk1sWHQwY3hjOGJMdkk3ZUsxVXFtN0g1MXByU2xIZW40di1ydTl4M2hiVC1SUE1PVUIzS2lxQjRqclg4YndJakcwbnVIT3NoMjZkYlg2OHlCQ2YtMzRVUlZFNGRyQ3BJUC0tZ3RjR3dXZTRPT0N2RUs4Yk5WbDl2UE1lT3lIZzZmNXh3ZWpaUUl0UngtRUpVbXRFMzEwYksyeUZzUkhKbS1IVE0xTVFpR3ppU2RNOG01OWdQN3l1WVhOanpISU5GcE45R3RTZm1UVW5jUDVnUllQS2QxYlQtbjRTalowQ2tJX050SXVQOGxOeVRPbUE?oc=5",
+        "publishedAt": "2026-09-14T23:18:02.000Z"
       },
       {
         "title": "Hackean cuenta del Ministerio de Economía de Perú para promocionar token falso HYLO - DiarioBitcoin",
@@ -104,20 +118,6 @@
         "source": "infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTUJqcXZjVmJQbE1IYmVYdlptaGVFNTZ0S1ZnU1h0YWZSZ09RcjJkUG1NQXVRM0ItRlRySHdFMkNMMWtGcW13MUk2akdXZTBqamNpb21ncVpaeGVQLTQ2d1ZyX3h1ekZ6MzJEeVJ6ZTJWWkdjUVF6WWxOX2daU2ZmV3ljN29tb0kzaHEyMFY4cloxWEN4SGx2T3FjVUtxMjBwX1VtSG1Udmg2OF9OZ0l4dHI2Rm1qM2VJLTg0VFBmR2pHOWR0TGVRcVVSelpwUWxkck9McmxfWWR5X3Z1YlZ3aDV30gH8AUFVX3lxTE5rNnp2ZDBkdWJ5MUVHUUxFWGFpSkU1Qm9pS0xIN2xSVlVuTnVHSkY0YXNwWHlxN1VWV0Ezbndnbkx0ZWxvQXNsb0hSTm5nZGZxbnVnNnFuU3JBWGR2N2RWck9fYW5zTm9vR1dlc0Qyal9rNWhjQ3hGT29DdHVPRHVvV21hQVJNeDdkVzltdDAzUEZ0dmx2aEd3ZnpqTVdyNmxiVXJGT19wRzMtalpTdHF1ZU9vc1dqakc4T1hhYUFsNGM3NzdXN2wydS1uSzdpTTB2VE8tMFRQSzFJVUtLU0QxOGRYVlpITmVza2dpcWZScmJncThoazNlb1JpNg?oc=5",
         "publishedAt": "2026-09-14T15:12:24.000Z"
-      },
-      {
-        "title": "Perú.- Factoring, un aliado efectivo contra la informalidad en la economía - notiperú",
-        "summary": "Perú.- Factoring, un aliado efectivo contra la informalidad en la economía &nbsp;&nbsp; notiperú",
-        "source": "notiperú",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQjBlUmNFenhvMVJfRXpJaXZXYnZVWlAxV1kzRG1BbG01ZllGM0Y5dG1JSGttTU0wNzZpem9SQ0VXMzdBdEFKVTk0YnFPekZCU1laTFhwdEEtVnpUdWNyM0RtTEEteXNBaXZvcWI4ellmWXAtVERMdnNuWHZIREV5NGZkcUM1ZzhWampBcEtFOGh3ZE92S0ZGTkhGc09jTFd6cGZjWHNfSHp5ZFA3aThrUDA5YlZWdHZkQ2V6a1Rod3gtdw?oc=5",
-        "publishedAt": "2026-09-14T12:13:37.000Z"
-      },
-      {
-        "title": "Precio del dólar Perú y tipo de cambio hoy 14 de septiembre del 2026 - RPP Noticias",
-        "summary": "Precio del dólar Perú y tipo de cambio hoy 14 de septiembre del 2026 &nbsp;&nbsp; RPP Noticias",
-        "source": "RPP Noticias",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVG1YbmJpTmdjVDJ2QnF6aUhncjBaRzBPblhQbkk4bU5rN0RnRXI4dFVTMXpObVlvLThETGdTUEVIeWtPZktMdUthbEd1cjJweGdpT015UFUxc2k0d19YSUlWaldEOHdWQjljd2RCTGxSdWk3MmR6MnpQZkR2TGFXWmJJYUlCdHFmS3dXdlhNN21uTmdPNXlaUmZWUHR0MTI4Y2xULVI3TXpiTm96YkFyZVpzZjZsdl9n?oc=5",
-        "publishedAt": "2026-09-14T11:05:39.000Z"
       }
     ],
     "sociedad": [
@@ -129,9 +129,9 @@
         "publishedAt": "2026-09-14T21:45:20.000Z"
       },
       {
-        "title": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 - pachamamaradio.org",
-        "summary": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 &nbsp;&nbsp; pachamamaradio.org",
-        "source": "pachamamaradio.org",
+        "title": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 - Pachamama Radio",
+        "summary": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 &nbsp;&nbsp; Pachamama Radio",
+        "source": "Pachamama Radio",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjVicmRJUHdsWkJST0NDVllhUTRPQVpxelM3dGx5aWV6clN1Nm5fQlprdFVQUnM4WkdGc1NxSGJ4cHBaRmhVUDMwemhpblNpV18tSzlRdWE0MzNMaDNjWDRzdVJRM1I2S0FOMmtqTGRmeTl3RUh3cktfRlZ1S2tPUzNwOXEwcHlsMU1Rd1htZTQ0MFZZX09kUQ?oc=5",
         "publishedAt": "2026-09-14T12:17:20.000Z"
       },
@@ -148,13 +148,6 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQjFwRTVET05xTER6ZnZseE9pOUF4cFBBV19hM3RrZ1liRUc1aHFybFMyTExlbEhudk5rUlA1TnM4X1ZhZEEwaVhGX09fWjRrX3c5TVdLanJGQVI0MUhfVUphSXhYRkFuNVZLYmY0UkpzbXQ0NFhaRGFHSzBPd3JMUFlPaWhaT1Z6d01MSFhucDNHSU1fb3JTYlFNN29IQjRfTURSSlZsNThIbjRXajhBVFFJQm5SNDZXTE1MT0xtWHdoR0tFdFQ3YndyYm52U09taW5wZ19zdFRmRHBCOVN3ZkQ4cFcxSDlyTUNXX051aXZSd0xIWjhadEZQVmJZUdIB_gFBVV95cUxPQjFwRTVET05xTER6ZnZseE9pOUF4cFBBV19hM3RrZ1liRUc1aHFybFMyTExlbEhudk5rUlA1TnM4X1ZhZEEwaVhGX09fWjRrX3c5TVdLanJGQVI0MUhfVUphSXhYRkFuNVZLYmY0UkpzbXQ0NFhaRGFHSzBPd3JMUFlPaWhaT1Z6d01MSFhucDNHSU1fb3JTYlFNN29IQjRfTURSSlZsNThIbjRXajhBVFFJQm5SNDZXTE1MT0xtWHdoR0tFdFQ3YndyYm52U09taW5wZ19zdFRmRHBCOVN3ZkQ4cFcxSDlyTUNXX051aXZSd0xIWjhadEZQVmJZUQ?oc=5",
         "publishedAt": "2026-09-12T20:26:13.000Z"
-      },
-      {
-        "title": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP - PuntoEdu PUCP",
-        "summary": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP &nbsp;&nbsp; PuntoEdu PUCP",
-        "source": "PuntoEdu PUCP",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXdMd3dYSHNqOVFWMzd5SURHRlVaUHVFQTFYaC1TWEItOG4wRll1Nm94eF9sbEpPcGtkTmJESnowMFB2SzNBZEpXX29LSEFPbHh6ZkdUM25oYWFRdDN3dkt1VUJhOGh4ejZqZHkwdFBTdHJyUmRuUDMtUjNKSVpTSThIRlo5QWluWEJtVi02Qi1IYXBxd1E2VUpLUnJTcjQ2MElRZV9KbkU4dDZqZFhyYS1RNWw4SVVtYW5DWlVkYUJGYjJHOGc?oc=5",
-        "publishedAt": "2026-09-11T22:52:53.000Z"
       },
       {
         "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
@@ -176,6 +169,13 @@
         "source": "infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeXZsRHloYmRHU3ppR3pKTWg0U0FtSFM1MC1GWjJqeHVVb1M3QzlQelJUWFlGR1gtOWZYQ05iS1VDTlF0aUx6OHphRW1fVmtETVR3Tnc3YXFhQndfc1hRZW1mNnlLNXdDdTlfSlNOUlVPeE5pOXA5ekRsODVnemNSVTB3dzhGTmgwVGFMYVN1Zy1NTnhRVTUxejBjc1lIZ2ZWQjZ0d0cwSHJCUWRMM2xtcHpqWkppOGJXLTZqYzV6RzI0OXc3T1dEZEdiM0VXcjZkZllCcVRYWDMyRlVPS0xkWGdKR2NxWXZPUzVBUzJDSDbSAYsCQVVfeXFMTXgxSkI3ZG1kTXVidU1CMkVvRFNURFFvTmNjaE14UHk1YmFjbklkLThvWGVBWnVnTUtyTXRnM3dRcklHY0JRWE9Kd1FTSDV2QVNDRDlCYW9TOThfZVItcUprZElqazRpd2tDdG4tamVGUGNtYzFhbFEzX1dCanNOY2VMZnEtQmFPYkpvRDJWSDM3U0tZa3VSanlqZkRGOTVIN05tQlhoR2psMlNyNFJUVV9aNnE1bjlidksxNnh6SGlFUGZVcllNUFZPTUpSRVUxVU9UcE9DYlJxWUt3OXEwaDlIWTJPVS1vRlB6SDNBZmZZZHZIcWUtSDZYVGszTGYyMWJSUE8xTUU5RlM0?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "Historiador peruano Daniel Parodi: El principal desafío de Keiko Fujimori será “la propia inercia del fujimorismo” - Universidad de Chile",
+        "summary": "Historiador peruano Daniel Parodi: El principal desafío de Keiko Fujimori será “la propia inercia del fujimorismo” &nbsp;&nbsp; Universidad de Chile",
+        "source": "Universidad de Chile",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRWhQck1hWnZrTktic3Y5Tkx1RmZLRWZkTHR2VE1uWGppelJYeENMcDgzc1Ewc1cxOXBNU3k2SjROM092RUx1bURadnNoNGZKNFlRQ1FOY2U1R2hlMUVaTnZzTDJucnhtTVZYLUxmcnN6UXBJVmhzTy1JUWZVNnZIaTlPLU1MSlpfQ1l2SWM4LUhSSTBSN1VHWU5rc2l6ZjR5X1VTQmxHV2dSMGJYSjY5M004aUJVaS1mRjVtc3NfUnhDVTlUNGVNQldDb0FxdDdraGhxSzl4dmpzb2t3aktfMw?oc=5",
+        "publishedAt": "2026-07-29T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -208,6 +208,13 @@
         "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
+        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
+        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
+        "publishedAt": "2026-06-26T07:00:00.000Z"
+      },
+      {
         "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
         "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
         "source": "Business Empresarial",
@@ -227,13 +234,6 @@
         "source": "Revista Gana Más",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
         "publishedAt": "2026-06-17T17:04:18.000Z"
-      },
-      {
-        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - infobae.com",
-        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; infobae.com",
-        "source": "infobae.com",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -252,9 +252,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
-        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
-        "source": "Revista Minería & Energía",
+        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - mineriaenergia.com",
+        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; mineriaenergia.com",
+        "source": "mineriaenergia.com",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
@@ -296,9 +296,9 @@
     ],
     "ia": [
       {
-        "title": "Crece la alerta global por los riesgos de la inteligencia artificial: \"La IA puede acabar con la humanidad\" - Willax",
-        "summary": "Crece la alerta global por los riesgos de la inteligencia artificial: \"La IA puede acabar con la humanidad\" &nbsp;&nbsp; Willax",
-        "source": "Willax",
+        "title": "Crece la alerta global por los riesgos de la inteligencia artificial: \"La IA puede acabar con la humanidad\" - willax.pe",
+        "summary": "Crece la alerta global por los riesgos de la inteligencia artificial: \"La IA puede acabar con la humanidad\" &nbsp;&nbsp; willax.pe",
+        "source": "willax.pe",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSDFoTTNwdzlwZ2Y5NnZuYk1Dd2FXNng0dG9VWEIyMzRYZllEdEJWZ2hOMHpPWEVJcnhwRHRSbDdrSkt6eDloT3NzN1NTel9fb3kzUHhEbFZZMk9LZFBwVXR0XzVOendEZEdtYVRVNzZuQUNZYkhXX2xWQVBCZXQzQ2lkV2JGaDBRYUNqMmdR?oc=5",
         "publishedAt": "2026-09-15T01:51:58.000Z"
       },
@@ -345,9 +345,9 @@
         "publishedAt": "2026-09-09T16:37:00.000Z"
       },
       {
-        "title": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA - eluniverso.com",
-        "summary": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA &nbsp;&nbsp; eluniverso.com",
-        "source": "eluniverso.com",
+        "title": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA - El Universo",
+        "summary": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA &nbsp;&nbsp; El Universo",
+        "source": "El Universo",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1laN1dIQ3pHNnVxMXhERTlOVEN6MjZjMkNaWUU3MVZXYk54WHFtZnBuUDB6dzJBdFdySEdESWVGaGJ5aWExMjYtdjVIN0tfaTRVUDdnYlZDQnJ3akt6cWgwY1dIMGQ5Z2VYRlkxbHkxYTdFbjVDamdXNVg0QklGNmduZHFLOEx4ckxwdDFWUEM1RC1EX2luT0JBTVhoQnJMQ1BaRVJkVEppY09nNVlOM09nbTQ0U21aV0p1cTVTWDlYVXhwRVVLOGZ3cFZWal9ZVzQxejhFV0g2Zk91cXlEQW9TTWJBelp4V2hsWG9Oc3lwQQ?oc=5",
         "publishedAt": "2026-09-09T14:00:00.000Z"
       }
@@ -375,9 +375,9 @@
         "publishedAt": "2026-08-30T04:30:15.000Z"
       },
       {
-        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - imagendeveracruz.mx",
-        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; imagendeveracruz.mx",
-        "source": "imagendeveracruz.mx",
+        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - Imagen de Veracruz",
+        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; Imagen de Veracruz",
+        "source": "Imagen de Veracruz",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLU5fOVFyR1JhZkhPcGs5RGtLX3lGbWtXcVpRLWJtRGxHdElNamtiQURtenhhQVFoQXczdUpva2VUWFotUVJxWFM3ZUFLaENGb1Z6TnJOVVhhUmczbzZiQWltU3pFeC1CVzM1S3ZLbktIMlJSVVBaVklnRUVjNVlFX25pQWJFSzVSS1BGTWpRM2VQalFLSFpGcE1fRTdjZy1KWWU3R29RSF9xX1pNM3pTZjdMemZKakhudHhIUkxNX1VOZklVbWEzc0NpdHN0UUdmMlNpYWNNMnRLU0FmUWxz0gHkAUFVX3lxTE1HTmV6Z3lLcW5pQTNpSGJxT2gwWFptR005THgwbzRyeVhneWVFRm9TV0plWlFoLWlCc2U2QnRZb0VkLVZDa292d0o2RnBaSkhGZDN5VDFtV19Kb0VQQTdTcHZKcExrN1pWVjFWbXVVOVFrekJHNUc5WHhXXzN2d1h3amgtQUw1aThialdock5tME83YWhpUGc2Z1hmbUFFelhlY01tV0VzdmRUU3lnWS11UVJtbGdPYXp3SzBjVFd0ek1rMXlESDNOeXVTcE5SdTZGa1ktWnBsbzk2d21wbGJ5TXpyUA?oc=5",
         "publishedAt": "2026-08-18T07:00:00.000Z"
       },
@@ -440,25 +440,11 @@
         "publishedAt": "2026-08-06T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
+        "source": "diariocorreo.pe",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
-        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
-        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - infobae.com",
-        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; infobae.com",
-        "source": "infobae.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
         "title": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina - infobae.com",
@@ -466,6 +452,20 @@
         "source": "infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
         "publishedAt": "2026-07-26T07:00:00.000Z"
+      },
+      {
+        "title": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” - Trome.com",
+        "summary": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONHE2VHgwbHpNX1RiaWdQUGVFTkc5NDJEcXZQUDFuRHhCcUpCdzR0Y2NHbDNvRURMQlMzSlk5cHRSb3BjclRaMkNEMEF4R0lqLTVxRGQ2SDRBV2x5cklZcTdjTkp2RExYb2VVZWZHb2piLUFBM3lNS0Rqc2R3Mndrdmlvalp2alhMd1ZZYlNrU240YUs4a003el9jSS1sSFNLNzMxNmxaeGV1bWRGQUJpcmVRMkl3MERDbUVfa0VTbTZkVmR1MjdwVnhHQXMxUS1lTDNKNjBCU0V4UksxN1hFUFdWYUdZN2drV0lyNTR2cy1kMXdNZndXV09KeHN0M2NxNG1SQVhjUVRMaWxZemxXTVN30gGmAkFVX3lxTE1BR29NZk9mczFZd284MzBxZWY3S1lvLTRGYzNxU1R6MDVDZEwwdkktb0t0ZkRtMG03SlVKYjNlVmMyMUVTNG8waFc4NnBDUWRwcUI1cl92SmZQQXVnckFaRGdDSEVyLVN0ekl4Y2ppMm9BeUxWVUthQjRhUzhiNkRDMUNuclA1Xzg4MU80V3AzeEFHWVdDUnRjWEpwTEtmQ0k4OUdyX0lHMTV6TGJ5UUNiSW8tZkVqcmRZMmpLOEpfZl8wNnhGdmg0T01ZVVgyVGRKeUhqVXJmWm56NndqNTJ5d09PczhNekQ3cFJWQTBkWUJJUVEyekdlRUJTSk5HdUZaakUxR2VXaFE1YXg4NXVnTjFFZFdxanl6UXUxUFByUjlXSVVNQQ?oc=5",
+        "publishedAt": "2026-07-24T07:00:00.000Z"
+      },
+      {
+        "title": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” - Trome.com",
+        "summary": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSEstT2tDMnBuZDRXd01zVlZhV3JNTWh5blV3eXdVaGVDUmt4YmpFWElEVHVwQjJjcnF3LWJYMnVqenBhX3dsUzczU2xwUl83U1hxZXVsd1c1Rm5pMktCVW5vRkU4RUladzN4NXBrc2ZydjQtdW1EUm0yT2hvdE8tcHRmLUFYUEdqUHdnZGZ4WUZCV1JWMF9jb0xRdWpNX2ZiMGVYbWdxeUR3cEx6RkE1ZU0wX1BYUW9HUGp5Y0stSTFBa3dsZThjMU5TbDBLcWVlMTdmSWRTdktJZUluRFRJZEUyRGFtTDlsd1HSAf4BQVVfeXFMTVhpUFprMVd5Yi10UTBEU2FFckY4MlNTNHRCa0g1NERLSFBWMG5USlpYSUowZ2J3UERTRE5hZmNrWWJLQWRjeGhEaEJ1ZlZ4TkhaT18yY2NWSmx4M2JJUklhTXU0QVFPOF91a2lVaEhIbXJFaG9LQmFWS1U0VGtWWi0yTFdBNlFBVEZVakw3NzFiNlhaLW9MNjBYOUhRdFRVeWpnS0pESDB4YUliU2dndzVieVlKVVB6SU56LUxGaXN0TWtaQmNwMXQ0SjAtYThKdzJVanNiczY5RmkxRVdHUDA2QzctRWtPSVJMdDZXTk13ZVRwVks3d2FnZlZxSWc?oc=5",
+        "publishedAt": "2026-07-12T07:00:00.000Z"
       }
     ],
     "cultura": [
@@ -475,13 +475,6 @@
         "source": "infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNnBsekZxUkhLV3VkTVl6S1dxLUlJaXZPZjF1TE9GMFJnTUJRQWtGLVlPQTlFNVZabVdSeGRscGFTbmRJRThMdW5zRXhRaXA2dU5tNk5nTVl0ZmFadjJPeW9yTzJtY3FwUUFYVFBUTlkySzNXdm56dTZQa1p6V0ZtRS0xeHdWSmotTjM4TFpXOEZsODRRTnI3UHFxVWdqNlJuRVRRV3NyU0dnZ0trX3NtbHRzaHAyYk5RTmlHTkctR1A2cXNuQlJnUzFTUG1BcE0tSGdtc3JZUXJYdnQ2VS1jR3kzajBkOEUwZGx0elB2dTN5Q0pjaG1tV3NoR3HSAZcCQVVfeXFMTWMydDVBdFhCMXdLbXVsZXBsZWZYeklCZnNsbjVFUTFJVGtzUjRIWTFfQ2VRTGMweG0zZDdKMkR0blVLS0JTMkxOZk0wcmxWNzVsYTdpT3lFNEVhTDRzOTZ4MFd3LVotS0tMc2QyNTZfS1dFTEJnRFBmQlhmRUVFRjNUMVNuYnpyWDVoakVIb21NMXZ6aHFLSHpiM2FTTTdweS1UalhYY2w1WVFXLWtCaUxOdlZPemVfTnRldWx1VV9KSHpSaENIUDQxQWRzeE1Cc0pyTi1WbTVQUER3STZsRm5SNUFzZ3E5N3U4N3lFclZ1UExrQkU2R2dTZnh6M1pUdzNjQzVTVmlWaElwQ1c0WWlLR1NFTmNR?oc=5",
         "publishedAt": "2026-09-13T19:07:00.000Z"
-      },
-      {
-        "title": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park - infobae.com",
-        "summary": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park &nbsp;&nbsp; infobae.com",
-        "source": "infobae.com",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeV9mZEM2dHUwYktIZ1MxTTNvWWtnMmRNTFl0S2VzcUlydTRWQUVlcGJXU3BKZzFDMlk5alR2QklJYXNjMnpmYmd0Sm9nZFIzUG5JazZ3ZU5Lbi05MGlOdVcwNy1ZUEpZUU5mWTdrTHVMSGdVTjctNkdSUmlYaDZ3V25VTzJoa19GU0ZXaFplOGhJT0M3YngwdG9wSkI1U1VCMllpdDdhYkFqVjN4QzhVX0luNUhRRkdxS0c1YTRlSGRKOFVRSW92cjhUdUQyRkpBRFJ2LUhRYlpORlYydzk1QlRrcDRXRHZ0ZEVjWU5BZVgydHRJ0gGPAkFVX3lxTE40dDg2UjlEN0VJczBwVUF2Uk5wVUlORV9oNUg2MEx6QXFFQzM2bHJydGNLZHQ3UTNRc0N4dmExdGZ1NndSOTVKdnlsTHdZQVFzOThBRUhwbGp5c1BYZDg0a3dWYzN4Ty03M0tIRXVZaHBHS0xZU241ODI2UGFKZTZXcGlTSi1CMXhOTmlCNUkyRTBlN1RjMXJhTGMxOThVR0ZhQ3cxY0RwRmFBN0FMVkRFUHEwcVUyaUVkM1I4aGJIMUJvTG5GMjJhN0Vudk9MVjU3QWN1QXNXZUNtOVlIUWNFVkxEMzMxUjZibU5obkhpalA3cERvWFh6bTMzTDhkbnBZdFRNNkh1OHVSQ2tEbEk?oc=5",
-        "publishedAt": "2026-09-05T07:00:00.000Z"
       },
       {
         "title": "Agenda cultural en Lima del 27 de agosto al 2 de setiembre: Black Eyed Peas, Paulo Londra, Animatissimo y el Festival Escape del MALI - infobae.com",
@@ -524,6 +517,13 @@
         "source": "Ticketmaster Peru Blog",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVJKaExOenRRZmxzRzVVZWxoanFOaE1fTFdEZmpiRUV0X3FYcFAtTjVwMGo1R1hoUUo2dUhQVVNIZEl5eDhMSlBSdE1jWWZ3YUJXZncxM3J1d2tCUVJvUnNULS1lMEoxZlZkZ0tBbFpFZGxwYm5TSUYyd1RUZmt2VU1JN2thUl94dHduXzdKRWJGOUxQLUp1cWs4U0NMcEhDLVJrVWdVODJDSjJlYjNZODFmY0I0b3NuS2Jn?oc=5",
         "publishedAt": "2026-08-08T07:00:00.000Z"
+      },
+      {
+        "title": "FIL Lima 2026 entra en su recta final: “Hemos reemplazado a la Feria del Hogar” - infobae.com",
+        "summary": "FIL Lima 2026 entra en su recta final: “Hemos reemplazado a la Feria del Hogar” &nbsp;&nbsp; infobae.com",
+        "source": "infobae.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbXNxZE9UU2NxTnl5Q1EzNlJZek1yQzIyS1RGZ0g3LXB5dmtRX1NzX09SSjJGQmx5U0RnQ3B4elNyTlhzUFk1VDdZZmhoYTh5d2R0dk9PQ0QwY2FiWVdEZTlndElITG9pWElhMGdSOHYzVGtLSGhlWTZ5bXZvQUxjWnpJS05GRk9WQnU4UlQ3cmcxS0J6RmlQU19yZFczaGRqQlVXTy0zOVRsNm5nWnM3MGl5a3dINFk40gHTAUFVX3lxTFBUX3FpdkhQaEN3V2NEUXRYdXl5NlpqemhkYnhXdkRnbkFyVUYxWUVuTDQwb3dmY2ZCNXY2NUZXWWlvMzVwTE5LZE5hVEF3M1QxR282MkxlQXVtSFdaeW0wZUFIWWlTVFJUQ0czMXVFWFVyd284VEdHdVFVZUZINjhtLUtwaHVONkd3OEt4M0RNbDk0anB0RFNVMWM4aUhSQXNuYW9PaS1qczJyajNVcDhlT3FXLXFOTWlRb05IMHdJUFVfbkJYZTVQcHk1eGtpam1qcm8?oc=5",
+        "publishedAt": "2026-08-04T07:00:00.000Z"
       }
     ]
   },
