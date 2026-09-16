@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T19:51:22.011Z",
+  "generatedAt": "2026-09-16T22:41:53.165Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
     "politica": [
+      {
+        "title": "Ministro Juan Sheput culpa a Roberto Sánchez ante falta de respaldo en pedido de facultades: \"Está picón\" - La República",
+        "summary": "Ministro Juan Sheput culpa a Roberto Sánchez ante falta de respaldo en pedido de facultades: \"Está picón\" &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaFVjNXNrSFB1T25WS25lRVNMNDAtcVY4S0luZnNZWGhfa0wwZ3pHa0xwZkttOTc5dGJ2QTkxT3dDbUxNZmp5eGhCSkpucGpYMWpqWVpnQzJlYk5hRTFzQTNscHlxUGlwLTBRX2N6QXdzYkZUakhzRG5aV3V6SkNxb21Ga0RTU1hJZXBEQV81MWNWR2hmZW5RRHktRFhGVjNudTJKNFdEQ0JaY0VVaC0tX2c3MnRpM3hXYnd3cDdZWnJEclA0OTdWY3JUSnVSNFhCaWNKZXN1RWNmYjN6aEhabHdjcVlVZTVWNmZXZzZuNNIB9AFBVV95cUxNQWdlSXVGSXVXdDd3TERhRGNPd3dxaGJTSTlrdG9WaUE1aVF6QVBpOC00OWZHSVRKUHBZTGVhUnJSSV9fM1BRbVJXdkdibmhqZmg1RENkbW8zeXdNREVzZmZPbVlNYm1RRFg2WkpzajV0WUVpb0pSY1RSZ2ZneHBQMXMwOW5iY0NiWFZJcC13ekVXZzZqMDlCZWw5YXQ3WGkwS0NIQlhBTm94VTRvX19FRHJRVURTQ2NpcnZnZXozaXFMYW5lWnFqbXdDN2xQT2NmU3NSdmhxdi1ZWlNfdWMzZ09PNzh4WXV0SFhha2tpaVFwM2l0?oc=5",
+        "publishedAt": "2026-09-16T16:17:38.000Z"
+      },
       {
         "title": "El nuevo gobierno de Keiko Fujimori en Perú: un comienzo accidentado en un viaje peligroso - Infobae",
         "summary": "El nuevo gobierno de Keiko Fujimori en Perú: un comienzo accidentado en un viaje peligroso &nbsp;&nbsp; Infobae",
@@ -34,13 +41,6 @@
         "publishedAt": "2026-09-11T16:59:36.000Z"
       },
       {
-        "title": "🔴🔵La presidenta Keiko Fujimori pidió al Congreso de la República acelerar el debate y eventual aprobación de las facultades legislativas solicitadas por su gobierno, al considera",
-        "summary": "🔴🔵La presidenta Keiko Fujimori pidió al Congreso de la República acelerar el debate y eventual aprobación de las facultades legislativas solicitadas por su gobierno, al considerar que existen asuntos urgentes que no pueden esperar, principalmente la luch &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZmRIWXpNbUEwNVVzMkV4MU1rMV9ndUNSaXJqdzVhLXN6UnhqbFNXb293QWVkdGd6Ty1zTS12RXZNZ1k0b2xCa05IS3Q4VFVicGxNejNOOEJIbnluV25QSjlXRXlWb0k1cjJtSlk4WGJuMVl1VkY0a2x4azRxWlN5ZC1OT2ZoeWtWbkpoQUp2dm1vZnItSkEzSVE5LVFzYl9QYkNuWDlLVHJDWVFFUnc5RmVtNzBSMlVKNG9OQnZqR1pxVkFKd19oSGdpNTVYMUVqS2xSaEV4N2FGNG10T0JQS0VtcHRERFpXcVdJ?oc=5",
-        "publishedAt": "2026-09-11T16:38:31.000Z"
-      },
-      {
         "title": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial - Infobae",
         "summary": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -64,11 +64,25 @@
     ],
     "economia": [
       {
+        "title": "Perú tiene 179 mil mypes formales menos que antes de la pandemia: negocios en negro llegan al 86,5% - Infobae",
+        "summary": "Perú tiene 179 mil mypes formales menos que antes de la pandemia: negocios en negro llegan al 86,5% &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWlRBWVdCektFUVJmdTRBNlBBZzFfV3lndEtNQ25rdGl0LW9sNDFwcjNZR2FuUG8zNlR5ek1MdjhNSnEtamNmUXc2dGotRkJvUGNOZUpxLVhuT3ZFNEttd3pjSXkzRFotX1NYQUh4TDRzU0ZuaE9BZjdEdWd6dk9TU2g3MXlVZXlwNFU5Vkt4RDNBWGtuS1p0YVZaUlhEX1lVel9idmZQS09EWElkN3hDV24yNThLNHhKYmlMM3JDMklQNmRDaG9sRDNGc0lnSzRQYm5V0gHuAUFVX3lxTE1tN1YyamFnak9YZzhEcjdVTTdnR29Sel9NMFlVb3FsNmJ0V0R4QmZJWWJHNjE5Mm4xd3BrREd0R1hWdE05ZG9FMDg4ZlA4ZHVWeV9XUkRtUmRPanpETWdXSThyd0FVbl9kRWJGZndCSE16MnZQNzFnNThSZ3RDd2VTajNsc011b1J0bzVuaFpNMHFXU3NFdnp6eU15RTVCR0RGYi1fellxdjNQcV9oREV0ckd3QkVERHVTd3BMM1ZldTVJVEFzeW1LVGpGOXd2SjE4eVBXQWZjc09ZWFZ5R1NFa29oLURISzNwSmtXclE?oc=5",
+        "publishedAt": "2026-09-16T20:47:27.000Z"
+      },
+      {
+        "title": "Precio del dólar cayó en Perú, a pesar de decisión de la FED: Así cerró, hoy 16 de septiembre - Infobae",
+        "summary": "Precio del dólar cayó en Perú, a pesar de decisión de la FED: Así cerró, hoy 16 de septiembre &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHNZR1dCMTNpMHFMdFZPUjFDM0ItTFZVVzgxWDI0bVZMV3lvSkdXVFNKMmVseEx5aS1DWkhsSE1LTFJvVGdnY01wUzctZmREak9zdnFQVlpaWUlaMWNIbkF1LThsOEw2eGtZbFpCcnJUMTdtdnYyZjlwVW5SN253LVM1LUx6Sk1YcmJtQWJaamVvT0lnSU9lZDVQTEUzeFlwNFo1cGhFN2o1dDlUcXZfcnUyQdIBzgFBVV95cUxPYXJocjJWaWNLblRTSnBrZ1Bhd2h4dm13VEMxMEVGQURfUzJMY29VcHFwVHdyQWc3QkRINXYxbjlPb3hqQ2V0NVJFNENlMXdSU0pKZEJjR2FrelROZUl6TU9FSXpTVFNxRVlfeDdrakxjQy1MLUg5eEgzUERGbmx6cng5SDdMdnZKbzZSYVQyd1MxQ3lGSzdkYWVPRFk1TlNQQldhUkU3TVN3S3dKTHZ6VFF2UVJfSXdFSTVlNWRGOUIzYU1lZVhaNVdib1Vwdw?oc=5",
+        "publishedAt": "2026-09-16T19:48:02.000Z"
+      },
+      {
         "title": "Dólar sería presionado al alza en Perú: La FED decidió subir la tasa de interés por primera vez en tres años - Infobae",
         "summary": "Dólar sería presionado al alza en Perú: La FED decidió subir la tasa de interés por primera vez en tres años &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMml1TkNLV0o5TnBJVElyaDQxdHgwUEtrajkyTW1RNU8xU1h3WHN1TU9fNTRNVkR4Yk5jMThrQTlIRFZZZmRSSFlqTkFTVWd2YTBlQVdESllyTnhxNVJIdVhEdXhfR1FpNlNZLXljOUUzTVZpRzRhQVJweHgzY3VOdDQ0SFEydVdzYmdMQUwwb1YzSFhVb1NFMUo1OEdKRi1hUVE1bmlOblk3RDE5VmRKTllLZUhIRWpPLVdMeXdqYUVlb0ZNeWZPTmZhVzlXeFR6XzFDcWlFVnN0MGprTmlMV0FR0gH8AUFVX3lxTE9fS2ZyOVdsMkRuckxfZ2hXWkM5dVRHVXh6QzVnTTc5a0JPZE5vWHFBVW1fbHNEWWcyak40bFRxRzRuTDRkUXcxNU45dzVNWXhQRU41SktRTWJGQU5kbWdOVk1zcGdnWlZ4U0dKaXdqOG1rVTl1S2R2bU03T0FVa3VaaktYbWVsZjY2bjBCVHdOendjSVkwWlVLX2tQM2hwN2hiVUVmUDFncDJnSDc5UEctMFdDOTQzMFhVQzg4ajFHdVRHOGhGNUFVdkdGR09wY1BrWHQ4LW5TVUxaS0pZdEpJXzNWa196Y2E0U3BWR05NNWdCQ0cwTE1NUk1BLQ?oc=5",
-        "publishedAt": "2026-09-16T19:25:22.000Z"
+        "publishedAt": "2026-09-16T19:46:00.000Z"
       },
       {
         "title": "Tres sectores de la economía ya se encuentran en recesión, alerta el MEF: “No será posible pasar el 4% este año”, según Cuba - Infobae",
@@ -104,20 +118,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWhYdG1sc0pLYnppOU9VR3hIS1BNV250NzhfbUk3ajl4a2NIUTdqRlhSZVJRMXNGMWhNSU1vYzA0dXE0MDNIeHRBZ211TDItc3FHV3QyS2htdDBZT0MzOU5kUGJBdng3OU1pWmd4azhvaFFRbXZ1eFA5Z25NdFBMaXNXQnl6SnNiSk1uczFkWVkzNm5CbGtCVU1vNFpqWVo2bUwxbHFDWWk1MWw1alJIQ2dUMmhKTFFtbWZ1LUhRTFFLaU1zcDlsczFxc2NPRGRVOVpSeFlEbkrSAfMBQVVfeXFMTUduUlZrRGZHR2pZN3ZKS0dCbFczLTd2eWppU3N2WHF4cHQ2aXBYVUd5Sk1EbW80bmwyZ1VPVUJyZjJYTlBMRnJaZ0FkS21YS3Rva0E2TUZSV2ltY19nZlhZM01wdDExRVAwdzhTM0dRSzZhcm1JMHZWcmxfdzhoVUNVVE92aldQWV93aXJjcXM4VmJSam5STy1nVGhQMGpESFZLbkZkdTdOYlE5LWJPVXZmTTJiZHpaSXlPeWlMdzNjdm1lTVVmWDlCUDFrN193MGprUEdGd2g3ZjhMQVQzcmtEVWRmNVJnZk9GdEg3STBlcVhF?oc=5",
         "publishedAt": "2026-09-16T12:39:00.000Z"
-      },
-      {
-        "title": "Precio del euro hoy en Perú: cotización de cierre del 15 de septiembre (de EUR a PEN) - Infobae",
-        "summary": "Precio del euro hoy en Perú: cotización de cierre del 15 de septiembre (de EUR a PEN) &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1BTVWhtT2tyMXB4LVRIVHo3Um1HMGdaR3E2ajZDQkJfQXRkMjBlaGxBVlF4czFaRUdlQmNablNIaTBtOGE1dU9lS2NUVWlBZnJab29DSUZaTXoyTmVOZ0lLblFMMlV4aVdrQkhWTXE1MFljQWlwclJOY2NXOVBRTENLY1gtcWtHbDJlTDVJTkJzV0dQQjhsRWh0SHdVRXk4dXJVQ1VnLXdtMWJxeE5z0gHKAUFVX3lxTE4yZjE0T2xOaHlCRDFydmREZnJYLUFXbkdOUElsbmxRTUY5MnFVYnAxUEw1VVEyOEgwZDJWY053dlp0bFozRmtBRjlTNXc1dWozU2JRcldmekJvNUF4Q1VsRUlNcHdpVlpSMFpidkZEWklUeVpNdkhFLWx2ZGNPc0lBS1d0ekcwdklOUlBCVEY4LVk5TEM4cW5lNURMVXhURmliZHZvUnJBUFZjcXMxc3pqaVpLNWhfNmF2Qm5pMTZPektvXzgtR19ab0E?oc=5",
-        "publishedAt": "2026-09-16T02:07:00.000Z"
-      },
-      {
-        "title": "Perú.- MEF: La economía peruana en julio 2026 acumula 28 meses de expansión continua - notiperú",
-        "summary": "Perú.- MEF: La economía peruana en julio 2026 acumula 28 meses de expansión continua &nbsp;&nbsp; notiperú",
-        "source": "notiperú",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTTFESGVIZzBPdDhWWjNHTTl3Qk5JQTNVdlJXSjNQQVpXVDdzck5QTFJVVWduRUJyOG41MWtEdnpmNVk1MFpSVTd5Sk1tSVgzT0V2cy1RNC1tWnVTdzFqelJXNUUyVjZ6NDFFVW1EZV9JT1A1c1JEREMzVjliYTFMNFU1cjlCNldRVV9SZ29SN3dxcnY1bi1laS1ydmlvYTFJN3J3cDFQZFJZeWQ2aUwyY2dPMVAzUGxuNjN1SWtkbGpkVHJkeEdsRUFQQklpMVI5NnBZ?oc=5",
-        "publishedAt": "2026-09-15T23:35:29.000Z"
       }
     ],
     "sociedad": [
@@ -171,11 +171,11 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "🔴🔵El Ejecutivo aprobó el proyecto de Ley de Presupuesto Público para 2027, que contempla S/266 506 millones y un incremento de 3,5% frente al presupuesto inicial de 2026. 🌐Más i",
-        "summary": "🔴🔵El Ejecutivo aprobó el proyecto de Ley de Presupuesto Público para 2027, que contempla S/266 506 millones y un incremento de 3,5% frente al presupuesto inicial de 2026. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcU9FYldIYlQ3a1J0elMxMVgybzJELTF2Umtsd0NEczRSXzhQYXFEWTVkY1dZYVh1VWVScVZVcjBuU2Nad0RZN3Y2azRCNHR1X2luQlhFb0hzbTdsLVNPb09Jczh4VjNjYjFCTWdrWllQZ1p5V2ZhVzlRNWpBa19NX1MzOVZKUERCanB5YWdlbDVUWlB1TFIzUnp1RmpkSllFN3Y5aFBSQ21QX3AwZ2RrdDlSY3YwQ0FCU2NVeWhrV3Nfd2dVTmU1TnhVakVITEo5X1pIak5xX293c1VjSmhoenVxNlJGcFJsR0xB?oc=5",
-        "publishedAt": "2026-08-29T07:00:00.000Z"
+        "title": "Historiador peruano Daniel Parodi: El principal desafío de Keiko Fujimori será “la propia inercia del fujimorismo” - Universidad de Chile",
+        "summary": "Historiador peruano Daniel Parodi: El principal desafío de Keiko Fujimori será “la propia inercia del fujimorismo” &nbsp;&nbsp; Universidad de Chile",
+        "source": "Universidad de Chile",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRWhQck1hWnZrTktic3Y5Tkx1RmZLRWZkTHR2VE1uWGppelJYeENMcDgzc1Ewc1cxOXBNU3k2SjROM092RUx1bURadnNoNGZKNFlRQ1FOY2U1R2hlMUVaTnZzTDJucnhtTVZYLUxmcnN6UXBJVmhzTy1JUWZVNnZIaTlPLU1MSlpfQ1l2SWM4LUhSSTBSN1VHWU5rc2l6ZjR5X1VTQmxHV2dSMGJYSjY5M004aUJVaS1mRjVtc3NfUnhDVTlUNGVNQldDb0FxdDdraGhxSzl4dmpzb2t3aktfMw?oc=5",
+        "publishedAt": "2026-07-29T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -208,6 +208,13 @@
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
+        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
+        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
+        "publishedAt": "2026-06-25T07:00:00.000Z"
+      },
+      {
         "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Revista Gana Más",
         "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Revista Gana Más",
         "source": "Revista Gana Más",
@@ -227,13 +234,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
         "publishedAt": "2026-06-10T07:00:00.000Z"
-      },
-      {
-        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
-        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
-        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -375,9 +375,9 @@
         "publishedAt": "2026-08-30T04:30:15.000Z"
       },
       {
-        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - Imagen de Veracruz",
-        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; Imagen de Veracruz",
-        "source": "Imagen de Veracruz",
+        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - imagendeveracruz.mx",
+        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; imagendeveracruz.mx",
+        "source": "imagendeveracruz.mx",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLU5fOVFyR1JhZkhPcGs5RGtLX3lGbWtXcVpRLWJtRGxHdElNamtiQURtenhhQVFoQXczdUpva2VUWFotUVJxWFM3ZUFLaENGb1Z6TnJOVVhhUmczbzZiQWltU3pFeC1CVzM1S3ZLbktIMlJSVVBaVklnRUVjNVlFX25pQWJFSzVSS1BGTWpRM2VQalFLSFpGcE1fRTdjZy1KWWU3R29RSF9xX1pNM3pTZjdMemZKakhudHhIUkxNX1VOZklVbWEzc0NpdHN0UUdmMlNpYWNNMnRLU0FmUWxz0gHkAUFVX3lxTE1HTmV6Z3lLcW5pQTNpSGJxT2gwWFptR005THgwbzRyeVhneWVFRm9TV0plWlFoLWlCc2U2QnRZb0VkLVZDa292d0o2RnBaSkhGZDN5VDFtV19Kb0VQQTdTcHZKcExrN1pWVjFWbXVVOVFrekJHNUc5WHhXXzN2d1h3amgtQUw1aThialdock5tME83YWhpUGc2Z1hmbUFFelhlY01tV0VzdmRUU3lnWS11UVJtbGdPYXp3SzBjVFd0ek1rMXlESDNOeXVTcE5SdTZGa1ktWnBsbzk2d21wbGJ5TXpyUA?oc=5",
         "publishedAt": "2026-08-18T07:00:00.000Z"
       },
