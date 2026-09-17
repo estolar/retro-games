@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T13:07:37.150Z",
+  "generatedAt": "2026-09-17T17:58:34.307Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -20,9 +20,9 @@
         "publishedAt": "2026-09-11T22:00:54.000Z"
       },
       {
-        "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - Exitosa Noticias",
-        "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; Exitosa Noticias",
-        "source": "Exitosa Noticias",
+        "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - exitosanoticias.pe",
+        "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; exitosanoticias.pe",
+        "source": "exitosanoticias.pe",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXVFeHN5ODA4dEFpY0hYcjZDdVNhbm9TVmhLSUFvMXJ1MUlCR0hpanB6SzcyWXhFMkl3NjFBa2FPdG9rRDd4LTlfVG9LZ1BQZjJNTm03OS1XUkRMR3B1c0EtQmVLcHZVNW1TRWdZOVhxM1Z5Y0NKZFdpX1RrRVV2WEJsdkJqSDgyTWNFYW5sWXBtVC11S210cXh3VXN0NXVEQ2N5UXlscXlDcGZ6T2o3NHk4aXZjeXlnWnA1U09tN3Z2clA4cXl4V0VDWkQtZDZhWkFJOEdFd3R4QQ?oc=5",
         "publishedAt": "2026-09-11T20:17:00.000Z"
       },
@@ -64,11 +64,39 @@
     ],
     "economia": [
       {
-        "title": "Economía peruana crece 3.56% en julio, pese a “El Niño” - El Economista",
-        "summary": "Economía peruana crece 3.56% en julio, pese a “El Niño” &nbsp;&nbsp; El Economista",
-        "source": "El Economista",
+        "title": "Tres centros comerciales abrirán para fin de este 2026 en Perú, y tres más hacia 2028 - Infobae",
+        "summary": "Tres centros comerciales abrirán para fin de este 2026 en Perú, y tres más hacia 2028 &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXJrNGd4S1d6Q1h6QmJTYm1fM1N2ZnBaWnZZRERUYVRFRzVIOVQyVFNfN2hiSTdlSWVTcEhFZFJBUnk3SklTNGNVWDBvZkRVVzlLSGJfRUNQMDdFZjVja2ZEcUE2akxkcjd6bFNvRWxMSHdMUTBkMWk0YVh1LVNxT0wwM3BKWFNvdDdXTjVsQ1Q4cWk1Z1JXLXR4TkFMQnhKY2J4NHBRcXFuc09hRHFsVDV2MUhYUG1kRHpvdVNlLUZWUkHSAd4BQVVfeXFMTnUwaHZJVDhIaVBRM1hkSTNrUnprc1Fya3puZEFWRURXNU9MYkRUYTkwX2Ffd1NyR2RpMVNYZXVWNUx4T1VtNEhqMFpGQnpwc2tXczBtYU96VFk0UnBKUmRRUWgxbmt3VE00OS1yc1RCbFlpUXluX1k2eDFmaFI4Mm5lTkdIcWxHT1RjOXliTHBmZ3Y4djFhb1dZUHQ1UUdHdmQzSkU5ZUdMMXBYY3RpWlI3dDcxOVExMGZzZExKSUs3QURZQXNMN3Bfem5zZ2RCMGh5T0JTQWFieGlvY2dn?oc=5",
+        "publishedAt": "2026-09-17T15:04:00.000Z"
+      },
+      {
+        "title": "Dólar sería presionado al alza en Perú: La FED decidió subir la tasa de interés por primera vez en tres años - Infobae",
+        "summary": "Dólar sería presionado al alza en Perú: La FED decidió subir la tasa de interés por primera vez en tres años &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMml1TkNLV0o5TnBJVElyaDQxdHgwUEtrajkyTW1RNU8xU1h3WHN1TU9fNTRNVkR4Yk5jMThrQTlIRFZZZmRSSFlqTkFTVWd2YTBlQVdESllyTnhxNVJIdVhEdXhfR1FpNlNZLXljOUUzTVZpRzRhQVJweHgzY3VOdDQ0SFEydVdzYmdMQUwwb1YzSFhVb1NFMUo1OEdKRi1hUVE1bmlOblk3RDE5VmRKTllLZUhIRWpPLVdMeXdqYUVlb0ZNeWZPTmZhVzlXeFR6XzFDcWlFVnN0MGprTmlMV0FR0gH8AUFVX3lxTE9fS2ZyOVdsMkRuckxfZ2hXWkM5dVRHVXh6QzVnTTc5a0JPZE5vWHFBVW1fbHNEWWcyak40bFRxRzRuTDRkUXcxNU45dzVNWXhQRU41SktRTWJGQU5kbWdOVk1zcGdnWlZ4U0dKaXdqOG1rVTl1S2R2bU03T0FVa3VaaktYbWVsZjY2bjBCVHdOendjSVkwWlVLX2tQM2hwN2hiVUVmUDFncDJnSDc5UEctMFdDOTQzMFhVQzg4ajFHdVRHOGhGNUFVdkdGR09wY1BrWHQ4LW5TVUxaS0pZdEpJXzNWa196Y2E0U3BWR05NNWdCQ0cwTE1NUk1BLQ?oc=5",
+        "publishedAt": "2026-09-17T12:25:00.000Z"
+      },
+      {
+        "title": "Precio del dólar cayó en Perú, pese a subida de tasa de la FED: Así se cotiza, hoy 17 de septiembre - Infobae",
+        "summary": "Precio del dólar cayó en Perú, pese a subida de tasa de la FED: Así se cotiza, hoy 17 de septiembre &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHNZR1dCMTNpMHFMdFZPUjFDM0ItTFZVVzgxWDI0bVZMV3lvSkdXVFNKMmVseEx5aS1DWkhsSE1LTFJvVGdnY01wUzctZmREak9zdnFQVlpaWUlaMWNIbkF1LThsOEw2eGtZbFpCcnJUMTdtdnYyZjlwVW5SN253LVM1LUx6Sk1YcmJtQWJaamVvT0lnSU9lZDVQTEUzeFlwNFo1cGhFN2o1dDlUcXZfcnUyQdIBzgFBVV95cUxPYXJocjJWaWNLblRTSnBrZ1Bhd2h4dm13VEMxMEVGQURfUzJMY29VcHFwVHdyQWc3QkRINXYxbjlPb3hqQ2V0NVJFNENlMXdSU0pKZEJjR2FrelROZUl6TU9FSXpTVFNxRVlfeDdrakxjQy1MLUg5eEgzUERGbmx6cng5SDdMdnZKbzZSYVQyd1MxQ3lGSzdkYWVPRFk1TlNQQldhUkU3TVN3S3dKTHZ6VFF2UVJfSXdFSTVlNWRGOUIzYU1lZVhaNVdib1Vwdw?oc=5",
+        "publishedAt": "2026-09-17T12:21:31.000Z"
+      },
+      {
+        "title": "Economía peruana crece 3.56% en julio, pese a “El Niño” - eleconomista.com.mx",
+        "summary": "Economía peruana crece 3.56% en julio, pese a “El Niño” &nbsp;&nbsp; eleconomista.com.mx",
+        "source": "eleconomista.com.mx",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWpwZm1IV3JUbVZ3VHhLN2xiaHNJVDI0X0xvNFhSUmdtS2JWUWJKcmM2MUEwVnlnSklWTHh4MkhPWlFIQnNURWdpc0ppOGZEQXA3MmhlMVI2ZW1QTDJkVk14TldCemV5QzF5UUtSc01uSTZwWmV0N09PWk5fdU9MNlp6R3U4bFVUVm9KVkJwSVFEMjBxaTU1Z25Gdnc4dUZJOTlpTUx2eW7SAa4BQVVfeXFMTm43aTNhRnBqSEZZVW1RaUVtdkxaNEwxa2wwZ3lwY0FhQmluV2lRQWtxUVQ1UEN5aE1GODRITEpQd1VOOHlROW5QZjVHMG5OU25xaVNZbDZaUUJkYktKTmNzRGtJMldVaDhkQUtIVzh4aWdXTnMyWEVuUTBNaUJVM3RCeUd2ZEoyZXpYVmVIUkhORUNNOVh5OGNyTC1YbUxKSlRtdnBTVTRxWmJrQmJ3?oc=5",
         "publishedAt": "2026-09-17T05:23:42.000Z"
+      },
+      {
+        "title": "MEF: Comisionados de Alto Nivel plantearán reformas para enfrentar desafíos estructurales de la economía peruana - RPP Noticias",
+        "summary": "MEF: Comisionados de Alto Nivel plantearán reformas para enfrentar desafíos estructurales de la economía peruana &nbsp;&nbsp; RPP Noticias",
+        "source": "RPP Noticias",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdWpVcDZ0UDl3UWoxQnJ3ZXdvd2ZmdE05ZEg4RW05RVlKeUJGVjlBdERjTXR3dUluT0swLTVmckFSWVRBenEyZ2s0LTRRRWxQTG15TTJoRXNZRy1fb0F4NjlWejY1YWZqNEpKS2VUdzNaSHhhcVIwbUo0Ul9mek1ZQ1F2Y0d1S3lpZU1HTUE2RDlmbEpBWUpFb0RncHB6U2k5OHlfRTVra0J1QUdJS0tjenlpZWlaQVVVd1BsaTh6dVpYczVoVTlPNXNqRDBkeTdnbTJtNUFReklRbmFWMjc1em1TWDREZ3U3WHZXekw3SzVRQQ?oc=5",
+        "publishedAt": "2026-09-17T05:19:05.000Z"
       },
       {
         "title": "Fed sube su tasa: ¿cómo impacta al dólar y al Perú? | ECONOMÍA PARA TODOS - apnoticias.pe",
@@ -90,34 +118,6 @@
         "source": "América TV",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmJqSkx3R0g1eWlnVlhBYVRZVXJJZ2JqUG5fTHNpdWd2RFRmMlpMSjI5R0l2aG5HU2d3bFdSNGF6bUtGOVdwUmZ4Wk5BNU5aeWtQUEtacHZ4NTRZdmFjbGVFek9NLUp6TExHbUtTZk8ycGtVR0Z0V05sbE0wYXpOa0VWWi01WTRzZ2U0eFg1OW1ySDVfMTlJYS1mb9IBoAFBVV95cUxQaF8xQ25KX1hQQ2pTT21vM2JHRWRUNnZuTjg2LTZRVTAyTWd1U0d1QWlzejVIOW5wNHpjOUdwcUE4NkVDY1hreThuRVJEYUFCMWVhbjRuek1IRzFVWm9lbjNSemlLWDA1YlcxV00tYk1PUGRoU0h2eGJ4azU2cG1HTVV0UzdEbW0zUFFVbDRrcHhidGttcmRnSHNkSV9XcVda?oc=5",
         "publishedAt": "2026-09-16T23:23:01.000Z"
-      },
-      {
-        "title": "Perú busca apoyo de Estados Unidos para mejorar la empleabilidad y reducir la informalidad laboral - Infobae",
-        "summary": "Perú busca apoyo de Estados Unidos para mejorar la empleabilidad y reducir la informalidad laboral &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTlRVbUNjaVJWSUtQR3JzajZYWlFFWmJOM0U3b3FpMmc5dFlyblVpSHE5WU1QYmNPdXpITEw0dkxCeE82RGEyRWhieG5scC1POXNZS29SSnY4d3BzeVI5djRIeVlMVVkyVG83Q2d5QUxhR0lBM2hVQkNYMkh3WHVjbC1aTC1nZmtJQVpZM3VKazZLQ1M5VmNzN0I2aEpBTVJmUHFKU1A4d1g3TUgwdHZSOEhVNk15Rjlpc2hlbVhIajluR3pKOElDbzVMY0hsblFXd25oYjhR0gHwAUFVX3lxTE9reDZRcTdRUW5xRHBycXZRZVJVams1WDJFdnZCbS1kUi1QQmFiMUpzTjRYSmVMeGI1S1F1RTNpdnVUVHM2UjRVUHJlUjVzX2U1RVFfbTVVeTJob0hQcmlwVGJDRlByNlJ1LUREN1FGU0RfdVRLZ09PcjgyTDRNYmcwaGtyZWpiaU83MmVIUEdaRU5nNVVPdHRyOVZfYzBycms4ajR5aWVfRjlLVGttVmtQblNuT0FvcWo0RzEwbFdOS0doMTVpc24wMVRmQmF2UEpTWjR6VU12NS15ako3Xzl6RkRmOERjRVlKTDJFMW5CZA?oc=5",
-        "publishedAt": "2026-09-16T22:26:27.000Z"
-      },
-      {
-        "title": "Perú tiene 179 mil mypes formales menos que antes de la pandemia: negocios en negro llegan al 86,5% - Infobae",
-        "summary": "Perú tiene 179 mil mypes formales menos que antes de la pandemia: negocios en negro llegan al 86,5% &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWlRBWVdCektFUVJmdTRBNlBBZzFfV3lndEtNQ25rdGl0LW9sNDFwcjNZR2FuUG8zNlR5ek1MdjhNSnEtamNmUXc2dGotRkJvUGNOZUpxLVhuT3ZFNEttd3pjSXkzRFotX1NYQUh4TDRzU0ZuaE9BZjdEdWd6dk9TU2g3MXlVZXlwNFU5Vkt4RDNBWGtuS1p0YVZaUlhEX1lVel9idmZQS09EWElkN3hDV24yNThLNHhKYmlMM3JDMklQNmRDaG9sRDNGc0lnSzRQYm5V0gHuAUFVX3lxTE1tN1YyamFnak9YZzhEcjdVTTdnR29Sel9NMFlVb3FsNmJ0V0R4QmZJWWJHNjE5Mm4xd3BrREd0R1hWdE05ZG9FMDg4ZlA4ZHVWeV9XUkRtUmRPanpETWdXSThyd0FVbl9kRWJGZndCSE16MnZQNzFnNThSZ3RDd2VTajNsc011b1J0bzVuaFpNMHFXU3NFdnp6eU15RTVCR0RGYi1fellxdjNQcV9oREV0ckd3QkVERHVTd3BMM1ZldTVJVEFzeW1LVGpGOXd2SjE4eVBXQWZjc09ZWFZ5R1NFa29oLURISzNwSmtXclE?oc=5",
-        "publishedAt": "2026-09-16T21:10:49.000Z"
-      },
-      {
-        "title": "Precio del dólar cayó en Perú, a pesar de decisión de la FED: Así cerró, hoy 16 de septiembre - Infobae",
-        "summary": "Precio del dólar cayó en Perú, a pesar de decisión de la FED: Así cerró, hoy 16 de septiembre &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHNZR1dCMTNpMHFMdFZPUjFDM0ItTFZVVzgxWDI0bVZMV3lvSkdXVFNKMmVseEx5aS1DWkhsSE1LTFJvVGdnY01wUzctZmREak9zdnFQVlpaWUlaMWNIbkF1LThsOEw2eGtZbFpCcnJUMTdtdnYyZjlwVW5SN253LVM1LUx6Sk1YcmJtQWJaamVvT0lnSU9lZDVQTEUzeFlwNFo1cGhFN2o1dDlUcXZfcnUyQdIBzgFBVV95cUxPYXJocjJWaWNLblRTSnBrZ1Bhd2h4dm13VEMxMEVGQURfUzJMY29VcHFwVHdyQWc3QkRINXYxbjlPb3hqQ2V0NVJFNENlMXdSU0pKZEJjR2FrelROZUl6TU9FSXpTVFNxRVlfeDdrakxjQy1MLUg5eEgzUERGbmx6cng5SDdMdnZKbzZSYVQyd1MxQ3lGSzdkYWVPRFk1TlNQQldhUkU3TVN3S3dKTHZ6VFF2UVJfSXdFSTVlNWRGOUIzYU1lZVhaNVdib1Vwdw?oc=5",
-        "publishedAt": "2026-09-16T19:52:00.000Z"
-      },
-      {
-        "title": "Dólar sería presionado al alza en Perú: La FED decidió subir la tasa de interés por primera vez en tres años - Infobae",
-        "summary": "Dólar sería presionado al alza en Perú: La FED decidió subir la tasa de interés por primera vez en tres años &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMml1TkNLV0o5TnBJVElyaDQxdHgwUEtrajkyTW1RNU8xU1h3WHN1TU9fNTRNVkR4Yk5jMThrQTlIRFZZZmRSSFlqTkFTVWd2YTBlQVdESllyTnhxNVJIdVhEdXhfR1FpNlNZLXljOUUzTVZpRzRhQVJweHgzY3VOdDQ0SFEydVdzYmdMQUwwb1YzSFhVb1NFMUo1OEdKRi1hUVE1bmlOblk3RDE5VmRKTllLZUhIRWpPLVdMeXdqYUVlb0ZNeWZPTmZhVzlXeFR6XzFDcWlFVnN0MGprTmlMV0FR0gH8AUFVX3lxTE9fS2ZyOVdsMkRuckxfZ2hXWkM5dVRHVXh6QzVnTTc5a0JPZE5vWHFBVW1fbHNEWWcyak40bFRxRzRuTDRkUXcxNU45dzVNWXhQRU41SktRTWJGQU5kbWdOVk1zcGdnWlZ4U0dKaXdqOG1rVTl1S2R2bU03T0FVa3VaaktYbWVsZjY2bjBCVHdOendjSVkwWlVLX2tQM2hwN2hiVUVmUDFncDJnSDc5UEctMFdDOTQzMFhVQzg4ajFHdVRHOGhGNUFVdkdGR09wY1BrWHQ4LW5TVUxaS0pZdEpJXzNWa196Y2E0U3BWR05NNWdCQ0cwTE1NUk1BLQ?oc=5",
-        "publishedAt": "2026-09-16T19:46:00.000Z"
       }
     ],
     "sociedad": [
@@ -129,9 +129,9 @@
         "publishedAt": "2026-09-14T21:45:20.000Z"
       },
       {
-        "title": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 - pachamamaradio.org",
-        "summary": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 &nbsp;&nbsp; pachamamaradio.org",
-        "source": "pachamamaradio.org",
+        "title": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 - Pachamama Radio",
+        "summary": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 &nbsp;&nbsp; Pachamama Radio",
+        "source": "Pachamama Radio",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjVicmRJUHdsWkJST0NDVllhUTRPQVpxelM3dGx5aWV6clN1Nm5fQlprdFVQUnM4WkdGc1NxSGJ4cHBaRmhVUDMwemhpblNpV18tSzlRdWE0MzNMaDNjWDRzdVJRM1I2S0FOMmtqTGRmeTl3RUh3cktfRlZ1S2tPUzNwOXEwcHlsMU1Rd1htZTQ0MFZZX09kUQ?oc=5",
         "publishedAt": "2026-09-14T12:17:20.000Z"
       },
@@ -187,9 +187,9 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - businessempresarial.com.pe",
-        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
         "publishedAt": "2026-07-24T07:00:00.000Z"
       },
@@ -201,32 +201,25 @@
         "publishedAt": "2026-07-21T07:00:00.000Z"
       },
       {
-        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - businessempresarial.com.pe",
-        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
+        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
         "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
-        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - businessempresarial.com.pe",
-        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
+        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
-        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - businessempresarial.com.pe",
-        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
+        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
         "publishedAt": "2026-06-25T07:00:00.000Z"
-      },
-      {
-        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
-        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
       },
       {
         "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
@@ -234,6 +227,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
         "publishedAt": "2026-06-10T07:00:00.000Z"
+      },
+      {
+        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
+        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
+        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -266,9 +266,9 @@
         "publishedAt": "2026-07-08T10:21:37.000Z"
       },
       {
-        "title": "La paradoja peruana: Crecer sin innovar - Revista Gana Más",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Revista Gana Más",
-        "source": "Revista Gana Más",
+        "title": "La paradoja peruana: Crecer sin innovar - revistaganamas.com.pe",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; revistaganamas.com.pe",
+        "source": "revistaganamas.com.pe",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
@@ -296,11 +296,18 @@
     ],
     "ia": [
       {
+        "title": "Daniel Noboa anuncia sistema de control fronterizo con IA de Emiratos Árabes Unidos - El Comercio",
+        "summary": "Daniel Noboa anuncia sistema de control fronterizo con IA de Emiratos Árabes Unidos &nbsp;&nbsp; El Comercio",
+        "source": "El Comercio",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUg4dEVnNE00R0hFRVFNY2dta1RxbGlrMlpDUWFpdVF5Qlo5NEFvRG1xdncyUFU1V3I3ZC1qLS1KekpWdUJNUURMZlFKZ3ZOV0N1VVJYQ1dxM1h0WWFPQUlfT1F6MDZnSkdLOXpLTmNWRVBzUHpKcTEtUjNsWnRyX0YxcDA2NjdpUEhidGZ6ZmFSTEpadVB0Qk1TUkt2TldsbEdjV3hNZzk3NGxBamxYV0dxZlZpaGlXVHVUQnVuUQ?oc=5",
+        "publishedAt": "2026-09-17T15:57:48.000Z"
+      },
+      {
         "title": "Fraude en tiempos de inteligencia artificial: de la preocupación al conocimiento - Infobae",
         "summary": "Fraude en tiempos de inteligencia artificial: de la preocupación al conocimiento &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUG42UWI5NzRXRUVGRXhWanlwYUlPTDBVUV9kLTZqT1A3Y2tsRFJpcFByMUZ1aVJOS25iY3FMSzRwVnptejZHak1EdW9veE52ZzZSalhDUU9qMF9ZRk9NX0VONklqc3I3V0x4UnNjaGNBR3lSbFp3NEM5eGdKX0NyZGxSRl9QS3JBRnhXYnludGFzMnYxelg4M2U2QVhtQUJ6bmFINUNZTGpWeS1LUHBpaF8xSXZCdDItTDVRQtIB1wFBVV95cUxPM3cxcDFPWDZacVg0SFlsUGM2Z0p1VnB0eWpxc3gtOUVvTUc1UEpMVzU5SG45X255V1FLa3RRQ1JSUHBjcG1OX042TmpYc0FoSzdYdDRQNFdJcDFUZGdZYkc0amd5ZmlMRU1vdXVKQy1tNENXdUdJMWNFVE9UaGF3ZDhxaFNjS3NiZjN0UjZ4NVpuM2steGRvTUxtajUxNEUxQXVjSk05emdTUnVEYnd5bHpKVlhOX3VuRi1Pc285eDZNUENDa2RndkhiYlhhV0toY1cwSU85bw?oc=5",
-        "publishedAt": "2026-09-16T22:41:13.000Z"
+        "publishedAt": "2026-09-16T23:37:00.000Z"
       },
       {
         "title": "Fraude e inteligencia artificial: el 88 % de los peruanos quiere aprender a reconocer engaños creados con IA - diarioelnoticiero.com",
@@ -338,18 +345,11 @@
         "publishedAt": "2026-09-15T02:19:00.000Z"
       },
       {
-        "title": "Crece la alerta global por los riesgos de la inteligencia artificial: \"La IA puede acabar con la humanidad\" - willax.pe",
-        "summary": "Crece la alerta global por los riesgos de la inteligencia artificial: \"La IA puede acabar con la humanidad\" &nbsp;&nbsp; willax.pe",
-        "source": "willax.pe",
+        "title": "Crece la alerta global por los riesgos de la inteligencia artificial: \"La IA puede acabar con la humanidad\" - Willax",
+        "summary": "Crece la alerta global por los riesgos de la inteligencia artificial: \"La IA puede acabar con la humanidad\" &nbsp;&nbsp; Willax",
+        "source": "Willax",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSDFoTTNwdzlwZ2Y5NnZuYk1Dd2FXNng0dG9VWEIyMzRYZllEdEJWZ2hOMHpPWEVJcnhwRHRSbDdrSkt6eDloT3NzN1NTel9fb3kzUHhEbFZZMk9LZFBwVXR0XzVOendEZEdtYVRVNzZuQUNZYkhXX2xWQVBCZXQzQ2lkV2JGaDBRYUNqMmdR?oc=5",
         "publishedAt": "2026-09-15T01:51:58.000Z"
-      },
-      {
-        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
-        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
-        "publishedAt": "2026-09-14T17:07:55.000Z"
       }
     ],
     "tendencias": [
@@ -382,6 +382,13 @@
         "publishedAt": "2026-08-15T07:00:00.000Z"
       },
       {
+        "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
+        "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
         "title": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos - Infobae",
         "summary": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -401,13 +408,6 @@
         "source": "facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWnN0T0I3UGZOMENvODVOSko2akk1ZmUxVS1EZnNwN0dnUDM2MTNSckxyTC1la1podjhOVEl0SWd6aWFDc3ZnZ19PYWk5VzNkZ0FiT1BZdGR1VFo2aUhpSWQycFcyMXB0TGlyTGpsNG9QQWEtQkxIWXQ4Umd3LW5PQkxmWWJIZTFRdVVSMmhUTGRjMzRPYmxweE9LT2dybnhxNGNBVUR1cWVOeUlvUzlBeXNtZXZaTEN1bWh1V0dQNVRSREZvWWFVVHBaZ0x0WnhMNS1MZUdGMTN4X2pzUkZHaGZlcjItUE5NaWc?oc=5",
         "publishedAt": "2026-06-27T07:00:00.000Z"
-      },
-      {
-        "title": "🔴🔵 #VIDEO | Polémica por Mundial 2026: Perrita teñida con los colores de Ecuador se hace viral en redes y causa indignación⬇️ - facebook.com",
-        "summary": "🔴🔵 #VIDEO | Polémica por Mundial 2026: Perrita teñida con los colores de Ecuador se hace viral en redes y causa indignación⬇️ &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUFRCRlk1VUgxbmQ1UjRjMWJPOXVHWGdqZy11MEZjbjV2NXQ3SXAtMHBtUFFVeU14RWUzNG82NTM1NklxLUl6V0xIUnVxZW1rbS1OelFscEVWTmp6alpEZWJ2UkRubGNSMV9ZWUthcTFoM1BxOGhpQzE1c0QxbzJad2h5amw1SWMzYlluTWphUnVwOG0zM255NHpVNW1Gb2t6X3F0MFJvR05feF9lc0I3c0ljdEhybHRfMk15WFd5NVR1VnhHeXpqeVk2QzNwMVNObXZERUhuMmZObzlDQmljRHVsdVpVajg5REJN?oc=5",
-        "publishedAt": "2026-06-14T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -416,7 +416,7 @@
         "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFRYakI4T1o2cXhXN2pKSzc2bXBiLVlUZ1R1VFAxSWtDRW10LUl1TnNZaWJLRXpXSlBEZmJzN2lZdGF1SG5NUDBWQXUzZXp3VTlnbXlTODd1clZtRXZQUENXWlRydS0ydkhyWFg3SHJScVdKZ1VlU1l2cWpBM2RJcndGYjNWRVJNblpCa29EOHpXRGlnRVVCb0JOd0s4allqdVVjS0FEMGZXU2c5OXB4S214NUhIb1FFRWlaNVc3OHA0Uk0xcmpVbGFkdW1Kb1laTXZTSzZNY0J1WkFNM3BCRkRqdVNsV185WEdkSGtmMjZhLU00eW9mcExBdkvSAZcCQVVfeXFMTUlaaHZOVlluQ2hONUZIY1Y0bnBXNDVmN2tYNXFvbjNBVFBSR3RRUXNYOWVJdU9oQ0dHbUExc3FwTkEzWFM4UkVMTmFjX1dRdVR4VFRncThQWXFFV2pNUmhGZDBFRHZyUnZXcDVBWnhneG9fSklpMDFScE9nZlNjMzQ4aFI4MnNBTmtiTnM4SkhzRGFWWVZSai1IYnV4QkFsU1FSUGZXU1V4SGNlSjYtNUY1UFNiSXVDWEtEV3VjaXljZDZkdFEyMFJhenFNaXB3VVhRcTNEWTJzU2prTm1MMzkzOTdPT3laQV9sNkItOGRoWFo2SXZzRmZNTU9UYjhuYjd0VnZWTVY5WmNoRktEczI5b3dKbGVr?oc=5",
-        "publishedAt": "2026-09-10T03:12:00.000Z"
+        "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
@@ -447,9 +447,9 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - trome.com",
-        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; trome.com",
-        "source": "trome.com",
+        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
+        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
