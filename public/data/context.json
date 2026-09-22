@@ -1,17 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T14:25:58.576Z",
+  "generatedAt": "2026-09-22T18:34:33.455Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
     "politica": [
-      {
-        "title": "Gobierno de Keiko Fujimori recurrirá a decretos de urgencia si el Congreso no le otorga facultades, afirma ministro - Infobae",
-        "summary": "Gobierno de Keiko Fujimori recurrirá a decretos de urgencia si el Congreso no le otorga facultades, afirma ministro &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcjN2SVRHOHE5b3hiZEF1SlAyYlRwV3c5YzRSWElOSEV1Qi1IZjJUSHdBTEhfRmwyNmRsdWI4eExvYVdHQUNWZWIxcVRoZ0dBNUJhTTM1YUF4R0IwM3pQUENuUWI0b3ExZ3pSZHg4VWgyaG5fcnd1N1BkeXAzblN0dEhvenhoamFTWHRiZ2RVLS1OV2tua2s0N0tNV2FhYU5aLXBYWFhtZnlpcGxFUHIzVjFEeGpleUhrbW8tQjVQUEgwUVlwOUcySnVLSGxHRXhnbFNvQlJ6R1NQWERSdHZoSnZodWFYQWZMRVJv0gGGAkFVX3lxTE5ndnpqZ1BYZ09IbjdlWkVIV3MyLUdXSk1KQ1FnMnFRaDZ1a2hFRnZwdERnQU5kb3ZOUVRVZGlhbFJGSjQ5ZnBTSU9IRTkzcjZuWXpxRHkwU3MtVGNqNldJSk1BNjhCdFNjNWF6N3lyX1ZzTHV2OXFEX3dqcHNCX3V5ZXp5TDh6bmhQQTdKX0hLUGFLMW11YVVKdGo4S1J1Y1JDNWlrUUJ2TjJ0d1MzMTBLdzU1ekxPdVJON3poY2prS2txS3M2SUJxeF94XzNTc2lWakNucFo0R1lXUnlQXzROWUdaOW5FRHZBd2hDRl9VeFYxN05YSXpFTUdfa29vVzFaVFZLaGc?oc=5",
-        "publishedAt": "2026-09-21T22:32:00.000Z"
-      },
       {
         "title": "El nuevo gobierno de Keiko Fujimori en Perú: un comienzo accidentado en un viaje peligroso - Infobae",
         "summary": "El nuevo gobierno de Keiko Fujimori en Perú: un comienzo accidentado en un viaje peligroso &nbsp;&nbsp; Infobae",
@@ -41,9 +34,9 @@
         "publishedAt": "2026-08-31T07:00:00.000Z"
       },
       {
-        "title": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen - larepublica.pe",
-        "summary": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen - La República",
+        "summary": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSXJGRzRyNy1fM0h1a2hYZFNTVW5wZDJqcGg2dy1qU0llYTRGeUVGNXdHYVZlZWZyMlFvVmZ1bElRZnp5QllnaVpsbUZiX2l0cVVtVFRWdVo4NGdOQzZ5Q3FJWWF2cmVkdG9JYlZ6emFLT01tcGp0VjN6c2JkYk93UkZMREx5UFVwcVVkZ2NQY242ZnlGR1J3cFlBb0lTYWU5ZW5yS3lab3BfcXBUdzgwVk9qY0RfWHFYQVk2dzkyY3hQZkg1OV9FbTdncXp4eHFYY3pIRU1EVlhTS2dKNDIwZTRuUDdqWGZRblc2V3lUTG44eDhKNktZTk1R0gH_AUFVX3lxTE9PcXNVNkFVT0dpLVE5S2NCVjAtNTdNczVEMXNJLWljVktQUklzQ3MxNUotd3VZXzZzVVhWMHlQVk9WbWJwM0VDeGo3ODR1SHRLcF9LU056R1hBOS04Ql8xd3d6UEZjSE5lUW9DZlh3RnNIdFRlVVhwTzRRcWw5NUpFTmtrOVpLN3BOWmhkTHY0V3R2SVpGUk5LVHp2Vlh5TzcxdmhXY0JYNUtKSHdVMmJDM0Y4MUZLcUJlNzltdDg0U0hQcGEyOHZLRTdYaWpYclJnekdBcXM1ZDlZRTlSd0xGdDhpdDlESUNQYXBXc0RRdE4xODVpNXZVWi02Um5RMA?oc=5",
         "publishedAt": "2026-08-29T07:00:00.000Z"
       },
@@ -60,9 +53,37 @@
         "source": "facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeWhhQ0JzZm12ZHhPSGtURE5LbFptNU9RaXdhRzFNVTFGTW5falVkWHEwX2xvVGRkQkQwY1BoYjYtSVQ4SkhpUmVvUF9hSGtuOHlFaU9qSjJXc3phY0dIaDd4eGtHS2NKelRYUHVyR0Etai1tNV90NFhXdVFBLVpSMFRVLUtWcXlKZzYyZDJSa1NnMVVZWWZ4OFMzUXprU1JLY1hhV2tIMjJjRWhQTDZlQl9IZm42aGVNVlFsWUhYRjVDNEpvZDdQdUwycW9rWWpnQWg4bXI3ZnFiTzVNQWd5ZFAyMDQ?oc=5",
         "publishedAt": "2026-08-28T07:00:00.000Z"
+      },
+      {
+        "title": "El primer mes de Keiko Fujimori, entre atender emergencias, promesas con fechas pendientes y controversias en las redes - Infobae",
+        "summary": "El primer mes de Keiko Fujimori, entre atender emergencias, promesas con fechas pendientes y controversias en las redes &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOGNsLXJac3ZKV0dyUXNKMG10T2ZjNEN1bnA1NFBmUkFOTTcwNVlETlFpVkhMQzZiNXJJSHdqM1NBQ25wZnhTNEZTQmswSnloNUpBS1BPOE5Xc2VKbkVkWk5YdzhxazlaTEJLNGl5aEQ4S2FqNWRzU0FPSjBpV1BGd1c3NERPNEhDZ01VbDBSbFNZRWl3T1hPcW4ybEVrdGkyZ3lZeEZOclI4QUVIVmtSVU9WbFU3Q3BMVmdqNndLTHRuWDYzaXhOVnhvNUllQzgxYnA3ZnNLWk5iZjlrRVRVTGxiNWRIUWRjZlBnS2xwRdIBigJBVV95cUxNWEZUdkkzaTZ5V3EzMVpxSkJucXpCcENYMmd4MENLNXdiZ0lOZk1kOWl4Y0xqTGU5WUllVW1vSWttWUhXWGptcnF6bzFUSUhyY1BMWjRPUl9VLVdydzlaRWNfcWtuZWRja0FLZUFuV05GcVVXbUNHb0c3WndLRW8wc2hoTnItTnRsLWZkOGxwdHAtalZOMGh6R0lGbG84eWZLVFhabkVSWm04SkwxT3FDNTFBdHpiUXNjSVNzaVJzMWkyek9jU2hMelowSWZUdkVsdmJVRzFFWmx3bHJ2RV9tdVdQSWVKQ0V2QmR2SU8tNHVVMG1NN2dmNHEwNkVBaXM2VzRJd3BrUjdZQQ?oc=5",
+        "publishedAt": "2026-08-28T07:00:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Primer aumento del sueldo mínimo de S/100 se aprobará “a la brevedad posible” por Keiko Fujimori - Infobae",
+        "summary": "Primer aumento del sueldo mínimo de S/100 se aprobará “a la brevedad posible” por Keiko Fujimori &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGpQT0ttWnlkRDdka2VoeDdCc01mRzQ3R3V2bFo5TVNuUHZRWE16OEpPTUJYaG1WY1pSQUN5cmt5ZGdsQXRscHlsV2hldzRIU01lbHhVV2FjSmFqbGNfWDFYeXlnT1BfVEhuSnFNRHE3V1FhTmRCZVVqVnFOdTNRVkVFTGRVc3FKUW5rVFpQZzVoTEpidUcwZDBXR0ZqMWVvZ0pmLUxBUjBhLVd0a3Fxcjh6TnNheHVWaWfSAdQBQVVfeXFMUEpXaW9VWkt6UC1Nd0RUdmpqZi1DaENQSmNwd1hUV2R6RVZHSFE1Z001WnowQVN5ZVk2NUlhUHdtYm51aFpPLXJvR1p3WVNRcHNxYms3SW51UGFBR25OS1VFMXdzUzNfRmpKdTZzOHNrWU5sOEJIbFVORHJGRHNWdUsxajJrSThzMmFQakNxRFhlVlRQcFZnNS00bUFrRV94OVJMQndjU2N4cU5XNVpGN0tpMzVMakJnOWE4bVVmYkpVWWVIbDZSVVFDV2wtelRURWJjaVg?oc=5",
+        "publishedAt": "2026-09-22T17:36:01.000Z"
+      },
+      {
+        "title": "Economía peruana viene creciendo a dos velocidades, indicó Scotiabank - elcomercio.pe",
+        "summary": "Economía peruana viene creciendo a dos velocidades, indicó Scotiabank &nbsp;&nbsp; elcomercio.pe",
+        "source": "elcomercio.pe",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnNUNDVUTlhRYXJ5SUQ1UmFBaWVfZUFURU5DN2E5ZjdvMGNOd1ZCQmlnLUUtdk1YT3hNRUlRemJURVNHZ3ZtdjEwLWlpcDM2T3J0SFF0WGYxR016VGR3WU9MZlFEdXRYRjlFOTZrcklVaWhKV2ZtZTlNd1BOMVcwMVhqTUN4RmU4N3pBZHlUcklheVpJUDcxdDRNanlDRGtWZUpzV28zdHJ4anViekUwS3pXUlJKQjAtREZiN01BRHjSAdQBQVVfeXFMT1cwbmRNOThMa0diM3l3X2pJMlVBampVOGNYbW8yX3hQMzV2Mkx2bHVHbWkzQmR5X29US3YtYmUwZUhObG1oQzNCQVhfdDdLblpSb3ZnckJnYWwwdWJBZ0dadG9xd3U0VFZJTVNRX3RGQmZyRFFfaFZOZjB1a2NudWs0RWgxMmJGcnpaaGprU1g0VkYwRlc1UkR6UUNVUlhmcnB5WE9BVHNRT0Zzd0xoZV90ckM5ZGcyaFNpYVlKaEZpUXk5R3BER0hpTS1zYUhiVmNiRjE?oc=5",
+        "publishedAt": "2026-09-22T14:59:53.000Z"
+      },
+      {
+        "title": "IPE: economía peruana se aceleró en julio impulsada por construcción, comercio y servicios - Agencia Andina",
+        "summary": "IPE: economía peruana se aceleró en julio impulsada por construcción, comercio y servicios &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWFBJT1poQ1BSOUJuTUItaGdVN0lUdWtZaG9GVnJBYTU1SEdjVmFYa2ZscW9YaXdQUmhKb3ZqMnJ2QTFPTDZ4ZmtCVXhVVDZuWHIwRVJoTHRFcGRGR1ZMamxvS2dKSURna3lZbGxMcWJSd0tpWUFhR0pVZmJKX3hZbHlXWFZHc3U2WTA4SXRVZUdHWVNKNngzZ2JxZHhqVzh1Y1U5N1ZGdVlNcXp4bDVQYzBtZFBQRzRYcjNiVW00YjE0bUUyOTVj?oc=5",
+        "publishedAt": "2026-09-22T13:54:00.000Z"
+      },
       {
         "title": "Retiro de AFP regresa al Congreso: Buscan noveno acceso “ante posible crisis” por fenómeno El Niño - Infobae",
         "summary": "Retiro de AFP regresa al Congreso: Buscan noveno acceso “ante posible crisis” por fenómeno El Niño &nbsp;&nbsp; Infobae",
@@ -71,11 +92,11 @@
         "publishedAt": "2026-09-22T12:36:00.000Z"
       },
       {
-        "title": "Gobierno fortalece confianza en economía peruana ante calificadoras en Nueva York - andina.pe",
-        "summary": "Gobierno fortalece confianza en economía peruana ante calificadoras en Nueva York &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "Gobierno fortalece confianza en economía peruana ante calificadoras en Nueva York - Agencia Andina",
+        "summary": "Gobierno fortalece confianza en economía peruana ante calificadoras en Nueva York &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdTVKemlqSTFCYVVmV1ZMZFN1T0c5VkgyLW5tYmU1TmpBLThCMHczT3ZqSHFPTFhjU0x4Mmo0aGFKdXJVLWxOdF9RT2gyc3RKcHFpSF9iMlBoTkJfSUJxeWNPV213U21jZzAxSWRGUEhJMXJ3R2pnMEd6ZmdZYlVuMkRGNWF0Z21QaTg1RzhTbWF1cHNrTlBETk9fbEN3OE0zN0FaLUowejA5TWJ0V0hzVlRhX1ZGc2xxeEZSN2RqQQ?oc=5",
-        "publishedAt": "2026-09-22T08:45:33.000Z"
+        "publishedAt": "2026-09-22T02:42:00.000Z"
       },
       {
         "title": "Calles tomadas: las ventas de motocicletas se disparan 40% en Perú y ya representan más de la mitad del parque automotor - Infobae",
@@ -97,27 +118,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZG0tTGJnTmppdmpMRWIxLThydEJJcHpVME9uWlJXRzQ3bHFSaFc2eTFDSTFibXVwdlRoTTUweUZ0d0E0amZueExsMHJsVmREYkZMeHpBUklDY2pMOTJhXzZPZURfLWZfRnVSbjRfeGV6UnNFQmtzVWI4NGtxVnJONnZ0dmJvRk92T0hJeFNFb1hLWF8xY0Q2Z1F6ZWgyYnpkWjBXZzFBaDcxS2M2aXFMWUptMTRmN0RrUGVzcUU1X1REblhRUWdESFNLXy3SAecBQVVfeXFMT25USUE3YVNKaWdwaUh4enhsc0xKMjMtTThBcDgzLWRCMHFhX0dOcFJucW5Ob3BUclVCckxmNVFPTnl6ajVVMmIzQjNxWWEwZGxKVVBMcnI1dnRMREZjRlcxa0ZuLTR5ZDc4WUwtQVI1bUlmSVBubFo2ZGtrNGtwRm5fVjlFMVItTTNFbFpCcmE5ODhCWmROcDdMR0JFYWNaYmVING5iYVFqUkdkRkNMNlV3UkJXam0tWHJWU3AwTjNoMTAwcGJsblA1UU4xc01nRDAxWEgyZ2FFajVxTkpKNTNUb1ZzVlhz?oc=5",
         "publishedAt": "2026-09-21T18:56:57.000Z"
-      },
-      {
-        "title": "The 50 Best Restaurants 2026: Lima será sede de uno de los eventos gastronómicos más importantes del mundo - Infobae",
-        "summary": "The 50 Best Restaurants 2026: Lima será sede de uno de los eventos gastronómicos más importantes del mundo &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOHZzZ2NGLXBFRVBRd2hqMS1seUdqcDY4LTZybnRFUC1aY0ZSeVIwVlYzRVhfVHBFT3NCc1hmR3dOdGRlQ3VEOTNLazdqekhzLW04MWxMM0RSR0lmcERkWTdEem1QTXBKZUVQQVZuLTJhZ1Zkekd1NWNVS21BN201N2VWNXJic0g5SnpCa1RIa1h1NlJUSWwwZVVuTFJHSlVDanp2ZGIxN1k4SlVCSU1hQ1ctMEhIUk9MUVVOblBrR1RaUFFTYkpIbnpKRXJkSURkRlptOGJXa3lndjlJcjJR0gH6AUFVX3lxTE4wY3RfQXNVY244MGN1Tm5POVZwc1NqdFJhalI3Qm8zdllXZGl3VHUyaVRrNm9iTFNjSmtsbHp2S0JtQl9mcC1WV09oemhvRlZBUVpnSGZRLUJnbWJqUU1uMWc4YXg2TG56V1kycXRkLXdRU25yT1hNZ2o4Rk5EMjdpbXpBWUozckFLUTcxR1hmNWJURmViN3VyTXpMNzk5VmRULVNiR3hwUFU0azJTTXozOVQwcVRKNWtlWFNWMVIzakJncjJsdnducWxINDV3VUtOb1FaMjNiVWd0a2VGY24zY21nNThIcE1jVDVSdUZ2UWFGQmFXdlFST3c?oc=5",
-        "publishedAt": "2026-09-21T17:40:00.000Z"
-      },
-      {
-        "title": "Preocupación en el Pentágono por avance de China en la economía y defensa del Perú - Expreso",
-        "summary": "Preocupación en el Pentágono por avance de China en la economía y defensa del Perú &nbsp;&nbsp; Expreso",
-        "source": "Expreso",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVnRFdlZaWVUyRlRTcUZpano1eUZTcUttN0hoNVgwWTJ1TjFiSllNSlVVeUlIMTN2MnZtdUROcVJoa1ZnWDdoTW1EZVlHdE9MNWVRRzVYVU9ZLXhMVFNQWFVyTXVmdi15TXZhcmlzQkdGV3lZWTBWU2hGc0RoMW1ubzYwaEJsX2QyaGtjdE0tbTNxaWlkTF9PenNFQzZPb2dSaTRZb3hZaXBiX3pHcmxzY1BGZjFkUEtHU2dUYmNDUzZxSENRWVBHQXhrajRDRGdGcThLS2ZEOU9ac0pmd2ZpcFl2dHhXZ2tlZFY0VUVGeXRuNWlfcGh0MFhxVUVIeGF6U2c?oc=5",
-        "publishedAt": "2026-09-21T13:19:47.000Z"
-      },
-      {
-        "title": "📢 Preocupación en el Pentágono por avance de China en la economía y defensa del Perú - facebook.com",
-        "summary": "📢 Preocupación en el Pentágono por avance de China en la economía y defensa del Perú &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPME5WeG9jZno0Q2VqbGk4azRUQjNaWVlCcGdOZGJ2NFZQRnBWM01hdDFXakxHcXQ2RF9aNFdBMnBGc0xCa3NJX18xVk5OSkUxNTZtbXBuTFhlVXRpc1NWbmRqMXQ1MXlQTHVsTWNZZjNuZVh0eFZFMEo2VDJKLUtyandtbkpGMUw5YlNpX3Bwb3NXTTVCNEU5c0s5S2k3SWtFeTNlVG1wSVBtQlJmU3ZxSTVoTUxxQVBIYzZBa0tSNzV3VHZpSjQ5TWo2WlZXQi1rUFd2dkpfLWFOOFUwYzk2aGRPZXduT2xzYlFYdWY4RmE?oc=5",
-        "publishedAt": "2026-09-21T13:18:24.000Z"
       }
     ],
     "sociedad": [
@@ -143,16 +143,9 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Juntos por el Perú busca presidir comisiones de Justicia y Educación en la Cámara de Diputados - larepublica.pe",
-        "summary": "Juntos por el Perú busca presidir comisiones de Justicia y Educación en la Cámara de Diputados &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNjdKYW5ZN3ZHbGpJbjFkLTZ1cG5vWVRUNGgtMFduMFpKQmt5ekZHbUNsTzNtRVJHd3ZRZVoyZ1VYZW00elI1VmpMX3luQkcxaG1BZ3E1LXV6RmUtUEtQU1g1bFk1cjdaR29nelY1b0l6d1IwcE9TbVJwU0hBMl95T045al9iaHBMNE0wWkx2dzdyUm84d201U0FXbE90ajFMMTJjanpjSUFYSnp1VnlycW1jalJKWGhfaHJNYWtJNU9uRjVldndJQ3plc3Rnbkt3LXRrT19CTmJTeHgwNDNhWHpIMNIB6AFBVV95cUxOaXIzVGJBMUh4SDRxcURUYW9vMzJSTEhyT3kzX2J2UE9uV0RaM1p5V3NXWGFkS1JGRlBXUVJpanlablhUX1ZEYTlpOF81RVhXY1pUbmU4RXU4dThDalU4VVdqSzhMMUJJc0Rib0ZfS0NqenZaMmJiaVlqVThTS3VvbTViaERHazF5NWNYeFBXUi1Qc3FLcFpKb2tnOFZNcnJtZldWWXp3amtLRF83Q1lIMGt0eVdidWpCaHBzb0lQcVV4R1lqWlI2U3RUYmxmWENtRUd6NDNmNEU3NDd3VXlGaHJUMVVEM3I4?oc=5",
-        "publishedAt": "2026-08-04T07:00:00.000Z"
-      },
-      {
-        "title": "Puntos ciegos del mensaje presidencial: la deuda social sigue pendiente, por Javier Herrera - larepublica.pe",
-        "summary": "Puntos ciegos del mensaje presidencial: la deuda social sigue pendiente, por Javier Herrera &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "Puntos ciegos del mensaje presidencial: la deuda social sigue pendiente, por Javier Herrera - La República",
+        "summary": "Puntos ciegos del mensaje presidencial: la deuda social sigue pendiente, por Javier Herrera &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQUhfTXp2Nm9rb0FRZEFuU3lrVGdNMjl2ZzJaUDFTUHdGSXBkSWFWbDllU2lMM3o2SjRhXzhwcVBaZTYzY0FkRVB4Y3hsWklxeEVHcF9kRG1ITjVLbFVaQzliNXM0R2k1TzBnZkpTVkp0WEF1OWJta2ZnWDJFSzNmam9nWWJrOXFfblhVS1NXS0s0VGpQQnFwNnRjaTFuRE5HRnIwQXFETG1xV2VSVjRJTXhVbGtxdDVHMktyOWVoLWJyWS1vTDlMT2UtV0RVaUdsM3R5UExxSU92ejDSAeABQVVfeXFMTTFRaml3X2FadkFWZFJ2dGNzeEhoNFNuWWgtUFI3Q0hrVXdoZVZXQXFVSzZXRHA3UHVLWURmZV9BWDFhZjQwN1BsYWxLSmV4M2FyZDZEQnc2ZWhaSDgzT216dURubWtZemVYanc0ZmJUU0Z5cXA0VzBvSWF6bWNONng2cV9qbWVxMUdORU9BRkZfdzhVWmZ5MUp5aVBhSlpWWXRLS3hINnJSdTlhazYydW1CeFVjRUlkYTBzbktnTmJLN1JQSmlicHM3cURjMUljX3hTaTBEb1FCaEU5V003X3M?oc=5",
         "publishedAt": "2026-08-02T07:00:00.000Z"
       },
@@ -162,6 +155,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnB3bzVxUmd0OUYtcDl1b01PcVNtVzVac18zZGpEdWxSZTVWUGxiUGY2VHZYSHE1c0VQcG11Zlg3eHZLZkctY1JFSGE2UVRTNE1jcWxiTE9rTXdabGdJUTdsQTlhN2ZKYWxXczRBUGhUYjE0LXlfZElpWTltR2FRVnBCMnZROTU1a3ZxWXZhNlFIaTZVWjlBTWJoT21Tbmd3NmhHLVJGSnlOdjBtUHZ3VGJnelJKeTJaX0hpdWJJeklIR3B1N1dfZ01iZWlFV0xrT1d2bG1mc0JWVG9rRVVkalFxZmNsRkXSAYICQVVfeXFMTVVCcVFOaGV1T3c1U1Q5cFppVFBQZ0hma1ctVDVYbzdFUlBsZ0dETG9tWk1GSWFzRk5zUEtlY3h6SDB3OGhyTUpWVG9qdEdMOVVhUUZTbEFBYS1TZmFBQWpDN2lHN0VMQWdWMnV1NHU4WGNDVlB1eGZrMXNITmxqdmx2M0tYN2lzODdGZDVJVWVUbVhZeXhYNlktV1hkTmJHS0d4NjVEcEhKOTMxUkx0STA3WDYyMWJZc0YwU09lQVlESHkweTBxSmtmZ3BvZzBIS1dlRHJtVG9tQU1sU1kwYVg0cW1pcExDSzgyUS1kMmZvbTVPNXAyX3plMWM5TXNZWE5n?oc=5",
         "publishedAt": "2026-07-26T07:00:00.000Z"
+      },
+      {
+        "title": "Plan de Seguridad de Ecuador cambia de enfoque: educación, empleo y desarrollo social entran en la estrategia contra el crimen - El Universo",
+        "summary": "Plan de Seguridad de Ecuador cambia de enfoque: educación, empleo y desarrollo social entran en la estrategia contra el crimen &nbsp;&nbsp; El Universo",
+        "source": "El Universo",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObm51MFlSc3pmUlN1VmF6aGQya2x3WUNTMG1jX1c1RHdWNjE4WHlTaTN6RU5xcng3WEM2TzQ3TGp4ampXLWhtYkhtS0dWUzg4N0Y5b2VKZm1BektQcFNFTWFUOXNjSjFFQlpQMTFaM1ZfSjZJaHpVMzZtS3UzQ3JnWS1iVjlXVWNpMFlFQThLY192VXdzYkl5ZU02NV9fZzJ3ZUI0MmhpQTZNVVVDOUdUVGFoTERsZjg4Z1hTcFo4TVNjNV9OT01xMzdsM3g0dEkzMzV4by1yY01CdXRBY2d5UXc1cUgwUVdOa2hhWEFzcmtrUktKXzY4Z3hiNUVVYnVkT1hCVFFR?oc=5",
+        "publishedAt": "2026-07-17T07:00:00.000Z"
       },
       {
         "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - TVPerú",
@@ -348,7 +348,7 @@
         "title": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital - El Peruano",
         "summary": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFFOMjNjdXBPNVRObW8yd3JJZW8zMHhfNlZacGhaWEdRbWc2YjJOM2lpWUVYQTNrSnQxR1JpVFFmVzhBWkhXbDhYbnFsMEZ4dnpQa3hxRVAwT0VyMmRwTzd3bks1SDN3bWlCOU9NZUN3T0JrS3AxSGNxNUprZjRtSXNQUGRkOURNTklIdHg0UzZRTDhNV0RuUEFUemJUOUJPMkpfbzhDMk83UmJUSGg0amM4SUpxb0dtX3B3N280WFRoOUN0aWkyOVh3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdElnWGdmUlNGbHJFd1NxLWJuVy1KX2xJSXZ1djBBMWhTVlUwS3pXZ283M1pMcHZRU1IxYlM1ODA4Ung3RG5HQl90QUhMUzZEWmwyWl9nYkZpbmxIOHE5X0JFZG16Q2VPYzBCVElMNUlCMWV4TW9LWTZTNHl2UEx6SjlDLU5XT3hBb2tPNXh6S2p6VXVnaDNSSkd3S3pvc1NWODJaMWFXR0Z2SjkzeFVJLUc4SFNwUV9JcEw0SEN1aWhpX3dUOWVzWENWTnVUTWM?oc=5",
         "publishedAt": "2026-09-15T18:56:00.000Z"
       }
     ],
@@ -361,16 +361,16 @@
         "publishedAt": "2026-09-12T07:00:00.000Z"
       },
       {
-        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - larepublica.pe",
-        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
+        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
         "publishedAt": "2026-09-10T07:00:00.000Z"
       },
       {
-        "title": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina - larepublica.pe",
-        "summary": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina - La República",
+        "summary": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT2dmYTRjTlBGN0h5SzJPZ0hqUkdCLV92ZWZvMTdySXQtSlRCVUM4SVBoV3BIT3hkUUNBZkJRODNfRThTODRDRXlrbGttdHQ4OXlzNXMwTzBZTG5qVHNqM1NwTlJFNjdZM0xGa0RuZ3diT3lreUhnMS13Sy0yVVJmMExRS0VnTjhUc3E0Nl9xVjJIbVM0MzdYdlgtVmVnd1RMOTNfRW16NnFOUTlBS3M0Ym9DamRYSGZSRk95R2o5MWFFalN1N0RzQ0lHMkR5Q3Zia0VSRjNrZUJaNGJIbF9FTlI5UzFpMWVDeUlBQ3R0VUTSAfYBQVVfeXFMUDdRM0RTay1hNWNtdlFxLXJMR2llUTF3UVRMSjU0UTctVTBWVjN2Z3ZBWV9QWkhZeG1pRDNXRk5vd0RGTzloRHZtSHVaU3FQU0tFcVNrWG1jaU1yR21mUEhRQ2gzSkJQNFdQZ21iM2ZVREZVYWc0VHZYQVg3WEZYaTl4X1NfckJzcFFya2pKLXpaaEpUdE9NdTlkTl94VnFtSnNHLUktU0g4MTFUdHJFazJLV2JvT29UQ0tnQkthdVlpQ1NaRnFTRTR6TU5OTzJwM0hvRlhhZW1VUE9yQmdUTFpncXJabVRLSHQ4OW1BTWxmTDNFdU9n?oc=5",
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
@@ -440,9 +440,9 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - larepublica.pe",
-        "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - La República",
+        "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdkttUlMxUDlJSFM3dC1ZMUhLeDdZRDBsZGh3ZE53NnpMOWpCbG1nN1ltc1ZyV0JPbnloY0RSUW0yNU1nSFRiaWZwRXc0MVBBSWVPY2RhcVN4OGlLU20wQ1RaM1NIMHJfY0RVc0czWWdGTVh3azIwdTZVRldCZFdJYXJPNVE5QzNMeFA0RXEzRzAwRHNlT0NhMlZmTVdUemNlbTBzRGw1MEh5bjkwdENkQTFKcEtpNDk1bk01N1FNbW5xak12aGk4cWh0NFhydEtadG42RElFVEpuOUlaRFNfNmlGLTNENjBTMnd2TzN3OF9ZVFdmaktlZzROdXdEaExFbzVGRmpyN3R0d9IBjwJBVV95cUxNWkFhRzkzdkRBTF9aNHVTRXV2T3VBQTBiRFZQb0hoNktPYW1RclNIME90SHhYZ01Gazc1ZmZLWUxuUmhyWTJncVUyZ2o4bWVGS3ZJQS1FYVk4cVdLTm16TkwwWDVNTFpEV0lGb29aWTBNV2tMRVJDUU5HWmtzOTh1OW9SUnJGSW1GRFduU0F1TVBJdWQxYno4X1RETURES09iTTZjZ1pOVTNKQjk4NEV4Q2t0ZjhQUlk5VXdmYTNRbE81Qi1OUW8xMHE0bWt4d3FCZmdJV3d5NUVVaHdBdGRmSmFyNVRkb2FxaVJEdlcxbXJBd2kyQzhUbDl3QmpFNVBMREk2Q2VaLXNyMkU2czVj?oc=5",
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
@@ -470,9 +470,9 @@
     ],
     "cultura": [
       {
-        "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - larepublica.pe",
-        "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - La República",
+        "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUdGMXlJY2xDbGJKMklhSXdTUVhaV051cWliMm5VNkE3RlRBdnJWS1lGVzN1bVBWRHAwUmZMR2VLTUI1VG43TUhabEFUZThmRUEyZ29pUkFuNVI3QzRoVFoyQ3hvLU92ek1abjItSGtyNUhLT2g2Q3BMMUxuTnJsLWdVMWQtUmlTUzJ6eTlNZ1puSnZ1SUZKT01oWkp3YlFTeU9HSWtZZXI0U0NLNUFSVG9zaXN3Nl9EZi10STlhVFA3RWRfUFRCV2J4VWVvb0tha3VNb0VBOHE2cWpnaHFlSzAwMU84QVJNOTc0Z2o4MWZyR0FGenYyckU5VGM5MzVaeUJ3YVZpTU5BODNKc1FqUHpSeTUxZ9IBmwJBVV95cUxNQnVtd2xlRmNOTVEwY1pVOG83NzZpckN6VWY3eTZPZGk1YmdMS041aERIcE9lS2htWU5hZktLOVpTa25Hd1FLUHg5clRrcklXNVk2alVhS0l4OG9FVW9Ic2JBaGE4SDN5ZWt6Y0RjOFFrU3pRdEhrUWJaR183X2xYVnVFWlZqRzBVZGFmZzB4V2U2R0JPRllXeG1ZTkhCN0dXZzNXNnNtdDBSNjBZeVlQaVFXTm85N2pPSnRuSmxfMGJUbklnRjh4bUhWb0E2eGZWOVFZYV9JUVVlOGUzX3NGN2Q4dzlLUFlUdlc1OGNVRVp2UjF0NjVvQzg1Wi1sMEY5OEdMWFpKNmwzc2ZNU05MUFpUcWROeENQMjZv?oc=5",
         "publishedAt": "2026-09-18T03:33:37.000Z"
       },
@@ -498,9 +498,9 @@
         "publishedAt": "2026-08-27T07:00:00.000Z"
       },
       {
-        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - andina.pe",
-        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
+        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTNTd1VMWGJFRlFGZG1LOXpLSllZVE5JUG1xU19TaFdKbnJzam85dVlJN0VVVWQ1ZzJLanExY0xmbXV2cXY4a0Y4M1JXcExuUm1Nc0Q0S2N2WkhtZzNwWlJJdmoxS0gwdTFYYjVQT0VkVTJHcEtrZFFES1R3X3JWTWNMaWtvQkM0S1lyRXNNblBJaUh3c3hNX3JYaFhiUXFkemVJa1F4Y1NJNjRmX2tPekJ1Snc2aWVDRFE?oc=5",
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
