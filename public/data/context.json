@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T03:49:43.452Z",
+  "generatedAt": "2026-09-22T09:07:54.986Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -20,9 +20,9 @@
         "publishedAt": "2026-09-12T07:00:00.000Z"
       },
       {
-        "title": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso - Perú 21",
-        "summary": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
+        "title": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso - peru21.pe",
+        "summary": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso &nbsp;&nbsp; peru21.pe",
+        "source": "peru21.pe",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnV3Ulo1aXZPYlMwS1Jtcm5Kc0tRazlRVkRPc3ZVa01FQzc2NUpQV0tRMXh3WXJ6YTRsQzlZOU5XWmNLWVRyUzFFYXRrZGVvaHFpVmc3NlVIYzR2bDU3Nk9sRnlidks3SlhaVWpWeXFuYmZvSXR3ODJic3A5WFJIelVKQkwwTzhvYUJ3MUJfc3FReUVrelBlaw?oc=5",
         "publishedAt": "2026-09-11T07:00:00.000Z"
       },
@@ -64,6 +64,13 @@
     ],
     "economia": [
       {
+        "title": "Perú.- Gobierno fortalece confianza en economía peruana ante calificadoras en Nueva York - notiperu.com.pe",
+        "summary": "Perú.- Gobierno fortalece confianza en economía peruana ante calificadoras en Nueva York &nbsp;&nbsp; notiperu.com.pe",
+        "source": "notiperu.com.pe",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2VOTmNtekk3anVlY2hLdFgzcjA0NjBRbnZFRVJ6aWo2SGc5Y2dyOU51OFVuZXJqUG1UR2JpQm96aktJdUZya3MzNnEyUnlLa0xYeFZHaVFYNDkwemJzeHpsNVM2T1Brc1RLcG12anJWVHBVS0JtRXRSVEx6akJNMVVQckFvVDYtR3M0aGtiX1lmV3ZNOFJCY1oyc3JjVHNZeVNfTHd3Tm5zRFcyQUF1enNvSFB0MlNkUGM4MlN2OFI1VE1HZ3Q4WDZ6cU92ZGF6eWliQ2F6VQ?oc=5",
+        "publishedAt": "2026-09-22T02:44:08.000Z"
+      },
+      {
         "title": "Calles tomadas: las ventas de motocicletas se disparan 40% en Perú y ya representan más de la mitad del parque automotor - Infobae",
         "summary": "Calles tomadas: las ventas de motocicletas se disparan 40% en Perú y ya representan más de la mitad del parque automotor &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -92,9 +99,9 @@
         "publishedAt": "2026-09-21T17:40:00.000Z"
       },
       {
-        "title": "Preocupación en el Pentágono por avance de China en la economía y defensa del Perú - Diario Expreso",
-        "summary": "Preocupación en el Pentágono por avance de China en la economía y defensa del Perú &nbsp;&nbsp; Diario Expreso",
-        "source": "Diario Expreso",
+        "title": "Preocupación en el Pentágono por avance de China en la economía y defensa del Perú - expreso.com.pe",
+        "summary": "Preocupación en el Pentágono por avance de China en la economía y defensa del Perú &nbsp;&nbsp; expreso.com.pe",
+        "source": "expreso.com.pe",
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVnRFdlZaWVUyRlRTcUZpano1eUZTcUttN0hoNVgwWTJ1TjFiSllNSlVVeUlIMTN2MnZtdUROcVJoa1ZnWDdoTW1EZVlHdE9MNWVRRzVYVU9ZLXhMVFNQWFVyTXVmdi15TXZhcmlzQkdGV3lZWTBWU2hGc0RoMW1ubzYwaEJsX2QyaGtjdE0tbTNxaWlkTF9PenNFQzZPb2dSaTRZb3hZaXBiX3pHcmxzY1BGZjFkUEtHU2dUYmNDUzZxSENRWVBHQXhrajRDRGdGcThLS2ZEOU9ac0pmd2ZpcFl2dHhXZ2tlZFY0VUVGeXRuNWlfcGh0MFhxVUVIeGF6U2c?oc=5",
         "publishedAt": "2026-09-21T13:19:47.000Z"
       },
@@ -111,13 +118,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaTB4TEQ5QlVuZ19pVzZQRlNjZ3NxOVZ3NlctOUVfTnpRaEg5R0JUQmxXTWR3cHRsdldXM3g2MUZzQ3hPQnlDMU5sZk13SkcyYmNOTkwtZE9BSFhHaEhidmpVbGFneE9lQUd5aTY1Q2txLUVaZEhoeHJDdTJHY2pBNmdJNkxxWlc1NDE1SmlRWmRhQlZWck1CWDNkbE9JTzRadzJJUTFrTFNVZ01vMDdZd1Z1NzJOaE5uakYxbkQ2cGNYamYxa01KRUVzS3oza3liZkZwbDVDS09HMkxn0gH3AUFVX3lxTE5feVBJdGsyeUZBMG85anRDS3liVk82NWl6ci1NVEZNeDN3cURVVXhHRWpTaXh0UGxlcU1rWEtMVU1yLXpQMkJHV0h4TG4xd1Y0QTJWVy1SS3pqb2lMYml5Z2lVa2pDRE1tQW1BdzFnWER1N0g4YXYyZ3AzV1R6UGQ0eFZDN3c1QjNZeXljdEVNUGtzN2RSMmFTSnJhV2RoN0N2MFpIYjBqejdBeDBzMkEyc05oUFdQQS1wSHBydXR6bHFoUjZRN0ZxVDMzRVhKRktHVmJSRVE4WDlXbmcyQThCNjJoRlp1SkFZU3lJbkxuelZXcUhwTFk?oc=5",
         "publishedAt": "2026-09-20T21:31:00.000Z"
-      },
-      {
-        "title": "Limeños consumen 74 kilos de pollo al año: en Perú el promedio es de 55 kg. - Infobae",
-        "summary": "Limeños consumen 74 kilos de pollo al año: en Perú el promedio es de 55 kg. &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmVCSHM3X2E1LUg0dVhkaGphRzgyWGZUWGJ4akcwbWtRS25vVWdJTFEtNHhGeGU1MmJSZ2Y5SG1jZHR1MDhSTks3czU1M1VVT05NUEd3M19sOVFDaEpza2lRTlNCQjhzZFo0bXh4OUpDY0Vab1lqOFg2RHByMnNyeW5Yd3BKZUljMWFhZjlTdFdvdXRkTkFJWFgteFFwbGRXcTduRDMtbUdhUW9oS3hGZS1iTHDSAc8BQVVfeXFMTkVHZHBwYmdkSW1KU2tUb2NDVDM2LXctWTZrU3lidWFsNFp1d2tsT0RYczFqblFWczhpXzMzX2pWdHM2S2U2aXVKaFFpbVhfYmZndk04R2Y1RVdTeHhWa3kya1RIM19GRnBneS1DXzROSmNwZXR6WTNGT3U1aUNFNm05aGN3UDdBaXBpLURDWkhOdjNTNXJkMzI3RmdCT1ZBUjU0U1puWnlNSmZjWVpzYy1YaHd1VlZvRWpQSVlVeXNaNFJ0MnNzSkdnUEIycWhr?oc=5",
-        "publishedAt": "2026-09-20T02:21:50.000Z"
       }
     ],
     "sociedad": [
@@ -245,9 +245,9 @@
         "publishedAt": "2026-09-20T02:36:47.000Z"
       },
       {
-        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
-        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
-        "source": "Forbes Perú",
+        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - forbes.pe",
+        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; forbes.pe",
+        "source": "forbes.pe",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
         "publishedAt": "2026-08-25T12:02:15.000Z"
       },
@@ -324,9 +324,9 @@
         "publishedAt": "2026-09-18T01:51:25.000Z"
       },
       {
-        "title": "Maite Vizcarra advierte impacto de la inteligencia artificial en el empleo en Perú - canaln.pe",
-        "summary": "Maite Vizcarra advierte impacto de la inteligencia artificial en el empleo en Perú &nbsp;&nbsp; canaln.pe",
-        "source": "canaln.pe",
+        "title": "Maite Vizcarra advierte impacto de la inteligencia artificial en el empleo en Perú - Canal N",
+        "summary": "Maite Vizcarra advierte impacto de la inteligencia artificial en el empleo en Perú &nbsp;&nbsp; Canal N",
+        "source": "Canal N",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT3R4aVpVc2FLT2w2c2Q0Qlk5Z2gwRzFBWDJBMktVeU1ScV9Pb1RyNHJBbDJ2VjQ3OF9waUU2T3lNZU5NLTJvYVR2enpiQTlfVGtSQVlVRGpHaVI2V1FVaTdEeU1tTGtjaUNMTmc1Q2VBakxTTzJ3Tkw2VXJBMlUtWktlMUhoclhnYWVKdFJVQ2RHNGRReHFJYk9VT2pQZjlraDNOWEVDZXV0ekFsX3ZzS2dZVUJ3WkRVU2dvRzVMZ2xkRmZmOUFqU21B?oc=5",
         "publishedAt": "2026-09-17T19:36:45.000Z"
       },
@@ -470,6 +470,13 @@
     ],
     "cultura": [
       {
+        "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - La República",
+        "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUdGMXlJY2xDbGJKMklhSXdTUVhaV051cWliMm5VNkE3RlRBdnJWS1lGVzN1bVBWRHAwUmZMR2VLTUI1VG43TUhabEFUZThmRUEyZ29pUkFuNVI3QzRoVFoyQ3hvLU92ek1abjItSGtyNUhLT2g2Q3BMMUxuTnJsLWdVMWQtUmlTUzJ6eTlNZ1puSnZ1SUZKT01oWkp3YlFTeU9HSWtZZXI0U0NLNUFSVG9zaXN3Nl9EZi10STlhVFA3RWRfUFRCV2J4VWVvb0tha3VNb0VBOHE2cWpnaHFlSzAwMU84QVJNOTc0Z2o4MWZyR0FGenYyckU5VGM5MzVaeUJ3YVZpTU5BODNKc1FqUHpSeTUxZ9IBmwJBVV95cUxNQnVtd2xlRmNOTVEwY1pVOG83NzZpckN6VWY3eTZPZGk1YmdMS041aERIcE9lS2htWU5hZktLOVpTa25Hd1FLUHg5clRrcklXNVk2alVhS0l4OG9FVW9Ic2JBaGE4SDN5ZWt6Y0RjOFFrU3pRdEhrUWJaR183X2xYVnVFWlZqRzBVZGFmZzB4V2U2R0JPRllXeG1ZTkhCN0dXZzNXNnNtdDBSNjBZeVlQaVFXTm85N2pPSnRuSmxfMGJUbklnRjh4bUhWb0E2eGZWOVFZYV9JUVVlOGUzX3NGN2Q4dzlLUFlUdlc1OGNVRVp2UjF0NjVvQzg1Wi1sMEY5OEdMWFpKNmwzc2ZNU05MUFpUcWROeENQMjZv?oc=5",
+        "publishedAt": "2026-09-18T03:33:37.000Z"
+      },
+      {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
         "summary": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -498,17 +505,10 @@
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
       {
-        "title": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura - Perú 21",
-        "summary": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
+        "title": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura - peru21.pe",
+        "summary": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura &nbsp;&nbsp; peru21.pe",
+        "source": "peru21.pe",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGVRUi1lRFpKUVBFNDlRVFp5OURydjNYaDhFVlFER2Q4UkZWSXZKZEI2Rk1nUzk2V0MxNG45WjVRTWFCbk1ZdkFBVnhveUFHVTBmdFA1SmtrZENxZm5VNzY0N0tBS0xySG94a3ZmY2ZVRjRydDVwYlZZUEtHYjlfU3N6RHZRRHVTWk5ZM3BIYUNxUWttbnRqSDN4T0duMjUtUmtEWjJTaFVUWEdHMnpQWFBlSUo5aFZSWlpQNE1FenBSdEU?oc=5",
-        "publishedAt": "2026-08-22T07:00:00.000Z"
-      },
-      {
-        "title": "Cochinola 2026 con Nicky Jam y Wisin: horarios, apertura de puertas y vías de accesos - Infobae",
-        "summary": "Cochinola 2026 con Nicky Jam y Wisin: horarios, apertura de puertas y vías de accesos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSm11R1lUbDRJM2U3LTdqaEFMUk4wNXlhekZsWVE2eXB1N2RiaWlSeEJ2WFh6eTdKaGN0OWlUc1NOQlFOUl9kaWhQZ2lEYmVTaEsxam5aUzRCRFdzTjFBWmpLdlhRV2RSTHdtWFk0U0xRcHJYUDZ6MG94QjlqSkRwZ2lCUDRKWWxrd2w3ajMtYmtSMWR2OFNHd3VDaG9sSGM0Q2FtREd2OWEwSUZxaUQ4cjBUNjNJblBvUlZLX2NSTWdwZEprVlR0VdIB4wFBVV95cUxPV3VVd0dJMHdDeXJwVHRGVHZ1dkVhLVgzaVY2X0FqRmNSZm9zOVVtNVBKTXFUUTZZWVBFSGhYdUV5N0QyWVAyUWVWQUZfLTVGamUxU3cyQlZwcjk1b2pkRWthVVJ2bUxGbzRrTGdhMmJ2OFQxVHU4VDNqdHJKXzREQlQxdVBDQjJ0R1k5ZVR0S0Q1eV93b0VsQ0ZyeGVhNkdnV3R4WFF2dWViNi12dFhsRFNiWXhmcVMtXzBOT3A2N3JWaVZEUVF1MWo3MEZ2Qkh3UG9wdW0wSXY3SFVlV2JwYk5BRQ?oc=5",
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
       {
