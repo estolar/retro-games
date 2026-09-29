@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T21:38:19.689Z",
+  "generatedAt": "2026-09-29T01:32:46.590Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
     "politica": [
+      {
+        "title": "César Astudillo: ¿La oposición tendría o no los votos para censurar al ministro del Interior? - El Comercio Perú",
+        "summary": "César Astudillo: ¿La oposición tendría o no los votos para censurar al ministro del Interior? &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOVllmaW5FRWxUQ2huOTc2RnNjQUFibGh1SWNOVEh2OHJJbHY3UzdKNU9Pa2pXT2tkNDh2aFBaazdGeEtxTFRocVJGMkhnc2pPa3hVa3RZTTFkWmdzWWw4TkdGOXNWaUtCMFNEN3REajBHZ0wzcWhERnIwTHVtTEppd3V5a3Y2VU5aSVBSOTdHZUNhb2lvamU1STRoLXBxSFE4cnoxUGw0ZkVkbWQ2bVBpU0Mzc3pSVDBRcVVpNUs3SDhCa2NLaTdqeUlTNzVXMXY3d2YydnZ5b0dnN2tNQ2h1MWtMM3NlY1oxMWhGckQ3YmxNWTlzZlNaekphQjRjZlRRVlV3elduLUR1aVg5d2xvY1pwOFjSAagCQVVfeXFMTTJiQVFGWXQ3aHI4dU9FYzNLN2tXV2cxaW1jbnd6MmdLbHJHRjFUTDg5X0U3M1k3dlVteHY5QXl4ZU5md2tjbHhmSmE5TDRMRmRIZG9ZMzU3QWtwVVYzOTZuaFpXMzlMVk1HLXF4ZHhLMnV5UU9BTjN1dTM3a2p5UnVzdnh6LTdvZWsyN2R6T1pnSlZVRlBiYnc2TVlGTVAwTkQ1dHRub0tzN3NOb19TUXNjandVZWFpRkE2MEJTbmgyUFhmMndST05mZEdJY3JkS2NGbzJRS0NhdGF0TTZQN3lIb3hNdTFnaGUyb1FhR2FxVm05Zk9xM3cySnVXbnA3OVJBQ0RmZGV3bV9nRVd6QXJlMERqc3NUWVE2SnpteXhFVVFQY2VaMkw?oc=5",
+        "publishedAt": "2026-09-26T17:22:06.000Z"
+      },
       {
         "title": "Gobierno de Keiko Fujimori recurrirá a decretos de urgencia si el Congreso no le otorga facultades, afirma ministro - Infobae",
         "summary": "Gobierno de Keiko Fujimori recurrirá a decretos de urgencia si el Congreso no le otorga facultades, afirma ministro &nbsp;&nbsp; Infobae",
@@ -53,36 +60,29 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHp2T1ZoLS01bUlPNy1CZ0pvYlV1MTRzYkFwWHF3a1lWcWw0UVVmeG1Rd080N0FLSTgzejEwMDhVNUN4MXN4R3FBbUNBTXZuVkRUYTUwSDgwS1FiR0t2V3EzVjlKUWZpcVBrWnozOUpIMVVYeW5VSlZDRjZISmQ3Q0pyYndzTDhQZVRLR1N5bnhobVZrbkdJNXZraWlab1llak04N0g0NnFZTUpNNHNoZ19rcDE4cXlvUmxYeVBpRVQzSXNWLUFqdDM0TlV6V0RJVTZQSmMxSmVYbFVXd2NjN2h4bTdoTFFCVlN6QjRB0gGIAkFVX3lxTFBKclJfUEdTdXdGMkQ0enlHTmExUnl0emRmZGRUM3dIQ3BSandEVk5TaEhwU1NaVlR4SldydExWNVNpWGxub2tJTnRxVnZGRC02MGRabVkwSkM3MG5fWklUWkl6UlR1UDN2WDdUcllaZktNMm5BM20zNFpncmNyeXNZbElnLU9OUmFxWU5uMnhLN2xwMEltVXExeFRuQ2diYVNBT1dySXJQc2ljTDN3NHFHNFlpN2NMMHd3cUJkOXI5RE5GVWdvT1czY2VselNwX2xhaXJ3M0ZvQlBkQXZBUDBMTlM0SlhKblhJdW54NUxuYkVHdC1jUEN5bXRsQWhnOVlIRGJicEo5WA?oc=5",
         "publishedAt": "2026-08-31T07:00:00.000Z"
-      },
-      {
-        "title": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen - La República",
-        "summary": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSXJGRzRyNy1fM0h1a2hYZFNTVW5wZDJqcGg2dy1qU0llYTRGeUVGNXdHYVZlZWZyMlFvVmZ1bElRZnp5QllnaVpsbUZiX2l0cVVtVFRWdVo4NGdOQzZ5Q3FJWWF2cmVkdG9JYlZ6emFLT01tcGp0VjN6c2JkYk93UkZMREx5UFVwcVVkZ2NQY242ZnlGR1J3cFlBb0lTYWU5ZW5yS3lab3BfcXBUdzgwVk9qY0RfWHFYQVk2dzkyY3hQZkg1OV9FbTdncXp4eHFYY3pIRU1EVlhTS2dKNDIwZTRuUDdqWGZRblc2V3lUTG44eDhKNktZTk1R0gH_AUFVX3lxTE9PcXNVNkFVT0dpLVE5S2NCVjAtNTdNczVEMXNJLWljVktQUklzQ3MxNUotd3VZXzZzVVhWMHlQVk9WbWJwM0VDeGo3ODR1SHRLcF9LU056R1hBOS04Ql8xd3d6UEZjSE5lUW9DZlh3RnNIdFRlVVhwTzRRcWw5NUpFTmtrOVpLN3BOWmhkTHY0V3R2SVpGUk5LVHp2Vlh5TzcxdmhXY0JYNUtKSHdVMmJDM0Y4MUZLcUJlNzltdDg0U0hQcGEyOHZLRTdYaWpYclJnekdBcXM1ZDlZRTlSd0xGdDhpdDlESUNQYXBXc0RRdE4xODVpNXZVWi02Um5RMA?oc=5",
-        "publishedAt": "2026-08-29T07:00:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Dólar inicia la semana al alza: ¿En cuánto cerró el tipo de cambio este lunes? - Gestión",
-        "summary": "Dólar inicia la semana al alza: ¿En cuánto cerró el tipo de cambio este lunes? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTEJoLXZwblppa2JWRnRMZHUwRVZJX3BoNU9pczYtN0FrRlV6dFIxT0s3cmw1YVNvaFNPNG9Ga0tqM3RHM0dMbnliTUV1RlNJZTh6S1BLVFVBRGZkR1liLVNuczB2Sm0wNDRxUFNQT1ctZm5BaF9zNG40NlNSZ2o2TEMwZ21vYWJhandMcUlWUmE0YVlpRTl2LVViUVVFc2VFdUhyN290ZjcyUUo5WnV3MEJQdWg0TVcyN1E1RFR4b04tYXdrUzdzMVBUemRCb2xwNWFNRk9oZTZYWDNKWFhBZnlZZm9HQ0RRWG9mWmtIZWp2SWRRb01UdGFrc0Q2SnlvUi1ldQ?oc=5",
-        "publishedAt": "2026-09-28T18:56:58.000Z"
+        "title": "Emprender no basta: Perú sumó casi 90 mil empresas en tres meses, pero más de 62 mil cesaron actividades - Infobae",
+        "summary": "Emprender no basta: Perú sumó casi 90 mil empresas en tres meses, pero más de 62 mil cesaron actividades &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTUlWSm9PSVNuR2RESE9DV3BpV21DVlhVTHdlQ2dqZHBLR0lOTjlha09aZ0g5MDhGVEl4OE5ZNFVLRmJ4NnBteDluZUFyRVpaX2lZUkdIYlZJTF85M2RKcVNRbUgxVkNidmo3TGQtQ2NYVGRoQW1zektYN291UnA5MW9hdVk2MUhWa29vWjRTT2c2UkpjVUdZN2p4WE5FUnVrYVhTRWlsbFBsQmxkdE9Idl9paDlVYVgtbk1GWk1wWG1FWGwtSTFOaU9ZRENQOVdSRWFZbm1mSGc1Q2fSAfYBQVVfeXFMUERpM0NfRWhYOFAzd3dvN1l1Wjh2RlVjVUR0amNGdGgwVHg5Zk9EMHdWQ0Y3THRxV2Q2blVNcXdab0pMcFdaazdieVVlZmdxTklSaVVnc2d0TnMwbTRiYm4xMlZNV0o5TkFZaC1HOUJfTFpubDRZd1JST2lsSkNyQVZ4dEMycmhQVko0SFV2WmZOa0dTdW55VnAwSHp3d1p5T3FOendOc2FWVWlSeUo1RUNDcG5XY2V1UEtlVUJEQlZuVGYteUQ1LWxYazd2U3R1WnU2TGNfNDZEQnhTRXMtNzhFOHZ2YmFaRFY2eGNDVmpUckp1YkxR?oc=5",
+        "publishedAt": "2026-09-28T23:13:07.000Z"
       },
       {
-        "title": "Precio del dólar se dispara otra vez en Perú: Así abrió el tipo de cambio hoy 28 de septiembre - Infobae",
-        "summary": "Precio del dólar se dispara otra vez en Perú: Así abrió el tipo de cambio hoy 28 de septiembre &nbsp;&nbsp; Infobae",
+        "title": "Precio del dólar se dispara otra vez en Perú: Así cerró el tipo de cambio hoy 28 de septiembre - Infobae",
+        "summary": "Precio del dólar se dispara otra vez en Perú: Así cerró el tipo de cambio hoy 28 de septiembre &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOC1ocGx6ZzhFZ1Q4dlVETExqZnlkVHNPa0pYcktORm4wN3ZxYXRVWnhtNktmNWxwckhrWFRMalNwOVFWeE4wNmVZQXRKUjhNcEl4LS1hdlJ5ZGtZZVUzalhnN016SEVxbjdfYjhjV0YxRVZCVzFKUXFBREZzeFd0RU96QkVwNHlaUWV1UlpHam53ekJselpSTzhLc29rdHUxMXlaOVE5RV9IbTl5d2xNV25MeC1BbG1jWHI5dTdMaFEyMzd4MGhPZnB5Nk5fSTTSAeoBQVVfeXFMUHExbXpmR3JYZEFrOHQxNkJoZUg0X2NfWC1uVko0YUx6eE1fWVZOY0gzNGdKdUc4cHYtZG55VUtpWVRFSkc5Y2lLcnhCVk4tUFVCLVdoQlM3WG9YVGR5dU0xSEtyTDBIUy1KYlJQdDZWQ1JoS3JDUTNCN3lnT3paLUlmY0NVeGhvTEhOc19lMGJQc1pNV2EwSTdXZmh2UnhkR0d1MjZ5VVk5Z2JwaEpDLWt2TzlpczFLc0FfRDU0SlhfZVpBTVRUSWVXT3Q3M01Ic0lkcmhseUpwNjZaZUhheklOVGd2NmlUbWpR?oc=5",
-        "publishedAt": "2026-09-28T15:40:00.000Z"
+        "publishedAt": "2026-09-28T20:22:00.000Z"
       },
       {
-        "title": "Sin industrialización ni rumbo claro: las contradicciones del Perú en economía y política exterior - Pachamama Radio",
-        "summary": "Sin industrialización ni rumbo claro: las contradicciones del Perú en economía y política exterior &nbsp;&nbsp; Pachamama Radio",
-        "source": "Pachamama Radio",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXc1cUdVNEZFcnpHV0lqZjVGd1g1ZWwwTV90MlUxeVp2TXNadlpzSERuQ3lmb01ubm1qd0puR0xGZC1DVUUwc2FzbmxwQ1VMbW9DZVhfMHM1cFRBSHNYZ1NabjM0d2ZsaGFpQllvWUk0a0ptRE1uV19IOHBRdldVUjFGc3FOcWUtQ3B0SkZmVXh5SFg1MGxXY2pDNUYwSm1UdFp5UlcyUjdQNTJob0VPVjVYTG5XSHpLSU1nR0tjN1hLcVU?oc=5",
-        "publishedAt": "2026-09-28T13:10:24.000Z"
+        "title": "La inversión: el talón de Aquiles de la economía argentina quedó muy por debajo de la de Perú, México y Chile - La Nación",
+        "summary": "La inversión: el talón de Aquiles de la economía argentina quedó muy por debajo de la de Perú, México y Chile &nbsp;&nbsp; La Nación",
+        "source": "La Nación",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeUR5czdHZkZBNllybDBsdkN0VmN5Sm1sanhYVGpUUUYxUG0xeExtVFA4dzR0RlpXbVRnOENOQlpFRWtMUXg2NkhNcFk3MXNIcGdFcHBOTWFXV0xNYnJVa3dRZS1TOUdIQTBzT1R5OWFlVFJxQUFFdTdIV18wWHVLQ0NnTmotZmt4VEtyT0hLREc0Q0tnb2lneDZZLUJjdkFxbHkzZlR2cGdYbGxMejhHbnNFNXpHMlJpSmFQOUNCZTdPanhwczhHSGJxVWx6T1lmLVQxd3NVVUxJbzVBVGlZUW1qSQ?oc=5",
+        "publishedAt": "2026-09-28T16:02:00.000Z"
       },
       {
         "title": "Visita del papa León XIV al Perú podría generar hasta US$100 millones, según Ahora Perú - altavoz.pe",
@@ -164,21 +164,28 @@
         "publishedAt": "2026-06-17T02:03:59.000Z"
       },
       {
-        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
-        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
-        "source": "EL PAÍS",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
-        "publishedAt": "2026-06-07T07:00:00.000Z"
-      },
-      {
         "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
         "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
         "source": "EL PAÍS",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
         "publishedAt": "2026-06-07T07:00:00.000Z"
+      },
+      {
+        "title": "Así fue el debate presidencial entre Keiko... - Panamericana TV",
+        "summary": "Así fue el debate presidencial entre Keiko... &nbsp;&nbsp; Panamericana TV",
+        "source": "Panamericana TV",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdDQxbVY3WEU1XzFWR0trRW9QOWV5ZDFkQm1jN2Rmd1pMNEN6dk1XTFFhUW5FZm5KTUlyS0RDR0daMy16d092ZWxIVEVQTG5aUndwbGhOVTdKaHRsUS1mSVY2UEZQVjRsX3BqMjViaHJDNHR6NFMya2VqZ3J5Ymo0YzBIZHRmOVFpbjdmRnR4UHg2ZXgzZDNVYzVPS2l5WUtPTzdRNmZ0Q1BJRUwwWWoyanN6a3JVUmI4UFltUmgzVmdQUldocXgxV1JWajNKVGVvSG51WE1qRExWd9IB3wFBVV95cUxQMGFMTzZBZDdLRURHM0wyU3NWUlhqY2s1bEVvU3RibFdGajkxLTYxWGpuTjROTngwLWVtNG1Kc1UtbUxFWWJ6V1p3SDV5MUpBdVQwYjFMX2Rkc1VpZnhXZHZUelc4bDkweGRoVDhLd2ZmZVgzdnpjN1I3SUNLWVZjLUNuc1pkSDBLSkxNdWNaRW1aRUZqZ2k2ZW1fMXh4Q3h5VkJFVlZzeFZ1dWhNcFJ2bnRzbjR1MmpMUTM0eERIdDY0QlpDMnJ0UGthLUhhWGVoM21rTUNkak9RRXVZM1ow?oc=5",
+        "publishedAt": "2026-05-31T07:00:00.000Z"
       }
     ],
     "negocios": [
+      {
+        "title": "Emprender no basta: Perú sumó casi 90 mil empresas en tres meses, pero más de 62 mil cesaron actividades - Infobae",
+        "summary": "Emprender no basta: Perú sumó casi 90 mil empresas en tres meses, pero más de 62 mil cesaron actividades &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTUlWSm9PSVNuR2RESE9DV3BpV21DVlhVTHdlQ2dqZHBLR0lOTjlha09aZ0g5MDhGVEl4OE5ZNFVLRmJ4NnBteDluZUFyRVpaX2lZUkdIYlZJTF85M2RKcVNRbUgxVkNidmo3TGQtQ2NYVGRoQW1zektYN291UnA5MW9hdVk2MUhWa29vWjRTT2c2UkpjVUdZN2p4WE5FUnVrYVhTRWlsbFBsQmxkdE9Idl9paDlVYVgtbk1GWk1wWG1FWGwtSTFOaU9ZRENQOVdSRWFZbm1mSGc1Q2fSAfYBQVVfeXFMUERpM0NfRWhYOFAzd3dvN1l1Wjh2RlVjVUR0amNGdGgwVHg5Zk9EMHdWQ0Y3THRxV2Q2blVNcXdab0pMcFdaazdieVVlZmdxTklSaVVnc2d0TnMwbTRiYm4xMlZNV0o5TkFZaC1HOUJfTFpubDRZd1JST2lsSkNyQVZ4dEMycmhQVko0SFV2WmZOa0dTdW55VnAwSHp3d1p5T3FOendOc2FWVWlSeUo1RUNDcG5XY2V1UEtlVUJEQlZuVGYteUQ1LWxYazd2U3R1WnU2TGNfNDZEQnhTRXMtNzhFOHZ2YmFaRFY2eGNDVmpUckp1YkxR?oc=5",
+        "publishedAt": "2026-09-28T23:13:07.000Z"
+      },
       {
         "title": "MYPE en Perú: PRODUCE explica cómo apoyar a emprendedores desde la idea hasta la exportación - apnoticias.pe",
         "summary": "MYPE en Perú: PRODUCE explica cómo apoyar a emprendedores desde la idea hasta la exportación &nbsp;&nbsp; apnoticias.pe",
@@ -227,13 +234,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "publishedAt": "2026-06-17T07:00:00.000Z"
-      },
-      {
-        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
-        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
-        "publishedAt": "2026-06-10T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -266,6 +266,13 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
+        "title": "Perú da un paso adelante en la seguridad energética con el uranio y litio % - larazon.pe",
+        "summary": "Perú da un paso adelante en la seguridad energética con el uranio y litio % &nbsp;&nbsp; larazon.pe",
+        "source": "larazon.pe",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVU3eHAwN19tVTd6YlI0dE44dXc2cm96bmVxOEktWnBQbndNcVQzY0xqRkhVbE9rM2hVUXJEcm5CdXVxdTRYXzVMb1ptLU9IUWc1X3Q4UjNjZ0UzRkl0WmR4RTN6Ym5MXzU3SVFCbFB2QjZqZXBVVmMzMnFyajdfS2xrR2ptZ0Y2cXUyVzlHTFgxaC1iNmZPWg?oc=5",
+        "publishedAt": "2026-07-09T07:00:00.000Z"
+      },
+      {
         "title": "La paradoja peruana: Crecer sin innovar - Gan@Más",
         "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Gan@Más",
         "source": "Gan@Más",
@@ -285,16 +292,16 @@
         "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "publishedAt": "2026-05-29T07:00:00.000Z"
-      },
-      {
-        "title": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación - Tu Diario Huánuco",
-        "summary": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación &nbsp;&nbsp; Tu Diario Huánuco",
-        "source": "Tu Diario Huánuco",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGpsT3FrekhQWTg2UDZlY1JyaUJzQWI4UDEyRjZGUDY4ZXRtQjBUUHlmdmtrSW8wN29HalpYQWswZFA1OHg0SVAyRldYdFR3bUk1V0xwRHRWc1ExQnNXN0VzejE0eHFacXpMd1RnQ2hjR0ktQU1CeGZrZm1HMUUyci0tdW1xWnpyeWl3NHRua0pSRXE2azVCNEk4aTg4VDN4czhsZXV1T1F3THByYkJyajF5blp0cjlKanJ6blRGNEsxS3dOMnFYMFAyZXRqbEJyRDhVX2x5WWxadw?oc=5",
-        "publishedAt": "2026-05-05T07:00:00.000Z"
       }
     ],
     "ia": [
+      {
+        "title": "Inteligencia artificial para anticipar huaicos e inundaciones - La República",
+        "summary": "Inteligencia artificial para anticipar huaicos e inundaciones &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2FHV1cxUEFqX2FOa19ac1docXp5MXdPdmdOZExIS1JPLXE5RjRDM285U0kwWFhNNHIyeThZbEpBRmo5WGktVHpHdTMzZ1RKSTR5VjgxMUpXRV82OHdYVmM4NFdudXhlbVMxM0ZnaUh6V0M0V3ZyRkVVVWZnTmI4Z1d4UVBXdXJ0aG9BSHFzUXpINW5xLVBOeUpkOVF1NmptaGlmeEliVXpFaGN4UDRtVnpna1JJNHJteGFj?oc=5",
+        "publishedAt": "2026-09-28T23:44:55.000Z"
+      },
       {
         "title": "La IA no es el problema: los 4 mitos a desaprender por líderes para transformar las empresas - Gestión",
         "summary": "La IA no es el problema: los 4 mitos a desaprender por líderes para transformar las empresas &nbsp;&nbsp; Gestión",
@@ -329,13 +336,6 @@
         "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbWJDZUdnY3VWZWxFNlc4V1ZDYVVrR1hWaUhHWEFmZlk4Ym10dDlTa0g3UTRWRENGUnA5SU1GaDR2amROZ3p0SmtlTWZrRndXeDNnMGZIRFphTDBIQTB3R2JZLURoT0FONXF4aDJCSU5udHNHT2lQbkZfbXE0SlBHTkVFN2NrQlFUcjlmSGhXRGkzODFZbTJpbTVidVBGOFQzT1BRY1U4VVdMUmQwY1o2RG5qdjltOWlUQ3F5NDVRRUMtYTljZS1TdVB3?oc=5",
         "publishedAt": "2026-09-19T07:00:00.000Z"
-      },
-      {
-        "title": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos - Infobae",
-        "summary": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcXNMNU91ZVRjV0EtakxXbUR2MnVoUjFDdGpXTDlydElxQXowSEZDNTRWNUZUUW9GZGdNMEVTVHZ1Z3I0SXUtVUtvLXBiVWFxLUFkMDV0Rl9DXzN0WTJvdlBySGdlNXdFS28wTzQ2eVRkdkhQaFI1Rk9vMVFOdGFQdHQ2aFBNcC1FY3lOOGxHWWF0NGplWC1KaF9ITHBJTDJESHVLYkZqZ3lZWmlxYWxsMU40bk1BaG1FRTFiTk4zWEV6d0ZYOUoyS1JONV9TS2hwc1c5Qnd30gHwAUFVX3lxTE9kdXhKY05MMFJfVzB3UC1FY3hmTTNSa3U3UVJTMEh6SDRYWHU4ekJJdFJHWnd0RE5wN0Z5cmxmd0MwUkN2aGhzZVRkd0ozQkRIYkt1TnVsMTNveUFMaF9zbUlFaFZ6UmlhbUdQd2plTlQ5QXV1LUxIbzJxamxXSWVqTVJQbjB0cDl1WWxEN0Q2R01fUTFSd2FNWXVzeTg4aUNZOEc5OHlNTTVSb3J4LTlKcDJMQnE1WE9lNnluQzZ5NU5RN0UyU0l6cUZtZVU2RzFVdHBrMUZqWWFOS204Q3NKUTBIN3RZbXl5alZCUG9VNA?oc=5",
-        "publishedAt": "2026-09-18T07:00:00.000Z"
       },
       {
         "title": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina - Portal ERP",
@@ -412,6 +412,13 @@
     ],
     "farandula": [
       {
+        "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
+        "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFRYakI4T1o2cXhXN2pKSzc2bXBiLVlUZ1R1VFAxSWtDRW10LUl1TnNZaWJLRXpXSlBEZmJzN2lZdGF1SG5NUDBWQXUzZXp3VTlnbXlTODd1clZtRXZQUENXWlRydS0ydkhyWFg3SHJScVdKZ1VlU1l2cWpBM2RJcndGYjNWRVJNblpCa29EOHpXRGlnRVVCb0JOd0s4allqdVVjS0FEMGZXU2c5OXB4S214NUhIb1FFRWlaNVc3OHA0Uk0xcmpVbGFkdW1Kb1laTXZTSzZNY0J1WkFNM3BCRkRqdVNsV185WEdkSGtmMjZhLU00eW9mcExBdkvSAZcCQVVfeXFMTUlaaHZOVlluQ2hONUZIY1Y0bnBXNDVmN2tYNXFvbjNBVFBSR3RRUXNYOWVJdU9oQ0dHbUExc3FwTkEzWFM4UkVMTmFjX1dRdVR4VFRncThQWXFFV2pNUmhGZDBFRHZyUnZXcDVBWnhneG9fSklpMDFScE9nZlNjMzQ4aFI4MnNBTmtiTnM4SkhzRGFWWVZSai1IYnV4QkFsU1FSUGZXU1V4SGNlSjYtNUY1UFNiSXVDWEtEV3VjaXljZDZkdFEyMFJhenFNaXB3VVhRcTNEWTJzU2prTm1MMzkzOTdPT3laQV9sNkItOGRoWFo2SXZzRmZNTU9UYjhuYjd0VnZWTVY5WmNoRktEczI5b3dKbGVr?oc=5",
+        "publishedAt": "2026-09-09T07:00:00.000Z"
+      },
+      {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -452,13 +459,6 @@
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNek1IMmE2Wm9hak5Ob1QyU1dwdDUxVy1aaHVlSlpuMWNDUGJjNVZ2Wno0SGRYTFZuMmxsdWtHaE5yclF6Skh6QjhhXzhULTZxemgzWThVMHppaTlDekhVVWE5VEZyVTNNLXpfWXhfcS1xYVlvemhkdGN0MUs2QkM2c3d3QVFzX0dVUTFQSUZRQWpxVExlR1ZZMnUySDM0b1Y2eXMtS24zc1VVY0FpOUh1b2lTY1pySnBjNEZ4S1djcFNSUFJUTl9uZmpSaWlNUVZL0gHkAUFVX3lxTE01M015cXRLNTBMbHRQcjAwLTRxVjVkMUZyMGhFLWswTy1oWS1ncnJDMHRBNlFlSkpYMVFXdHlDSkNzbE1ZWGhXdktNYWtSN2xubHJ0ekJwX1RkQVhCTWNDajE3U3p4RW5uYU9fSWlRSVROeXlrSUNzRk9RQmstMkJ0U2RPdXJ5RTFnVmtjWjhsRHpmNmVCQVlaczdWTkEwSzhGVnlRQXZyUnNqUGFNWTdFaFNMMTUwZVhaZ3BvRUoxTWFpTWs1RnZRdnNkQVFBOHhKVFc5a0E4eFp4dGxkTHdyUlB3Xw?oc=5",
         "publishedAt": "2026-08-04T07:00:00.000Z"
-      },
-      {
-        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
-        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
         "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
@@ -512,9 +512,9 @@
         "publishedAt": "2026-08-21T07:00:00.000Z"
       },
       {
-        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - Blog Joinnus",
-        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; Blog Joinnus",
-        "source": "Blog Joinnus",
+        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - blog.joinnus.com",
+        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; blog.joinnus.com",
+        "source": "blog.joinnus.com",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQempKSjE1ZEJaSUlkTkxKb2ZEb01WelVBMUZpdUMxM1FSR3VlUlZZalFqUnZJMnhWcFc5UUdoZVFMOG1TbWpzc1BqTFUwbTl6MEhWR2NpSW95RmhRQ2tFSFM2NXZsQjFNUXVsY2k5dS1HRUlzU2pJMEN2SGMtSXlBOFhCbVBSVExUWGxFWVV1dTJCbFdtY0Npdmk4UUlFUkxXQi1QRlFCdC1VWG9jR2hxS2xfbGRGb0tGMGl3MzFrNkdvYjVp?oc=5",
         "publishedAt": "2026-08-19T07:00:00.000Z"
       },
