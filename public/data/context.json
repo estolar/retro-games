@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T21:17:23.665Z",
+  "generatedAt": "2026-10-01T01:07:41.526Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -25,13 +25,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcjN2SVRHOHE5b3hiZEF1SlAyYlRwV3c5YzRSWElOSEV1Qi1IZjJUSHdBTEhfRmwyNmRsdWI4eExvYVdHQUNWZWIxcVRoZ0dBNUJhTTM1YUF4R0IwM3pQUENuUWI0b3ExZ3pSZHg4VWgyaG5fcnd1N1BkeXAzblN0dEhvenhoamFTWHRiZ2RVLS1OV2tua2s0N0tNV2FhYU5aLXBYWFhtZnlpcGxFUHIzVjFEeGpleUhrbW8tQjVQUEgwUVlwOUcySnVLSGxHRXhnbFNvQlJ6R1NQWERSdHZoSnZodWFYQWZMRVJv0gGGAkFVX3lxTE5ndnpqZ1BYZ09IbjdlWkVIV3MyLUdXSk1KQ1FnMnFRaDZ1a2hFRnZwdERnQU5kb3ZOUVRVZGlhbFJGSjQ5ZnBTSU9IRTkzcjZuWXpxRHkwU3MtVGNqNldJSk1BNjhCdFNjNWF6N3lyX1ZzTHV2OXFEX3dqcHNCX3V5ZXp5TDh6bmhQQTdKX0hLUGFLMW11YVVKdGo4S1J1Y1JDNWlrUUJ2TjJ0d1MzMTBLdzU1ekxPdVJON3poY2prS2txS3M2SUJxeF94XzNTc2lWakNucFo0R1lXUnlQXzROWUdaOW5FRHZBd2hDRl9VeFYxN05YSXpFTUdfa29vVzFaVFZLaGc?oc=5",
         "publishedAt": "2026-09-21T07:00:00.000Z"
-      },
-      {
-        "title": "Keiko Fujimori y su 'minigabinete': Poder Ejecutivo oficializa creación de Secretaría Estratégica Presidencial - La República",
-        "summary": "Keiko Fujimori y su 'minigabinete': Poder Ejecutivo oficializa creación de Secretaría Estratégica Presidencial &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPT1ZtdkZYcnNqdTdZbVZOQS03aTZQdXZoZlZseFpzQ0FCUFl3Wmg5TUY2b1c5LXJJSElyTUpmTXF0cWEwMXUybHhOcENEZmdvTUt5TmlNSnBtXzRtUW44c0xtSnpkWmMxcHI2VmZNbDNRQjdnNEd1dmtZWHU4QW54UlU3cWJmQ05mb3NwalBjc3NyZE5SLUFYY1A0YnNTcDA4eFlnWVFiMmZRdlRVMWVlSk5HQU54bTJnMHZTYnk2Zk5oZi1UUnZ6ZE1mSmRuX3dSVExsdlZVd2t2TzY2M3BwV192cEg1alVzU05pUkd1VTIxM2hNQ3fSAfsBQVVfeXFMTWpEZHR0cEltVjlsMGRZbF9WSENqdnNUcTZTbHQ3eUs2Nk1uNk51V0YxSGlybnlDenM5aklxb2pwbzRfZmNPcHU0a1FHSWZma2Z5UTBKc29WS3ZHVjNRWXdlS2JVMzZWMDhiRTRmNlgyWUo4RFV2Y1VWakU4THJpZTJJRHBjd1NxUWUtNHJSckcxOUpyQlVJcWxqM2pWZlNpNjlTelp2TXowa0owSF9kOXE3WFJKMGhxS3doVUNnYk55Nk1QLUgwRGZYOVdDMUFyUU12cmtKTlBBTkJiZ3BPYmJVR0JNY3FFUklJY2JhTHNNZF8xSEtUeVBWN0E?oc=5",
-        "publishedAt": "2026-09-16T07:00:00.000Z"
       },
       {
         "title": "El nuevo gobierno de Keiko Fujimori en Perú: un comienzo accidentado en un viaje peligroso - Infobae",
@@ -60,29 +53,43 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHlnUW12Z25xWXFVV3N1dVN4UzNLY1ZlYzFqcXk2NDZWSENpcGhjRGtTOTBnRE9fWmlPbzNzOXU1RldUVXRkR1JhUFZwd1NRODBWb1FsYTNLV3JvcDU3NUtLUVVPdEhhejNlWU5CZ1dXSk9TTThhbUtnSGVlQi1XMHJrSm1QLUpTNG1oaGNRN0lWeXkwWVlxM2l4MGFuTkZUNTZfQmdISXNOMW9MdnRxVlV0QzhCWXZzQVE4cVJrTzZtWnA2TEU5MFExdUhYanZoWVhMblVHNi1yQ3RFQXFWLTZyNlDSAf8BQVVfeXFMTzYycU1uN3FkcS05SkdXb21BUHljZFc2ZVczUXZsdDFSNEVOTmQzcXNmOEFCdVQxdUlTaHByelZrSTNYcGwtZ3hZa0VmbkJqSWVxQUNCRHRiWS1PRnhmUDc3NzNiUkRHVWtJSGZ5cnAxTGdJWkRRWHFvVzdoX1YycGROWFVBeDZaU2lQM25PcU91bGU1NTVwLWhOTU83MlUyZGR2bnJ1Z1Q1cnNubHg4bE8zSGhNaVI0Y2NFTXJ4TXc5UmNOcUM1eGpPTlFRYzZSbHVIZzNyaGNQMXR3TGNRVG1mbC1Jb3huRFZFWWhhTkxIN1RWOFVpUk91SzZRbk5z?oc=5",
         "publishedAt": "2026-09-04T07:00:00.000Z"
+      },
+      {
+        "title": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad - Infobae",
+        "summary": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHp2T1ZoLS01bUlPNy1CZ0pvYlV1MTRzYkFwWHF3a1lWcWw0UVVmeG1Rd080N0FLSTgzejEwMDhVNUN4MXN4R3FBbUNBTXZuVkRUYTUwSDgwS1FiR0t2V3EzVjlKUWZpcVBrWnozOUpIMVVYeW5VSlZDRjZISmQ3Q0pyYndzTDhQZVRLR1N5bnhobVZrbkdJNXZraWlab1llak04N0g0NnFZTUpNNHNoZ19rcDE4cXlvUmxYeVBpRVQzSXNWLUFqdDM0TlV6V0RJVTZQSmMxSmVYbFVXd2NjN2h4bTdoTFFCVlN6QjRB0gGIAkFVX3lxTFBKclJfUEdTdXdGMkQ0enlHTmExUnl0emRmZGRUM3dIQ3BSandEVk5TaEhwU1NaVlR4SldydExWNVNpWGxub2tJTnRxVnZGRC02MGRabVkwSkM3MG5fWklUWkl6UlR1UDN2WDdUcllaZktNMm5BM20zNFpncmNyeXNZbElnLU9OUmFxWU5uMnhLN2xwMEltVXExeFRuQ2diYVNBT1dySXJQc2ljTDN3NHFHNFlpN2NMMHd3cUJkOXI5RE5GVWdvT1czY2VselNwX2xhaXJ3M0ZvQlBkQXZBUDBMTlM0SlhKblhJdW54NUxuYkVHdC1jUEN5bXRsQWhnOVlIRGJicEo5WA?oc=5",
+        "publishedAt": "2026-08-31T07:00:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Precio del dólar baja hoy en Perú: Así abrió el tipo de cambio del 30 de septiembre - Infobae",
-        "summary": "Precio del dólar baja hoy en Perú: Así abrió el tipo de cambio del 30 de septiembre &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHVaNDBrTmNzdTQ2Qno0TnZ2bGFmRGhJOEczQmJXc1RFQ2VWTkxLbVF5VzZSQUxVUEpDU0loMHVXQTlmWnBaTWRoSS1qbTVjWHRTRlVmTkJ5R0hqVm9neG8zN2xhZ2hRY2NjRUliTWVvc1JNRUIyX05JN3NVWE9Wb3JrSUcwT24xZ0FIcXhJY0xJQmF5V202ZnZXTjJyQlNBTDRyR0I0dmN3SGJhd3FKWmJNNNIBzgFBVV95cUxOenphM2pxd2dBbUdDb29QWjM2a1ZsTmFGUEhDM0lUTVZaWS1SRWh3NjdSQ0VzZEk3N2tudG81WmxwUENVZ0NFOXE5bGwxX1NGUndKUmY1emh2R3F5TnZDcHV1bDFCOGhmdm5PbVYtekx4X3BKRHo1dXE5b3FUSjU0aFNZNzB5TUZ3RURmUXBVU3BlMmVyQWF2Y2JkU2FNaTYyZzZrVFVGTUJURzFkQlAycC1EcWNWWmVqc0Zab3JGRV94eEtyY3Y0ZkxWZllWdw?oc=5",
-        "publishedAt": "2026-09-30T15:16:00.000Z"
+        "title": "Expotextil Perú 2026: feria textil reunirá a empresas y compradores del 5 al 8 de noviembre - altavoz.pe",
+        "summary": "Expotextil Perú 2026: feria textil reunirá a empresas y compradores del 5 al 8 de noviembre &nbsp;&nbsp; altavoz.pe",
+        "source": "altavoz.pe",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMG41Y1p6ZEQ0dkJyTVA1eUxVSUJaY2c4alJIMHFTQmswb01IWGY3TGZ4S0Q4U3FEWS12SnhfUXNjR3N2VUQxTTFoWEYzYVk4eHE0UE9XaGI4d0xONnpuNVFJVnM5eG4zTjIwN3NFYlJLUmI0aE5pcVRIMUYxUFJLai1OUHotUzE1dFV4ZFVCcmZoRDJuX2MxMXc5WmxJLWVFcy1uVElkQldHTjUtT0MtS1NDZm9WcTBwdU1r?oc=5",
+        "publishedAt": "2026-09-30T20:48:08.000Z"
       },
       {
-        "title": "Vuelven las 4 UIT: Nuevo retiro de AFP propuesto permitiría sacar S/22.000 otra vez - Infobae",
-        "summary": "Vuelven las 4 UIT: Nuevo retiro de AFP propuesto permitiría sacar S/22.000 otra vez &nbsp;&nbsp; Infobae",
+        "title": "Precio del dólar baja hoy en Perú: Así cerró el tipo de cambio del 30 de septiembre - Infobae",
+        "summary": "Precio del dólar baja hoy en Perú: Así cerró el tipo de cambio del 30 de septiembre &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX25xcHIwcnl0STFfR1MtaDJ4TVJsODJsUXVvNkQ3Z3VPd282a2F2MGVVUnVudzk4a2RudW94U2U2ZmhPcUhkNWRhdTZUUi1TZWRWSVE0U3ZDTkxGQ25ZS1RNdDhaQTdZZWgyaGFqdm9nb3JzbktMRHZaLUtsT3J3R3pieWl5UjNsYVVIN2lSb1BOZzk4VTNtNkl0RjZXOVRWcWVzN1lZWExtdVVtMVp3aUZBVGdHUVFMcENKUGZR0gHYAUFVX3lxTE9OVjJlLTl4Wk9nR3R4cVZDUlpETUlIUlowZ2tobWstZ2ttNWM4T1hPTC1YeE91WjY2d2VNWUxwdDgtSXhPdjJTakpNWlNqVlBLcWxmcHZ0aVh2eUFFOG9ybW1kRlBSanYwZHVUTDk3TTc4all4V2ZUVWxpcFlBbWJqUTlwOUNwV0ZqdjhPaHdLVDVqNjdJT1BfTjd0djVoQlY3c1ZSNHc3elRaTUV1ekU1NXZIYlc3RXBCamtKazdkVjdQUnJjd1JrbGVZTkctQ0syOTdvSEw4Rw?oc=5",
-        "publishedAt": "2026-09-30T14:01:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHVaNDBrTmNzdTQ2Qno0TnZ2bGFmRGhJOEczQmJXc1RFQ2VWTkxLbVF5VzZSQUxVUEpDU0loMHVXQTlmWnBaTWRoSS1qbTVjWHRTRlVmTkJ5R0hqVm9neG8zN2xhZ2hRY2NjRUliTWVvc1JNRUIyX05JN3NVWE9Wb3JrSUcwT24xZ0FIcXhJY0xJQmF5V202ZnZXTjJyQlNBTDRyR0I0dmN3SGJhd3FKWmJNNNIBzgFBVV95cUxOenphM2pxd2dBbUdDb29QWjM2a1ZsTmFGUEhDM0lUTVZaWS1SRWh3NjdSQ0VzZEk3N2tudG81WmxwUENVZ0NFOXE5bGwxX1NGUndKUmY1emh2R3F5TnZDcHV1bDFCOGhmdm5PbVYtekx4X3BKRHo1dXE5b3FUSjU0aFNZNzB5TUZ3RURmUXBVU3BlMmVyQWF2Y2JkU2FNaTYyZzZrVFVGTUJURzFkQlAycC1EcWNWWmVqc0Zab3JGRV94eEtyY3Y0ZkxWZllWdw?oc=5",
+        "publishedAt": "2026-09-30T19:56:00.000Z"
+      },
+      {
+        "title": "Bono MYPE por alza de la RMV: Empresas recibirán S/100 por cada trabajador a fin de octubre - Infobae",
+        "summary": "Bono MYPE por alza de la RMV: Empresas recibirán S/100 por cada trabajador a fin de octubre &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX2JkZEtPTHA0N1FvUmpiSlBCczNRNFVzRXUtc2ZpQXBBTFlkSnNDcGZzNTB2WWZGUWptX3VMUmhZZ0F0UGotaFNyYUJDbWM3LThJaGZBckpkaG5jMWo3YWx5d0JhMERFWUhBajFMWTZ4TWpMZlI3bENiSDdBVVdvR0RLaUFDTFVNZlVtRGJMTEhkTlFFWUR1bXBRbXFieTdUWGlZdWpKUUdQRUx2NmkwQWJsZndyWjZFUjI5cFhJUzUxbnhCT2ctSGtR0gHkAUFVX3lxTE1lR0tSN0tPTzE0Q21UeGZtVmRFazNZODBHZGJkYkpZa2g5TE5GVkQtbXpBTkZReWxYUlBzYTQ1SW0zTlVXc2cyX01YZHM2QjJleHJDUC1GWDd1RWNBalFLU3piUmVBMU1JOENKYXFmNWNBRVY3NlRLV2NibmlLN1lkTXpyYjJsWjh2SjdkakFILTNlTGhJT2QxanBLbnFLUnJsVldWcjJCT2NBbW5hZEFVeGtxbm95bHB6aEdkUlM4Zlh0b3ZoS2M1dU1NRElEYjFVMDliemxMSGZneHdpR1ZBSjVrXw?oc=5",
+        "publishedAt": "2026-09-30T19:48:00.000Z"
       },
       {
         "title": "Pibank aterriza en Perú con un modelo de banca sin oficinas: ¿para quiénes está dirigido? - Infobae",
         "summary": "Pibank aterriza en Perú con un modelo de banca sin oficinas: ¿para quiénes está dirigido? &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZmRQd05xMUd0Wm9CQXV0N0N6dl9CZ08yQlA1NGdKSHU5UlM5TXZaekV1NGU0a3RtRHNmakFuNzNMZWwxc2xHc0NhNUFYZnVvQXp2emo1OTZzaU03VG42RVV3Umlka1VBNV9Uc3N2QmVrTXB1V21QdjI1d19EbWVKaEphdHFsUHN0enZ2NnFUd3Rub0pqOHFZdzUzdUl2eS0yWjlWb2RUTVhfMzRObElNd3BPN09kRUtQVTJfY214THpObHo1U1HSAeABQVVfeXFMTlYyQllRN1BUcE81ZWJZcGNVY2I3SjNVanFmOTB4QUpnZ20wZzZGT1RoM3pWdHV0UVAxUDNPTVAxdEg0M0NOVlJUa2hLcjI5clJwOHRQSHpULTI1NUVkejVPX2hpZE1CdFNrN1VibzBxQmYwcVpZcHg2U0hMZ2VtMnN0QnZJVlBMS2x6Sk9aRjlYMEZrcDBFVWx1bFllTGNKRFliRVJJYV9MQ0hZQ1NXb012bWVxR0llUTNEVkRtcUFqRlRnZXFrWi1sQ1pGY2djZWZHaUVJSE9jUGRRSURHcjY?oc=5",
-        "publishedAt": "2026-09-30T13:30:02.000Z"
+        "publishedAt": "2026-09-30T14:14:00.000Z"
       },
       {
         "title": "Julio Velarde y Gastón Acurio son los dos ejecutivos con mejor reputación en 2026 - Infobae",
@@ -111,13 +118,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemp0ZC1uYmU2TGdRSHB0YmtVSGtBRHJic09fWF9MQ3BJdU8wQTJrR01zX0ZBV0l1bThQM002ZzhVcUxLUjZjTG1QNmdZSGp2eVJXcHBCSXFGNFk3RU8xeGNlUGtrZEVsSG1jbUJfdVplWmswMHZqbm1SZHFLTVF4LU1XUklVRjZNNjRkNFJVN2FCNFA3bzRuOEl1Yy12TkFhSVpHVzJpN1g3aERPOWI5bEcxMmM1TTRRc2cwUFBmdXI0ZE5ZNnU4T0dTMnREYUFSTEd1UXFR0gHwAUFVX3lxTE1NWDA3TjNJYi0yRHhaUW5WakI5YjdXeXVCZ2pnSEdBZVd5REZSWDByMC11RmFYZnRDcEhkVm9ISDhFbGxUVW05dGE1T3hmSjl2dFhRSTZlcDhfY2g0VG5qUmRnYmVQVkg2d0lLV1UtdXc0UXRjbmp4M05qU0szdWFHVDZOSnJsVmwxYjY1QXR1V2dEVFJrbDZrN1ZxRkgtZTVpZEhnRzNBZmN3Y0FpaU5Lb2dwT1ZhYllTdGU5bUFJNU1la0RTeWJJdW80UDYwNC1NeDd5eURDM044Z0JKUTN0V2ZvMk4tdWxpUXZ6SElXLQ?oc=5",
         "publishedAt": "2026-09-29T17:25:16.000Z"
-      },
-      {
-        "title": "Perú tiene espacio para elevar su competitividad - El Peruano",
-        "summary": "Perú tiene espacio para elevar su competitividad &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemVNbG80NXl2WFFVVFNUVUtSTWllaGx4bkZVaUcxT01xRmFtTm9tV0lKd2E5ZVQwLWpEb24yWjZtQnZ6NlZ2dFhNQkJRR3dPYnR1MVRVSTlVX0puTjBzMDJRVE5HYnNEaTM1dzVpQVphZFo2WEp1b3pSOEQ1c2x5d1lYWDFKU2M3eTh5Ug?oc=5",
-        "publishedAt": "2026-09-29T11:53:00.000Z"
       }
     ],
     "sociedad": [
@@ -126,7 +126,7 @@
         "summary": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3hnVnQwRDBOcWFqanlYajZhSmVHOVNUR0UxM2NlYVFtaU4tU2NtSU5WMHM3d0VZS0VrUVRRTUNPNzY1aXBhWndWZ1h2czJ0X3dmRkRyald3a0VYRktaSE5EVmpDU2R4MFRNTE82bG1QTjVjNVA1NW9CSlhtTHlqWEVNdVZoMUdfMWNQcy1Yc0xZRWNQUzZSQWhxZmFDNmQxTVFVcnpvdmtFdDVxWWRZNFRsSExwaG5val9ZbEptUGJ4by14SldZWm5qMzk4YlUxaHfSAewBQVVfeXFMUGZmVEVhN0NORG5ESURKOWpvS2c1Qnppcm5PaVd5SGFUbWRkQUhjMzBjMURnQzF4Yl9Oa01PVHI1c1k4M3FqRlBXUkdoR2g5d3JWdkp4eXllREJkWnFHY3dDOXVmVzhrTUF0ZjA2T0tJRUFhTERvTTV5aGpMdzdkdEpzMTJ6SWYtTEZXaDJmSkZqZ0h6VkpQY0tib3VlWW9oWXV5RWhmSTRLczhpd25UTWNXeWdaRy1KbzRNLW9uM1JQQ1VQdTVXOVNMZzRZLXF0bDBrVEs1YTUyblBreVJzOWJzM1I4a3JUdXE2Nmg?oc=5",
-        "publishedAt": "2026-09-30T15:27:03.000Z"
+        "publishedAt": "2026-09-30T16:21:00.000Z"
       },
       {
         "title": "Reflexiones sobre la necesidad de un Estado con rumbo - El Montonero",
@@ -150,13 +150,6 @@
         "publishedAt": "2026-09-20T07:00:00.000Z"
       },
       {
-        "title": "México prevé un crecimiento económico del 2% en 2027: blinda programas sociales y aumenta presupuesto en educación, ciencia, salud y seguridad - Infobae",
-        "summary": "México prevé un crecimiento económico del 2% en 2027: blinda programas sociales y aumenta presupuesto en educación, ciencia, salud y seguridad &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNM3V4UmQ2YUpfckQ4S05seTdFUGRUcVdyRkVWeVlvTjBfY2g0UFJWMU8wSWlSbkdqR0JyZEd0djlZR3h0WlBpWk40YkJtVjZ4WC1pT2lDUkV0eHNyR2N4RFNnUzJ4TUdHYkp0UHg5MW1rQ3BtZnNJSnpxWkZMTmxyUkpPUThuNzVSUkIzaktTbUxvYjRvZW1aVkN2MURqRlg0bk1lNDZJdExaR1JqS3FPakQ2Qzc4Ymdrc3UxbmcxeV9sZlpqOFJYUkpkTGFOV183TV9TOUlBczZFa3loVWpOZjByQzROOVJfZzNZczduSmRmOElFcm1sQmM2YXl5ODljcGVISkZCR3VzalNxVkHSAagCQVVfeXFMTU5QZmpRYWI4WjBjRV9kME1aSVAzUXNJdGZxdkFOSXgzLXRRQkg0ZTB1NV9ER3R2NDBMaGIxampFTWlObGVpYVNMYWFLUjljU2lVNXVvMld2RjhuajluWlFqc2lxZll3LWpJVW5Uekl4Z2VvRlg4UlhWMlAyQUs4MGVqZXg1Rl80TEpOaXhqMm0xenN5bzNERmdOWEZBcjNUcVBvUFFGY1UtcXpHdkN4VHdwRnVIMFloZV9MbEVvM1NuMkFrQTZHbUpVUmJSU2pmRlRLMDE0R2trd1RfTmNaMU5LenBLRmxZRGQ2V0prZHRfTmRrRV9iVjdaZkthZTJlcklzWXRMbUpMSjNNc3BicVZBMlRNZnhBUVZYVzNtWndYcGlLUUotbU4?oc=5",
-        "publishedAt": "2026-09-09T07:00:00.000Z"
-      },
-      {
         "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
         "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
@@ -171,21 +164,21 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - Diario Ahora",
-        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
-        "publishedAt": "2026-07-15T15:44:23.000Z"
+        "title": "Keiko Fujimori, presidenta electa del Perú: ¿cuáles son sus propuestas para enfrentar los principales desafíos del país? - Infobae",
+        "summary": "Keiko Fujimori, presidenta electa del Perú: ¿cuáles son sus propuestas para enfrentar los principales desafíos del país? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNzJZZUxWQVpUZ3dCd2lKcHh2cmc5aFhtY3UySld4b0N6QnAyR1VGV1RVLTBZb0xHWVJ4OFRxM0lYUEZQSGV0OWhkVC12V2lZSkhOZ2FZbXE2ZjFnYmtJUmhCOHlrc2RlVHZJTWIxMFU3ZWtNclBybm1LZWdtSHBCTk10czUxVUZaSi10MFRpb3NROGhFWFpVeWRvZlJlYkRnUjIxVGZ6bURkN1JOYjZRQkdMWFVRdlRLaHVCNm5wMF9NYVo5MWg0THAwSlpCOWhrb3FQcE42SUkybllSV2wtaVdUcGdDSmszYzBBeWRn0gGIAkFVX3lxTE4wWEhBQjdEM2FvMFBnb3NJeXZ1cUVCcWo5TVhudkl2ZEgyVWlvR2VjQkFyTmplSm5KM2NGeGUzWDRmbTVTaDZGcEdhdVdoNjNlRlJybUltM0tiMXZyeUZ0Z3F4U0FmQXdjMkI3SEZkSVBZdm9TZ3VHa2lHNEoyY0g0WWlyV01lTzVxbENJQXBrckRWZVluMkMzS0lyS0hqUHlLZVo4RDB2X1lWZUFLZDk0V3BPOWZVOGhxRHBlZFkxOGZQdjlWYzF0QkJzUlZ2OWF0cVNNYjdTMlBnLXo3blpBVUV2OTRxdVUyV3hrdVBROGNxUFFjT2tYYkJmMEtsOHZpLVpoemZrMg?oc=5",
+        "publishedAt": "2026-06-29T07:00:00.000Z"
+      },
+      {
+        "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - TVPerú",
+        "summary": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado &nbsp;&nbsp; TVPerú",
+        "source": "TVPerú",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbS0xd2cxQXI5T0hEOEVrN3M2eER5Y0VTTW0yQzBRWGZteXVCLTRySkZwT3ZYNUJ5OEg4Q2hPZENLZnhSdjdxaWxRZExVMndoSmtWcnVxU09LelpFbERlXzQ2cWdQTlM2WG9YYWJBdmIyOWdzUkI5MWYxOHBkei1aMWZna0Q2a2Vrems2N0RwQklYWGhaY3NyLUlyOTZUbWQweHpHa3VLZGxjaTNEMEpObVNFM1VvMEVkSzU3cDFNOXVIZEl5WGFha0J1UXRRbHBwa1JYeWxjNXNPLUhx?oc=5",
+        "publishedAt": "2026-06-17T02:03:59.000Z"
       }
     ],
     "negocios": [
-      {
-        "title": "Emprender no basta: Perú sumó casi 90 mil empresas en tres meses, pero más de 62 mil cesaron actividades - Infobae",
-        "summary": "Emprender no basta: Perú sumó casi 90 mil empresas en tres meses, pero más de 62 mil cesaron actividades &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTUlWSm9PSVNuR2RESE9DV3BpV21DVlhVTHdlQ2dqZHBLR0lOTjlha09aZ0g5MDhGVEl4OE5ZNFVLRmJ4NnBteDluZUFyRVpaX2lZUkdIYlZJTF85M2RKcVNRbUgxVkNidmo3TGQtQ2NYVGRoQW1zektYN291UnA5MW9hdVk2MUhWa29vWjRTT2c2UkpjVUdZN2p4WE5FUnVrYVhTRWlsbFBsQmxkdE9Idl9paDlVYVgtbk1GWk1wWG1FWGwtSTFOaU9ZRENQOVdSRWFZbm1mSGc1Q2fSAfYBQVVfeXFMUERpM0NfRWhYOFAzd3dvN1l1Wjh2RlVjVUR0amNGdGgwVHg5Zk9EMHdWQ0Y3THRxV2Q2blVNcXdab0pMcFdaazdieVVlZmdxTklSaVVnc2d0TnMwbTRiYm4xMlZNV0o5TkFZaC1HOUJfTFpubDRZd1JST2lsSkNyQVZ4dEMycmhQVko0SFV2WmZOa0dTdW55VnAwSHp3d1p5T3FOendOc2FWVWlSeUo1RUNDcG5XY2V1UEtlVUJEQlZuVGYteUQ1LWxYazd2U3R1WnU2TGNfNDZEQnhTRXMtNzhFOHZ2YmFaRFY2eGNDVmpUckp1YkxR?oc=5",
-        "publishedAt": "2026-09-28T23:47:00.000Z"
-      },
       {
         "title": "MYPE en Perú: PRODUCE explica cómo apoyar a emprendedores desde la idea hasta la exportación - apnoticias.pe",
         "summary": "MYPE en Perú: PRODUCE explica cómo apoyar a emprendedores desde la idea hasta la exportación &nbsp;&nbsp; apnoticias.pe",
@@ -234,6 +227,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "publishedAt": "2026-06-17T07:00:00.000Z"
+      },
+      {
+        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
+        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
+        "publishedAt": "2026-06-10T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -296,18 +296,18 @@
     ],
     "ia": [
       {
+        "title": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas - Gestión",
+        "summary": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX3Y5WVhJMENjVU5TSTkzRkR0UTllckE4SFdRUktHQzhYXzBrTHJRVXI0djh2cUN5OTdPa3hEQkdjNHFXQWI5aTNCd0hva3UxeUJBdWRfbkItempMYkVPZHVWYm9nNk12VVZ1THBuUDkzeld3LXFvMW12MDl2MFdmTEdmWnJBckxtTjdjanNRWjR3UklwZndxNlZNblpvM29yNnBpcC1icU5id1B1WTZ0X3Bjdlg5SzJTam85RnZTM1lMRkRhMTd0XzhTVEdtUGlZTk1GVlhLT3E2ZWNFU2JNS0ZBWDBmTkFySk9BUi1GZ0hXeEhDWkRmZjZSbnFPWWRNQjE0SFdWa0JqeGJUUmJrQg?oc=5",
+        "publishedAt": "2026-09-30T23:58:08.000Z"
+      },
+      {
         "title": "Predicción México vs. Perú: resultado exacto del amistoso internacional 2026 según la IA - bolavip.com",
         "summary": "Predicción México vs. Perú: resultado exacto del amistoso internacional 2026 según la IA &nbsp;&nbsp; bolavip.com",
         "source": "bolavip.com",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZG42WXhOSkpQOFctMlRoMURwMUlpNlhmSG5yUnpRRGJjS2hrVXJRaGZpZE1LTXV1VXBqaXJYSHBpNWFEQmhMTEU3UGRKY3lOc21lRnRZQ0tnN2Q5UmctVUExMHZzbjNMVUc1eHZWN2RhUkJJaWctT3I5VG1uQlVnM3M0YmpCUFZaLXlRWWhiSTg1UFoybVFKQjNOVzd4elluM1F2bEg5cVdHSThSRU1mUmdWWlZtSmFHNUNLM1hTcUhNSTI0RnfSAcsBQVVfeXFMUGNpQWJjRkZNb3pnWkkwNmRuZl9ORnBweU1aU05ncmtFaHgtbUluSFdURXRlUjJfbHRoRlVVUEdoRGVfT0xFVC1hSzBKYnlPcnFscjh4bUtlRHEtOUw0cTZfTWt1bnRpcDA3TXZpSlU1WWpTNUw5Y29jaDJ3d3JTYmNJUEFEWDZjaGhwOVhXVjZ3RVg3RTVnaDg4ZC1vYXlvSXIyNTB1aXlncldoNm1WMTFDejkxRWtTUDQ5TkFoWTFLSFp3UmtpTG92Rms?oc=5",
         "publishedAt": "2026-09-29T21:51:07.000Z"
-      },
-      {
-        "title": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas - Gestión",
-        "summary": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX3Y5WVhJMENjVU5TSTkzRkR0UTllckE4SFdRUktHQzhYXzBrTHJRVXI0djh2cUN5OTdPa3hEQkdjNHFXQWI5aTNCd0hva3UxeUJBdWRfbkItempMYkVPZHVWYm9nNk12VVZ1THBuUDkzeld3LXFvMW12MDl2MFdmTEdmWnJBckxtTjdjanNRWjR3UklwZndxNlZNblpvM29yNnBpcC1icU5id1B1WTZ0X3Bjdlg5SzJTam85RnZTM1lMRkRhMTd0XzhTVEdtUGlZTk1GVlhLT3E2ZWNFU2JNS0ZBWDBmTkFySk9BUi1GZ0hXeEhDWkRmZjZSbnFPWWRNQjE0SFdWa0JqeGJUUmJrQg?oc=5",
-        "publishedAt": "2026-09-29T17:05:06.000Z"
       },
       {
         "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
@@ -324,9 +324,9 @@
         "publishedAt": "2026-09-26T01:22:00.000Z"
       },
       {
-        "title": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo - mercadonegro.pe",
-        "summary": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo &nbsp;&nbsp; mercadonegro.pe",
-        "source": "mercadonegro.pe",
+        "title": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo - Mercado Negro",
+        "summary": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo &nbsp;&nbsp; Mercado Negro",
+        "source": "Mercado Negro",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMmY5UmVoQlRiVFZ0cDRQcEh1ZkpySWs5cXBRbmFLQTROWDNRa2QtS0tEdnVXc0V6NENLY2NzSDBtU2xZeFp1bm82anAwTFg4OEFZTGoyQ1hrRGpjc3lfbmN1SG5fS0VzbzlYN0NMWGI3ZnpqVF91N1N6ak13bzdGYzBjNENSaDczMkhURnJBMjRmdFE2SWc?oc=5",
         "publishedAt": "2026-09-24T21:49:46.000Z"
       },
@@ -345,9 +345,9 @@
         "publishedAt": "2026-09-19T07:00:00.000Z"
       },
       {
-        "title": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina - Portal ERP",
-        "summary": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina &nbsp;&nbsp; Portal ERP",
-        "source": "Portal ERP",
+        "title": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina - portalerp.com",
+        "summary": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina &nbsp;&nbsp; portalerp.com",
+        "source": "portalerp.com",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2Rud0dCQzBMb0x2dXpNak80RjFMa3huY3AtVFJ1b3l1RVI2MUZxYnR2V0h0THNmTTBBdmUxUkFIaTFtUWQ5LWh3Mjl4SUJURjBIY011M3pwNURhZ1YySmpCeUtfV0o0aXd5VGtGNV91VWdpZ1NDaHdDeWpXVFR0RnRlMkJ5TzNNb1RqWUNIQi1DZ01ka1E2WXRlUmNNMGRhNWZGSmpYX29reEpBUUlxNnUzNWUxWVBFSmZSRQ?oc=5",
         "publishedAt": "2026-09-18T01:51:25.000Z"
       }
@@ -366,13 +366,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXRuQnUzVFlpak42cWxYOVpfVVpBZDI1czRfY3I4cWpWdEtqOU9FWURLVjBmNjM0VzE3ZThLY0tLWXVaSmI3VDdsNEpqMUhNaUpJblFRX3E2VTBhSmdZcWtISVhFN01GeUhUbnhSVDEwejVpeFc3Wmp0a0ZTT0dXWGVpNkpSdFNDbC1od0xxRVVZbVB4MEZFUkdnQWlaeDNnNERJenpQS0RIQ1VPbDhPSkZjYVFJSDFDQ2h4enMzNzFRRy12MWhOZ1hNb2t5Z21UZXhIaldndkROWmZzb0pmcdIB-wFBVV95cUxPVlU3aUg1a2ZCaGg2c1M2WEV3cmFvNHc1N2UyYnZaRnlBVVR2Wngtdl9rNEEzT1B3YldhUHV3U3JBbnB2QzR3WEEyTVNCa2lpYWtNZ0J0VnM5ZzBCYlZST1lLX0NZb2ZPRVNIb2ZHQ2owLUpKYVFlcWEzMG5QaEo1OGtOVFVFR0d3Wm0wOUIwd1Y2enlYNm5WVXVVUGFSeGtYZ2F6X3Nrb0FSWEdmbWpZbHZBY1A0dWJCZUpTS0JSQy1FeG9kTW1EU2dhTWFvbC1YQ2hVSDVucDFWQ25UTFgtMUVITnpxendkYnpicWNoWHJiZXUyQjNydDJPRQ?oc=5",
         "publishedAt": "2026-09-29T23:36:00.000Z"
-      },
-      {
-        "title": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” - Infobae",
-        "summary": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZkl0eXcxNEwyUDZrN1hILXpPcXg5NGtQOEw0OEl1bUVRdGY2Y1ZSQjNIbzY0Unk5czQ0MHRoUk9qRHhKQkJsVjVKMGVWLWx3b0wxYTMwM1ZNQ1NGSDA4dWcxTndOOTRuRW9qcU5WbndpaGpiellyQXlDNndLWU4yUkt0Y1NzX1dyNFYtM2xKRTBoTHQ2WHZzWDFBaXRwZzVKdEtIWW9sTVBTLVRWUEpJWGx1c0hUYWtyOWkxdFNkLXA2Tngya0RsUTNWV3I2Nm40LWpRTmF3TTdUX2pHNUg5NDBuUmlxOFVsNFhtUklFSXlLUFJpblMyY1drZ2bSAZcCQVVfeXFMT1o5dDZIVkxkRW9fa05iczBSeUxGUG9OaFlGaVp4ZmNNbkFpUWotS0ZScVdJNkpieG55VllmcUlscFExVHhYVHdfSjlHZm50SGJuNUp1NmFoOHRkeDR6dDdfOTVISXlodGt1MUcyaXRzNUNhc3o2cU1RVjc3amExb2kwZWl1Z3piMW1UYVNORzNZMFVwRmZneThyYW9WNktDX29SR0hGZUYzMm9JeDNWX0dGYjZCVlBKTWNBdnptSGFtZTI4Y0cxeWU4UGI4RGc3WVl5UXFKaXdyeVk3OWpZX0ZGOXZheU40NGg1b09LUksxRW1INjdLb3VtUmNZbUh2RFdQRU5mV2lCNEtEbzZJSGQ1emc1Z21v?oc=5",
-        "publishedAt": "2026-09-24T17:09:00.000Z"
       },
       {
         "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
@@ -408,6 +401,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVmN3WHprRm1HX1MtdXhjWk5ZajM2dVZLSjJmY1VVUnN5QUxaUmxBeW81amF5RVY0dXV6clgtUERMZG40bmpBd2txODRnOElyeTEwMlZVZ0ZtcEVlelpKaHdCbl9ZUWhFUVVkbUxWd0k5X2FBd2tJNGM4bFBoakU0RDdOS1NxSmJFbDRGOHZ0UEJ2aXVfM3pmUUROMUloQl9uTFZDa3ZtaUJ5bHIwcW5hMTgwMlNoWk13UGhfZkNwbjZkMndyOHQzQjBsMnF6N2tOeTdlVE1zSXdkWTJDNXVlNTZhTdIB_gFBVV95cUxQNU45c1NZNkFDWjhUYzJxYUxYRGp2Uk9NaF9CbkVfSmRiZW90RGRWRW9BR2FFX1FkRVNySWJhdzVneTNFXzBDSEt5Y3RpeThBYlFfQldWaHZ0ZFRtSlZfaEtNUkpSLU5mOHh6Y2lxbTU2ekhmdC1zNmZMcVQwLVVkam5vV1lzRktaVFdmclp1NlR6RHNpMlYtNzltT29YWXFXR1VUS0w0Q0c4RGlGVEM0NVVlckVqOHR4c0U1UjlMcjRPVW43MjJhYV9hcWRTYmpVTEI4aGpsalFHbFY2LTNKX3ZRNFdLTVg0ZGtoaDdENE54S09xeTVVTElrZTF6UQ?oc=5",
         "publishedAt": "2026-08-15T07:00:00.000Z"
+      },
+      {
+        "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
+        "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -433,9 +433,9 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
+        "source": "diariocorreo.pe",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
