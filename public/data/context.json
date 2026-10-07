@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T00:25:15.970Z",
+  "generatedAt": "2026-10-07T06:55:46.768Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -64,18 +64,39 @@
     ],
     "economia": [
       {
+        "title": "Banco Mundial: Perú crecería 3.2% este año, ¿cómo queda frente al resto de la región? - Gestión",
+        "summary": "Banco Mundial: Perú crecería 3.2% este año, ¿cómo queda frente al resto de la región? &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaVlLUzlVemNuMDVVNGtLanpQemwtbjg2MWRiT0g5MDdGSndHOFJoT2RVZVJ0M1JuYi1IdzhQeWV3N3NLdnI4YlN2SUpWY3g4dDV1OFE0REs1dVlVMlNsdVVGSjFBVmhJcmRUd3FBQi1nR3VTRnh0OEdLOHZfbl8wMWxHZjNvNXdlN1VpS2ZnUDc5SHNyWEgwemVNQXk0TVphelJ1MWRJU1VsQURuMGllSHVaTHZTbXNzbTk1eFk4T0hLMVVBTU5j?oc=5",
+        "publishedAt": "2026-10-07T01:52:32.000Z"
+      },
+      {
+        "title": "Empleo formal en Perú crece 4,4 % y suma 268 mil puestos de trabajo - Diario Altavoz",
+        "summary": "Empleo formal en Perú crece 4,4 % y suma 268 mil puestos de trabajo &nbsp;&nbsp; Diario Altavoz",
+        "source": "Diario Altavoz",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXRSRFBkMkpNUFZpdWpaYndRem1HVGhuVExFR2tzMmo4eUNXM01TbDNqVzRpdWpmRW13ckhXMlRZWGl4QlJ4VHk0NlNwVzVxaVRlRWdzOWhHVFhDZG1PaVAtWmx6aTR1ZFpsOEgzNWlvMkVmOVBpVU1RS255V29NdkFkU1hUZ0JDQjNIaExIS2ZtekxBUDhjOA?oc=5",
+        "publishedAt": "2026-10-07T00:09:13.000Z"
+      },
+      {
+        "title": "Debido al mejor desempeño de la economía nacional: MEF, crédito suplementario por S/ 8,228 millones no afecta solvencia fiscal del Perú - Diario La Opinión Ica",
+        "summary": "Debido al mejor desempeño de la economía nacional: MEF, crédito suplementario por S/ 8,228 millones no afecta solvencia fiscal del Perú &nbsp;&nbsp; Diario La Opinión Ica",
+        "source": "Diario La Opinión Ica",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWGF3bTZrUUR2akhPS2liZGg3QkRxRGdPc2RVOGlQUTRWVHRvZkhmOWtCSjlrZXVDT2FuVG5WRzdVLVdUUUJVV1RibGFzeHhabGdIeUFoZzdma20tbG5xZjFxRlhJaTdHNXQzNnFHM1htMmZVaEhtaGRrc3VralB3V2dXR1VwdFVJb3dYQXJBNlR5YTl4eDZoSkJQR0NicUZ2bkp4SUM1NGtPTWJGeVJ5cnp4bXY2NTZmZWduTV9ZZHJmcFk0YjNxazRtTTVNWU53eVVQc0FjZFpLM3h5bTZ5bDhJczI0TlYyczFBaC0zdi01c1Q1RFZkYVFPSEJjb0U?oc=5",
+        "publishedAt": "2026-10-06T20:56:13.000Z"
+      },
+      {
+        "title": "Precio del dólar cae poco en Perú: Así cerró el tipo de cambio hoy 6 de octubre - Infobae",
+        "summary": "Precio del dólar cae poco en Perú: Así cerró el tipo de cambio hoy 6 de octubre &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYndXeTB2bEJpU0NQdTM3TUxNWEJtSmlFWjFpcmZ1cHl0ck1VZFpUNWJaRUFzLUVJaXUwNllvTzNOQTlHd3ktaTRMZURuLXY1OG1SY0ZnNmVjS3poWmxORjk2ZkYzOE9BdkNLY1BYSDJaNW1vMDNlWnpEdkxjeFJUNDBEYnNzRUwwc3RLUlRDcE0wMThwNXhMZXlZLUJJM2fSAboBQVVfeXFMTjNHaXQxLW4xMlJYZzkwZ2xpUlMzcWNxMnMtaHU2MW9KT1NuM2M1MElMQWZOeEREUWNVZzF0aUl3c2lCMnJBSkszVjdpQlVrdjhKSFpsdk0yUDRyaXNvY2hMUEtvaGtkM25QZ0k3NDUwc2dycUNIa0xQZl90V3pOendGck9aMGd2MUE1OXBpMmZBNWM4VUhlSS1Wdm5NSkJjSGoxbUQtT2V6TXZPU2hxWUxTNVdhZXJPdHJn?oc=5",
+        "publishedAt": "2026-10-06T20:04:00.000Z"
+      },
+      {
         "title": "Economía peruana crecería entre 2,5% y 3% en lo que queda del año, según el MEF - LaRepublica.co",
         "summary": "Economía peruana crecería entre 2,5% y 3% en lo que queda del año, según el MEF &nbsp;&nbsp; LaRepublica.co",
         "source": "LaRepublica.co",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM29ocTNtd3ZNUHdsX1dQVVp2emtwZjRsQ0gwY01nYWJTQWExRmZteDBNTVhudEZsOUx2VC14TkMyVGhHZk91dlMxMzdDb29ldkpEQ2JUaXlqX3Q1U1ZucXUzR1dNUkQ5d25jLTIyc0k2dWxINFpWTV9OcGNKZW52Mnp3Y01sNEhFcDNiUElRcURhZzY0X0NRMVVOc1dvckdWVWlZN1VoMzU5bEFjNVk5OFdVZFV2dkp3UFJKTDluZ0lFOFk?oc=5",
         "publishedAt": "2026-10-06T15:05:51.000Z"
-      },
-      {
-        "title": "Precio del dólar baja en Perú: Así abrió el tipo de cambio hoy 6 de octubre - Infobae",
-        "summary": "Precio del dólar baja en Perú: Así abrió el tipo de cambio hoy 6 de octubre &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYndXeTB2bEJpU0NQdTM3TUxNWEJtSmlFWjFpcmZ1cHl0ck1VZFpUNWJaRUFzLUVJaXUwNllvTzNOQTlHd3ktaTRMZURuLXY1OG1SY0ZnNmVjS3poWmxORjk2ZkYzOE9BdkNLY1BYSDJaNW1vMDNlWnpEdkxjeFJUNDBEYnNzRUwwc3RLUlRDcE0wMThwNXhMZXlZLUJJM2fSAboBQVVfeXFMTjNHaXQxLW4xMlJYZzkwZ2xpUlMzcWNxMnMtaHU2MW9KT1NuM2M1MElMQWZOeEREUWNVZzF0aUl3c2lCMnJBSkszVjdpQlVrdjhKSFpsdk0yUDRyaXNvY2hMUEtvaGtkM25QZ0k3NDUwc2dycUNIa0xQZl90V3pOendGck9aMGd2MUE1OXBpMmZBNWM4VUhlSS1Wdm5NSkJjSGoxbUQtT2V6TXZPU2hxWUxTNVdhZXJPdHJn?oc=5",
-        "publishedAt": "2026-10-06T14:54:51.000Z"
       },
       {
         "title": "Perú.- MEF: economía peruana crecería 3.4% pese a impacto del Fenómeno El Niño - https://www.notiperu.com.pe/",
@@ -97,30 +118,23 @@
         "source": "Perú 21",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1hxYVNQeWpXd2VkSWdhNkNqZ0psTWY1UDE0VzFqUXNIMHVxdzczZVRxODhrWkZGaUU1dmhKd2Nnd2FuRXY3cF9GeWdvU2ZSUlkteDZ5d2ExbXBveHI4V0ZRRzlBcXdjSDRSZ3VYdmptanhKQmtNTFk1aXFEZ3o3LXJ3aTlGMVpualpXT1lYbG9SX1HSAZgBQVVfeXFMTXpkMlBLcVI3RVl5aTJpYXgxN3R3MXBzcVJ3S1FiR3ZSekg1bHpOaWtRSWxOcFFwR3JPcHJOcnBUaTJ3OFVkVU9zZ3dFdmdtdXd4QXQ0dDFyQm5jdG8wUFk5NkdjU2xhWXNORG1GTGl1TG40aGZrWmlDaTU5WHpnajVrUVUwbmlNU3pwNGxfM0cxaXY0MW5TRXk?oc=5",
         "publishedAt": "2026-09-26T23:15:11.000Z"
-      },
-      {
-        "title": "MEF: economía del Perú creció 3,6 % en julio de 2026 - América TV",
-        "summary": "MEF: economía del Perú creció 3,6 % en julio de 2026 &nbsp;&nbsp; América TV",
-        "source": "América TV",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmJqSkx3R0g1eWlnVlhBYVRZVXJJZ2JqUG5fTHNpdWd2RFRmMlpMSjI5R0l2aG5HU2d3bFdSNGF6bUtGOVdwUmZ4Wk5BNU5aeWtQUEtacHZ4NTRZdmFjbGVFek9NLUp6TExHbUtTZk8ycGtVR0Z0V05sbE0wYXpOa0VWWi01WTRzZ2U0eFg1OW1ySDVfMTlJYS1mb9IBoAFBVV95cUxQaF8xQ25KX1hQQ2pTT21vM2JHRWRUNnZuTjg2LTZRVTAyTWd1U0d1QWlzejVIOW5wNHpjOUdwcUE4NkVDY1hreThuRVJEYUFCMWVhbjRuek1IRzFVWm9lbjNSemlLWDA1YlcxV00tYk1PUGRoU0h2eGJ4azU2cG1HTVV0UzdEbW0zUFFVbDRrcHhidGttcmRnSHNkSV9XcVda?oc=5",
-        "publishedAt": "2026-09-16T07:00:00.000Z"
-      },
-      {
-        "title": "MEF: economía peruana creció 3.6 % en julio y acumuló 28 meses de expansión continua - TVPerú",
-        "summary": "MEF: economía peruana creció 3.6 % en julio y acumuló 28 meses de expansión continua &nbsp;&nbsp; TVPerú",
-        "source": "TVPerú",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQam5YWnpmYW1SeXZlVFd2cXNBSkNuZkdlalNoSDNiYzAycWJNOFU2c1ZTdHdJcndnNHJwTzZWTkNQa1ZPN1Rxenl1RXdmbFNfNmRTV0xfUEdmTE1wcXdHZ3RiWHl2aWJpdVlUS3BfeExhWGtDWWlFMVFaWi1yMGZtWkFtMnQ0TWVMZmRQU1lIMlcyRVlqZF96aG9wR3dtNmlEdU10NXhyeERCNnpTWTF1TXI3amN5YkFKLVJLQjBINXl0dw?oc=5",
-        "publishedAt": "2026-09-16T00:54:31.000Z"
-      },
-      {
-        "title": "Economía de Perú crece 3,56% en julio y supera previsiones pese a caída de pesca y agricultura - Bloomberg Línea",
-        "summary": "Economía de Perú crece 3,56% en julio y supera previsiones pese a caída de pesca y agricultura &nbsp;&nbsp; Bloomberg Línea",
-        "source": "Bloomberg Línea",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUjhYVEswbGZEbVo3dGRpakFMZThZSzk1V294Qnc2RnJBMW40bDlRemJGcDQwTm1HUmRwVE5HVjhhTTFLV0pHTXlwMzlOYlQxQnlFSk1NZUg0X1BjTTIxVDNQT3BNbm1xTHp5bVNEM01RNlpZR2ZQVjlZNkVTUDNMa0VLOEhockFUUS1VWnpKUjBIVTRxaG1kTC1zaUhJSW5GTTFUVjllVU9WR2IwUnc4YXFrVmNDMjF4Y2p2V3RCYzc2djY0UU1POXJwTlVtbVBHbDdRRW1tSENiUWPSAe8BQVVfeXFMUGQtT3BXUEExMFhRUHlzTnhabmRjMkZVbWFRUU91REQ1bGFFOHlyNWhPWmlPT3ZOZzgycHdOdUl2Zzg3dFZPOFlPcFJlWEJXY3BvZG5JVE9NT0szYzhoSm9UdW11TDdQMVNwYUY2SU5hX285Rm1KWGR4S3ZEeFNmUjJTTHphMXBIZDVreXNYTnhJY3ZFY2RtREZKakRwTjd1aWJRSUVYbE1ZYWJodXlTbXhFZXNLVHVWYVU3TC1xSy1NTUJWdUpFMXNLa0FHMllxZnVMb0RhRFJWc2FmTU9JQzBFSzJ0VmZIYXpWU01rZGM?oc=5",
-        "publishedAt": "2026-09-15T07:00:00.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
+        "summary": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
+        "publishedAt": "2026-10-04T23:27:00.000Z"
+      },
+      {
+        "title": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN - La República",
+        "summary": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdHlxN3pWUU9DenhObS0temJHTWt6UGoxWThSTEVydk5Sa2U0T0tGZm00VDdEbUJIMnlUQlg4bnR4WEQzME41cnhTUWdYT2VfanpPa3VIS080Q1UycHB6eWtpZEF2ZnM0dDV0bkhmNUtfRzByY202dWt1d2hsWWlrUUdCaGsyZHJNcU1ydWNuOFdPUGcwb2gtSW9TbElROW9nakxmcm03cUFDMEZLT0pXbVpIMlNXdUQ2a0Q2UEw3WkNoVXBjYVc4ZUlFRXRfUVR5alRydkJ1dG5KUkxnQkVEVklGb1RDTWVsMFHSAe8BQVVfeXFMTURTcmlRY1NnMm1abmptUHIwOW1GN2lzc1Z6c29EZFN3bUFUOE50MlQ3MzNSdFhIY2o0X3JveTI2WnRqajNwOEljMU5TblZvbHhZUnMzVk5OaGdNelV6dmp2LWYzQl9ndWNjd0tFWnMyMEIxb2xlMm1nc0s2TEc3SlFrVlIyYTJ2aXl2N2NoZVRNZ1JkcjNhRVJuLWtGeThCQ2hMUUpiYWZfcTZaOEQwcm84TmNwSzlMbGY4dl9ObWNXMVFBbmVpSEdyS05XeG9VLWVGcjNZTDE2Tms1TTVfMWFXWmRrM1l3Tlg1N3JDVmc?oc=5",
+        "publishedAt": "2026-10-02T22:57:26.000Z"
+      },
       {
         "title": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento - Infobae",
         "summary": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento &nbsp;&nbsp; Infobae",
@@ -134,13 +148,6 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemVNbG80NXl2WFFVVFNUVUtSTWllaGx4bkZVaUcxT01xRmFtTm9tV0lKd2E5ZVQwLWpEb24yWjZtQnZ6NlZ2dFhNQkJRR3dPYnR1MVRVSTlVX0puTjBzMDJRVE5HYnNEaTM1dzVpQVphZFo2WEp1b3pSOEQ1c2x5d1lYWDFKU2M3eTh5Ug?oc=5",
         "publishedAt": "2026-09-29T11:53:00.000Z"
-      },
-      {
-        "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
-        "summary": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
-        "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
         "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - La República",
@@ -169,13 +176,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnB3bzVxUmd0OUYtcDl1b01PcVNtVzVac18zZGpEdWxSZTVWUGxiUGY2VHZYSHE1c0VQcG11Zlg3eHZLZkctY1JFSGE2UVRTNE1jcWxiTE9rTXdabGdJUTdsQTlhN2ZKYWxXczRBUGhUYjE0LXlfZElpWTltR2FRVnBCMnZROTU1a3ZxWXZhNlFIaTZVWjlBTWJoT21Tbmd3NmhHLVJGSnlOdjBtUHZ3VGJnelJKeTJaX0hpdWJJeklIR3B1N1dfZ01iZWlFV0xrT1d2bG1mc0JWVG9rRVVkalFxZmNsRkXSAYICQVVfeXFMTVVCcVFOaGV1T3c1U1Q5cFppVFBQZ0hma1ctVDVYbzdFUlBsZ0dETG9tWk1GSWFzRk5zUEtlY3h6SDB3OGhyTUpWVG9qdEdMOVVhUUZTbEFBYS1TZmFBQWpDN2lHN0VMQWdWMnV1NHU4WGNDVlB1eGZrMXNITmxqdmx2M0tYN2lzODdGZDVJVWVUbVhZeXhYNlktV1hkTmJHS0d4NjVEcEhKOTMxUkx0STA3WDYyMWJZc0YwU09lQVlESHkweTBxSmtmZ3BvZzBIS1dlRHJtVG9tQU1sU1kwYVg0cW1pcExDSzgyUS1kMmZvbTVPNXAyX3plMWM5TXNZWE5n?oc=5",
         "publishedAt": "2026-07-26T07:00:00.000Z"
-      },
-      {
-        "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - TVPerú",
-        "summary": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado &nbsp;&nbsp; TVPerú",
-        "source": "TVPerú",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbS0xd2cxQXI5T0hEOEVrN3M2eER5Y0VTTW0yQzBRWGZteXVCLTRySkZwT3ZYNUJ5OEg4Q2hPZENLZnhSdjdxaWxRZExVMndoSmtWcnVxU09LelpFbERlXzQ2cWdQTlM2WG9YYWJBdmIyOWdzUkI5MWYxOHBkei1aMWZna0Q2a2Vrems2N0RwQklYWGhaY3NyLUlyOTZUbWQweHpHa3VLZGxjaTNEMEpObVNFM1VvMEVkSzU3cDFNOXVIZEl5WGFha0J1UXRRbHBwa1JYeWxjNXNPLUhx?oc=5",
-        "publishedAt": "2026-06-17T02:03:59.000Z"
       }
     ],
     "negocios": [
@@ -412,13 +412,6 @@
     ],
     "farandula": [
       {
-        "title": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 - La República",
-        "summary": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdjBmOTJrY0FvQ1Y0OEEwTlJQQjdYMzFzWXRINlpmQ0R4YzVzQlZieWpzUVp5WTdVV2RBdF9lSUVjOHh2b2twek1KSVUxaWtHTXZqUmVXZGRfNlJFTUp1emYtMTBRSGxteW0zcUVIb1ktWjNlMmgzWnFaRlotU21rcElfUldDcUMyUWZRc0J0SEdZTTJNbE5UN2pQMXhUUGczTDN4Y01MczZiYWYzX3FhZ1JBX0tVa3N5cWtuQWpfSFFGaVNSWF9VeHM2NlM2MWJ0STY4Y1g4eEhwZm5XQkRDMmlsUExwd9IB6wFBVV95cUxNVWdodTNnWmhWSXZ0TXdBa3NVOFRVbUZrMlhuUGxNQTFvX09hek9Da2hlLU5Yb2txc2I3UklYWE1hLTd1LW00WTd6b0NxdWo1WTRXOTItNWdOLTNmRzVhSkRDblV4YmJDbDdockJ6SVdOZ0VkcXdwOUo1QVlYUDJXN01DZ2FQSXBPbzlNT25KSlRua1ZDRm9jaEdaX2FEcG4zZ1NHQjYybWw0TFRjQkpOWlBhRjhTWUFXM3BhYmxFYWFvWkYwbnU5RTVRWXhRRnRVTGp0Zi1EX28xVldfVDF1T1R6Y0JVclViV3Aw?oc=5",
-        "publishedAt": "2026-09-21T07:00:00.000Z"
-      },
-      {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -447,17 +440,17 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
-        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
         "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
         "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
+        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
@@ -466,6 +459,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQN2IwQ21SMVZrT2VSbVN4QVdqd0prczd1SE1IcmN5djZ1NXp2cE9UTkNrd2o0X2Rwd1ZObW9qWUJzdFRiUGZ6R0tVakQ4V3g4QVVsNHp6VkdFTXJiTy1ubDlDSElzT3lMRVI5WWJHMGFXUzdiOTlWSlFzcl8tcm9PbGVJbERueHUxNnBJNlVfU0dUb21iTGtsM2dkZlphS3JTSGNROUh4M3JteW92ak5iWXNhOExJMGhjanh0al9GNi1RZG1MejNmODZKNG1EWWFMLXFRQkc0TkFLalRKN2RPVUl6ak0zY1RxZVdqdWdZWU01ZlZlRWtlakpxMUxTWktaMzY3clhhRUFwcW04QWfSAagCQVVfeXFMTldmWnBhODVBZ0lfd2tHSTB1N0JEX0JBQ2VuMjZjdHFsZ2dqTldwQ3FSMXFwb0YyZ2hlbUw2N2dDdGJBVUhUbFRwOWF0cEpsUnowaXppQmFjVGQ2RWtnd01SeFJpQks2bF92aG1RV2ZhOEpIN1l4X2Q2amZ5TERVdlV6Sm9LVktmcUw2TDkxdURkeUFOc3VGdVBWcEZDN2FIeHNPaDlyZGFoR1ZCVlRNdXc2YUd6WGQ4VGlBdG1IdkVJS3VNR1A2eGtNMVZYQzZIUEpCdXpPR0lIWGtqcGVOc3VwcnlMelhtdkxnUDJ1c19lY3RYVUR5NjA1Q3pYX1Q2SkNtQjd6cG1ablhFMjdabVkxcWU1WXZWQXcwZGEyQmhhRzRLUFB6bFQ?oc=5",
         "publishedAt": "2026-07-27T07:00:00.000Z"
+      },
+      {
+        "title": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina - Infobae",
+        "summary": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
+        "publishedAt": "2026-07-26T07:00:00.000Z"
       }
     ],
     "cultura": [
