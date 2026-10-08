@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T00:45:55.183Z",
+  "generatedAt": "2026-10-08T07:03:40.346Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -68,7 +68,7 @@
         "summary": "Banco Mundial mejoró proyección de crecimiento de economía peruana a 3.2% para este año &nbsp;&nbsp; Agencia Andina",
         "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXNWS1ZHNjJLUlRwcmZWQnpPWmdaOVE1dWp1WHlQZi0wTHJTWkFsNk1pS2h4U2ZjcWVaaTZQejM3VnhRY25JSjBCeXZFWUZqSnNXVXBZNDRfY2NTYzdOM0ZyamNoM3ROMUxlSWlmMFNPcElJU211dlY1eG0xdHdJcHNYVUhER2l2UTRyZUg5dnRjU2ZTQXMwSEM5d0MxX1NuV0FybU0xZDRxSENiVTlaYmlBQV8yMFU4T19sRm9UOU9xU3lt?oc=5",
-        "publishedAt": "2026-10-08T00:36:45.000Z"
+        "publishedAt": "2026-10-08T06:36:46.000Z"
       },
       {
         "title": "Economía del Perú bajo el radar: los ocho riesgos que pondrían en jaque un mayor dinamismo - Gestión",
@@ -76,6 +76,13 @@
         "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM0dCMzNTZ3lTZ2pxZW45SFBqY1N2dzRMbmZ5SHVuMVhhYWRpM2pNSGRSOEtpQk5xVE0zUUtfZzU2TW0xdGhnUnZQdUdfOWZNQWl6dnFxN0hsSDJmd0ltQkJBUjdteTM0Vk02NmJCY1JNZFkxSmoyUUdpLVhKMGNMZy1nLVZ2WHZsTFRJR2VtVWR2OS1zOHBiSmZ5c09qN1FkVHczSHFmSGxwUkFYNmpQRy1jeUlZNEVBNU0xTjFEWWNhWlhi?oc=5",
         "publishedAt": "2026-10-07T22:28:45.000Z"
+      },
+      {
+        "title": "MEF mantiene proyección de crecimiento de la economía peruana en 3,4% para 2026 - Revista Economía",
+        "summary": "MEF mantiene proyección de crecimiento de la economía peruana en 3,4% para 2026 &nbsp;&nbsp; Revista Economía",
+        "source": "Revista Economía",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56YmtNdUJMajFveFI2cXVlMUpGOEtvcGMycURrekVfSm1SLU1hNWFiZ0RVTF9Kd0tzV0NpbWl5SzlFaFpPREtfSUUxVXg1THA4WVdzSEd2cFRzTGt2S3hPdlR2SDRQTGNZRlpIWmhR?oc=5",
+        "publishedAt": "2026-10-07T21:52:21.000Z"
       },
       {
         "title": "BBVA Research prevé que la economía peruana crecerá 2,9 % en 2026 y 2027 - BBVA",
@@ -92,6 +99,13 @@
         "publishedAt": "2026-10-07T19:33:08.000Z"
       },
       {
+        "title": "BBVA Research recorta su proyección de crecimiento para Perú en 2026 y prevé que la inflación rozará el 5% - La República",
+        "summary": "BBVA Research recorta su proyección de crecimiento para Perú en 2026 y prevé que la inflación rozará el 5% &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa3l1clFkbHVUWVlkLXhtRVREUzBWREdxUW44cWJRd1NaVU5EOGtrYUdUaUFqUk5ZVkNqZ2RzYkZQX2VzcGxuNFhNRmRNblBCMDZnVXR3VE5UMmd3Mmdhb1pDR29ScWRZUVlYaWprbERZVlZLUVhRX0tsVThyckhQeTNxXzZlanBCOS03TDZlMlZPcHlZajRPeWJaREFra055RFFSNXpHcXF4aVl0Y2hVVS1KYjVRRzI3VHE5bTBNbGoxaDU3aF82LTlJcmNaelg0aTN4SNIB2gFBVV95cUxNemJWNHFnRFBlRDBvT3MwSGlNbnFMbnFJTU54WVVtRlNZN25iemJwZnd2MWNKbjVZNzlRU3BUZnFMTW1hcXgxZ2xYUk5GcUJIdVd2NjhHbDRmcXg5NkpOenlHLTlWc01hNXFqeFE2UlpnZ0xvaHNra2wyTm03TnBjcHpwR01DelN3c0hsbXpxdnpfMWdQam9XZUs2dGhULUIwTVBCd21lanNDTWJVaHRnV0pUY0NnNGpTZjhuWW5LSFN3RThCSlVNV1RwT3ZvZUNJUTRVSVQ2THkyUQ?oc=5",
+        "publishedAt": "2026-10-07T18:40:48.000Z"
+      },
+      {
         "title": "Economía de Perú crecería solo 2.9% en 2026 y 2027: El Niño preocupa más al BBVA Research - Gestión",
         "summary": "Economía de Perú crecería solo 2.9% en 2026 y 2027: El Niño preocupa más al BBVA Research &nbsp;&nbsp; Gestión",
         "source": "Gestión",
@@ -99,25 +113,11 @@
         "publishedAt": "2026-10-07T17:03:35.000Z"
       },
       {
-        "title": "Banco Mundial: Perú crecería 3.2% este año, ¿cómo queda frente al resto de la región? - Gestión",
-        "summary": "Banco Mundial: Perú crecería 3.2% este año, ¿cómo queda frente al resto de la región? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaVlLUzlVemNuMDVVNGtLanpQemwtbjg2MWRiT0g5MDdGSndHOFJoT2RVZVJ0M1JuYi1IdzhQeWV3N3NLdnI4YlN2SUpWY3g4dDV1OFE0REs1dVlVMlNsdVVGSjFBVmhJcmRUd3FBQi1nR3VTRnh0OEdLOHZfbl8wMWxHZjNvNXdlN1VpS2ZnUDc5SHNyWEgwemVNQXk0TVphelJ1MWRJU1VsQURuMGllSHVaTHZTbXNzbTk1eFk4T0hLMVVBTU5j?oc=5",
-        "publishedAt": "2026-10-07T01:52:32.000Z"
-      },
-      {
-        "title": "Empleo formal en Perú crece 4,4 % y suma 268 mil puestos de trabajo - Diario Altavoz",
-        "summary": "Empleo formal en Perú crece 4,4 % y suma 268 mil puestos de trabajo &nbsp;&nbsp; Diario Altavoz",
-        "source": "Diario Altavoz",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXRSRFBkMkpNUFZpdWpaYndRem1HVGhuVExFR2tzMmo4eUNXM01TbDNqVzRpdWpmRW13ckhXMlRZWGl4QlJ4VHk0NlNwVzVxaVRlRWdzOWhHVFhDZG1PaVAtWmx6aTR1ZFpsOEgzNWlvMkVmOVBpVU1RS255V29NdkFkU1hUZ0JDQjNIaExIS2ZtekxBUDhjOA?oc=5",
-        "publishedAt": "2026-10-07T00:09:13.000Z"
-      },
-      {
-        "title": "SECTOR TEXTIL EN EMERGENCIA: ¿QUÉ PASA CON LA PRODUCCIÓN Y EL EMPLEO EN PERÚ? | ECONOMÍA PARA TODOS - www.apnoticias.pe",
-        "summary": "SECTOR TEXTIL EN EMERGENCIA: ¿QUÉ PASA CON LA PRODUCCIÓN Y EL EMPLEO EN PERÚ? | ECONOMÍA PARA TODOS &nbsp;&nbsp; www.apnoticias.pe",
-        "source": "www.apnoticias.pe",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXF5dzJiSXp5ekpwWXhzZDVQZ2twelNXTGU2TUNsNTd6ek4xY1dnYl81VzN5eFhMcFBjaFRrazNlaXMxZDhicEJFd2pKd2ZBR0Z6aGZiUWN1eWNwWXg4M1M0SXNnODktdnUxQjZ3VUVRMjRlQm94T2tVQzlMb2ZmY3dWR1lBSzZ6azhWMGNkTkUwSEdmVmxnaV9aWEI5cGE2QU5KemR0VWJWZS1kYUdvdEJYOExDX2hLUHdvRmhudVFYa0l2ZEtSa1BRaEloUQ?oc=5",
-        "publishedAt": "2026-10-06T23:39:07.000Z"
+        "title": "Perú: Banco Mundial mejoró proyección de crecimiento de economía a 3.2% para este año - Agencia Andina",
+        "summary": "Perú: Banco Mundial mejoró proyección de crecimiento de economía a 3.2% para este año &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaHBIS25Hclp5V3dJQWQ0YXlYWEYtSmowTkJVSjc5SzlTNXJMZk1mcms1c2I2YXYtWi1vdHExLUxPZUxrWTllbFdtQnFBWFVBYld3dHhqMmhBc2phWG9Wdkl3VzNfTmw1NERWdkV5LW9HMFZxbTR1cFVoOFNYUkRjem9WUUREdFRCUEx3MzdBbG50M2o4MF9wTGNYX1hhc0ZGUGxFajhmYUp1SDFQNGVfWFhkdkMwdFUwaEViczFWbHA?oc=5",
+        "publishedAt": "2026-10-07T16:58:00.000Z"
       }
     ],
     "sociedad": [
@@ -146,7 +146,7 @@
         "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
         "summary": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrXw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
@@ -300,7 +300,7 @@
         "summary": "Perú, el más preocupado de Latam por impacto de la IA en el empleo, ¿riesgo real? &nbsp;&nbsp; Gestión",
         "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbW0tdEdqMHU1VjFvLVl5TURURUhDSnI0Q0thbjJCOTc2TGRzMTcwMW1wazlIcUREQ1RsaTA2SUN2bVlwVWdQdUNEUkFFYlBOdDhkcElzTFFzVWZBRDAyUHJFVEN4b0tzbE5KMmM4eGdURVJ5U2s4QVZFUXUycVlHODYtUFJMckZIUHoyU2p3NGNwZ0hQa09BQXhKaUVvdUJ0OUtVcWlMdHZJeXlaaWJxZEd3SlgyMmt3T2E3X0pYdGMtZEp3SDJvWEtvUHd5T3YtWUlNWHdYT0VBRmlsVTBJbi04amdTeHdPbC1GcTM5c3MxdXFEV1hPbHpydThOcHJCRDRBaXAzdUxqUQ?oc=5",
-        "publishedAt": "2026-10-07T20:19:47.000Z"
+        "publishedAt": "2026-10-08T03:49:49.000Z"
       },
       {
         "title": "La IA llega al café peruano: reduce 77% el tiempo para evaluar la calidad del grano - AgroLatam",
@@ -419,6 +419,20 @@
         "publishedAt": "2026-10-03T01:42:10.000Z"
       },
       {
+        "title": "Robbie Williams, BTS, Hombres G y todos los conciertos en Lima que restan para este 2026 - La República",
+        "summary": "Robbie Williams, BTS, Hombres G y todos los conciertos en Lima que restan para este 2026 &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTA?oc=5",
+        "publishedAt": "2026-09-22T07:00:00.000Z"
+      },
+      {
+        "title": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 - La República",
+        "summary": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdjBmOTJrY0FvQ1Y0OEEwTlJQQjdYMzFzWXRINlpmQ0R4YzVzQlZieWpzUVp5WTdVV2RBdF9lSUVjOHh2b2twek1KSVUxaWtHTXZqUmVXZGRfNlJFTUp1emYtMTBRSGxteW0zcUVIb1ktWjNlMmgzWnFaRlotU21rcElfUldDcUMyUWZRc0J0SEdZTTJNbE5UN2pQMXhUUGczTDN4Y01MczZiYWYzX3FhZ1JBX0tVa3N5cWtuQWpfSFFGaVNSWF9VeHM2NlM2MWJ0STY4Y1g4eEhwZm5XQkRDMmlsUExwd9IB6wFBVV95cUxNVWdodTNnWmhWSXZ0TXdBa3NVOFRVbUZrMlhuUGxNQTFvX09hek9Da2hlLU5Yb2txc2I3UklYWE1hLTd1LW00WTd6b0NxdWo1WTRXOTItNWdOLTNmRzVhSkRDblV4YmJDbDdockJ6SVdOZ0VkcXdwOUo1QVlYUDJXN01DZ2FQSXBPbzlNT25KSlRua1ZDRm9jaEdaX2FEcG4zZ1NHQjYybWw0TFRjQkpOWlBhRjhTWUFXM3BhYmxFYWFvWkYwbnU5RTVRWXhRRnRVTGp0Zi1EX28xVldfVDF1T1R6Y0JVclViV3Aw?oc=5",
+        "publishedAt": "2026-09-21T07:00:00.000Z"
+      },
+      {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -433,6 +447,13 @@
         "publishedAt": "2026-08-26T07:00:00.000Z"
       },
       {
+        "title": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? - Infobae",
+        "summary": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOR1NDdF9mS0J6YWhSQTJhRFpYVzFQbHMxMWNtVzJ5eGVfcmRwRS1vWTNiV0tpSGJEaXdPNE4tYkMzM0tobF9yMkV4dTR6NDJ4dXZ4bFR1al80cVVrOUVqbUF3UDBKNHVPVTVhak5VTUhJalJvZUE5aFRQTldJU3JDdm9HLTZDNVBxUE0xZDA4VWVqa3hXWnBhLTkwUlBsTmVuS0p6WHpmQ0tVNkhBWWhGQ1RXcTZPZGs2S2Qwc0hJVlpJWlFTcFI0ZGZ6OXZhLXJzZFRMZ1J3MFMtZS1ueEZLYWNlQWIxQ3RzN3pvVFM1Qi1TTXZsSmRsZXFhbVRNd0JOZkFjWXlsSnbSAaMCQVVfeXFMTXliQkJBdndLUUhLNE92NFA4NlVOQzFCMDhqM2RKNzJWWHM3YV83bnhKTGdHTFFFcHpQckhiOUlPTnpSejNodzRyTElBaFVzNlV5V09wdElvbHdORU84TlRjY2I0dS1SQlFpekZuVlhDcDQyR3hRMW8wZUxNV1dWclhJUDYwTVVlMXFOVHpFWl8zVHAyTloyVUJ5bkVMWW1ZTG9WX0p3X28tQm9Cd0ZZVkQzS05NZ25fSmk1Z1NFbUd3Uy1MSWM3cDBvbnRmTzI5S0VFLWZSdFREQTdMV1BPREQwU2doTVVhTmNWaUgyeHpUbmJvNVprUElyV0tKVk5HR3VMQkNVVTcxUmJJNkh2MUg4TkZFUU9ZcXZZM2FVLWFTOWlv?oc=5",
+        "publishedAt": "2026-08-06T07:00:00.000Z"
+      },
+      {
         "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
         "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
         "source": "Facebook",
@@ -445,27 +466,6 @@
         "source": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLWVGbEUwVG85QTkzaU82bVRlX0lJc3hyd1hzbERpS2lvaWZqTE9idmxvUlZwM3JzV3RtM25EamxVZGY1UnNRNVJxaUNNaTU4VU1abExzUHk3Q3RTYjlFcHpXMnpxVF8ySzZvZVZxTUxDWnRrYWgzX3BVazNTNVd3dTBvamE2S1oyRHdiNDNKNC1wX19FbjZ1VnN1S0xaTGdQVy1OY0cwbzVCX0ZFbjI0aDZYVlNhWUFXVFZzNEJkUWMzNE8xVU1PVzcyWklPLU5RQVRueEVuWElRcWdZekJGNFdJbkVobFMtcHMw?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
-        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
-        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "title": "Christian Domínguez es condecorado en el Congreso junto a Cachay y Paul Michael: recibió diploma por su aporte a la cultura y entretenimiento - Infobae",
-        "summary": "Christian Domínguez es condecorado en el Congreso junto a Cachay y Paul Michael: recibió diploma por su aporte a la cultura y entretenimiento &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQN2IwQ21SMVZrT2VSbVN4QVdqd0prczd1SE1IcmN5djZ1NXp2cE9UTkNrd2o0X2Rwd1ZObW9qWUJzdFRiUGZ6R0tVakQ4V3g4QVVsNHp6VkdFTXJiTy1ubDlDSElzT3lMRVI5WWJHMGFXUzdiOTlWSlFzcl8tcm9PbGVJbERueHUxNnBJNlVfU0dUb21iTGtsM2dkZlphS3JTSGNROUh4M3JteW92ak5iWXNhOExJMGhjanh0al9GNi1RZG1MejNmODZKNG1EWWFMLXFRQkc0TkFLalRKN2RPVUl6ak0zY1RxZVdqdWdZWU01ZlZlRWtlakpxMUxTWktaMzY3clhhRUFwcW04QWfSAagCQVVfeXFMTldmWnBhODVBZ0lfd2tHSTB1N0JEX0JBQ2VuMjZjdHFsZ2dqTldwQ3FSMXFwb0YyZ2hlbUw2N2dDdGJBVUhUbFRwOWF0cEpsUnowaXppQmFjVGQ2RWtnd01SeFJpQks2bF92aG1RV2ZhOEpIN1l4X2Q2amZ5TERVdlV6Sm9LVktmcUw2TDkxdURkeUFOc3VGdVBWcEZDN2FIeHNPaDlyZGFoR1ZCVlRNdXc2YUd6WGQ4VGlBdG1IdkVJS3VNR1A2eGtNMVZYQzZIUEpCdXpPR0lIWGtqcGVOc3VwcnlMelhtdkxnUDJ1c19lY3RYVUR5NjA1Q3pYX1Q2SkNtQjd6cG1ablhFMjdabVkxcWU1WXZWQXcwZGEyQmhhRzRLUFB6bFQ?oc=5",
-        "publishedAt": "2026-07-27T07:00:00.000Z"
       }
     ],
     "cultura": [
@@ -512,18 +512,18 @@
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
       {
+        "title": "Cochinola 2026 con Nicky Jam y Wisin: horarios, apertura de puertas y vías de accesos - Infobae",
+        "summary": "Cochinola 2026 con Nicky Jam y Wisin: horarios, apertura de puertas y vías de accesos &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSm11R1lUbDRJM2U3LTdqaEFMUk4wNXlhekZsWVE2eXB1N2RiaWlSeEJ2WFh6eTdKaGN0OWlUc1NOQlFOUl9kaWhQZ2lEYmVTaEsxam5aUzRCRFdzTjFBWmpLdlhRV2RSTHdtWFk0U0xRcHJYUDZ6MG94QjlqSkRwZ2lCUDRKWWxrd2w3ajMtYmtSMWR2OFNHd3VDaG9sSGM0Q2FtREd2OWEwSUZxaUQ4cjBUNjNJblBvUlZLX2NSTWdwZEprVlR0VdIB4wFBVV95cUxPV3VVd0dJMHdDeXJwVHRGVHZ1dkVhLVgzaVY2X0FqRmNSZm9zOVVtNVBKTXFUUTZZWVBFSGhYdUV5N0QyWVAyUWVWQUZfLTVGamUxU3cyQlZwcjk1b2pkRWthVVJ2bUxGbzRrTGdhMmJ2OFQxVHU4VDNqdHJKXzREQlQxdVBDQjJ0R1k5ZVR0S0Q1eV93b0VsQ0ZyeGVhNkdnV3R4WFF2dWViNi12dFhsRFNiWXhmcVMtXzBOT3A2N3JWaVZEUVF1MWo3MEZ2Qkh3UG9wdW0wSXY3SFVlV2JwYk5BRQ?oc=5",
+        "publishedAt": "2026-08-22T07:00:00.000Z"
+      },
+      {
         "title": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones - Infobae",
         "summary": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
-      },
-      {
-        "title": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas - Infobae",
-        "summary": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEN4R0wzbk9BVWZvS0JOOS1TcXR1SkFWTzVHbEhDM0hjYzBaX056STYyZkgybnR1VDc0VEl3WWZjeE01ZkEtUGl4OHZoOWxEcDd0WFdGbnJsanpXS0lNOW1rR0ZPcm9YcHVORFYyRE5PYXpiYVpVdWtOeWFPN1Y5QmJUeGMxSVZ5YWZnb3VoT0VyelEtLUtDM0pRam9zOFlIWEpOZUxUUjFBSl9YZXlUSFJqenRuaE5LR0RqRGQyck50NFdxaV9nMi1KSmRFMVFNZ2c0Z0dhUzd2aU4yOGZyb20wNFQzR0pRaUxtWTZsRkMtbTVzNnhnZk13N3FHNlJlbkdmOXByRQ?oc=5",
-        "publishedAt": "2026-08-13T07:00:00.000Z"
       }
     ]
   },
