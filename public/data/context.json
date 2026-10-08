@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T15:18:23.943Z",
+  "generatedAt": "2026-10-08T21:05:44.886Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -11,6 +11,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVVRLVTlDaWR6SDhKV2hsdHdRRjN2N2tKSHVxUml3V2tRNTFqdWlRcjdzOEpZaTRLTUpZb19YSE1FOXB4QU00R2gzQ0tucmJENmcwSGY4SXBpUEY5NVZpaElISDdGQWRCMkFCTUF3ODNrZFZkbTQ1d0g2b050bVZfZ0MtNzhaN1paeXM5NmpwaHZvX3NDWVRONXp5UXF6cWMzMFVsQ3dCU0E2WkxQUms1MWR2LWpRaWN0VWRWVUVfTzF3aUQ1V19SenU2ZS1fZVlsTHpKc2lLZnVmQ05VNkVvYWR30gH8AUFVX3lxTFBCWDVFRGVZcWZPcUhsVHlHb1E1aXM4R1FlSUNObkFDRkV4aDFXYjVmSE8tUDVVdUJTMkF6bVo2aTdDQ0YxQzlxaFd6TzFjc0RXMmVVelNMNUJKdGJxWXFQcDNWb1pDTGhFc2JsQ0plQkc5X1RJbWVvd3hFWFZQNjVrcFZ6c09kcTVFVldEM2d6Yjd6cXBaWHlMWmU5NnAxR3Q0bFBZbGwzNEpHcGp2WkhaTkM4eXlhVDR6M2tlUmFYN2VRWW1vNXdVTWo5UGE0V0NURjVWcXdhZVZpYVJWZUUtZkRfQ3pYeGJSVVVjY3hzR1dmX0g0SjVNUFFjeg?oc=5",
         "publishedAt": "2026-09-30T20:47:00.000Z"
+      },
+      {
+        "title": "Keiko Fujimori advierte al Congreso ante posible negación de facultades: \"Están poniendo a prueba nuestra paciencia\" - La República",
+        "summary": "Keiko Fujimori advierte al Congreso ante posible negación de facultades: \"Están poniendo a prueba nuestra paciencia\" &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUW9CRGQxUjE5aDVCU0Y1UHBkb1NXdkk2ZWJBLWNvOG5fNEtZLUt3elZRSk1pemJzVXJLcVpFZXNrMjlIckV5WEJLZEdtWTBncnozbVFFbnVvcWYtUldGbjV4bURESEVRcDIyeE5BRG5EV1MtZkZYcFVWek9EbmJyRE40S1dDMTlYSGU3ek9RaWRPQnR6bkg3VmRTVTZRN2FDeDBBWlIzYXpOWko4cmtzWkhKZUJLQS1OcldjUTRjcTJqbU5pSGpSOWNXd1VHTk5LaVdjM3RMZlY1M3hfQXNxYmFxNzRFOEF2UG1qT2J5QlB0NGVCT2VNcEZicWNmRHPSAYQCQVVfeXFMTmc1Yk5jZ29kMFM0VWcwRGh0TkJoa2FMOTNueXdiaVhCTlAtUFg4N3BVNjltUXYtRElCSWVKbG9YMGh5V2dfcDFZNzlxNjh2a0xJS0QxRHFPdU4tdXh4OUJuZExhZnlEc2RNWE8xc3dlS3Y2WFA4V1Z6anBhckNscDNJYWFsOFctUVF6S3d3QXd2RlJ2ZzluLWc3czJ6RXQxWVI5bEZXNmo2bGlERjYxSXpUQUw1REY4TnR3SHE5aFZWeUlfbmpad1p2bUhvSXhKQks2T3JiU1JnQ21aM2RpRHdlV1hzQU1vU1VEc2FaMFp5Sml4X1lGVTJXU3FrVk92aXVSRm8?oc=5",
+        "publishedAt": "2026-09-30T07:00:00.000Z"
       },
       {
         "title": "Keiko Fujimori al Congreso por negativa a facultades legislativas: “Están poniendo a prueba nuestra paciencia” - Infobae",
@@ -48,18 +55,11 @@
         "publishedAt": "2026-09-11T07:00:00.000Z"
       },
       {
-        "title": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial - Infobae",
-        "summary": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHlnUW12Z25xWXFVV3N1dVN4UzNLY1ZlYzFqcXk2NDZWSENpcGhjRGtTOTBnRE9fWmlPbzNzOXU1RldUVXRkR1JhUFZwd1NRODBWb1FsYTNLV3JvcDU3NUtLUVVPdEhhejNlWU5CZ1dXSk9TTThhbUtnSGVlQi1XMHJrSm1QLUpTNG1oaGNRN0lWeXkwWVlxM2l4MGFuTkZUNTZfQmdISXNOMW9MdnRxVlV0QzhCWXZzQVE4cVJrTzZtWnA2TEU5MFExdUhYanZoWVhMblVHNi1yQ3RFQXFWLTZyNlDSAf8BQVVfeXFMTzYycU1uN3FkcS05SkdXb21BUHljZFc2ZVczUXZsdDFSNEVOTmQzcXNmOEFCdVQxdUlTaHByelZrSTNYcGwtZ3hZa0VmbkJqSWVxQUNCRHRiWS1PRnhmUDc3NzNiUkRHVWtJSGZ5cnAxTGdJWkRRWHFvVzdoX1YycGROWFVBeDZaU2lQM25PcU91bGU1NTVwLWhOTU83MlUyZGR2bnJ1Z1Q1cnNubHg4bE8zSGhNaVI0Y2NFTXJ4TXc5UmNOcUM1eGpPTlFRYzZSbHVIZzNyaGNQMXR3TGNRVG1mbC1Jb3huRFZFWWhhTkxIN1RWOFVpUk91SzZRbk5z?oc=5",
-        "publishedAt": "2026-09-04T07:00:00.000Z"
-      },
-      {
-        "title": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad - Infobae",
-        "summary": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHp2T1ZoLS01bUlPNy1CZ0pvYlV1MTRzYkFwWHF3a1lWcWw0UVVmeG1Rd080N0FLSTgzejEwMDhVNUN4MXN4R3FBbUNBTXZuVkRUYTUwSDgwS1FiR0t2V3EzVjlKUWZpcVBrWnozOUpIMVVYeW5VSlZDRjZISmQ3Q0pyYndzTDhQZVRLR1N5bnhobVZrbkdJNXZraWlab1llak04N0g0NnFZTUpNNHNoZ19rcDE4cXlvUmxYeVBpRVQzSXNWLUFqdDM0TlV6V0RJVTZQSmMxSmVYbFVXd2NjN2h4bTdoTFFCVlN6QjRB0gGIAkFVX3lxTFBKclJfUEdTdXdGMkQ0enlHTmExUnl0emRmZGRUM3dIQ3BSandEVk5TaEhwU1NaVlR4SldydExWNVNpWGxub2tJTnRxVnZGRC02MGRabVkwSkM3MG5fWklUWkl6UlR1UDN2WDdUcllaZktNMm5BM20zNFpncmNyeXNZbElnLU9OUmFxWU5uMnhLN2xwMEltVXExeFRuQ2diYVNBT1dySXJQc2ljTDN3NHFHNFlpN2NMMHd3cUJkOXI5RE5GVWdvT1czY2VselNwX2xhaXJ3M0ZvQlBkQXZBUDBMTlM0SlhKblhJdW54NUxuYkVHdC1jUEN5bXRsQWhnOVlIRGJicEo5WA?oc=5",
-        "publishedAt": "2026-08-31T07:00:00.000Z"
+        "title": "Oposición rechaza pedido de facultades: se impone en seis comisiones de la Cámara de Diputados - La República",
+        "summary": "Oposición rechaza pedido de facultades: se impone en seis comisiones de la Cámara de Diputados &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1pHajhHRzdlMTJaUDhRdjQzcnpubDZFOTRPcmw3bGxWTkJYOXNCSFZUR1V6UFJZX01XeUJHS184c04wWlJDcnhrQ0F2VmlMRlRhQ1NzVlJMN3VsRUNfcXczb0dvcmxEU1FmWGpUWHJDMmlyeU9veTZYczdyREhNemJEU3pKM0h3ZGVWanZHS1g3UVNTSzdzbV9pcUpiRU8wYjRIMUJYTWJJdk5GSThSUE1iT1drXzJlV1k2UFlKNXk5MkhRWkMxSWdUMUZuYTA0Ynp6THVVX0lNWWMxUmIzaFJlZ2HSAeoBQVVfeXFMTi1INUthSHR0a1Q2bDJRbDlnaVhzZ1Vvb1pHYmJuRXRXa2gzTGx0eE1lOEp1ekY4MTBBRmIzZTNOOFRDTzlQYWpHVzBhUVNEanZuYW5JZnFqN2lXR3VhRFBHX25VZ2JNNWdieTVuUm44R3dKd0RSRzJ3dDc4SDlMM0xvQ3pvXzhLRXlLVjNTbDZ3aG5DZFY4OV9YbFU3LVBiNHpmSWRIN09tTVVES1BtS1NyeHo4RGo3WllEaXVLTUx1c1Y1WlRkTzVFY3ZpNHlyNE9IQVp0T3NJRjBFUUhHcGJmTFUtTktxN0J3?oc=5",
+        "publishedAt": "2026-09-10T07:00:00.000Z"
       }
     ],
     "economia": [
@@ -194,13 +194,6 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
-        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
-        "publishedAt": "2026-07-24T07:00:00.000Z"
-      },
-      {
         "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión - Infobae",
         "summary": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -234,6 +227,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "publishedAt": "2026-06-17T07:00:00.000Z"
+      },
+      {
+        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
+        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
+        "publishedAt": "2026-06-10T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -300,7 +300,7 @@
         "summary": "Perú, el más preocupado de Latam por impacto de la IA en el empleo, ¿riesgo real? &nbsp;&nbsp; Gestión",
         "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbW0tdEdqMHU1VjFvLVl5TURURUhDSnI0Q0thbjJCOTc2TGRzMTcwMW1wazlIcUREQ1RsaTA2SUN2bVlwVWdQdUNEUkFFYlBOdDhkcElzTFFzVWZBRDAyUHJFVEN4b0tzbE5KMmM4eGdURVJ5U2s4QVZFUXUycVlHODYtUFJMckZIUHoyU2p3NGNwZ0hQa09BQXhKaUVvdUJ0OUtVcWlMdHZJeXlaaWJxZEd3SlgyMmt3T2E3X0pYdGMtZEp3SDJvWEtvUHd5T3YtWUlNWHdYT0VBRmlsVTBJbi04amdTeHdPbC1GcTM5c3MxdXFEV1hPbHpydThOcHJCRDRBaXAzdUxqUQ?oc=5",
-        "publishedAt": "2026-10-08T12:49:54.000Z"
+        "publishedAt": "2026-10-07T18:30:59.000Z"
       },
       {
         "title": "La IA llega al café peruano: reduce 77% el tiempo para evaluar la calidad del grano - AgroLatam",
@@ -426,6 +426,13 @@
         "publishedAt": "2026-09-22T07:00:00.000Z"
       },
       {
+        "title": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 - La República",
+        "summary": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdjBmOTJrY0FvQ1Y0OEEwTlJQQjdYMzFzWXRINlpmQ0R4YzVzQlZieWpzUVp5WTdVV2RBdF9lSUVjOHh2b2twek1KSVUxaWtHTXZqUmVXZGRfNlJFTUp1emYtMTBRSGxteW0zcUVIb1ktWjNlMmgzWnFaRlotU21rcElfUldDcUMyUWZRc0J0SEdZTTJNbE5UN2pQMXhUUGczTDN4Y01MczZiYWYzX3FhZ1JBX0tVa3N5cWtuQWpfSFFGaVNSWF9VeHM2NlM2MWJ0STY4Y1g4eEhwZm5XQkRDMmlsUExwd9IB6wFBVV95cUxNVWdodTNnWmhWSXZ0TXdBa3NVOFRVbUZrMlhuUGxNQTFvX09hek9Da2hlLU5Yb2txc2I3UklYWE1hLTd1LW00WTd6b0NxdWo1WTRXOTItNWdOLTNmRzVhSkRDblV4YmJDbDdockJ6SVdOZ0VkcXdwOUo1QVlYUDJXN01DZ2FQSXBPbzlNT25KSlRua1ZDRm9jaEdaX2FEcG4zZ1NHQjYybWw0TFRjQkpOWlBhRjhTWUFXM3BhYmxFYWFvWkYwbnU5RTVRWXhRRnRVTGp0Zi1EX28xVldfVDF1T1R6Y0JVclViV3Aw?oc=5",
+        "publishedAt": "2026-09-21T07:00:00.000Z"
+      },
+      {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -458,13 +465,6 @@
         "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
         "source": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
-        "title": "🔴🔵Descansa en paz: 🕊Fallece Víctor Angobaldo, recordado personaje de la farándula peruana👇 - Facebook",
-        "summary": "🔴🔵Descansa en paz: 🕊Fallece Víctor Angobaldo, recordado personaje de la farándula peruana👇 &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLWVGbEUwVG85QTkzaU82bVRlX0lJc3hyd1hzbERpS2lvaWZqTE9idmxvUlZwM3JzV3RtM25EamxVZGY1UnNRNVJxaUNNaTU4VU1abExzUHk3Q3RTYjlFcHpXMnpxVF8ySzZvZVZxTUxDWnRrYWgzX3BVazNTNVd3dTBvamE2S1oyRHdiNDNKNC1wX19FbjZ1VnN1S0xaTGdQVy1OY0cwbzVCX0ZFbjI0aDZYVlNhWUFXVFZzNEJkUWMzNE8xVU1PVzcyWklPLU5RQVRueEVuWElRcWdZekJGNFdJbkVobFMtcHMw?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       }
     ],
