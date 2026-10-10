@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T00:31:53.057Z",
+  "generatedAt": "2026-10-10T06:44:58.089Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -64,6 +64,20 @@
     ],
     "economia": [
       {
+        "title": "Perú habría crecido en agosto de manera similar a julio, mes en el que se expandió 3.6% - Agencia Andina",
+        "summary": "Perú habría crecido en agosto de manera similar a julio, mes en el que se expandió 3.6% &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0VEMkpPVVRYRDZyeFI5WDlUU1ZZWUpKb3hoUVRwZWo3QkdjM1pLQlJlYnliRXYxWXdHQjg2R1ltaENIbEJObVJhNHZaT2daemRQVUwtNlM4aVBiUWhSdmcycW92NEJ1LUtnNHdhMXg5SWdXOWVMMVpRSjRKcl92UHVENWIyU016SG5uN2FjQ1FKVE45WlNqN0xDMk5POElhYzd0c1Z2UlFFNXFUZzg3dG1pMm1Ec19DbUE?oc=5",
+        "publishedAt": "2026-10-10T05:27:51.000Z"
+      },
+      {
+        "title": "Petróleo supera los US$ 104: ¿cómo afecta al Perú y qué países de América Latina ganan con el alza? - Diario Altavoz",
+        "summary": "Petróleo supera los US$ 104: ¿cómo afecta al Perú y qué países de América Latina ganan con el alza? &nbsp;&nbsp; Diario Altavoz",
+        "source": "Diario Altavoz",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEdaQldCZTg0am1jQjRXYmxIZWF4RUtxRDRDSFpCd05lYUxZQ1QyVVljWTZLbzJtcVh3SS1kbVB6LWh4dUxUbmdKRmZuRWxCX0tjRWM2VFhhbFRyVmcweXJSTXlnemFKQVhSN1duVnBtbmJJYndTZ19jMk9zY2stSnJKZw?oc=5",
+        "publishedAt": "2026-10-10T00:35:09.000Z"
+      },
+      {
         "title": "Perú 2026–2031: cinco megaproyectos de infraestructura buscan conectar las regiones con los mercados globales - Diario Altavoz",
         "summary": "Perú 2026–2031: cinco megaproyectos de infraestructura buscan conectar las regiones con los mercados globales &nbsp;&nbsp; Diario Altavoz",
         "source": "Diario Altavoz",
@@ -85,27 +99,6 @@
         "publishedAt": "2026-10-09T17:26:14.000Z"
       },
       {
-        "title": "Perú habría crecido en agosto de manera similar a julio, mes en el que se expandió 3.6% - Agencia Andina",
-        "summary": "Perú habría crecido en agosto de manera similar a julio, mes en el que se expandió 3.6% &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0VEMkpPVVRYRDZyeFI5WDlUU1ZZWUpKb3hoUVRwZWo3QkdjM1pLQlJlYnliRXYxWXdHQjg2R1ltaENIbEJObVJhNHZaT2daemRQVUwtNlM4aVBiUWhSdmcycW92NEJ1LUtnNHdhMXg5SWdXOWVMMVpRSjRKcl92UHVENWIyU016SG5uN2FjQ1FKVE45WlNqN0xDMk5POElhYzd0c1Z2UlFFNXFUZzg3dG1pMm1Ec19DbUE?oc=5",
-        "publishedAt": "2026-10-09T17:24:00.000Z"
-      },
-      {
-        "title": "Gasolina en Perú sube 40,6% en un año: petróleo supera los US$105 y presiona el costo de vida - Diario Altavoz",
-        "summary": "Gasolina en Perú sube 40,6% en un año: petróleo supera los US$105 y presiona el costo de vida &nbsp;&nbsp; Diario Altavoz",
-        "source": "Diario Altavoz",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcHhDaktlQjAxcERzdVViWGQzS29ISTcyZko1UmZJTXRjS01oVm93ODJmSGFwVVNMQXh0am9uNlpOeDFNZzdDTEpva0VpbGZSZHNpT2RJNU56ZEdFWnloakVBM01SRVRUNjFiSkZnMVBoX3NuQ1dpSGlnQ2tKYms3SjFyZ3RUMlRZVnlsYTZsbXFrc3FwLVZIUFdsNENhWU8xcGxWSVIyemhmd1V4Z3o1cFZscDNkWE1VckE?oc=5",
-        "publishedAt": "2026-10-09T16:34:41.000Z"
-      },
-      {
-        "title": "Southern Perú obtiene viabilidad para su proyecto portuario en Ilo - Revista Economía",
-        "summary": "Southern Perú obtiene viabilidad para su proyecto portuario en Ilo &nbsp;&nbsp; Revista Economía",
-        "source": "Revista Economía",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FWS1SY3JRYnUzQXpRVmQtb0hQTEpYaklPQ0M5MGw5enFsMEIzZFJuRzg0Mjd1SHNCMXFKX2xubzloUDhUVWlqNFdyNkl2SlpPN2hxelVRanhHMTZWdXY1M25vRzVtNlNfQndhemxBeDNaUUNvc1RUZw?oc=5",
-        "publishedAt": "2026-10-09T16:10:19.000Z"
-      },
-      {
         "title": "Banco Mundial mejora proyección de crecimiento de economía peruana a 3,2% para este 2026 - El Comercio Perú",
         "summary": "Banco Mundial mejora proyección de crecimiento de economía peruana a 3,2% para este 2026 &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -118,6 +111,13 @@
         "source": "Diario Altavoz",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEctVXhUX3cyakpSalEyTWh4bzZ5OVlzYmUzVkF5M1lraVNxX21LU1RwdXRvUFJIRExwbTJDdW42WUNoanFocGMtalFTMW9rLVptUDQtb0hYZDFoUnlYT2NiR1JnTVVQTE00b3d4Nmt4TXR5V2FVd3V2Nm9YQkhmcTFIa212dF9sSXNfYjdqeG5GZElxWVpFdjJEZW9ITGRpYnBjdUNRVGxCaVk3RWpNdjdB?oc=5",
         "publishedAt": "2026-10-09T03:32:20.000Z"
+      },
+      {
+        "title": "Crisis energética global: Perú podría enfrentar un alza del diésel si EE. UU. restringe sus exportaciones - Diario Altavoz",
+        "summary": "Crisis energética global: Perú podría enfrentar un alza del diésel si EE. UU. restringe sus exportaciones &nbsp;&nbsp; Diario Altavoz",
+        "source": "Diario Altavoz",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnQ0Uy1UX3l3bU9KMUVVNllZbmxib3FhYzd4ZjVEenJJaTZhYjQxVW5jYmplY0VrcXZMRloteHNXa2JjZlFDeEM5UG0tVl9XN0FqVHFhQnloNFBWemFOdWZtUzNXczRjQ0JXMGZjRXVsSlBDNW1HT1pLNnRrMlpCaGVMZnd4MzhSekdmd2psQnFZbjlBb3RBLWd4S3hVXzZJNE5JX3ZqZDhaQXZ4MU5pb3NIM3RiT2RYbzBfVE1RWmRiYkZ3cGRlRjA2bw?oc=5",
+        "publishedAt": "2026-10-09T02:45:33.000Z"
       }
     ],
     "sociedad": [
@@ -194,6 +194,13 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
+        "publishedAt": "2026-07-24T07:00:00.000Z"
+      },
+      {
         "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión - Infobae",
         "summary": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -227,13 +234,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
         "publishedAt": "2026-06-18T07:00:00.000Z"
-      },
-      {
-        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
-        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
       }
     ],
     "ideas": [
