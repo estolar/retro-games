@@ -1,17 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T13:20:48.250Z",
+  "generatedAt": "2026-10-10T18:15:43.800Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
     "politica": [
-      {
-        "title": "Keiko Fujimori advierte al Congreso ante posible negación de facultades: \"Están poniendo a prueba nuestra paciencia\" - La República",
-        "summary": "Keiko Fujimori advierte al Congreso ante posible negación de facultades: \"Están poniendo a prueba nuestra paciencia\" &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUW9CRGQxUjE5aDVCU0Y1UHBkb1NXdkk2ZWJBLWNvOG5fNEtZLUt3elZRSk1pemJzVXJLcVpFZXNrMjlIckV5WEJLZEdtWTBncnozbVFFbnVvcWYtUldGbjV4bURESEVRcDIyeE5BRG5EV1MtZkZYcFVWek9EbmJyRE40S1dDMTlYSGU3ek9RaWRPQnR6bkg3VmRTVTZRN2FDeDBBWlIzYXpOWko4cmtzWkhKZUJLQS1OcldjUTRjcTJqbU5pSGpSOWNXd1VHTk5LaVdjM3RMZlY1M3hfQXNxYmFxNzRFOEF2UG1qT2J5QlB0NGVCT2VNcEZicWNmRHPSAYQCQVVfeXFMTmc1Yk5jZ29kMFM0VWcwRGh0TkJoa2FMOTNueXdiaVhCTlAtUFg4N3BVNjltUXYtRElCSWVKbG9YMGh5V2dfcDFZNzlxNjh2a0xJS0QxRHFPdU4tdXh4OUJuZExhZnlEc2RNWE8xc3dlS3Y2WFA4V1Z6anBhckNscDNJYWFsOFctUVF6S3d3QXd2RlJ2ZzluLWc3czJ6RXQxWVI5bEZXNmo2bGlERjYxSXpUQUw1REY4TnR3SHE5aFZWeUlfbmpad1p2bUhvSXhKQks2T3JiU1JnQ21aM2RpRHdlV1hzQU1vU1VEc2FaMFp5Sml4X1lGVTJXU3FrVk92aXVSRm8?oc=5",
-        "publishedAt": "2026-09-30T07:00:00.000Z"
-      },
       {
         "title": "Sheput pide no “arañarse” por dichos de Keiko Fujimori y niega cierre del Congreso: “Es teoría conspiracionista” - Infobae",
         "summary": "Sheput pide no “arañarse” por dichos de Keiko Fujimori y niega cierre del Congreso: “Es teoría conspiracionista” &nbsp;&nbsp; Infobae",
@@ -60,6 +53,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHlnUW12Z25xWXFVV3N1dVN4UzNLY1ZlYzFqcXk2NDZWSENpcGhjRGtTOTBnRE9fWmlPbzNzOXU1RldUVXRkR1JhUFZwd1NRODBWb1FsYTNLV3JvcDU3NUtLUVVPdEhhejNlWU5CZ1dXSk9TTThhbUtnSGVlQi1XMHJrSm1QLUpTNG1oaGNRN0lWeXkwWVlxM2l4MGFuTkZUNTZfQmdISXNOMW9MdnRxVlV0QzhCWXZzQVE4cVJrTzZtWnA2TEU5MFExdUhYanZoWVhMblVHNi1yQ3RFQXFWLTZyNlDSAf8BQVVfeXFMTzYycU1uN3FkcS05SkdXb21BUHljZFc2ZVczUXZsdDFSNEVOTmQzcXNmOEFCdVQxdUlTaHByelZrSTNYcGwtZ3hZa0VmbkJqSWVxQUNCRHRiWS1PRnhmUDc3NzNiUkRHVWtJSGZ5cnAxTGdJWkRRWHFvVzdoX1YycGROWFVBeDZaU2lQM25PcU91bGU1NTVwLWhOTU83MlUyZGR2bnJ1Z1Q1cnNubHg4bE8zSGhNaVI0Y2NFTXJ4TXc5UmNOcUM1eGpPTlFRYzZSbHVIZzNyaGNQMXR3TGNRVG1mbC1Jb3huRFZFWWhhTkxIN1RWOFVpUk91SzZRbk5z?oc=5",
         "publishedAt": "2026-09-04T07:00:00.000Z"
+      },
+      {
+        "title": "🔴 Keiko Fujimori responde sobre supuestos cambios de ministros y confirma solicitud de facultades legislativas - Facebook",
+        "summary": "🔴 Keiko Fujimori responde sobre supuestos cambios de ministros y confirma solicitud de facultades legislativas &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPakt4ai1fdV90enNxYUJWRkRmcHl5enQ2c3ZkVDFDWHZrczg2SHdudGVXajM3RmQtQVJ4a3RWTHByLTVkLUxYMXQwNENWTnpzdmVrM0YxdDlPNFdqYVpmZ3JOekdTMTIxWS1UYWVhSU9xWVZadE4zd281dGE0am55cUtSb25FZTRJNmJ1NEVqdndLWnpwQTBGUGU5Yk1SQVBkQjZTQzl5bDdBbkxISXBGb0dBRWdXT0lvVnR3WkRSakNGZ1YxaG5ldUR2amlPWkFDZUFzcDVPUjFZWlI2?oc=5",
+        "publishedAt": "2026-08-28T07:00:00.000Z"
       }
     ],
     "economia": [
@@ -83,6 +83,13 @@
         "source": "Diario Altavoz",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEdaQldCZTg0am1jQjRXYmxIZWF4RUtxRDRDSFpCd05lYUxZQ1QyVVljWTZLbzJtcVh3SS1kbVB6LWh4dUxUbmdKRmZuRWxCX0tjRWM2VFhhbFRyVmcweXJSTXlnemFKQVhSN1duVnBtbmJJYndTZ19jMk9zY2stSnJKZw?oc=5",
         "publishedAt": "2026-10-10T00:35:09.000Z"
+      },
+      {
+        "title": "Inversión privada y exportaciones en Perú: las cifras que destacan en 2026 - Diario Expreso",
+        "summary": "Inversión privada y exportaciones en Perú: las cifras que destacan en 2026 &nbsp;&nbsp; Diario Expreso",
+        "source": "Diario Expreso",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY2JfSEJXekJFdzJydmZlOUpTQVFVcmxVOERsdWlxbDc3ZzNaVk1za0lYZHlxMFBUWWxTRkRnRTZpOG5CUERVZ0FxR0YyNFp6Zm9vVEhEdHZXbmxJV0F0MDVJTk1zYnFySWdHaVItT2NBRUFvejFQaVdFZ09kREdOQVlLbVo4dG92MzItc0NTSlZEVXNRQkYwN1Y2cnB1bnRtM1FpbEc0emdwRy1BMzhpcGFNT3pRdjczQXp4ZkJodUZEYUhN?oc=5",
+        "publishedAt": "2026-10-09T22:00:28.000Z"
       },
       {
         "title": "Perú 2026–2031: cinco megaproyectos de infraestructura buscan conectar las regiones con los mercados globales - Diario Altavoz",
@@ -111,16 +118,23 @@
         "source": "Diario Altavoz",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcHhDaktlQjAxcERzdVViWGQzS29ISTcyZko1UmZJTXRjS01oVm93ODJmSGFwVVNMQXh0am9uNlpOeDFNZzdDTEpva0VpbGZSZHNpT2RJNU56ZEdFWnloakVBM01SRVRUNjFiSkZnMVBoX3NuQ1dpSGlnQ2tKYms3SjFyZ3RUMlRZVnlsYTZsbXFrc3FwLVZIUFdsNENhWU8xcGxWSVIyemhmd1V4Z3o1cFZscDNkWE1VckE?oc=5",
         "publishedAt": "2026-10-09T16:34:41.000Z"
-      },
-      {
-        "title": "Perú recibió US$5.368 millones en remesas en 2025: ¿qué riesgos enfrentan las familias? - Diario Altavoz",
-        "summary": "Perú recibió US$5.368 millones en remesas en 2025: ¿qué riesgos enfrentan las familias? &nbsp;&nbsp; Diario Altavoz",
-        "source": "Diario Altavoz",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEctVXhUX3cyakpSalEyTWh4bzZ5OVlzYmUzVkF5M1lraVNxX21LU1RwdXRvUFJIRExwbTJDdW42WUNoanFocGMtalFTMW9rLVptUDQtb0hYZDFoUnlYT2NiR1JnTVVQTE00b3d4Nmt4TXR5V2FVd3V2Nm9YQkhmcTFIa212dF9sSXNfYjdqeG5GZElxWVpFdjJEZW9ITGRpYnBjdUNRVGxCaVk3RWpNdjdB?oc=5",
-        "publishedAt": "2026-10-09T03:32:20.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN - La República",
+        "summary": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdHlxN3pWUU9DenhObS0temJHTWt6UGoxWThSTEVydk5Sa2U0T0tGZm00VDdEbUJIMnlUQlg4bnR4WEQzME41cnhTUWdYT2VfanpPa3VIS080Q1UycHB6eWtpZEF2ZnM0dDV0bkhmNUtfRzByY202dWt1d2hsWWlrUUdCaGsyZHJNcU1ydWNuOFdPUGcwb2gtSW9TbElROW9nakxmcm03cUFDMEZLT0pXbVpIMlNXdUQ2a0Q2UEw3WkNoVXBjYVc4ZUlFRXRfUVR5alRydkJ1dG5KUkxnQkVEVklGb1RDTWVsMFHSAe8BQVVfeXFMTURTcmlRY1NnMm1abmptUHIwOW1GN2lzc1Z6c29EZFN3bUFUOE50MlQ3MzNSdFhIY2o0X3JveTI2WnRqajNwOEljMU5TblZvbHhZUnMzVk5OaGdNelV6dmp2LWYzQl9ndWNjd0tFWnMyMEIxb2xlMm1nc0s2TEc3SlFrVlIyYTJ2aXl2N2NoZVRNZ1JkcjNhRVJuLWtGeThCQ2hMUUpiYWZfcTZaOEQwcm84TmNwSzlMbGY4dl9ObWNXMVFBbmVpSEdyS05XeG9VLWVGcjNZTDE2Tms1TTVfMWFXWmRrM1l3Tlg1N3JDVmc?oc=5",
+        "publishedAt": "2026-10-02T22:57:26.000Z"
+      },
+      {
+        "title": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento - Infobae",
+        "summary": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3hnVnQwRDBOcWFqanlYajZhSmVHOVNUR0UxM2NlYVFtaU4tU2NtSU5WMHM3d0VZS0VrUVRRTUNPNzY1aXBhWndWZ1h2czJ0X3dmRkRyald3a0VYRktaSE5EVmpDU2R4MFRNTE82bG1QTjVjNVA1NW9CSlhtTHlqWEVNdVZoMUdfMWNQcy1Yc0xZRWNQUzZSQWhxZmFDNmQxTVFVcnpvdmtFdDVxWWRZNFRsSExwaG5val9ZbEptUGJ4by14SldZWm5qMzk4YlUxaHfSAewBQVVfeXFMUGZmVEVhN0NORG5ESURKOWpvS2c1Qnppcm5PaVd5SGFUbWRkQUhjMzBjMURnQzF4Yl9Oa01PVHI1c1k4M3FqRlBXUkdoR2g5d3JWdkp4eXllREJkWnFHY3dDOXVmVzhrTUF0ZjA2T0tJRUFhTERvTTV5aGpMdzdkdEpzMTJ6SWYtTEZXaDJmSkZqZ0h6VkpQY0tib3VlWW9oWXV5RWhmSTRLczhpd25UTWNXeWdaRy1KbzRNLW9uM1JQQ1VQdTVXOVNMZzRZLXF0bDBrVEs1YTUyblBreVJzOWJzM1I4a3JUdXE2Nmg?oc=5",
+        "publishedAt": "2026-09-30T07:00:00.000Z"
+      },
       {
         "title": "Perú tiene espacio para elevar su competitividad - El Peruano",
         "summary": "Perú tiene espacio para elevar su competitividad &nbsp;&nbsp; El Peruano",
@@ -162,20 +176,6 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "publishedAt": "2026-09-03T07:00:00.000Z"
-      },
-      {
-        "title": "Ministro Elmer Cuba: presupuesto 2027 prioriza los servicios y calidad de vida de la población - TVPerú",
-        "summary": "Ministro Elmer Cuba: presupuesto 2027 prioriza los servicios y calidad de vida de la población &nbsp;&nbsp; TVPerú",
-        "source": "TVPerú",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWkFuOWxMMWltaDhYUHdWcGZMYW9sSDVlZ1hMYWw0UU0zWjkwR0FqWXZEd1VYTXlCOUpSVndPNXZTelByRGNqbEExRzl1SDNFcDlabEs1ejZUSnNEeHhkdHg4cVNBVXZ5VVdZU1puNjdacXltTWhZbjg5TFc5NDVlalZXMnpTQ1N6V2xMU0JLTWFJcTNmN0ZQOTg3NUtRR3pHSFBIc1VMZ3dWWFkyQjFyVnVtNExKNUtxMWt5cTBMRnpGRDYxbFJJUWxUZUhvakVlWG1F?oc=5",
-        "publishedAt": "2026-09-03T07:00:00.000Z"
-      },
-      {
-        "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - Agencia Andina",
-        "summary": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDg3MFVjQnE2eHFPRWpXV3RHcFUwQ3NzalN5MTBFNFhNV1ZYNVpkRFBRSlh1QmhCUzhCdXRWWE5xRnNHYWhIMzRwMnQ3Vl9CMWZBalFwTzd4eFI1cW9LYmkwS2toT3RpeC1pZC1paFlhOVlxdXdJUUJYQ3dzT1pGU3NLSVhIaUMzdXZ3QThaTGFMbF9SRFYyOWQtZy0yUE1NWFZtX0hNTUM0ZFZlSDZtck53Nmpqc2tYSkpZN0ZBTl9NbVBBMlAw?oc=5",
-        "publishedAt": "2026-08-11T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -335,7 +335,7 @@
         "summary": "IA y perforación a 3.000 metros marcan el futuro de la minería peruana &nbsp;&nbsp; La República",
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZWNoNjl4clE4WTBIWHU1akJlVFJhRDU0Z0QzSGUteTFLdE5DUVptaTlvU0ZZY3l6Y0g0M2JETk9yV2VMWWJVWlJUY0xaU2o0ZERZYjhOOVZ6emx0T3RkYU9OQ19xMnZUVFlWdjY0VUdBUHVSbjdrOEc0cXRlUU9qRDlsQVRrQmJvVW1mbEdZUWZINFIyWWRhYWNBOXc0UFAzMFh0MjZMRVJFRWo0bTJsWTVkODgtR2FTZll4Q3RzSjJjZ3F1TmZKU25FTDU1N1F4V0Q2eWl4R3pOTExselRQQmdYTkpjZEFRQlFGQkJ1MHVOWkpmajhwNV9UdjZWdjlSdkJz?oc=5",
-        "publishedAt": "2026-10-01T19:41:05.000Z"
+        "publishedAt": "2026-10-01T07:00:00.000Z"
       },
       {
         "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
