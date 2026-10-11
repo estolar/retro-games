@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T22:16:14.641Z",
+  "generatedAt": "2026-10-11T01:36:42.914Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -55,20 +55,41 @@
         "publishedAt": "2026-09-04T07:00:00.000Z"
       },
       {
-        "title": "🔴 Keiko Fujimori responde sobre supuestos cambios de ministros y confirma solicitud de facultades legislativas - Facebook",
-        "summary": "🔴 Keiko Fujimori responde sobre supuestos cambios de ministros y confirma solicitud de facultades legislativas &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPakt4ai1fdV90enNxYUJWRkRmcHl5enQ2c3ZkVDFDWHZrczg2SHdudGVXajM3RmQtQVJ4a3RWTHByLTVkLUxYMXQwNENWTnpzdmVrM0YxdDlPNFdqYVpmZ3JOekdTMTIxWS1UYWVhSU9xWVZadE4zd281dGE0am55cUtSb25FZTRJNmJ1NEVqdndLWnpwQTBGUGU5Yk1SQVBkQjZTQzl5bDdBbkxISXBGb0dBRWdXT0lvVnR3WkRSakNGZ1YxaG5ldUR2amlPWkFDZUFzcDVPUjFZWlI2?oc=5",
-        "publishedAt": "2026-08-28T07:00:00.000Z"
+        "title": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen - La República",
+        "summary": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSXJGRzRyNy1fM0h1a2hYZFNTVW5wZDJqcGg2dy1qU0llYTRGeUVGNXdHYVZlZWZyMlFvVmZ1bElRZnp5QllnaVpsbUZiX2l0cVVtVFRWdVo4NGdOQzZ5Q3FJWWF2cmVkdG9JYlZ6emFLT01tcGp0VjN6c2JkYk93UkZMREx5UFVwcVVkZ2NQY242ZnlGR1J3cFlBb0lTYWU5ZW5yS3lab3BfcXBUdzgwVk9qY0RfWHFYQVk2dzkyY3hQZkg1OV9FbTdncXp4eHFYY3pIRU1EVlhTS2dKNDIwZTRuUDdqWGZRblc2V3lUTG44eDhKNktZTk1R0gH_AUFVX3lxTE9PcXNVNkFVT0dpLVE5S2NCVjAtNTdNczVEMXNJLWljVktQUklzQ3MxNUotd3VZXzZzVVhWMHlQVk9WbWJwM0VDeGo3ODR1SHRLcF9LU056R1hBOS04Ql8xd3d6UEZjSE5lUW9DZlh3RnNIdFRlVVhwTzRRcWw5NUpFTmtrOVpLN3BOWmhkTHY0V3R2SVpGUk5LVHp2Vlh5TzcxdmhXY0JYNUtKSHdVMmJDM0Y4MUZLcUJlNzltdDg0U0hQcGEyOHZLRTdYaWpYclJnekdBcXM1ZDlZRTlSd0xGdDhpdDlESUNQYXBXc0RRdE4xODVpNXZVWi02Um5RMA?oc=5",
+        "publishedAt": "2026-08-29T07:00:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "China gana terreno en la generación eléctrica de Perú y enciende alertas sobre infraestructura estratégica - Infobae",
+        "summary": "China gana terreno en la generación eléctrica de Perú y enciende alertas sobre infraestructura estratégica &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSjJma1lIUkM5bTVyTDU3TXl6S181TXo5X0NPcFZFeGdvSTdrU0hrdndzZzdRaG1TcWoxRmNlc21tc0swc2R2ZkZjX0dyZUxYM084YWM3YWpHQWNoV1RkYlhBT0ZBM1hhRFZuTW5WMDdVTFBBREtZOFBEMzNzYU9UeEhSS2ZyeEFmQUhncEhEZDlHTFlVYXFiaW8yVGNhcjdfaWNXamdfMlhjX3l6eUNLd0xpSzNscXAxQ0dlYkd6NEZKb1g0T0dWUi1STnVuNXItdVN6aUZkVjdwY3h5NEVaQdIB-wFBVV95cUxPY1FPYTJCNnlfY3BJbjh5bGw5MDViWXRubU51OTZIZkF5WXhCRjl2V0NobEZxa1lSMEhLZktRbFpGcm44YnlJLVVrWTRhdk1oZF9oaU1tMHZKYVhYZmZlcG1hb05sb1pRUFp1VEdvUHh5MU5OWmV1aEN6MmZCUjhMRmVsTzlXLXI5RzhnMGs5UVhtOTRqYU81di1qZnlMTTQ1bkE5bWxzUkVscHE0RFdISVRfWFZoakVzV1lWeUt0LTM5UmhuUUlaWHRzeEgtSEQxcVY2cDNwekYzNUFyeTU3cXZoU0s4WG5EZzdQckV3OG1DOG5RV1dDb01JMA?oc=5",
+        "publishedAt": "2026-10-10T12:15:00.000Z"
+      },
+      {
+        "title": "BCR estima que la economía creció 3.6% en agosto de 2026 - El Peruano",
+        "summary": "BCR estima que la economía creció 3.6% en agosto de 2026 &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1VVVS1UN3pwMy1WUVJ5SHU3cGRnS3hkMG9xNkUteFNSREpaZjU5LUZfVFBtS2tPdnFnR0hQWlJOV0pxdjRrd25OTHRVUFlFOU9lZnhQX3Jna1RnM3YtSjZaeFBZUmhGdHNUUEtqbnRoTC0xVTJkOTVQTFZjZHlqZGdxWW16cEkxZGhmanVvSEZiekZC?oc=5",
+        "publishedAt": "2026-10-10T10:00:00.000Z"
+      },
       {
         "title": "Perú habría crecido en agosto de manera similar a julio, mes en el que se expandió 3.6% - Agencia Andina",
         "summary": "Perú habría crecido en agosto de manera similar a julio, mes en el que se expandió 3.6% &nbsp;&nbsp; Agencia Andina",
         "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0VEMkpPVVRYRDZyeFI5WDlUU1ZZWUpKb3hoUVRwZWo3QkdjM1pLQlJlYnliRXYxWXdHQjg2R1ltaENIbEJObVJhNHZaT2daemRQVUwtNlM4aVBiUWhSdmcycW92NEJ1LUtnNHdhMXg5SWdXOWVMMVpRSjRKcl92UHVENWIyU016SG5uN2FjQ1FKVE45WlNqN0xDMk5POElhYzd0c1Z2UlFFNXFUZzg3dG1pMm1Ec19DbUE?oc=5",
         "publishedAt": "2026-10-10T08:18:19.000Z"
+      },
+      {
+        "title": "Aerolíneas piden eliminar la TUUA internacional y el MTC prepara una propuesta para reducirla - Infobae",
+        "summary": "Aerolíneas piden eliminar la TUUA internacional y el MTC prepara una propuesta para reducirla &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZWlwclpuVGpJaVpVMEJicHNFX3hRVHAxVmhDVnZoei1ZY1hTV2lHbmJpVXR1RmRyS2ZJOXEyT1FIMFVKcjJ6SDBSa2JSWkVkYk1oaTE2X2VLRWdWcVRYZVZ2VnlxaTJqVXRfQVpFMTgxb2RyTnVpRHVTOXhDelBfNmZhQk1WZmZ5REdfd1oxcXZkc19QN1hUMDlRT0wtc0NjMkhoZ0VBclhtVEhfZWE1VGdQeFVnZU5pellMZ2NjWHRKQ1FIRkJMN0JLOW9TbHfSAeoBQVVfeXFMTWNGLWZ2TENDTmxMSHB0QzVMWmQyT0d5TnozcWpkUm11TTB4emhJak54b2xtaFZyR01FanF5Zmt2dW5OZGRieDY3S1F6ZFBkdDJPcjlRNG5vdDdfYUI1VlV6SUJhVFFNem82SmJuaGMxa25zeU5kTTV3YjNvNTlJRTlaVGNHRHNsRnRuNGxRa1pnZkYtWUVUa3pUVlRsZGotTkN1aEVCMWpZTzJJNU8zLWg1ejB1dW9wdkNkSVkza1R5ZmU5TWlTVlBFdUNIVHhKMUFGVUFEamFVWGVxdDFfeUlFUG84dWRsNzJB?oc=5",
+        "publishedAt": "2026-10-10T00:56:43.000Z"
       },
       {
         "title": "Petróleo supera los US$ 104: ¿cómo afecta al Perú y qué países de América Latina ganan con el alza? - Diario Altavoz",
@@ -97,27 +118,6 @@
         "source": "https://www.notiperu.com.pe/",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc0Y4ZjNVX1M0UjI4c0VpczRoREZMd0xxZGZrUmhkcms1M3ZVTVZieFBvMkFaMWNiejVpZkxtNk1Ud1dNYXZKRmNEdmtXdUwyUkZaNjlwREt1dFN2MWZOeWZhLVZzeUR3aFJnUEpwbWNDUjlrTHJDczhLbVNLNVNiM1JYdHRLYXpmTE8wUWVzajZ4alRTcUhMTVZmVDRMX3JQRG4yM1ZVMFBaTFc0MmxYT1ZiR25TMTIxQThzYjk1NTBocWtCakR0OVZ1N0M3QU5ZendHSm0xNm9PRGpx?oc=5",
         "publishedAt": "2026-10-09T17:26:14.000Z"
-      },
-      {
-        "title": "Gasolina en Perú sube 40,6% en un año: petróleo supera los US$105 y presiona el costo de vida - Diario Altavoz",
-        "summary": "Gasolina en Perú sube 40,6% en un año: petróleo supera los US$105 y presiona el costo de vida &nbsp;&nbsp; Diario Altavoz",
-        "source": "Diario Altavoz",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcHhDaktlQjAxcERzdVViWGQzS29ISTcyZko1UmZJTXRjS01oVm93ODJmSGFwVVNMQXh0am9uNlpOeDFNZzdDTEpva0VpbGZSZHNpT2RJNU56ZEdFWnloakVBM01SRVRUNjFiSkZnMVBoX3NuQ1dpSGlnQ2tKYms3SjFyZ3RUMlRZVnlsYTZsbXFrc3FwLVZIUFdsNENhWU8xcGxWSVIyemhmd1V4Z3o1cFZscDNkWE1VckE?oc=5",
-        "publishedAt": "2026-10-09T16:34:41.000Z"
-      },
-      {
-        "title": "Southern Perú obtiene viabilidad para su proyecto portuario en Ilo - Revista Economía",
-        "summary": "Southern Perú obtiene viabilidad para su proyecto portuario en Ilo &nbsp;&nbsp; Revista Economía",
-        "source": "Revista Economía",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FWS1SY3JRYnUzQXpRVmQtb0hQTEpYaklPQ0M5MGw5enFsMEIzZFJuRzg0Mjd1SHNCMXFKX2xubzloUDhUVWlqNFdyNkl2SlpPN2hxelVRanhHMTZWdXY1M25vRzVtNlNfQndhemxBeDNaUUNvc1RUZw?oc=5",
-        "publishedAt": "2026-10-09T16:10:19.000Z"
-      },
-      {
-        "title": "Crisis energética global: Perú podría enfrentar un alza del diésel si EE. UU. restringe sus exportaciones - Diario Altavoz",
-        "summary": "Crisis energética global: Perú podría enfrentar un alza del diésel si EE. UU. restringe sus exportaciones &nbsp;&nbsp; Diario Altavoz",
-        "source": "Diario Altavoz",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnQ0Uy1UX3l3bU9KMUVVNllZbmxib3FhYzd4ZjVEenJJaTZhYjQxVW5jYmplY0VrcXZMRloteHNXa2JjZlFDeEM5UG0tVl9XN0FqVHFhQnloNFBWemFOdWZtUzNXczRjQ0JXMGZjRXVsSlBDNW1HT1pLNnRrMlpCaGVMZnd4MzhSekdmd2psQnFZbjlBb3RBLWd4S3hVXzZJNE5JX3ZqZDhaQXZ4MU5pb3NIM3RiT2RYbzBfVE1RWmRiYkZ3cGRlRjA2bw?oc=5",
-        "publishedAt": "2026-10-09T02:45:33.000Z"
       }
     ],
     "sociedad": [
@@ -150,13 +150,6 @@
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
-        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
-        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
-        "publishedAt": "2026-09-07T07:00:00.000Z"
-      },
-      {
         "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - La República",
         "summary": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud &nbsp;&nbsp; La República",
         "source": "La República",
@@ -175,6 +168,13 @@
         "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
+        "publishedAt": "2026-09-03T07:00:00.000Z"
+      },
+      {
+        "title": "Ministro Elmer Cuba: presupuesto 2027 prioriza los servicios y calidad de vida de la población - TVPerú",
+        "summary": "Ministro Elmer Cuba: presupuesto 2027 prioriza los servicios y calidad de vida de la población &nbsp;&nbsp; TVPerú",
+        "source": "TVPerú",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWkFuOWxMMWltaDhYUHdWcGZMYW9sSDVlZ1hMYWw0UU0zWjkwR0FqWXZEd1VYTXlCOUpSVndPNXZTelByRGNqbEExRzl1SDNFcDlabEs1ejZUSnNEeHhkdHg4cVNBVXZ5VVdZU1puNjdacXltTWhZbjg5TFc5NDVlalZXMnpTQ1N6V2xMU0JLTWFJcTNmN0ZQOTg3NUtRR3pHSFBIc1VMZ3dWWFkyQjFyVnVtNExKNUtxMWt5cTBMRnpGRDYxbFJJUWxUZUhvakVlWG1F?oc=5",
         "publishedAt": "2026-09-03T07:00:00.000Z"
       }
     ],
@@ -222,18 +222,18 @@
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
-        "title": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio - Business Empresarial",
-        "summary": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONjJuRlg3UTRITXRKYUJwSDU1RzU0cURfLXl1WFQyd2pPVTdnTnJfMU1JMW5Pb3hMc3lOaXlIT0xHdkVqN3VwR1JQYzZJd3lzaUpUVFAzSEpjOWlNNV9tbEE2MUctWnFHTnFsOFo5dVNpVWtsTEt5dkxhRmtLV1ZhQmUtM0g0RVoxdDNDWjl3Vk1zV1M2SHZkY29aNkJZWkFhV2M4cl9wMXpWZzRzQVJMdWtSc2ZJY250ekRxekc0cUw3dGFXYm81SkxjREYxLXFtTS13TkphejBrQ1VQY2Nfc05QMUxnVDFfZ0M2RmRieS04djY1amZxdU0wSjY4QWhOZUE?oc=5",
-        "publishedAt": "2026-06-26T07:00:00.000Z"
-      },
-      {
         "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
         "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
         "publishedAt": "2026-06-18T07:00:00.000Z"
+      },
+      {
+        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
+        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
+        "publishedAt": "2026-06-17T07:00:00.000Z"
       }
     ],
     "ideas": [
