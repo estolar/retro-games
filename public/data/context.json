@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T02:52:52.308Z",
+  "generatedAt": "2026-10-13T10:14:24.300Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -64,11 +64,25 @@
     ],
     "economia": [
       {
-        "title": "Embajador de Israel: Perú destaca en mercados agroexportadores internacionales - Diario Expreso",
-        "summary": "Embajador de Israel: Perú destaca en mercados agroexportadores internacionales &nbsp;&nbsp; Diario Expreso",
-        "source": "Diario Expreso",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeWpDa3dTRWlCdGtkeE1qZjdOWnZTbGFqNUNxRTF6R2NUdURBSVJ1b2p3N2FLYkZHN2hjSlI4S1ItakZvUHVPM05mRVBiMWtxZEVyeFhSNlFHdXBFXzJkV1hUNzRRd0NxY3h6NTI0eExTUldTQUpjdVJ5THFyQW9wS3RjZWgwZkhXTEFhTXc4LUtiSkU3SWJpZWUtT3EwZ0VRWWxLYVh5M2F5V2tPTGZEVENORl9pUVp1N0JTTU52LVJITzJhV3BjS0pxZ2hnS1FoVXBQZ3ZGRVFUV2YtOUU0MTk0QzhOeXI5SDJEUDAyZEtzZ0VFOWNtY0otZURIRzhoS3E0S1ZhaEQ?oc=5",
-        "publishedAt": "2026-10-12T20:52:51.000Z"
+        "title": "Perú gana seis premios en los World Travel Awards 2026 y es elegido destino líder de Sudamérica - Diario Altavoz",
+        "summary": "Perú gana seis premios en los World Travel Awards 2026 y es elegido destino líder de Sudamérica &nbsp;&nbsp; Diario Altavoz",
+        "source": "Diario Altavoz",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWkhEbE9xMVVHbzBtTnlXbzllRzVKQS0wWXNLUGNUNVgyOXlxVm5ycFZKU3pfYWdZX0NMbnRpSTJPbVFxVkpHRmFGZ3Q5V21sRFlLRjdFTXBLbnNmWmFNYWQ2SEhkMkZDQ05DdFdEMjJBVmc1Vlp6Ri1EVUpTRTJCWmRlS2hhMlk0MWxnTkRVNDFhdFQwcVB1MW9JVGU4b2pBSW9SLWZRclpOTlUzbVZuRmZsNnRkT09fTWxJOWpNaG1ZQQ?oc=5",
+        "publishedAt": "2026-10-13T00:28:05.000Z"
+      },
+      {
+        "title": "Perú marca récord y por primera vez logra seis galardones en los World Travel Awards 2026, los \"premios Oscar\" del turismo - RPP Noticias",
+        "summary": "Perú marca récord y por primera vez logra seis galardones en los World Travel Awards 2026, los \"premios Oscar\" del turismo &nbsp;&nbsp; RPP Noticias",
+        "source": "RPP Noticias",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORU0xSWsxVm9jOXppYkM1RVdwUFJEZHZJYXN1ODlqUXphWF92SmFtaVpod29kWEFKRmFWQTR5Ukh0cVp0OTRINV9ESWh5cFExSTM5ZDBoVWFoZWVYN1RCRU00SEtwVUM5LWZEZTd6SGdFcVZNNGNjWkZaaUk4MzU1RmlkRXBVMTgtYko1QXAyVTJZNS1zamVIWjVSSHotcm1FYWhxYUlxMk94ekRsTnBVZk1wOTRyR1FqSDBlVlpqUHdkVmY1RVRPU2dyRS1WUnF1dEN1OFZlQng4RC03bVNGTkVQbWtKQWRPdEwyYjZzdC1CbTVVMVVydmlYVE8?oc=5",
+        "publishedAt": "2026-10-12T23:35:49.000Z"
+      },
+      {
+        "title": "Precio del dólar bajó hoy en Perú: Así cerró el tipo de cambio este 12 de octubre - Infobae",
+        "summary": "Precio del dólar bajó hoy en Perú: Así cerró el tipo de cambio este 12 de octubre &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWDdrZEg0bEQ4OXFVSV85QjRWSlBQR21XcXkyeno0dl9aZDA2ZUp3VllVZTBIMVV5WFFQbktDWmQ2Sl9QR3lmWXVFVnY4NkthVVJHcURLaFZsalNHVlMxOS0yNkNiMGtFSldXbjB4ZzZNeUt2X3hPQWRxRFY4cVB5MC01OWpaNmNvMnpXVE1UeC1WQm1GNE1RU0IxaDBOa2FfWU1yOEZlcXBlM2hCWTlV0gHKAUFVX3lxTFBvSVpHS196MVhjcjF4c2JZcUFSM0dnVUpaSEgtMFhZcVVBNlJ0ZTF1UzVxLXZYSkY1S1VObzJWbmU4TmxEQVhQN3RqdzZLbEdJUjdqUnVxQWh5MzNSMkE2aUZHUWxRNUV4eTN3c2MtLVQ2bmlNWUtlVTNfRmsxVjY5bjdscjhXNUVtbFV2NU8yMEJSRndBeUQxZ05odDE4czhfSEhCaVVRRzR1cURzeTc2bTFqaHZyRmtoUXBZZnlwTE5xa3hmb1N1T1E?oc=5",
+        "publishedAt": "2026-10-12T21:35:00.000Z"
       },
       {
         "title": "Perú ante una nueva etapa de innovación financiera - Revista Economía",
@@ -76,6 +90,13 @@
         "source": "Revista Economía",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLXBVUGd5TEZSTWVlUTdNTE4tSHJyODlXaEx0M1pZaHlDLWVkSUl6UUNtLTNPXzJ5V1QxQ1hzeVRndU14a0t2UGZvb0psZ05hUUxYdUxZV2EzTV9RNDZRZHdvTlBWZjhUR1ZOcW5Qd3M0YUNjT2c3b2M5UG5kckhLZndyRHdMWjJnTTdF?oc=5",
         "publishedAt": "2026-10-12T15:10:31.000Z"
+      },
+      {
+        "title": "Prysmian Perú obtiene certificación para cables con materiales de origen renovable - Revista Economía",
+        "summary": "Prysmian Perú obtiene certificación para cables con materiales de origen renovable &nbsp;&nbsp; Revista Economía",
+        "source": "Revista Economía",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGRka2pONUV5V2dwVV9Cb255WHV2TGFFM01nQWRjZG51WkU4akZXdmtORWdIQW9jWHVoTFduQmR4MDdpYVVBY0FNc0lHdDhSY2xYaVVweHlWYTBPQldGVWpEbk5Yam1aUGxNdDJOcHdsNjRLcmJoMzI1Vlp0MG1TNURTYW0xNG93WlJjUnNIaVdzMXlDazQ2V1RTcEtyamYtQXJKT3AzZXVzdDhfSzJCZE9IRVA0QQ?oc=5",
+        "publishedAt": "2026-10-12T14:51:03.000Z"
       },
       {
         "title": "El venture capital en Perú creció 63 %: el PVCC26 busca convertir ese dinamismo en nuevas conexiones de capital. - Revista Economía",
@@ -97,37 +118,9 @@
         "source": "Diario Altavoz",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1FUS3pzaE5GWTd4NEExQXpFb2o4bHNqMEcxZEJHQU0ySVM0cGJRWEd6emtZM0xkTENzUENWdmxXQzhwSzJPb1pGNnBfRTJ2ZXotVVRfWUp6UlRQQkExWGE1MWNOSnJHdjJ0ZDFxT1A5bXlVQUxZTFlIRktpb293UnFGbnNBUVZnNmtycjQ3ZGxjN3FmMnNQdA?oc=5",
         "publishedAt": "2026-10-12T00:54:07.000Z"
-      },
-      {
-        "title": "Perú produce 22 mil toneladas de carne de cuy al año y su consumo creció 15% - Diario Altavoz",
-        "summary": "Perú produce 22 mil toneladas de carne de cuy al año y su consumo creció 15% &nbsp;&nbsp; Diario Altavoz",
-        "source": "Diario Altavoz",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOFNWYzB1emNlTnNfNWpOU3Jnb2RERGg5M2d6bzBSNEw2X0YtWTRYV3dmR3hwUU8tX2JDS1p0cHhxUlNSaDVpTk5uMzNXRVp4QnpSRmtKR3FHdjA1WVNlRUV5VXBvdGtSbzNZWk9LZ3pyWklIdUdUUDVXZFh0QVk4UG5SRjF3Y1ZULUxmZWZpOHRuakh6WGFhUV91Z1hHY0NKeTNEQXktdw?oc=5",
-        "publishedAt": "2026-10-12T00:49:17.000Z"
-      },
-      {
-        "title": "Inversión y crecimiento - El Comercio Perú",
-        "summary": "Inversión y crecimiento &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXFzNElWV1VOa0RsYXlWUEc4ZHZtNXRjajhPMlJ1d2l4Q0FleHhTYkRXNi03dWtweE9xdWVEZ25jZE5JUEZjUzl6c0VobURKWWxsR2lzWURYc3FRV01IZzVVdGlHOXI1ek13bk5CS283TjYwSGdvakFIdXRsQlNzSThNNFBkTFBlbjFNdENsRlJRZmx5MTFvRkh2MXFZOWtTNHpEaTNBSC1ESE1aUlNwUtIBxAFBVV95cUxQYUJKaHRIblNqb0x5NTlxaklGMGU4ZDJIdlQyaC1lN3NMWm1neUVNeVQ4STJxWE03MklVSEczTnU2eUJ1aE1NRE5sYXBBcDJwRHpNczNpM1VINTVsNEgwa1hWTUtvV2RJSGUxVnl1em9EQ1pZaUZxZ0laRGNGVFdaeTFBcWlsQVhqVVV2SGs1RUN5eUEtQ0hxX2pGcXBHUXhha3Fvdl9YTVJ3QVE3MVMtOUo4dTRDaXNRdmxJNlFzdFB3SGE4?oc=5",
-        "publishedAt": "2026-10-11T05:20:00.000Z"
-      },
-      {
-        "title": "Papa León XIV en el Estadio Nacional: Entradas serán gratuitas y se distribuirán por ticketeras - Infobae",
-        "summary": "Papa León XIV en el Estadio Nacional: Entradas serán gratuitas y se distribuirán por ticketeras &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVHp4WUNoNmZzUnpDOTFkR0lqRlBPZWxKU2hoTFN4MW9ua24tS0RLMGhVaUhibllaRDlvSERQLVk5aXZ2SkxzdzctS0tCeTluYVN5T3pBaHI0R2wzb0gyVzAwaHFyUk5pR25WVXdtdHVwb3pBX3VZMGlTN2RLcEs5RVZIYzk2VHpoZHN0RW8yWFFSLWQtSGpQWlMzZ3NmRm5oUlFVOTFKWGtZcEgxbjEtZW1XZmFzaG9ZNHVpMlEwWUZib0pEYzZKOUxaNUJiM0Jx0gHrAUFVX3lxTE91a3pqVk9nbktLemdnT056YTRjLXJzWXJuQ3FXTmdqblhHVXlEdG9MRlNyZHhEd0FXYzlzazdkYzZQU0JlZEZael9Ycmg2WkN6V3JSY2ZrSWNPcDY0aEpfTGlTZ2tDMXVhOVZDRUdUMkxUYnBYTUY0MHgzY2J1SUVqc20xQlUzY3VsZWFuS0E5UmY1NGJMeTJFT09PTTVxZDl5SHdoejg3OXpuc2p0b1doRmNtNkVNNWk4Y0dfTkVaQWUxLWtZbnBtMkstWVNMb0JwazJTTUNOMW1LTXdBVUFIWXNFbWxZbEY3eWs?oc=5",
-        "publishedAt": "2026-10-10T19:16:35.000Z"
       }
     ],
     "sociedad": [
-      {
-        "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
-        "summary": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
-        "publishedAt": "2026-10-04T07:00:00.000Z"
-      },
       {
         "title": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN - La República",
         "summary": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN &nbsp;&nbsp; La República",
@@ -148,6 +141,13 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemVNbG80NXl2WFFVVFNUVUtSTWllaGx4bkZVaUcxT01xRmFtTm9tV0lKd2E5ZVQwLWpEb24yWjZtQnZ6NlZ2dFhNQkJRR3dPYnR1MVRVSTlVX0puTjBzMDJRVE5HYnNEaTM1dzVpQVphZFo2WEp1b3pSOEQ1c2x5d1lYWDFKU2M3eTh5Ug?oc=5",
         "publishedAt": "2026-09-29T07:00:00.000Z"
+      },
+      {
+        "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
+        "summary": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
+        "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
         "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
@@ -215,6 +215,13 @@
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
+        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
+        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
+        "publishedAt": "2026-06-25T07:00:00.000Z"
+      },
+      {
         "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
         "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -227,13 +234,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "publishedAt": "2026-06-17T07:00:00.000Z"
-      },
-      {
-        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
-        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
-        "publishedAt": "2026-06-10T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -307,7 +307,7 @@
         "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
         "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
-        "publishedAt": "2026-10-11T10:10:33.000Z"
+        "publishedAt": "2026-10-11T03:25:12.000Z"
       },
       {
         "title": "Uso de IA crece en empresas, pero solo 30% reporta políticas de seguridad - La República",
@@ -345,11 +345,11 @@
         "publishedAt": "2026-10-01T23:57:16.000Z"
       },
       {
-        "title": "IA y perforación a 3.000 metros marcan el futuro de la minería peruana - La República",
-        "summary": "IA y perforación a 3.000 metros marcan el futuro de la minería peruana &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZWNoNjl4clE4WTBIWHU1akJlVFJhRDU0Z0QzSGUteTFLdE5DUVptaTlvU0ZZY3l6Y0g0M2JETk9yV2VMWWJVWlJUY0xaU2o0ZERZYjhOOVZ6emx0T3RkYU9OQ19xMnZUVFlWdjY0VUdBUHVSbjdrOEc0cXRlUU9qRDlsQVRrQmJvVW1mbEdZUWZINFIyWWRhYWNBOXc0UFAzMFh0MjZMRVJFRWo0bTJsWTVkODgtR2FTZll4Q3RzSjJjZ3F1TmZKU25FTDU1N1F4V0Q2eWl4R3pOTExselRQQmdYTkpjZEFRQlFGQkJ1MHVOWkpmajhwNV9UdjZWdjlSdkJz?oc=5",
-        "publishedAt": "2026-10-01T07:00:00.000Z"
+        "title": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores? - Infobae",
+        "summary": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOEtOSVhSMWE0bklKb1h5QlhNTzF6dXJfMjZ6ckhvX05ScVZJMEtqUWdvaDhiQU0tV1dnVUlxU1ZuQXd2cWs5d20yczdNSmI4cU5vY094X2ZIQWhiMXgzUHdrNDI0emlsTV9JeHNpZUFWQzFsdjdienVQZDY1dFVGZF9CSzhkMkRlb2FzbkpyczJQcVh5YlU0NHZ1V21TLWxBVTdxRjdQVW1vS2pWWUdicmswZm8wdG5HQlBvZE5pbVhuWTlQRUJpSk94LWw5bExUQUNxTXhHb0ZOWEFWaVVEY0VpekUxR0p1UHFF0gGGAkFVX3lxTE03NW5EQUkwQUwycGU1R2h5bjBWXzlFWmppMGUtMUlxcWtER1k1OC12ZEprQ1dSNzNGYmE4aXRvR0NXM0JHYkRmQy1OVDVqTEpCUTQ2cTJMOHA4QklkWGFpR1IzRk9rbUxJcXFIWFBwbVRXUlgtNE1ubkdaOGd2eEtZZ09yc2JXSC14eWphMVJ0TWVtYWFfUHh1MllwZ09na1hCYmRXY1FUX3ZKdzhoU0RXLWFJRUV2QnJnZGJOSGw3bGVDMHg4T0hZVllEVkstNGFiZVJJMHdibVhmZGdIM09RNjZ5WXk3bG9xTV9kVkw3N0ctQXpWSGRKUW1oVVY1Y3FHU3FEYXc?oc=5",
+        "publishedAt": "2026-09-25T07:00:00.000Z"
       }
     ],
     "tendencias": [
