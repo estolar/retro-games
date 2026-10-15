@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T14:04:24.974Z",
+  "generatedAt": "2026-10-15T18:55:00.980Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -64,11 +64,39 @@
     ],
     "economia": [
       {
-        "title": "¿Somos conscientes de que el PBI rebotará en el 2028? - El Comercio Perú",
-        "summary": "¿Somos conscientes de que el PBI rebotará en el 2028? &nbsp;&nbsp; El Comercio Perú",
+        "title": "Economía de Perú crece 3,23% en agosto y se acerca a la meta anual del banco central - Bloomberg Línea",
+        "summary": "Economía de Perú crece 3,23% en agosto y se acerca a la meta anual del banco central &nbsp;&nbsp; Bloomberg Línea",
+        "source": "Bloomberg Línea",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSzF0VURGSXlSRm44b0ZOVDZSRVFzSExsbW55Rldsd2tYMW52RjhEc3A3d3hBNFhyaHcxRGxYd3lOZ1lianMweTVhUEhkcFFFZzhlWGo3M3lNbW1tNTJueUJzWnNEMHdwbzNXM01oMTdRcEJYQzNtVjBXZXRMQkE5dXhWX1ltcjVOWHN2cXRLVTBDNThmNUg3aldJM2lxSnptdDdreUh6eGs2YW9UWUlDbF9HVkJKem1Ra3RmSHVCT243RjdybDVDcTYyV1ZJd9IB4gFBVV95cUxNSFBDUjRrLWFzck9IUmY4TlNVbmdUc1BZbEdFM05xa3owZ2tHS3l3ODBaR2ZWdEE4dUo2aTNEdjN5Q3FoemkwVGJoNmNTdl9WSElDbXQ5NVpZd1NKOGpOeXNPME5KVEFNaHFmYnJSZTFiVC1uQ2NZejg1TGxTLW9SWl9MNllTLUkwQjMzeEVHNjhQblBBQWR1LTQyVjJlNDA4bkVqZ3VJWW8yTW81aS1QRmQ4Tkw4R240TzZDc2VWb1lSMWdGYVhfNGRCOWJXWGVVZ29mRTNlYVVJcDhKOEN6T3dR?oc=5",
+        "publishedAt": "2026-10-15T18:35:20.000Z"
+      },
+      {
+        "title": "Economía peruana pierde dinamismo en agosto y crece 3.23%, por debajo de lo esperado - Semana Económica",
+        "summary": "Economía peruana pierde dinamismo en agosto y crece 3.23%, por debajo de lo esperado &nbsp;&nbsp; Semana Económica",
+        "source": "Semana Económica",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZENZVDgwS3RDZ2hMYmhVT1ZVdld4SUoyY0wzS3FWS3VZaEJYYzZyU0l0Z3M3T3lHUjVUV3h4ZURRdFdzX3NtQXZUcnl5WEkyME1ZYW9TekZzdVlCZUJtZVRKWEZseUlIT2RscFZ2bmpYQnNhV3QtN09tX1REdW9tV0k1N0traDVpaGxDREd3T0tFVzlLT0dxWFRKRFVmZmFiZjd1SjgycW9mak9uRF9jcTFFNVREeE5rYzFZd1U2X0ZkZFR2N3dTTkNHMWpiQ0VCUWVzWGM5OA?oc=5",
+        "publishedAt": "2026-10-15T16:52:21.000Z"
+      },
+      {
+        "title": "IPE: economía peruana avanza impulsada por el dinamismo de la construcción y el comercio - Agencia Andina",
+        "summary": "IPE: economía peruana avanza impulsada por el dinamismo de la construcción y el comercio &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTk81dXVUbVJIdVdVREVFMjRJNmUyMmZNckdSbFBuMUs5TFBlS2phb0ZhbFp5b1BEaTY1T1JPM2V3bUFoOVRYMXFCem1xcmtESkhWcmpnbERsRElfYU9lY3U3VmwtY0hkNWtTWTdCU2V5SjZicWZsTXpJUzBrMkNWeEJLakppR3JoR3NWdWhhWTdkdllzTkhEcEdxVDJUelpJd2xsMURxMGpOUUlZMDJjWFJBdzh1SDFHNGlJa2tGN2tzSjA?oc=5",
+        "publishedAt": "2026-10-15T16:25:55.000Z"
+      },
+      {
+        "title": "Economía peruana creció 3.23% en agosto del 2026, en línea con estimaciones del mercado - notiecuador",
+        "summary": "Economía peruana creció 3.23% en agosto del 2026, en línea con estimaciones del mercado &nbsp;&nbsp; notiecuador",
+        "source": "notiecuador",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVWVwMjVCZV9LTU83S3FKbmF2Q3NzY3M0bDVGMV9YYjNnMXhhanJ2Z0ZER2ttb3NrNmc0TGs1T0d1YnhtS1hKbk5EdGZSRlFIbU9TSmJPTnE0RlRMMXFEYkRwZXJCLUsyMVpkQ3l1VXhYSkluRV9ua3d5S05ObXQzYnRVeXlNMlZzTUZocEhOSGpmcGxRT2pGSmhnSnNENDVvdW54QXQwUzUwU0ZqUXo0VkpDdk5HSXZfclo2WXlER3VQejVIODVoc0hEcWpMNU81VVE?oc=5",
+        "publishedAt": "2026-10-15T15:23:51.000Z"
+      },
+      {
+        "title": "Biministro de Economía y Minería de Chile: “Al 2035 casi toda la nueva oferta de cobre del planeta saldrá del Cono Sur de América Latina” - El Comercio Perú",
+        "summary": "Biministro de Economía y Minería de Chile: “Al 2035 casi toda la nueva oferta de cobre del planeta saldrá del Cono Sur de América Latina” &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUlpOOHFMd3EtN0ZZdHE2WWRlVlZ0aEhWdGlGUUJqNFVCbmhIWHpJWE50V3lSTTY5MmMyb18zTFVHRnJ4VW41UVprWkR0a2tqQkgzR0lsbjZVN2x2NkU2YVp1WDhrUkxIalZPQTZzVlFwVlk5eG5SOE9qaksyelBDTk1leVNGT1dmbWN3amNIbW5BcDFaT21jNlI3MmkwMU9pYXl6THJaWlUwOTVXSzZicEpfSk1UZFVvSmNnekM4cWNTWEVtZ2RzeUdPVW56SVRaTENLZjFHVHNNdzU5QVE4aW9oLWV5YUppRGfSAf4BQVVfeXFMUFppVTkwblloVndaLVVKeDhYa0F5elB6OFRxbXFVZDVjNHBkYnZ0cGZneXZRWFJZZzhjOW5rS2s1OEVLbVhpN2d4UWlSWG43SEdPUGZ3TTZOYmhwc0NFTzNGanJ0UVAxVkI1UWpxUERDNWhCQnRNcm9QTXZ2LU9mWDlYZ3BrZEdzaFU1Ml9aY1E1bmZFNUUzc0ZQTkwxQ1hac0hXaGZpU2Nrbzcyd2dmcXIybzkwaW9Cc25RLXZQemNNQ1FFQ2s1c0lDejAzSVN1bzhISng3aFpNVUN0QnBOZzkwcWlKdE1Camo2ZjZDa0dod0RwYjg2NFpmRU5JcVE?oc=5",
-        "publishedAt": "2026-10-15T10:35:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNSmVuV1RsclNuME44cGtRNE5aOUNsZnB2U2R2amlSUXNxelRiZkhnTlJLYXhESVFKa2E2MTgtNnhndmotWTFHVnoyQ25xOXIwSVowUkppVExjZTdkVGJjemdnUjVmeDA3SWprNkVaeHp1VTZ0RmxDZlM5THdQWUxZTzNTWm1NY1NScFFkVnhPUFZzZ3NXbnFRbmQ4aURPdGhtQktPQVBwMXp5Q3BUanhNbmlfcHQxbXZ3YzRLSmlHaDRGQkpxbUxra0diOWhrazNUZ0FjVkhCQkl4SkR4RWtfanZnTElTX2dHVHhjbkVZMC1IWGJkTzJIVndaVnlvNXdzb2xURExKYW0zMkpzQS1IVk5GTmgyU3JvTjBjcGFTZjBfT09BeEtGdFJnMkVkQQ?oc=5",
+        "publishedAt": "2026-10-15T14:37:22.000Z"
       },
       {
         "title": "Lima reunirá a empresas de Perú y Colombia para impulsar inversiones y negocios - Diario Altavoz",
@@ -90,34 +118,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHFheGtIY3piWm9TRzEwU0VOOE0wZkNWdkxiaU9naVRMdzZDTzM1bl9sa0VPdWRCNUZuWkdMRlpCdkVGWWZqQmFuaEVOZG5uSmRVLWN0eDVhWW1FOWZab0tSYi1TRTJtaG9UdE12d2k3NVI5cTMxUUhOR1pkbTBuUXhVTWMzOEk4MFBhTU12VGZfaDdsLWdYWVRhVXY4YjFVdmhVMkxobE5uY1pkVk9vWGMtQdIBzgFBVV95cUxNRUR2X0FRbzQwUUdJNklIaVdOS3k0c2lJakhDUHZvR0RMbGRGWXIwMzYxd1J0V1pqVWpSREF1R3V1Q2VBV2gxU0VKdktENWhXOU1YNTc5UlV2OGN0UDVHMmIydmhKZUxLbTBWUDlOS1RWbHpXLXFBMTFhUTZld24yZ2N2cF8zSUItQWU4X2VOWGZNTGhiRFBnSV83RDE0X09DYlZWLUlENEhhZnNHN016N1ZmdFZ6QkFtTzVpMXpsb0gwUGZ2TXFLbnktc2lXUQ?oc=5",
         "publishedAt": "2026-10-14T14:44:00.000Z"
-      },
-      {
-        "title": "Biministro de Economía y Minería de Chile: “Al 2035 casi toda la nueva oferta de cobre del planeta saldrá del Cono Sur de América Latina” - El Comercio Perú",
-        "summary": "Biministro de Economía y Minería de Chile: “Al 2035 casi toda la nueva oferta de cobre del planeta saldrá del Cono Sur de América Latina” &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNSmVuV1RsclNuME44cGtRNE5aOUNsZnB2U2R2amlSUXNxelRiZkhnTlJLYXhESVFKa2E2MTgtNnhndmotWTFHVnoyQ25xOXIwSVowUkppVExjZTdkVGJjemdnUjVmeDA3SWprNkVaeHp1VTZ0RmxDZlM5THdQWUxZTzNTWm1NY1NScFFkVnhPUFZzZ3NXbnFRbmQ4aURPdGhtQktPQVBwMXp5Q3BUanhNbmlfcHQxbXZ3YzRLSmlHaDRGQkpxbUxra0diOWhrazNUZ0FjVkhCQkl4SkR4RWtfanZnTElTX2dHVHhjbkVZMC1IWGJkTzJIVndaVnlvNXdzb2xURExKYW0zMkpzQS1IVk5GTmgyU3JvTjBjcGFTZjBfT09BeEtGdFJnMkVkQQ?oc=5",
-        "publishedAt": "2026-10-14T09:48:09.000Z"
-      },
-      {
-        "title": "Perú lidera la producción y exportación mundial de uvas - Diario Altavoz",
-        "summary": "Perú lidera la producción y exportación mundial de uvas &nbsp;&nbsp; Diario Altavoz",
-        "source": "Diario Altavoz",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZDV1cnNFc2VYckZhSjZ0UExvYTgzZ2xJMTc3WDB4Mjg4WWxOUzJLcmdEOHFEdzkzQTU1U2lBMTFEOVFIcXZ5dkNQeGQ1ejRmZTJjaU9qM05PYUo2bGFZdHNZRGd1ai1XOE9saU52aDdUTk0zUXNwMTZGdkMxdmlxTlczN2lrcWxXTktKOQ?oc=5",
-        "publishedAt": "2026-10-14T02:42:05.000Z"
-      },
-      {
-        "title": "PERÚ BUSCARÁ EN AUSTRALIA INVERSIONES MINERAS QUE BENEFICIEN A LA ECONOMÍA Y REGIONES, AFIMA MINISTRO SHINNO - Diario UNO",
-        "summary": "PERÚ BUSCARÁ EN AUSTRALIA INVERSIONES MINERAS QUE BENEFICIEN A LA ECONOMÍA Y REGIONES, AFIMA MINISTRO SHINNO &nbsp;&nbsp; Diario UNO",
-        "source": "Diario UNO",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNHdDZml2eFQwU2NreTFENVZFSEpyaDhwZndNNURxZndRcUl5S1JHc1JvbnFGMmt2SGI4N2VMQmZrRnpEM2VqMTdaYngzSG54YXdCYWhCNFlxa0pLb0FFMzZoZUF1VklaUllPcmtvUVFoTi11eDFqbTJYT1pHRXVSeFdYdlQzVkRWNklTNTVWQW1PS0wwQUpKa0dEaUwzelVXb2lyQ0Z4bXpQdnVZMXJEZ2dqV1VSVmNnSlVnUDVVMGJxUWpCcHNUZ0xSTDRLTHVZcS1NemFFcw?oc=5",
-        "publishedAt": "2026-10-13T16:29:15.000Z"
-      },
-      {
-        "title": "Perú gana seis premios en los World Travel Awards 2026 y es elegido destino líder de Sudamérica - Diario Altavoz",
-        "summary": "Perú gana seis premios en los World Travel Awards 2026 y es elegido destino líder de Sudamérica &nbsp;&nbsp; Diario Altavoz",
-        "source": "Diario Altavoz",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWkhEbE9xMVVHbzBtTnlXbzllRzVKQS0wWXNLUGNUNVgyOXlxVm5ycFZKU3pfYWdZX0NMbnRpSTJPbVFxVkpHRmFGZ3Q5V21sRFlLRjdFTXBLbnNmWmFNYWQ2SEhkMkZDQ05DdFdEMjJBVmc1Vlp6Ri1EVUpTRTJCWmRlS2hhMlk0MWxnTkRVNDFhdFQwcVB1MW9JVGU4b2pBSW9SLWZRclpOTlUzbVZuRmZsNnRkT09fTWxJOWpNaG1ZQQ?oc=5",
-        "publishedAt": "2026-10-13T00:28:05.000Z"
       }
     ],
     "sociedad": [
@@ -201,6 +201,13 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
+        "publishedAt": "2026-07-24T07:00:00.000Z"
+      },
+      {
         "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión - Infobae",
         "summary": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -227,13 +234,6 @@
         "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
         "publishedAt": "2026-06-25T07:00:00.000Z"
-      },
-      {
-        "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
-        "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
-        "publishedAt": "2026-06-18T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -245,11 +245,11 @@
         "publishedAt": "2026-10-05T07:00:00.000Z"
       },
       {
-        "title": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional - Diario UNO",
-        "summary": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Diario UNO",
-        "source": "Diario UNO",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjYxUUxNV1dqcXRBRzRyY1BNcm5UZE5abG00MVNLSWNWd2xkMVVhUkhTQVMyQ3U1dEFKeWdyTG5NX1hRRlJiTXJjRWppU2hmMnFKdXJkZHVKNW5GZWR4V1ZfZ2pBZW56T0d4Yk4zR3FJSHZEU1hYblNoZm1VQXFUYUN4RFpoRTloVF84OEt0VEtNcjBwM3JjemdQTnQtQ1dpa2tDZ0haTjg3OHNrNmtsMXdaaVBwaFpfUWhRbS04UWRFRFo5UDF2UjZGNGd4WFEwYkJLWW5GUzE?oc=5",
-        "publishedAt": "2026-09-19T07:00:00.000Z"
+        "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - Chimbote en Línea",
+        "summary": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Chimbote en Línea",
+        "source": "Chimbote en Línea",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlfZ2hfaXNHTGtPY0RiYTFSLU9hOGp6UFpJb1JmLTBoLUlISTFoNlFDN1Vpc2pfVFhfNFpveDV3WVE3Q2lpRmZfdXZZRmVQRkhqYkw2OW9mMXRCWGJacjAzczhkOTVtc083b0djalZpUnNkOFdVdExpb3NkNjdrMDlBNFNkMDZnVEotZzM5eHZlM251TE5VbE9YVWFkSGJxVkhDcHhLaVpjbkdCc205bHRyVjFmMkNuNEhVOGlOVU5PTVZmeU5Dc09uRmxpMUpMbzdvVVNjaE9GdmpVczdfVUZpVDc0c01u?oc=5",
+        "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
         "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
@@ -416,7 +416,7 @@
         "summary": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNekRuOHA2bzF2M0J2S21oMWpfOXlGaTR4LUFycU9xQ2ZXeUt2YmxJcmFZUk9WV3dUUTFIVUE5Tml3amdpNFo1OGNVY3pGcHVkREc5LU1fd3h4MDhNdFRfSG9JZnpnUmtlTXJHanBqUTNlUnhwWVphUkhvN1NtQ1h1TXB5NHJNNGJ1dTJzRGtlaWh5VExHZGRmR0RKRE1XeEZxeF9qLW9RRzZ0MU9mMTRQNWEzUEU4Zmk3NVhvWTItakZVdFczWjlHRDJINUFabERhTzhSN21ZN1ZZMnNXZmlib1JRUnJMdnotN1dFQkQ1V1l2NHhYX1ppdTlLbWVzUkZHRHNCU0ZTSGphSm1D0gGgAkFVX3lxTE9ueEZ2d3Jnbll2cVVyaGVuTGNfQkxpd2VLY1hqd0dXeThZM01wczNfcFBoWXYxSjVnYXNqQS1aZVFYTG9oYnVBTzdSZFhqeld6czVrV01QZlU2blUzYURQQm5zR1RBQUIza1V3NkVkSlBlZzF2cjRPZkxzMGR0M0ZWaHluSGRVdEsxUzdmaEVXX0NZZHUzMFZUYWZva2g4Vll6SmwyeDNlN2lUVlFYTXVqdmdEbzFFUDhzY1F1LVN4QkM2MEE4dHJBYzFvT21pNHBjZGpJT2d1QjhROUw2TVZBdzFFRVJxdHBuNE9BelM0eW03c1k1bnZWVzY3Z2VZUjhvdlB5dHQtZEJzdlZVUmE5MUxReG9xWWY4TThoWHY5MQ?oc=5",
-        "publishedAt": "2026-10-07T22:55:23.000Z"
+        "publishedAt": "2026-10-07T07:00:00.000Z"
       },
       {
         "title": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos - Trome.com",
