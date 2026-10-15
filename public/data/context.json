@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T23:00:58.403Z",
+  "generatedAt": "2026-10-15T03:39:38.603Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -64,6 +64,13 @@
     ],
     "economia": [
       {
+        "title": "Perú lanzará política fiscal contracíclica “muy potente” para continuar con el crecimiento - Agencia Andina",
+        "summary": "Perú lanzará política fiscal contracíclica “muy potente” para continuar con el crecimiento &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY1Z4eXJ0TGVGQUJvaXBYSktNTXpIRlNtMko5MWE4T0NDc1VDcjQyQUlXMGIzZXREM1dPeW5FdnFuaFpqUHNqbkl5bW9MUUhuck9YVVcySzBDSEEya3JYdVZZR3NnMG1oOXVPbHJVcS1meG8zUFJobHI2Z19UbndVVU9OUjNraFhhSUNXZmwzZWRlc0lMbnJOS2tvZTlhQnlFNkhScGVGaEI1TGlxdU1fd2d2dGM3Tlh6LTlNTWRWYzBVUENLX2c0eDBSRXE?oc=5",
+        "publishedAt": "2026-10-15T02:55:00.000Z"
+      },
+      {
         "title": "Perú crecería 3 % en 2026, según proyección del FMI - lacamara.pe",
         "summary": "Perú crecería 3 % en 2026, según proyección del FMI &nbsp;&nbsp; lacamara.pe",
         "source": "lacamara.pe",
@@ -111,13 +118,6 @@
         "source": "Diario Altavoz",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWkhEbE9xMVVHbzBtTnlXbzllRzVKQS0wWXNLUGNUNVgyOXlxVm5ycFZKU3pfYWdZX0NMbnRpSTJPbVFxVkpHRmFGZ3Q5V21sRFlLRjdFTXBLbnNmWmFNYWQ2SEhkMkZDQ05DdFdEMjJBVmc1Vlp6Ri1EVUpTRTJCWmRlS2hhMlk0MWxnTkRVNDFhdFQwcVB1MW9JVGU4b2pBSW9SLWZRclpOTlUzbVZuRmZsNnRkT09fTWxJOWpNaG1ZQQ?oc=5",
         "publishedAt": "2026-10-13T00:28:05.000Z"
-      },
-      {
-        "title": "Perú marca récord y por primera vez logra seis galardones en los World Travel Awards 2026, los \"premios Oscar\" del turismo - RPP Noticias",
-        "summary": "Perú marca récord y por primera vez logra seis galardones en los World Travel Awards 2026, los \"premios Oscar\" del turismo &nbsp;&nbsp; RPP Noticias",
-        "source": "RPP Noticias",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORU0xSWsxVm9jOXppYkM1RVdwUFJEZHZJYXN1ODlqUXphWF92SmFtaVpod29kWEFKRmFWQTR5Ukh0cVp0OTRINV9ESWh5cFExSTM5ZDBoVWFoZWVYN1RCRU00SEtwVUM5LWZEZTd6SGdFcVZNNGNjWkZaaUk4MzU1RmlkRXBVMTgtYko1QXAyVTJZNS1zamVIWjVSSHotcm1FYWhxYUlxMk94ekRsTnBVZk1wOTRyR1FqSDBlVlpqUHdkVmY1RVRPU2dyRS1WUnF1dEN1OFZlQng4RC03bVNGTkVQbWtKQWRPdEwyYjZzdC1CbTVVMVVydmlYVE8?oc=5",
-        "publishedAt": "2026-10-12T23:35:49.000Z"
       }
     ],
     "sociedad": [
@@ -129,25 +129,11 @@
         "publishedAt": "2026-10-13T19:57:00.000Z"
       },
       {
-        "title": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN - La República",
-        "summary": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdHlxN3pWUU9DenhObS0temJHTWt6UGoxWThSTEVydk5Sa2U0T0tGZm00VDdEbUJIMnlUQlg4bnR4WEQzME41cnhTUWdYT2VfanpPa3VIS080Q1UycHB6eWtpZEF2ZnM0dDV0bkhmNUtfRzByY202dWt1d2hsWWlrUUdCaGsyZHJNcU1ydWNuOFdPUGcwb2gtSW9TbElROW9nakxmcm03cUFDMEZLT0pXbVpIMlNXdUQ2a0Q2UEw3WkNoVXBjYVc4ZUlFRXRfUVR5alRydkJ1dG5KUkxnQkVEVklGb1RDTWVsMFHSAe8BQVVfeXFMTURTcmlRY1NnMm1abmptUHIwOW1GN2lzc1Z6c29EZFN3bUFUOE50MlQ3MzNSdFhIY2o0X3JveTI2WnRqajNwOEljMU5TblZvbHhZUnMzVk5OaGdNelV6dmp2LWYzQl9ndWNjd0tFWnMyMEIxb2xlMm1nc0s2TEc3SlFrVlIyYTJ2aXl2N2NoZVRNZ1JkcjNhRVJuLWtGeThCQ2hMUUpiYWZfcTZaOEQwcm84TmNwSzlMbGY4dl9ObWNXMVFBbmVpSEdyS05XeG9VLWVGcjNZTDE2Tms1TTVfMWFXWmRrM1l3Tlg1N3JDVmc?oc=5",
-        "publishedAt": "2026-10-02T07:00:00.000Z"
-      },
-      {
         "title": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento - Infobae",
         "summary": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3hnVnQwRDBOcWFqanlYajZhSmVHOVNUR0UxM2NlYVFtaU4tU2NtSU5WMHM3d0VZS0VrUVRRTUNPNzY1aXBhWndWZ1h2czJ0X3dmRkRyald3a0VYRktaSE5EVmpDU2R4MFRNTE82bG1QTjVjNVA1NW9CSlhtTHlqWEVNdVZoMUdfMWNQcy1Yc0xZRWNQUzZSQWhxZmFDNmQxTVFVcnpvdmtFdDVxWWRZNFRsSExwaG5val9ZbEptUGJ4by14SldZWm5qMzk4YlUxaHfSAewBQVVfeXFMUGZmVEVhN0NORG5ESURKOWpvS2c1Qnppcm5PaVd5SGFUbWRkQUhjMzBjMURnQzF4Yl9Oa01PVHI1c1k4M3FqRlBXUkdoR2g5d3JWdkp4eXllREJkWnFHY3dDOXVmVzhrTUF0ZjA2T0tJRUFhTERvTTV5aGpMdzdkdEpzMTJ6SWYtTEZXaDJmSkZqZ0h6VkpQY0tib3VlWW9oWXV5RWhmSTRLczhpd25UTWNXeWdaRy1KbzRNLW9uM1JQQ1VQdTVXOVNMZzRZLXF0bDBrVEs1YTUyblBreVJzOWJzM1I4a3JUdXE2Nmg?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
-      },
-      {
-        "title": "Perú tiene espacio para elevar su competitividad - El Peruano",
-        "summary": "Perú tiene espacio para elevar su competitividad &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemVNbG80NXl2WFFVVFNUVUtSTWllaGx4bkZVaUcxT01xRmFtTm9tV0lKd2E5ZVQwLWpEb24yWjZtQnZ6NlZ2dFhNQkJRR3dPYnR1MVRVSTlVX0puTjBzMDJRVE5HYnNEaTM1dzVpQVphZFo2WEp1b3pSOEQ1c2x5d1lYWDFKU2M3eTh5Ug?oc=5",
-        "publishedAt": "2026-09-29T07:00:00.000Z"
       },
       {
         "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
@@ -176,6 +162,20 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "publishedAt": "2026-09-03T07:00:00.000Z"
+      },
+      {
+        "title": "Restricción a prestaciones de salud que propone borrador de reforma de seguridad divide al gobierno y alerta a partidos - La Tercera",
+        "summary": "Restricción a prestaciones de salud que propone borrador de reforma de seguridad divide al gobierno y alerta a partidos &nbsp;&nbsp; La Tercera",
+        "source": "La Tercera",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRlNLMFZqSDFPaXdOQTY4bDFzc0N2ejIxbGhXWUtEaWdtOWl0UTYyNE40NGxXVHBHMENXeWZ1U1dCUm1nSk1sZV9QenRKTVhFU0pEZlY0RXlGYzNENjVSeVFxTk4xb0VUWWdUc2dCN056bVhsbUpJVjJmcDV2Yzl3Tkw4U3EyTHJXem1BTzA1S0R1TUoxUU5JSlpyd29ySmNzdmhZS21uOWduQWFPSzJ0SmVHVmxla1BQc0JvZXdDMkxzMkZ4VE5aRFRfQlRmaEZZZXltNndLSjBfLUlyR2JmenJRVUt5TXFUb09MbVpRdkZSQWQtU2fSAZcCQVVfeXFMTmxERjV3VXNHRFpyYkh1TUo1cE1RT0Z4WG1ZTkVmOVFVTE1rMkhWS1ZmSWdOZmdCWDd2dEt1RUg2WVA2MlZvMXYtRmxlZEQxQjhsdFJ2ZmQ0cngxTEw1ZlIwb2VtcEpsZzJDVGdKTGRHUVdqQmhkcjhaQ3RrZ2lsM2RNZzZlZ29zOVdOWnZqX211R3dDb0Joa3cxcjFiZ0xHWE51VkVCV00ySWpEUmdzNXByZzFqN0tKVnJfcWdsQzg4ZXdYbnpHV09XNGlkdDRKNW1ZaVFFRWFiQnR5RnlRUF9MclJrSnhsaGktNU1id2xyNEppdVlrb2JTNlNuUUZReFlLa2Y3UktPOUtUV29zbW9iV0V0cnQ4?oc=5",
+        "publishedAt": "2026-08-13T07:00:00.000Z"
+      },
+      {
+        "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - Agencia Andina",
+        "summary": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDg3MFVjQnE2eHFPRWpXV3RHcFUwQ3NzalN5MTBFNFhNV1ZYNVpkRFBRSlh1QmhCUzhCdXRWWE5xRnNHYWhIMzRwMnQ3Vl9CMWZBalFwTzd4eFI1cW9LYmkwS2toT3RpeC1pZC1paFlhOVlxdXdJUUJYQ3dzT1pGU3NLSVhIaUMzdXZ3QThaTGFMbF9SRFYyOWQtZy0yUE1NWFZtX0hNTUM0ZFZlSDZtck53Nmpqc2tYSkpZN0ZBTl9NbVBBMlAw?oc=5",
+        "publishedAt": "2026-08-11T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -303,6 +303,13 @@
         "publishedAt": "2026-10-12T18:29:00.000Z"
       },
       {
+        "title": "Exportaciones peruanas vinculadas a la IA crecen más de 16%: qué productos vendemos al mundo - Gestión",
+        "summary": "Exportaciones peruanas vinculadas a la IA crecen más de 16%: qué productos vendemos al mundo &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUUFTRTk3TjFVbkdOaXJfc29qTGstM1IyN21tdFN2V1dVODhjMEpSZGZESlFITklyMlJEa19VQ0dIbE1EdEU0TnpZeHZ2RThaOGY4eThSRGVDZlVZdl9jZzdjbTBqWTJ5elJYdnZJX21Ram5Sckp1ZlNOSlk2eWlQaURpWXRZNWRtTzFwTGZ6S1NqUHhuQXdVb1dRV1RlOE9KRU1DOVhEbjBZTGJ4UG94ajREUzNCNTQ2MndjWA?oc=5",
+        "publishedAt": "2026-10-11T18:38:40.000Z"
+      },
+      {
         "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
         "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
         "source": "Diario Ahora",
@@ -343,13 +350,6 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejlpWFhZZHJTOENlcHlrbG1PZmVxT3hEdHJZR0o0SHQ1QVBCTkMtZl93X0syeHM3U1RGT18xaXFVb2FKWm5USFZDbFVucGgxRThfY296T1JwVmM1Y0Q1eEF1S05ETE1faklDM1d0N254WXdHYVVld3B0ejlaVzRubERfdUdjOWZfdVVtRzFBZWNNMGFxcklKdzFSNmQxYWtHR0VsaFQ2czFaU1pFVGhIZHpmbTIzMVVXTlI0aF9fTUZFSGtrbDEwUE9FYnBLa2pGaldLanJ4Sk9vbUhoSW1Sc2tiQlZRaWVyQk1ETGwxOA?oc=5",
         "publishedAt": "2026-10-01T23:57:16.000Z"
-      },
-      {
-        "title": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores? - Infobae",
-        "summary": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores? &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOEtOSVhSMWE0bklKb1h5QlhNTzF6dXJfMjZ6ckhvX05ScVZJMEtqUWdvaDhiQU0tV1dnVUlxU1ZuQXd2cWs5d20yczdNSmI4cU5vY094X2ZIQWhiMXgzUHdrNDI0emlsTV9JeHNpZUFWQzFsdjdienVQZDY1dFVGZF9CSzhkMkRlb2FzbkpyczJQcVh5YlU0NHZ1V21TLWxBVTdxRjdQVW1vS2pWWUdicmswZm8wdG5HQlBvZE5pbVhuWTlQRUJpSk94LWw5bExUQUNxTXhHb0ZOWEFWaVVEY0VpekUxR0p1UHFF0gGGAkFVX3lxTE03NW5EQUkwQUwycGU1R2h5bjBWXzlFWmppMGUtMUlxcWtER1k1OC12ZEprQ1dSNzNGYmE4aXRvR0NXM0JHYkRmQy1OVDVqTEpCUTQ2cTJMOHA4QklkWGFpR1IzRk9rbUxJcXFIWFBwbVRXUlgtNE1ubkdaOGd2eEtZZ09yc2JXSC14eWphMVJ0TWVtYWFfUHh1MllwZ09na1hCYmRXY1FUX3ZKdzhoU0RXLWFJRUV2QnJnZGJOSGw3bGVDMHg4T0hZVllEVkstNGFiZVJJMHdibVhmZGdIM09RNjZ5WXk3bG9xTV9kVkw3N0ctQXpWSGRKUW1oVVY1Y3FHU3FEYXc?oc=5",
-        "publishedAt": "2026-09-25T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -412,6 +412,20 @@
     ],
     "farandula": [
       {
+        "title": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS - Trome.com",
+        "summary": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNekRuOHA2bzF2M0J2S21oMWpfOXlGaTR4LUFycU9xQ2ZXeUt2YmxJcmFZUk9WV3dUUTFIVUE5Tml3amdpNFo1OGNVY3pGcHVkREc5LU1fd3h4MDhNdFRfSG9JZnpnUmtlTXJHanBqUTNlUnhwWVphUkhvN1NtQ1h1TXB5NHJNNGJ1dTJzRGtlaWh5VExHZGRmR0RKRE1XeEZxeF9qLW9RRzZ0MU9mMTRQNWEzUEU4Zmk3NVhvWTItakZVdFczWjlHRDJINUFabERhTzhSN21ZN1ZZMnNXZmlib1JRUnJMdnotN1dFQkQ1V1l2NHhYX1ppdTlLbWVzUkZHRHNCU0ZTSGphSm1D0gGgAkFVX3lxTE9ueEZ2d3Jnbll2cVVyaGVuTGNfQkxpd2VLY1hqd0dXeThZM01wczNfcFBoWXYxSjVnYXNqQS1aZVFYTG9oYnVBTzdSZFhqeld6czVrV01QZlU2blUzYURQQm5zR1RBQUIza1V3NkVkSlBlZzF2cjRPZkxzMGR0M0ZWaHluSGRVdEsxUzdmaEVXX0NZZHUzMFZUYWZva2g4Vll6SmwyeDNlN2lUVlFYTXVqdmdEbzFFUDhzY1F1LVN4QkM2MEE4dHJBYzFvT21pNHBjZGpJT2d1QjhROUw2TVZBdzFFRVJxdHBuNE9BelM0eW03c1k1bnZWVzY3Z2VZUjhvdlB5dHQtZEJzdlZVUmE5MUxReG9xWWY4TThoWHY5MQ?oc=5",
+        "publishedAt": "2026-10-07T22:55:23.000Z"
+      },
+      {
+        "title": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos - Trome.com",
+        "summary": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmx0Rnc5SWVnVTJKRTVIZmlrcHlaSEJhaDhGcDdxODduSEtDR2Fla2tIZHYyaExOejNKcHdQd2FXbHRRVlFoZlAxN0VGTHpVSWRyMkdkYjhmallqUEg1WmxDa19jNzRwbFhDSHJES0RlU0Q1U0xyRjBTRWZ5SmUzdXVjX1I2Z2NqUGlPMFo3N1VLbDlKUU82M2tmZDQ0c2dWM2xqajdDSmdzMDZNM0tWT3huMUNQNXZFeE1sVm91MmJWZ0V6ZGozNzRkd01CM3gyQ3Rsek5fTUx3TGY1WTFWbW9xMzEwamh10gH8AUFVX3lxTE9lM05WNjM2a2tXRzRLdUJKR3pOMmdxM1NNYUFsRFpWSWEzcjlOZjdyUk4xamNrZjA2TmtDU2NaZHByWDA0dVJ3aWRObFNEOTdCREF0emh1b0tpR2RWOUpyMGR1ZHpwN2RtQXZ5VHl4dEJlazBZUWd5WFhYUDAzOXFPTnloOUdTYi1HTEcwbTVLY3ZFOHZpaUlua3pweWRqRkVPU2VWY1NhTUduVm1zRVlucmhHRDFJRHNSUWRZMkc1UFB0dnhZTEk1STh3SHJ1ZzRHcVhrYXpmWk5KYzlWNWtJcmhqcjZqM0xJTDVmR2ZoblJSQThfRWpOSndZaA?oc=5",
+        "publishedAt": "2026-10-05T07:00:00.000Z"
+      },
+      {
         "title": "Robbie Williams vuelve a Perú y confirma concierto: Cuándo, dónde, precio de entradas y su mensaje - Trome.com",
         "summary": "Robbie Williams vuelve a Perú y confirma concierto: Cuándo, dónde, precio de entradas y su mensaje &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -419,39 +433,32 @@
         "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
-        "title": "Conciertos en Perú 2026: qué artistas vienen, cuándo se presentan y dónde comprar entradas - La República",
-        "summary": "Conciertos en Perú 2026: qué artistas vienen, cuándo se presentan y dónde comprar entradas &nbsp;&nbsp; La República",
+        "title": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 - La República",
+        "summary": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 &nbsp;&nbsp; La República",
         "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTDSAagCQVVfeXFMTlUyQXAxei13aVQwbmNabDBUdU9QSWM3Tm5CSmNvZVJTRDFzZUxpb3E2M1R5OUFyNXNudDhka2RHNVJ5bE1YS0dWNmFZWVgtSnlWUWR5enRUOTJxaHIzNkNMNkU3Z0llUy1Yb25YOGloZnJCOU5YbmlvMFlwSDA1UUVpLTNUR1NHS3psZzNYenM0NFNrVkotVWtlNWVXekV6Ty02Qngxcy1QX29hMTFPMTBqMkY0VEsyVU9pVl8tMlNNVVByOTR3V2N0YXB3eXdKbjc3cHFHX1hsdWhEYVQ4S0oxdVUtdDk0dlE4SVI3NW5PUzcyUzVSUWhrOVl1a19yWGdlUE9iS3RibHk2REpKNHp6TEdXZUN6aU1pcml3V2dnd2VyTVNPaXg?oc=5",
-        "publishedAt": "2026-09-22T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdjBmOTJrY0FvQ1Y0OEEwTlJQQjdYMzFzWXRINlpmQ0R4YzVzQlZieWpzUVp5WTdVV2RBdF9lSUVjOHh2b2twek1KSVUxaWtHTXZqUmVXZGRfNlJFTUp1emYtMTBRSGxteW0zcUVIb1ktWjNlMmgzWnFaRlotU21rcElfUldDcUMyUWZRc0J0SEdZTTJNbE5UN2pQMXhUUGczTDN4Y01MczZiYWYzX3FhZ1JBX0tVa3N5cWtuQWpfSFFGaVNSWF9VeHM2NlM2MWJ0STY4Y1g4eEhwZm5XQkRDMmlsUExwd9IB6wFBVV95cUxNVWdodTNnWmhWSXZ0TXdBa3NVOFRVbUZrMlhuUGxNQTFvX09hek9Da2hlLU5Yb2txc2I3UklYWE1hLTd1LW00WTd6b0NxdWo1WTRXOTItNWdOLTNmRzVhSkRDblV4YmJDbDdockJ6SVdOZ0VkcXdwOUo1QVlYUDJXN01DZ2FQSXBPbzlNT25KSlRua1ZDRm9jaEdaX2FEcG4zZ1NHQjYybWw0TFRjQkpOWlBhRjhTWUFXM3BhYmxFYWFvWkYwbnU5RTVRWXhRRnRVTGp0Zi1EX28xVldfVDF1T1R6Y0JVclViV3Aw?oc=5",
+        "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
-        "title": "Gregorio Pernía en Perú 2026: fechas, ciudades y entradas para los shows de ‘El Titi’ - La República",
-        "summary": "Gregorio Pernía en Perú 2026: fechas, ciudades y entradas para los shows de ‘El Titi’ &nbsp;&nbsp; La República",
+        "title": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas - La República",
+        "summary": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas &nbsp;&nbsp; La República",
         "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQb1lMSVZOOUlSb1NnNFRrSmNGTEtabDdKa3dDMDlSa3EzMUd2aHJfYm5RR2FQVHpuRHFKZ0ZDQ1BYWThiOFNpVldzMURBU0hNS2RkQ1JHSWhzeEZnY1hDR1dEQkdtUjhkSWczUkNxN012blBBNFdvVjlQcmo3aE90elZEcXQ0dFdiY25CZGF6SDZSYkdCRjJobjhWYU9CdE5yVVBwbkZwQk8wR0k5dVNRZFIwVWgzRlBFWlo4bkNKZGhaa0Q4Y3llQ3J3MEVoVUVSclJ1c1lOSFlTNjMtSC04b2FGMmpqcV84LUdJeG94Y2pCX2dURXFfZS00ZWN4YTZ3bXZzSmQ0SEZyQW0tdllOS3RLNU4yWmfSAZwCQVVfeXFMUGVHb01JYkxMNnRHZGllTTdmSDF6a2E4eTdSM0xHVXRMX3VEYUk1VHV3OTVETVZTWnFKTVl5M1plelBmMTFxTWFWMm1LV1ViM2g4R1d1YUZuZDhucVAzRXR1d3Q1SFV0U2NrWlM3d2pMc01ac1Rlcm4zNVJGWUVzYnc4cm9KSDBZQkFGY1FaQlExTUZWNTA4bV9rWDhCbEY1dEtka09Hd3V5QXN2eDJiSmd3NEt2MVN3MDdkemdzRHN4WDd3YVEzcDhqRjd5NE5CSzljVnBjWWsxZlY3TEdFSXpNQVZyUzczNWVlRFFaSE5xZVVTV05RUUpJOTN5THdGRi1KSmdCN1AzUXp6MDktU1RUbm5yMmZ6clFCcmQ?oc=5",
-        "publishedAt": "2026-09-01T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQN2t3dE0wQVRpT09kN3dmQktaTDViMEhxXzI5eDQyVWxTZ3FDNmlVMF9rVHhUejRQRkt1SHA1bmZYdWxzSnFuNzhEZUhQWGVFdE1QbjlGV3N0RG1LWTZrRm02Y0w3dTlCc0JPWjRTdHBBaFpEYndHYUNGdjc4aERId000UzdkdTBmWUF1cC1DWG1vdTVxSDdPaDJ5MzVhaDU0WUViellhX2NEUlJQdFR2RzJqNXM3V3psWUQwVk9HRmczejFzUFBxTkxaS0Y1Z0drVnEyRWFHSEtoUVlOTEdKUUExRDlkejI2ck1mLXVDcFRsLTlIWWdOVTg4SThqTndpSzVjTmNkZFE2QXR6cW9LVm1BUdIBmAJBVV95cUxNZVBScnpMYUdFeGdXck5BcWNUTGRfcG9rMEx2UHY2VDZXaFhLeFc4RzhmNzRWN1BFck4zM0RkMGxNSHlBTVFnN0RVMUdWZTM0Y29nbE1fSjBabk1DNFMwbFJRMFJBUzhEYWxkV2V4bm94VUxwY3JmVXlSRXo2NkQ2OGpBUzhCclU5ZnpWYU0tMDlNWFMySWx6dmQxSDVmTGVKTmdVMWVEOGw5TEh4OW9PLTFyWWtNYzEydHFrRVAtOWREdlFCOVh6YlB5TFNfRlRPcGpCQXVMYmpsbTRnSW5xMnA5MUN3LS13bHczalozcVdUV2tiVDZieHI4ZVoybllCZEtCek5QTXJKTmNxV3lBaHZHYXFBYjBT?oc=5",
+        "publishedAt": "2026-09-17T07:00:00.000Z"
       },
       {
-        "title": "Yaco Eskenazi revela que carga solo con las deudas del hogar y genera polémica en farándula peruana - RPP Noticias",
-        "summary": "Yaco Eskenazi revela que carga solo con las deudas del hogar y genera polémica en farándula peruana &nbsp;&nbsp; RPP Noticias",
-        "source": "RPP Noticias",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNm1WZzNIVUtUendDZVRoZGVHRk9HdUJDVjdGMFVKOVVabzhHTXdxalRTVW1WR01kWnpwMThsTzY2Y0ttQW5MWXBpUDZLNzlVVHFNQVluYlBKdV9qTXBtd0FBelNWNVlTWjZRdi1yck42ZVpIWTkyS0MyRUI1QzZjODhPY1hiUlB6eV9iTHpNQ0RzclpYNVZxLTh2dXYyXzlIZDJfWGYyel92VU5nbjBqaV93aEZjM0NPRXZwbTUyMHlMVVI4UHFsenk4TWkzTS1qc1ZzRDQzUVhzeVFKaTY3M1A4LUR5YVE?oc=5",
-        "publishedAt": "2026-08-30T07:00:00.000Z"
+        "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
+        "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZTlkRllsLWtCdE54Y0p4b1dSZVZvOXQ0dDB4TnhmRWNZNGJlS1U4N0xmT0ZNN3Q3ZWpOYjFpOVVWRDk2ZC1ZTFNGMFlfOENwUnhTQktGdHRvNVNzY2I1T3puZXJiLUlic2huMUI4WENtemEtbTlPa00ycDgyVjZIUzBOTHh1VzRfV2NTUDQyZGNRcENTTGpVT0VzNHRWdG5iN2xnZFMwYWJBbHVuVU8wMVdYMzhaTmRsU1hnTVU5aUhxNWppRHg4eVVtZFpJODlIYmJaUm5WZ2Y3cEFBUTg2QV9ROFBBZGVFY19ncmkwc0lDUzBZT1FFVVhyNXg0YV8xM182a0Vlb9IBogJBVV95cUxPdElaTXBGNnNMeXRNU3BOYk1sWlhjSXJ0OVVrNGVMd1lweXJ1WTBQNWdiQk5adDhDSmJxNERrcEVhYjNKSDBfZUEyLU5fZVVrRFo3UmI0OVBTaGlDTVk5MUo2NmtYdi1sWWxtNHFhaGFwMjlLdmJjQVhzSHhlUHZfS29ZSWFxdld1N3NuU2s5bjJSZ3dyZnVLbEQ0dUhkQUk4eDhLY2lRekhiQndkSXJVNkVMWEh1SWRSTHJfVnJPVlRZd20tYVd1NVpjUGJzZkVmSUE4bFdRN0pYbGFHY3pTRWZnbFZkUjFfMkJOT3ZUYlpjaV9iRmlheTgzX24zZ2dyN1dFVFVhRGZ2aGs0RjljdU52czZseXJ5OUwyRW5JZ0s5Zw?oc=5",
+        "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Conciertos de agosto 2026 en Lima: artistas confirmados, fechas y dónde comprar entradas - La República",
-        "summary": "Conciertos de agosto 2026 en Lima: artistas confirmados, fechas y dónde comprar entradas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbDdUUzFReHVHcXFsQS1lREJxNnptLWtaTmxxdFE0VWZ0d3NfaDcxc1p6NmZhRFB1YUFyeEF5Tnh6NnRWcl9UTmNzNG1YV3N0bXpINXFnTS11SzVZakdVcGRYWFlnOTVfZmNONEVwZ0JhY1JFYUM2dndRcXIzUGpuSDJmU2U1V0RtbXZ2Ni1QMDZENVB2U0U4YlNCcjRKZkhIeWEwQzNGT1AtSUp3N3I0QV9TbnQya0FtWHViYUFsX0NZalhiM0ZCRGhnS1RXODg3MTc0aFkxY2JVcGlwQTlCdFRfNHFVNUxEeFNkX0pHX3pBbkJzdUNZWVcyTDlwV0tzYjlXTk03aTlFanItaU5vajVRaGZpamNTVUxB0gGgAkFVX3lxTFBoN3JZNXR1bGN1V1UxT2dNWmxuOXh1OU1mWE8zLXBKVGFZMmE4RC1vNGVKVXFjQ0ZySUQ1b2h4c3Zhc1FOQmM0RWVwWEMwajhBa3JnUXNZelpzLWFzdi00dGpFY0ZNNVplQlotN1NlNWM2aDdVSjhBTUZRTzg2OXo2amZaMDd2d2s0NkV6VjlzNld0UFZNb2NXSXV1ZXFxRGc1Ny00SEZEcXZ5SEtlNmR3czlRcXE0TVNCMDBjVU0zZUpXNTZYUndMa2FfS2RrOWpfaUpFdHlaUWlFczdncUZ0Y3IwTzRlVTY2Nk9QbmNQQXlOR3N2LU84VnhQUTJMYVFBQmpLcDJNQzZQQ3Jka2FDUXh5M2ZJaFF1dXRPNjhRYw?oc=5",
-        "publishedAt": "2026-08-18T07:00:00.000Z"
-      },
-      {
-        "title": "¿A dónde ir por el Día del Niño en Perú? Circos, shows musicales, conciertos y otros eventos infantiles para celebrar con toda la familia - La República",
-        "summary": "¿A dónde ir por el Día del Niño en Perú? Circos, shows musicales, conciertos y otros eventos infantiles para celebrar con toda la familia &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTEkxQ1BZMHZuSGRhSEN2SE5uQ0w2bFEzMDIxOWhpTGRScGxBZ3JhSkRSN0hxODIxUU1WbTd1NlNwWUpWS2dFUTI5em1NV1pnQmhPeFRoYWxwdG9HT3JoRVFGT3AzbG56MXcwaTkzNldlMG5JWllvempzZWVsajV5Q1ljME1yaVVTWmZaUjZFYzIwUmY2X29OYmFLaXo0SUZTdmhnN2pfX21HeFJBUVVZcldqLUVVdTdXdFpmVWItekFQTlhCS1BZcWRVdDFEVWFSUmtFMVp1YjJlWXNoU21Qc3JFRWRSMlo5cmd3WHFsdmxVREpCbmVqdm80QmwyMEtGT1VFRXBXY09vSFJVQjhDVDNUdWVQdFhhN2N30gGgAkFVX3lxTFBRYlFpZjhCSUR2SzF2TEFGSDdEU29PdlJMdC1TTmczWGRkdW1VSnpoSUduLXV0dHBQcnAtTXRwVk1UN21qV0Jtek5tdmw2VmpLdVNjUW5oeExPZkFzSEs5TkVUSVpCYmh0WE1Yak5Ndl9BNjJFakhFemp0cTZXRzNGZE80eklzS29rRndYX2R2ZnBHRGZibGFURnJJbDFiUkZUWHdDMUZJaHFtZXpVczcwWi1WNF9iMzh0ay15SUNoM2pDbzlZTEpjZW9BVWthckNHbVVfdWRUQTBDMmZCbWpGT2NQUGJkNXNTVFJLWnItMDVZUlY1SWRZS2NVbFBFUXVSUjdFN3d4RG9HdlhLcUpBRUFtMm5CZDc4aW5uSXd4Wg?oc=5",
-        "publishedAt": "2026-08-15T07:00:00.000Z"
+        "title": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” - Trome.com",
+        "summary": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0ZKVXhOaUNRMF9DMldlUXBKT1hQdXFHRlc0cnpUUWRLdmJFZFFOV3h3eTA5QnlraDZNSGN6bWFjNHJiOVVuSDcxSHlKTWdYY2hSY0VvWDhWb0lJVDhZeWJQb3Q3eWhTdG1qTEJJWVJTdmdCUUU4Q2hpODRQYjQ1NUw5OEJ2aUxNeFRxVHpVZVdMZThWanlrTUE5X2RpSVNMenBEaUdXSzkyczJ0UXVVdGdoc0hXejDSAcsBQVVfeXFMT1NEd25TWlFTdmhlR040dk1hWTkzNzR1eWJGUE12ZU9QQUw4UGU5Y0R1MjVWNE1uRGh3TUJIWTBiaFVOYi1pVlNwZEV2NVRkUzROTDlqLUtIM2liMzcyM1lWdWZBX1RTZUhSLW1xTGprT1pNTHZtRWRLR0s2LXA5dXBwUzBYS0JCTWNNam5IeG1ZTDFKYUhua2xMaWNCajBra0dOWlpTR2h6Yk1rYVp2djU3aGlhN0JodVB4MlhnY0lPdGRmX090c0RZTmM?oc=5",
+        "publishedAt": "2026-08-26T07:00:00.000Z"
       },
       {
         "title": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? - Infobae",
@@ -459,13 +466,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOR1NDdF9mS0J6YWhSQTJhRFpYVzFQbHMxMWNtVzJ5eGVfcmRwRS1vWTNiV0tpSGJEaXdPNE4tYkMzM0tobF9yMkV4dTR6NDJ4dXZ4bFR1al80cVVrOUVqbUF3UDBKNHVPVTVhak5VTUhJalJvZUE5aFRQTldJU3JDdm9HLTZDNVBxUE0xZDA4VWVqa3hXWnBhLTkwUlBsTmVuS0p6WHpmQ0tVNkhBWWhGQ1RXcTZPZGs2S2Qwc0hJVlpJWlFTcFI0ZGZ6OXZhLXJzZFRMZ1J3MFMtZS1ueEZLYWNlQWIxQ3RzN3pvVFM1Qi1TTXZsSmRsZXFhbVRNd0JOZkFjWXlsSnbSAaMCQVVfeXFMTXliQkJBdndLUUhLNE92NFA4NlVOQzFCMDhqM2RKNzJWWHM3YV83bnhKTGdHTFFFcHpQckhiOUlPTnpSejNodzRyTElBaFVzNlV5V09wdElvbHdORU84TlRjY2I0dS1SQlFpekZuVlhDcDQyR3hRMW8wZUxNV1dWclhJUDYwTVVlMXFOVHpFWl8zVHAyTloyVUJ5bkVMWW1ZTG9WX0p3X28tQm9Cd0ZZVkQzS05NZ25fSmk1Z1NFbUd3Uy1MSWM3cDBvbnRmTzI5S0VFLWZSdFREQTdMV1BPREQwU2doTVVhTmNWaUgyeHpUbmJvNVprUElyV0tKVk5HR3VMQkNVVTcxUmJJNkh2MUg4TkZFUU9ZcXZZM2FVLWFTOWlv?oc=5",
         "publishedAt": "2026-08-06T07:00:00.000Z"
-      },
-      {
-        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
-        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
       }
     ],
     "cultura": [
