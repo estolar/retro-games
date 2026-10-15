@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T18:55:00.980Z",
+  "generatedAt": "2026-10-15T21:59:29.524Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -64,6 +64,20 @@
     ],
     "economia": [
       {
+        "title": "PBI de Perú se desaceleró en agosto, ¿qué impidió un mayor avance? - Gestión",
+        "summary": "PBI de Perú se desaceleró en agosto, ¿qué impidió un mayor avance? &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUVJiRkdGWW1WOHdmTDdtVnFnYVhtNGdDekdia3VnWkFFMkZ3azBHNDdQblJOOUo0Wlphcm42cVJKUXFtU3VnMEJuTEMxeUt4WkNsSXlraWEzM3NYaHNGQkMtV2ZkZWVKZTg3UHdVTVdnYXlEMEFLUGJEY0dQOFFEUV9YVnQ5dV9iRVdSenlzeFBPZl9DY2hz?oc=5",
+        "publishedAt": "2026-10-15T19:49:32.000Z"
+      },
+      {
+        "title": "IPE: Economía peruana avanza impulsada por el dinamismo de la construcción y el comercio - Agencia Andina",
+        "summary": "IPE: Economía peruana avanza impulsada por el dinamismo de la construcción y el comercio &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTk81dXVUbVJIdVdVREVFMjRJNmUyMmZNckdSbFBuMUs5TFBlS2phb0ZhbFp5b1BEaTY1T1JPM2V3bUFoOVRYMXFCem1xcmtESkhWcmpnbERsRElfYU9lY3U3VmwtY0hkNWtTWTdCU2V5SjZicWZsTXpJUzBrMkNWeEJLakppR3JoR3NWdWhhWTdkdllzTkhEcEdxVDJUelpJd2xsMURxMGpOUUlZMDJjWFJBdzh1SDFHNGlJa2tGN2tzSjA?oc=5",
+        "publishedAt": "2026-10-15T19:49:12.000Z"
+      },
+      {
         "title": "Economía de Perú crece 3,23% en agosto y se acerca a la meta anual del banco central - Bloomberg Línea",
         "summary": "Economía de Perú crece 3,23% en agosto y se acerca a la meta anual del banco central &nbsp;&nbsp; Bloomberg Línea",
         "source": "Bloomberg Línea",
@@ -71,18 +85,18 @@
         "publishedAt": "2026-10-15T18:35:20.000Z"
       },
       {
+        "title": "Crecimiento económico del Perú llega a 3,23% en agosto, por debajo de lo esperado - Perú Retail",
+        "summary": "Crecimiento económico del Perú llega a 3,23% en agosto, por debajo de lo esperado &nbsp;&nbsp; Perú Retail",
+        "source": "Perú Retail",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa0hCeEhDZzU3T1IxN3dUb3hDUGYzdWtyTlRwNkR6UXVhUzBuME0ydGdjMHU5ZGdnWjN0REc3QUdJVm9lSDZpQUdfUDZ4aGFGSjhTZjN4amFaZkVNbGtIMDEyRVZVUFhOSTExa0lIbUpEZDRSNnU3NHV2TThMREJ5OVFqN0dNQlZQSHotYWhKbkNDZDlTdkh3ZkhQVjZhLUZOTkJHVThDMlUxMEE?oc=5",
+        "publishedAt": "2026-10-15T17:47:47.000Z"
+      },
+      {
         "title": "Economía peruana pierde dinamismo en agosto y crece 3.23%, por debajo de lo esperado - Semana Económica",
         "summary": "Economía peruana pierde dinamismo en agosto y crece 3.23%, por debajo de lo esperado &nbsp;&nbsp; Semana Económica",
         "source": "Semana Económica",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZENZVDgwS3RDZ2hMYmhVT1ZVdld4SUoyY0wzS3FWS3VZaEJYYzZyU0l0Z3M3T3lHUjVUV3h4ZURRdFdzX3NtQXZUcnl5WEkyME1ZYW9TekZzdVlCZUJtZVRKWEZseUlIT2RscFZ2bmpYQnNhV3QtN09tX1REdW9tV0k1N0traDVpaGxDREd3T0tFVzlLT0dxWFRKRFVmZmFiZjd1SjgycW9mak9uRF9jcTFFNVREeE5rYzFZd1U2X0ZkZFR2N3dTTkNHMWpiQ0VCUWVzWGM5OA?oc=5",
         "publishedAt": "2026-10-15T16:52:21.000Z"
-      },
-      {
-        "title": "IPE: economía peruana avanza impulsada por el dinamismo de la construcción y el comercio - Agencia Andina",
-        "summary": "IPE: economía peruana avanza impulsada por el dinamismo de la construcción y el comercio &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTk81dXVUbVJIdVdVREVFMjRJNmUyMmZNckdSbFBuMUs5TFBlS2phb0ZhbFp5b1BEaTY1T1JPM2V3bUFoOVRYMXFCem1xcmtESkhWcmpnbERsRElfYU9lY3U3VmwtY0hkNWtTWTdCU2V5SjZicWZsTXpJUzBrMkNWeEJLakppR3JoR3NWdWhhWTdkdllzTkhEcEdxVDJUelpJd2xsMURxMGpOUUlZMDJjWFJBdzh1SDFHNGlJa2tGN2tzSjA?oc=5",
-        "publishedAt": "2026-10-15T16:25:55.000Z"
       },
       {
         "title": "Economía peruana creció 3.23% en agosto del 2026, en línea con estimaciones del mercado - notiecuador",
@@ -99,25 +113,11 @@
         "publishedAt": "2026-10-15T14:37:22.000Z"
       },
       {
-        "title": "Lima reunirá a empresas de Perú y Colombia para impulsar inversiones y negocios - Diario Altavoz",
-        "summary": "Lima reunirá a empresas de Perú y Colombia para impulsar inversiones y negocios &nbsp;&nbsp; Diario Altavoz",
-        "source": "Diario Altavoz",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzZYUnhQZmFEaEJZZmdsU1JWRnplUHNFVG50XzZrb1RYcmFfQTR6WXEwbFdnNlktczM4c0pXMUQtZGo2WUtyU1BSR0wwc3FaLWg4SG9OVGpERHRiS1QzYllrNGc2ekgyTFpwQnpyYVZMZVktc01OalNLVU9RZFlmdXEtS0ZkVS0yc2FWVGlYNHJBUi1qaEdEbHVUZEFZTk1qVW56cVRva01nakdV?oc=5",
-        "publishedAt": "2026-10-15T03:19:18.000Z"
-      },
-      {
-        "title": "Perú crecería 3 % en 2026, según proyección del FMI - lacamara.pe",
-        "summary": "Perú crecería 3 % en 2026, según proyección del FMI &nbsp;&nbsp; lacamara.pe",
-        "source": "lacamara.pe",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tNUUxYkdINmh3U1J2bkpBRnIxOG1NUDdQbzduZjlKV1NYQ3Z6Q1pRcEpDNFd3NlEzSUJPMTBOT05uWG5rS1hET2lPTEdDZGgwQkNNX2EwWHdIbEVvV2lRSTVhaVJNSTNCUTBndHR2ZUduUkNtYVVDbw?oc=5",
-        "publishedAt": "2026-10-14T17:46:12.000Z"
-      },
-      {
-        "title": "BTS se fue del Perú, pero dejó más de S/18 millones en impuestos, según MEF - Infobae",
-        "summary": "BTS se fue del Perú, pero dejó más de S/18 millones en impuestos, según MEF &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHFheGtIY3piWm9TRzEwU0VOOE0wZkNWdkxiaU9naVRMdzZDTzM1bl9sa0VPdWRCNUZuWkdMRlpCdkVGWWZqQmFuaEVOZG5uSmRVLWN0eDVhWW1FOWZab0tSYi1TRTJtaG9UdE12d2k3NVI5cTMxUUhOR1pkbTBuUXhVTWMzOEk4MFBhTU12VGZfaDdsLWdYWVRhVXY4YjFVdmhVMkxobE5uY1pkVk9vWGMtQdIBzgFBVV95cUxNRUR2X0FRbzQwUUdJNklIaVdOS3k0c2lJakhDUHZvR0RMbGRGWXIwMzYxd1J0V1pqVWpSREF1R3V1Q2VBV2gxU0VKdktENWhXOU1YNTc5UlV2OGN0UDVHMmIydmhKZUxLbTBWUDlOS1RWbHpXLXFBMTFhUTZld24yZ2N2cF8zSUItQWU4X2VOWGZNTGhiRFBnSV83RDE0X09DYlZWLUlENEhhZnNHN016N1ZmdFZ6QkFtTzVpMXpsb0gwUGZ2TXFLbnktc2lXUQ?oc=5",
-        "publishedAt": "2026-10-14T14:44:00.000Z"
+        "title": "PERUMIN 38 convierte diálogo minero en agenda de formalización económica para Perú - Reporte Minero",
+        "summary": "PERUMIN 38 convierte diálogo minero en agenda de formalización económica para Perú &nbsp;&nbsp; Reporte Minero",
+        "source": "Reporte Minero",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3hlSU00MlFHc21oQTNLbTRKR3FISmVIYnFUVDlkdjJDOF9pYi1ldzFRMjlRSnpJS2ttTVN3WUF2X3RQemxJUUF5M0dnb0Q2YzJ3VEFLdGhvamNEM3dpc1Z0dHFSQnNWeTVmWjc5STdMT1czaGRvT09RcFRjOENpMkpLRVUtZFR1czJjX3NRb1JaZk0xR0hkTXlwS0JTRzB3YnN4bUltWmdWb1RsRkE?oc=5",
+        "publishedAt": "2026-10-15T13:46:00.000Z"
       }
     ],
     "sociedad": [
@@ -141,6 +141,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
         "publishedAt": "2026-09-21T07:00:00.000Z"
+      },
+      {
+        "title": "Lista de los 13 candidatos a la alcaldía de Cusco en las Elecciones regionales 2026: perfiles y planes de gobierno - Infobae",
+        "summary": "Lista de los 13 candidatos a la alcaldía de Cusco en las Elecciones regionales 2026: perfiles y planes de gobierno &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeTRJcTk0dkpWMnZIN3R6TVczVVhLYndLeHpReVRpNFNqSEJJUDhiTURnaUNHUG81MUMzRzFFeWpDSExkZGVsYzNPMWNvMHl6VVAzYVMtVHV1TjhsWHBqSThBVTFrU0w3Q0x2OXpTZkp1YkVEQ2w4cm1QT05fcGRtUDV3NjRqVUxzSk5RYkxmcERyckxfc1N0NmVHaXd2Nk1EMDlSUXlBVWZfVy1YWFRPaFYxczVTZzViWUdHeFQ5MXJfUFNXZTRxSFlDd3dLRHFaUU9ORDY5aG14dEV5ZU02N2R0SjkwWC1PMUHSAYQCQVVfeXFMTTNiLTJPQU1NYkdka3VjWXlad1FCSHdhTzZpcmc1Vk42VHdPWXBBU3Vubm9pMXN6eVlvUHZyMTRQLU9OYWp3SldkODlfY2t3a1Q1R1I5M25LWXA5T0lKQmJVVzRqM19ES1lGREVSOVp1TUFMSnRwYWN6dnFmX1pGUldSTUU1LU9JU3BCYWV5UUYwWGhXaDhPTDQ0TGh1SFFJQW5Va1BjbUdMenVyVnl4c3d1MjVySDNIVDhmaDJQSjN3cEdQZXV4UDlpMzE0M1dMcGlfTXcyUjBrOW9maVRyS3o3VlctcGxCRUpTNUZmOEFIUWo2bnJqUXJLMTg2OFVFMjBQLVI?oc=5",
+        "publishedAt": "2026-09-20T07:00:00.000Z"
       },
       {
         "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
@@ -169,13 +176,6 @@
         "source": "La Tercera",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRlNLMFZqSDFPaXdOQTY4bDFzc0N2ejIxbGhXWUtEaWdtOWl0UTYyNE40NGxXVHBHMENXeWZ1U1dCUm1nSk1sZV9QenRKTVhFU0pEZlY0RXlGYzNENjVSeVFxTk4xb0VUWWdUc2dCN056bVhsbUpJVjJmcDV2Yzl3Tkw4U3EyTHJXem1BTzA1S0R1TUoxUU5JSlpyd29ySmNzdmhZS21uOWduQWFPSzJ0SmVHVmxla1BQc0JvZXdDMkxzMkZ4VE5aRFRfQlRmaEZZZXltNndLSjBfLUlyR2JmenJRVUt5TXFUb09MbVpRdkZSQWQtU2fSAZcCQVVfeXFMTmxERjV3VXNHRFpyYkh1TUo1cE1RT0Z4WG1ZTkVmOVFVTE1rMkhWS1ZmSWdOZmdCWDd2dEt1RUg2WVA2MlZvMXYtRmxlZEQxQjhsdFJ2ZmQ0cngxTEw1ZlIwb2VtcEpsZzJDVGdKTGRHUVdqQmhkcjhaQ3RrZ2lsM2RNZzZlZ29zOVdOWnZqX211R3dDb0Joa3cxcjFiZ0xHWE51VkVCV00ySWpEUmdzNXByZzFqN0tKVnJfcWdsQzg4ZXdYbnpHV09XNGlkdDRKNW1ZaVFFRWFiQnR5RnlRUF9MclJrSnhsaGktNU1id2xyNEppdVlrb2JTNlNuUUZReFlLa2Y3UktPOUtUV29zbW9iV0V0cnQ4?oc=5",
         "publishedAt": "2026-08-13T07:00:00.000Z"
-      },
-      {
-        "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - Agencia Andina",
-        "summary": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDg3MFVjQnE2eHFPRWpXV3RHcFUwQ3NzalN5MTBFNFhNV1ZYNVpkRFBRSlh1QmhCUzhCdXRWWE5xRnNHYWhIMzRwMnQ3Vl9CMWZBalFwTzd4eFI1cW9LYmkwS2toT3RpeC1pZC1paFlhOVlxdXdJUUJYQ3dzT1pGU3NLSVhIaUMzdXZ3QThaTGFMbF9SRFYyOWQtZy0yUE1NWFZtX0hNTUM0ZFZlSDZtck53Nmpqc2tYSkpZN0ZBTl9NbVBBMlAw?oc=5",
-        "publishedAt": "2026-08-11T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -345,11 +345,11 @@
         "publishedAt": "2026-10-01T23:57:16.000Z"
       },
       {
-        "title": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores? - Infobae",
-        "summary": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores? &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOEtOSVhSMWE0bklKb1h5QlhNTzF6dXJfMjZ6ckhvX05ScVZJMEtqUWdvaDhiQU0tV1dnVUlxU1ZuQXd2cWs5d20yczdNSmI4cU5vY094X2ZIQWhiMXgzUHdrNDI0emlsTV9JeHNpZUFWQzFsdjdienVQZDY1dFVGZF9CSzhkMkRlb2FzbkpyczJQcVh5YlU0NHZ1V21TLWxBVTdxRjdQVW1vS2pWWUdicmswZm8wdG5HQlBvZE5pbVhuWTlQRUJpSk94LWw5bExUQUNxTXhHb0ZOWEFWaVVEY0VpekUxR0p1UHFF0gGGAkFVX3lxTE03NW5EQUkwQUwycGU1R2h5bjBWXzlFWmppMGUtMUlxcWtER1k1OC12ZEprQ1dSNzNGYmE4aXRvR0NXM0JHYkRmQy1OVDVqTEpCUTQ2cTJMOHA4QklkWGFpR1IzRk9rbUxJcXFIWFBwbVRXUlgtNE1ubkdaOGd2eEtZZ09yc2JXSC14eWphMVJ0TWVtYWFfUHh1MllwZ09na1hCYmRXY1FUX3ZKdzhoU0RXLWFJRUV2QnJnZGJOSGw3bGVDMHg4T0hZVllEVkstNGFiZVJJMHdibVhmZGdIM09RNjZ5WXk3bG9xTV9kVkw3N0ctQXpWSGRKUW1oVVY1Y3FHU3FEYXc?oc=5",
-        "publishedAt": "2026-09-25T07:00:00.000Z"
+        "title": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas - Gestión",
+        "summary": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX3Y5WVhJMENjVU5TSTkzRkR0UTllckE4SFdRUktHQzhYXzBrTHJRVXI0djh2cUN5OTdPa3hEQkdjNHFXQWI5aTNCd0hva3UxeUJBdWRfbkItempMYkVPZHVWYm9nNk12VVZ1THBuUDkzeld3LXFvMW12MDl2MFdmTEdmWnJBckxtTjdjanNRWjR3UklwZndxNlZNblpvM29yNnBpcC1icU5id1B1WTZ0X3Bjdlg5SzJTam85RnZTM1lMRkRhMTd0XzhTVEdtUGlZTk1GVlhLT3E2ZWNFU2JNS0ZBWDBmTkFySk9BUi1GZ0hXeEhDWkRmZjZSbnFPWWRNQjE0SFdWa0JqeGJUUmJrQg?oc=5",
+        "publishedAt": "2026-10-01T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -522,7 +522,7 @@
         "title": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones - Infobae",
         "summary": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ]
