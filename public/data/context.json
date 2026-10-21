@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T22:14:17.145Z",
+  "generatedAt": "2026-10-21T01:22:16.851Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -64,22 +64,29 @@
     ],
     "economia": [
       {
-        "title": "Turistas de Chile dejan de venir a Perú este 2026 y acumulan 40 mil que ya no nos visitan - Infobae",
-        "summary": "Turistas de Chile dejan de venir a Perú este 2026 y acumulan 40 mil que ya no nos visitan &nbsp;&nbsp; Infobae",
+        "title": "Perú mejora sus perspectivas económicas: proyectan un crecimiento de 4% para 2028 - Expreso",
+        "summary": "Perú mejora sus perspectivas económicas: proyectan un crecimiento de 4% para 2028 &nbsp;&nbsp; Expreso",
+        "source": "Expreso",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZV8zSERaeFRUeTNHZTBMQThpeFlRaE5NWk4wZGtaQnBQVUsxT2x2Z1UzWkZRY3U1cmtCQVdfekUyR25jR2prWE9QWVVNalFuVXdaRE1zb1BtOVI3TGxzT3BVeHJQWElMN3dVQ1dEdFJ5RGh4S2dNUFJURzJBWHc2Rk9GWGJQT19ESnFWNnJCczM5MG0zajN5S0NtN1pnX1pFa2h2NmpQdU5kT1cydEhGWmRINTNVVkZtUTVUc1FTV2xRLUhuR2tFMU5sVDlKRk1sQmc?oc=5",
+        "publishedAt": "2026-10-20T23:45:55.000Z"
+      },
+      {
+        "title": "El 2027 será un año de grandes desafíos para la economía peruana - Rumbo Minero",
+        "summary": "El 2027 será un año de grandes desafíos para la economía peruana &nbsp;&nbsp; Rumbo Minero",
+        "source": "Rumbo Minero",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmpJZW9PYkE5dlNFVm9sY3I2WTg3OGdkenpMVmtFRDZpYzAzdlNaUkFwaDVVaTd5Vk4tdXN3dVBnYlNudXJCTnVHX0dKcVdhTDc4OEJ6dlRDaVU0ejNBeENKeHhqNnlUYlRqUVFRSlcxNk9fZVNMSEt0OFNzRTE1THp3UUdybDlILXg3V3lHTGdEZ2VwZGVVRHh0T1BCNDdFUUYzM3lxM2Rfdw?oc=5",
+        "publishedAt": "2026-10-20T22:45:17.000Z"
+      },
+      {
+        "title": "Turistas nacionales y extranjeros dejan de visitar Machu Picchu y apuestan por estos tres atractivos - Infobae",
+        "summary": "Turistas nacionales y extranjeros dejan de visitar Machu Picchu y apuestan por estos tres atractivos &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMFBFcFBYQWN4TTZmNTVVSnNMb0xsd2FXd0ZHU1BWVHVTLWZEV19JYXE2WlZjbGRHZFN3MFIxQ3BLVzB3VWxLeVRqeVJQV3lDcm11VkstcHVtS25aR1pHbGZBei1KWDdnYkZWcmY2dE5XRlM0SHo2UzdOSWI1V2JuNkhTdWNXU29KMzNERHlqaVNvZElfTmptWnFYYlNSakhwNFV6Z0VJSHVfNDV6a1gydWFndnp0aXRrdENodUt6MXM1NFRfT3VYci1n0gHkAUFVX3lxTE5TTnpraURZV1ZTLWlWaXlBSFJGMXZlZ2ZDdmVuMjZBQTBCSmdYb29RR2U5RUZDVXpVRGFTNHI0TFc3MkJVQ0I4QTBGdU5RNjdGSl84UDJzYlAyQkU0TG5FLTVTX3BKUVpIQ251NGV5dXg1THpFdUIwMEE2YzVIYWJ2UHNTWXhucDh0TW40RldlSUdlc05qbEFSNWVuSl95UVhWVVZ2OVpVMlN6dnpPRlBod0pGNnhnSFZPZnhlaTBZTEhpM0paVUVZV0R6b3FJWFVDOUc2dldXVkRnZkJNMlZpOUhaMA?oc=5",
-        "publishedAt": "2026-10-20T18:24:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd1FDTEVJVDI5QmZhWDBMcGVQVmloZ05QNWRsazZTV0FOMUg5RThramN0MkpIX21ybVVUc1I4dGVPUEJoTTBTREQycnlFcTBHX2JLMkpSbHM1U3FtRWR4SkVaZnIyODBDbVYwNWxyRkFwM3NlaWo0UEtqa1E4TkpkUXZyVzJWbUNoVFNaUUxWc28wS2p6WXNLbjA3TWNCSllWQW9IS2U2MDB3dnpoQmUwSjJ2RjZvR2RTZ1J6UjhTMVdxckRsXzRWc29maGtRMHVOcF9fT3RMT2zSAfMBQVVfeXFMUEt4ZHZvZ25FZjhDVzYwWndMVTl4cmNXbDdGNUduVi1VVTViUmR2UjN2TGFiOVluc3V1eEM0OE9LbG9rOVJnbGlBb0NPUGtqdG0wcE1JOXp5VE1nZmJYRG5kZ0ZRRzNSSm16d3hUbEFtZi1xNzVkNjhORVh2TFBDVDBtWFFLcFhCRjYwSG1MYUJVN1kwVlBNMjlTTmJmYW41VTl0N2JjdVgwdEV6VktuaHJ4N3RZbVdBLTZrSEcwTC1Yb19UemYxRVYwNzFfVlFsdVpuVDVPQkxMX2JXN1VXaHJPVDBzcTFGdVl2WEc2Z0UxZWFB?oc=5",
+        "publishedAt": "2026-10-20T19:30:00.000Z"
       },
       {
-        "title": "Economía crecerá 3,1% este año, según Citi, ¿qué espera de la inflación y el dólar? - El Comercio Perú",
-        "summary": "Economía crecerá 3,1% este año, según Citi, ¿qué espera de la inflación y el dólar? &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY01MMFhINVNNX1NacE9qRVVmNXc4ZC1UUG1HYW11OERyZzVhZG9XUHlJa2JpRFNDTUNpV3RLeVgzaS1ocXRGV0FYcU05VjBGY2tKVHo4dGpkWTNSRm00N3hYeW1GZmNzT3FJTW5EYUpqaEVzcHpxS25LbDNMbU1KZzFPMms3eVp4dEQ5R1NCOWRmcGtQZ280VW5Fb210ZDFzSnA3aFZFSUVxZ3VXZndKU01zQXYxVTQ4anJiblRXU2NCS1ZMWkdubWJKNkdPWldiRU5rTmZIWUo2SHNJ0gHwAUFVX3lxTE8xa1lWSE5BOGQtUll2M05YMEM4UlpZZUVEd0FuVm5Qb24tLXZaWHBCeUZMbzNuenlvSks4MlR1b3hyT0lvMlN0NFF3NzhwZUVZSjE3ZEoxY3k4SE5UUks5dGkxY2V1YlB6cGpQeTVGdUVlUmVNX0c4Uk10VWI3NXpmZlJCbzNxelBPdHlRVGlqenhvaVRHRWRhOEVONVlnMFUyTEl1dVdmQmlpMS1tWkdWcFlmbFVBcmZIc210QU1KNmVJUTJfb3RKZl92eUVmcWFCZGYwUk44cHNxOHh2TDhvTXBiRS00RUs2Sy02Zm5wMQ?oc=5",
-        "publishedAt": "2026-10-20T18:01:24.000Z"
-      },
-      {
-        "title": "SNI: economía peruana conserva fortalezas que tienen pocos países de la región - notiperú",
-        "summary": "SNI: economía peruana conserva fortalezas que tienen pocos países de la región &nbsp;&nbsp; notiperú",
+        "title": "Perú.- SNI: economía peruana conserva fortalezas que tienen pocos países de la región - notiperú",
+        "summary": "Perú.- SNI: economía peruana conserva fortalezas que tienen pocos países de la región &nbsp;&nbsp; notiperú",
         "source": "notiperú",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS0VxdUJKbF9YZGtEUG5BZ01VbG1TRWZKVDllLWdLQlN2RWJpN19JNDJpeG9ESlI0Y2JhdVdHdVd3T2JzaWgxODFLcmttR0RhZFhZUDRKVG9JRnVEWjlyZkFmNUd3UEJJZUxIZXJSUjdkeGo5QWE0SGZkWXZxdGJqc004bGtXYWxBYUwzekRJSk9YSkpocmF6Mm9hWnVITlVqVWU4cFg3LVloSkZvaGoxa3lBQ1VURHlVNTlhcTZzeTM4bS0xWHNfb0xCX3BueWl4SExB?oc=5",
         "publishedAt": "2026-10-20T17:31:07.000Z"
@@ -90,13 +97,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV3kwRjVMQXRjVWk0bjNZdlVVekktODJlbFM3eXpIVUtyckFMNnM5RnNrSjBLenM3YVg0X3htWHQ0LUxyYWNoNlR5NG9DRXhfaEstQ19RMFVaY2FSMGw3NGFaVnJtR3NQNkFMMGhaWW4tOWFqUElfUzY2bjhPYl9SSEF3SUhwSzhUWWMyWTlaREZtUlRnb3VNUHNrSmpIb0dOR05KQzRDZU52MzVIWDhkUjczbUlSR1phN3NsNHlBbzZ4Rnc3Z0Y1aWhzVdIB5gFBVV95cUxQRC1sZzAtVUFkQmNQal84ay04VmRLczdzc0gyNS1wNXItMjZpVWxHMlAxOTFVVUxrWDI3NEJvTV96UWRzaTJFNVUzenFLZDBZT2dCckhlLVk5NlNCOUNtSEZSVDVhYVZJb0d3VFFKS3ZsTndRT3JoODFCclN3MUZZaTNNczVXblo2NkhLbDlNdWI0OHFjdFNULVQ3ZUdFbnlGSjA2M0tUUXZDMzJNS2JVZjNnQzF2bnR1YmtJTGFHcWNEZUxTZDNJb0Jyd3FGU2N5cm1CZUczRUZqYk1xajVfUlJ6YnhBZw?oc=5",
         "publishedAt": "2026-10-20T12:50:00.000Z"
-      },
-      {
-        "title": "Chile dice presente en la 8ª reunión plenaria del comité ISO de economía circular en Perú - Portal Innova",
-        "summary": "Chile dice presente en la 8ª reunión plenaria del comité ISO de economía circular en Perú &nbsp;&nbsp; Portal Innova",
-        "source": "Portal Innova",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXhyQ19zVXNPckZSX2poQlpTVTlZNlF4b2NRUGRyVFkwQlFFcVM5dGFFVUs4V1Q2RzV6cFlvWHVDQzlDbG9OUUlXV0dKOUZkcU5qVjlnX18xRV9aUjJZSUE5bzBSaktzbDBOc01KVkZTa2xES0NCSUF3ZDBwVWtzUTZWNDEtNUcyb21uT20tTDE2WG8wRXZoa0VOWno0Ukp5S0k0Ym8tNk9CUDNHUjBVTkFBUTI?oc=5",
-        "publishedAt": "2026-10-20T12:25:29.000Z"
       },
       {
         "title": "Alfonso López-Chau en Altavoz: relación entre el Congreso y el Gobierno, economía y desafíos del Perú - Diario Altavoz",
@@ -157,13 +157,6 @@
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
-        "title": "Lista de los 13 candidatos a la alcaldía de Cusco en las Elecciones regionales 2026: perfiles y planes de gobierno - Infobae",
-        "summary": "Lista de los 13 candidatos a la alcaldía de Cusco en las Elecciones regionales 2026: perfiles y planes de gobierno &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeTRJcTk0dkpWMnZIN3R6TVczVVhLYndLeHpReVRpNFNqSEJJUDhiTURnaUNHUG81MUMzRzFFeWpDSExkZGVsYzNPMWNvMHl6VVAzYVMtVHV1TjhsWHBqSThBVTFrU0w3Q0x2OXpTZkp1YkVEQ2w4cm1QT05fcGRtUDV3NjRqVUxzSk5RYkxmcERyckxfc1N0NmVHaXd2Nk1EMDlSUXlBVWZfVy1YWFRPaFYxczVTZzViWUdHeFQ5MXJfUFNXZTRxSFlDd3dLRHFaUU9ORDY5aG14dEV5ZU02N2R0SjkwWC1PMUHSAYQCQVVfeXFMTTNiLTJPQU1NYkdka3VjWXlad1FCSHdhTzZpcmc1Vk42VHdPWXBBU3Vubm9pMXN6eVlvUHZyMTRQLU9OYWp3SldkODlfY2t3a1Q1R1I5M25LWXA5T0lKQmJVVzRqM19ES1lGREVSOVp1TUFMSnRwYWN6dnFmX1pGUldSTUU1LU9JU3BCYWV5UUYwWGhXaDhPTDQ0TGh1SFFJQW5Va1BjbUdMenVyVnl4c3d1MjVySDNIVDhmaDJQSjN3cEdQZXV4UDlpMzE0M1dMcGlfTXcyUjBrOW9maVRyS3o3VlctcGxCRUpTNUZmOEFIUWo2bnJqUXJLMTg2OFVFMjBQLVI?oc=5",
-        "publishedAt": "2026-09-20T07:00:00.000Z"
-      },
-      {
         "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
         "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
@@ -176,6 +169,13 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVYRHNkcFVTRXlocG5ySVlLRzZJSzNKWEJXRldLWkJHQUpkeFBHWFJSNzVNVFhrTS1WTnliRHBhbmlZTDBCSEVLWjRkSHB0TTd3S3E3bGFucVQ3c0ZoeVJiSkRsRHltQWx0UWlncnNTaUhOcmZpcEUtbWdoR0ZFS2pJczljLUpyR0ZRS1VyTFF4SXBEODlfWG5aVzhsOXF6eGxQYnRPMlpaRHN6TG1hNHZKbzFhZElxOUd2TUNndXJDTHJubmNXM1pMUkNYRkI5eHpaMUNlT0NjYVQzSHh5U2h3c3pUZ2c0TWd5QTRJYWh4bDhuT1g3SHVNQmZ0OHfSAYQCQVVfeXFMTmktbXh4RFU1eWJvVkw4SFRHV2dDbm1rLTRiVU41TW9ONV9tS1pUUmFWcFExb3lfTWYyczVGSjJWLUJBSHRuTDE5RlVBRHhxQ19OdHpvcEtLNEdBcjZNZzZhS3kwRkxBdmxFZUhWZkZWTXRheEQ0U21ZWEV0ZHA1MTBoWWJ3R0VDa3pXQWFpVDlSclVsSUtLT1VtREFId0JXeFpEU3Z0ZmxyclIzcEZSSUFXME5seENxRU9uWVhwVURIWjlTa3JXSTRjd09QMExqeGhNVXpYa0Rzb0d6elRjRGNDMVZES1E2b202dHBrNVZMRW11YURrOGdYY0tuU3dOSFRKZnM?oc=5",
         "publishedAt": "2026-09-04T07:00:00.000Z"
+      },
+      {
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
+        "publishedAt": "2026-09-03T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -296,11 +296,25 @@
     ],
     "ia": [
       {
+        "title": "IA en retail: ¿cómo ayuda la tecnología a elegir lo que compran los peruanos? - Mercado Negro",
+        "summary": "IA en retail: ¿cómo ayuda la tecnología a elegir lo que compran los peruanos? &nbsp;&nbsp; Mercado Negro",
+        "source": "Mercado Negro",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQMmFveEhZakpSQ2hpcC01ZlM3VmQ5MGZSaGYyVUxBaWZ1YkswRk5lSl9Ucm5TVWlqQjVJQzVnM3FHeG1TQmMzckl6R0pON21PdEpBYm9mWjZpOUxGMXRmeDJpandOT3ZmcUZqQ1c2TTU?oc=5",
+        "publishedAt": "2026-10-20T22:01:45.000Z"
+      },
+      {
         "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
         "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
         "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
         "publishedAt": "2026-10-18T16:46:20.000Z"
+      },
+      {
+        "title": "Del buscador al carrito de compras: el consumidor peruano aprueba la IA que lo ayuda a elegir - altavoz.pe",
+        "summary": "Del buscador al carrito de compras: el consumidor peruano aprueba la IA que lo ayuda a elegir &nbsp;&nbsp; altavoz.pe",
+        "source": "altavoz.pe",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMUZQeU9VcXJHX2JfaENRdEdaZm5JcDA3WmVCNE9OWGF3endXNDFBYVY0YWV1VEh3VHcyMkxGekJ4dDdFMVEweGs0LUpNWjFKdWZmNlFTYnJJVFZPTGtJRzUtTTRYRUJSRXZvVlRzXy1UaWxQSmdWQV9MbTdONE42Q3JfQ2lSUFNXTFN0VnI0QWthb0Zsc1hkRlRLTzUtN3JTdExnRFRBZkdraTBLWjFFUHRtbkFvWDZEb2xYZzJXb3kycnNuMkFPVkR1SnV2NUZXcU9GRWUtXy1uRDYw?oc=5",
+        "publishedAt": "2026-10-17T14:53:44.000Z"
       },
       {
         "title": "Un coach de IA para cada profesor: así llega Muyu Education a Perú tras el retroceso en PISA 2025 - altavoz.pe",
@@ -336,20 +350,6 @@
         "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbW0tdEdqMHU1VjFvLVl5TURURUhDSnI0Q0thbjJCOTc2TGRzMTcwMW1wazlIcUREQ1RsaTA2SUN2bVlwVWdQdUNEUkFFYlBOdDhkcElzTFFzVWZBRDAyUHJFVEN4b0tzbE5KMmM4eGdURVJ5U2s4QVZFUXUycVlHODYtUFJMckZIUHoyU2p3NGNwZ0hQa09BQXhKaUVvdUJ0OUtVcWlMdHZJeXlaaWJxZEd3SlgyMmt3T2E3X0pYdGMtZEp3SDJvWEtvUHd5T3YtWUlNWHdYT0VBRmlsVTBJbi04amdTeHdPbC1GcTM5c3MxdXFEV1hPbHpydThOcHJCRDRBaXAzdUxqUQ?oc=5",
         "publishedAt": "2026-10-07T07:00:00.000Z"
-      },
-      {
-        "title": "La IA llega al café peruano: reduce 77% el tiempo para evaluar la calidad del grano - AgroLatam",
-        "summary": "La IA llega al café peruano: reduce 77% el tiempo para evaluar la calidad del grano &nbsp;&nbsp; AgroLatam",
-        "source": "AgroLatam",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVREdGhkSk9WZGYtMGZpS003Yk1rU3ZOYUY0Wk5lN01YUi03X1ZxcU1PZnNEYnRfMEtyOTVpVjdlMVIySEtuMU0ycVVPREIzazkwWllvZzZwQzcyclpESWZvUnFnYUdhd0hqd1c4QW81ZUFlbG5vc2R3YTZaYldvYVJSdXdFa3FnZWszaFNZVTFxanhkczdyRmFfWVRITi1uNHExY05pZ19wd19BQmRjd1VwcDNVcXdNZHRUU1dRSXVnLWVhUlFOMA?oc=5",
-        "publishedAt": "2026-10-06T17:37:46.000Z"
-      },
-      {
-        "title": "Cámara Peruana de Inteligencia Artificial y PBS Group Perú establecen alianza estratégica para adopción responsable de la IA en empresas peruanas - Perú Informa",
-        "summary": "Cámara Peruana de Inteligencia Artificial y PBS Group Perú establecen alianza estratégica para adopción responsable de la IA en empresas peruanas &nbsp;&nbsp; Perú Informa",
-        "source": "Perú Informa",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVjZJeENTb0xLNW1yWEs5Y1p0amlEUjZZNGxIR1lTc1dGV2hCMUpCZ1lrcWNPWDVVVHRkaXh3Wjh6NXZQYnJmV1puRF9oUENFVDRuTF9kWG9iTVFWWVVMa2g2MjNCbFNFNVNhZm9aTVMyRWJacVljV185SWFEMGQyTl90N2xYMUFucXhUQWpSemZWMzZGa0JONGFXRElIX01JVXNoX0hQYWZjNmFIOWpXMnBxNzY2RndFMEU5SzRjeWhhNkNLSlVVLUlPUEpjZXZUQk9mRWp1dm0zci1oV2N5ajZJQV8wMGI1VjZQZ1lWdzByLS1ON0VTR0VaVThoTzdqcjVPdg?oc=5",
-        "publishedAt": "2026-10-05T15:19:43.000Z"
       }
     ],
     "tendencias": [
@@ -419,13 +419,6 @@
         "publishedAt": "2026-10-07T07:00:00.000Z"
       },
       {
-        "title": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos - Trome.com",
-        "summary": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmx0Rnc5SWVnVTJKRTVIZmlrcHlaSEJhaDhGcDdxODduSEtDR2Fla2tIZHYyaExOejNKcHdQd2FXbHRRVlFoZlAxN0VGTHpVSWRyMkdkYjhmallqUEg1WmxDa19jNzRwbFhDSHJES0RlU0Q1U0xyRjBTRWZ5SmUzdXVjX1I2Z2NqUGlPMFo3N1VLbDlKUU82M2tmZDQ0c2dWM2xqajdDSmdzMDZNM0tWT3huMUNQNXZFeE1sVm91MmJWZ0V6ZGozNzRkd01CM3gyQ3Rsek5fTUx3TGY1WTFWbW9xMzEwamh10gH8AUFVX3lxTE9lM05WNjM2a2tXRzRLdUJKR3pOMmdxM1NNYUFsRFpWSWEzcjlOZjdyUk4xamNrZjA2TmtDU2NaZHByWDA0dVJ3aWRObFNEOTdCREF0emh1b0tpR2RWOUpyMGR1ZHpwN2RtQXZ5VHl4dEJlazBZUWd5WFhYUDAzOXFPTnloOUdTYi1HTEcwbTVLY3ZFOHZpaUlua3pweWRqRkVPU2VWY1NhTUduVm1zRVlucmhHRDFJRHNSUWRZMkc1UFB0dnhZTEk1STh3SHJ1ZzRHcVhrYXpmWk5KYzlWNWtJcmhqcjZqM0xJTDVmR2ZoblJSQThfRWpOSndZaA?oc=5",
-        "publishedAt": "2026-10-05T07:00:00.000Z"
-      },
-      {
         "title": "Robbie Williams vuelve a Perú y confirma concierto: Cuándo, dónde, precio de entradas y su mensaje - Trome.com",
         "summary": "Robbie Williams vuelve a Perú y confirma concierto: Cuándo, dónde, precio de entradas y su mensaje &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -465,6 +458,13 @@
         "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
+        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }
     ],
