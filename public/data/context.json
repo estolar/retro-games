@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T13:32:26.222Z",
+  "generatedAt": "2026-10-21T18:27:29.698Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -64,6 +64,27 @@
     ],
     "economia": [
       {
+        "title": "INFOMEDIA llega al Perú para ofrecer servicios de sostenibilidad empresarial - Revista Economía",
+        "summary": "INFOMEDIA llega al Perú para ofrecer servicios de sostenibilidad empresarial &nbsp;&nbsp; Revista Economía",
+        "source": "Revista Economía",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmw4MjVSaWRZRC1OZUc2ZUlGU3hjTzFEZmhxTGRUZUFLdTAyZkN6N2hCdFZEUWVrV1l5c2RVbXdlN0FEUUtlSm9uT2M0Y3JHV3hDcHlTUGY0U3ZDU0dSS0hsRExtVC1TYjQ3Q3pGa09WV1Jmekc4VmdXMmlkbERZQ2VDZlNFeGt6RzU0WWx5T2VJeVo0SlFpM0F1LVVUclhOWmkzeTdNaVpWc1l0QXc?oc=5",
+        "publishedAt": "2026-10-21T17:20:35.000Z"
+      },
+      {
+        "title": "Citi: Perú daría la mejor respuesta económica a El Niño en América Latina, ¿pero hay riesgos? - Gestión",
+        "summary": "Citi: Perú daría la mejor respuesta económica a El Niño en América Latina, ¿pero hay riesgos? &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOFdSX0I1SWxoRENlQW52LVh4eUhnNjNFcEh5XzVUdEFqaVRhR3owZEo5ZGwzc3lHR0FRZ1NMX3BNZkdIR2RpSjhiem1xTjJmcjBNcFlSUlF3d2tma2Q2TU9CUklMUU1LOFAwQlI5eUc0LUVUS0EwdjVfZFRsZlIwN0FjRExEZVRxY3oyV2s4NEFrM1BGbEtVX2ZycDNIU0djX0tPekpESU9rSHA1OUVSODl1MU1Qb25oOXFqcXgxeG4?oc=5",
+        "publishedAt": "2026-10-21T16:30:00.000Z"
+      },
+      {
+        "title": "Turistas nacionales y extranjeros dejan de visitar Machu Picchu y apuestan por estos otros tres atractivos - Infobae",
+        "summary": "Turistas nacionales y extranjeros dejan de visitar Machu Picchu y apuestan por estos otros tres atractivos &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd1FDTEVJVDI5QmZhWDBMcGVQVmloZ05QNWRsazZTV0FOMUg5RThramN0MkpIX21ybVVUc1I4dGVPUEJoTTBTREQycnlFcTBHX2JLMkpSbHM1U3FtRWR4SkVaZnIyODBDbVYwNWxyRkFwM3NlaWo0UEtqa1E4TkpkUXZyVzJWbUNoVFNaUUxWc28wS2p6WXNLbjA3TWNCSllWQW9IS2U2MDB3dnpoQmUwSjJ2RjZvR2RTZ1J6UjhTMVdxckRsXzRWc29maGtRMHVOcF9fT3RMT2zSAfMBQVVfeXFMUEt4ZHZvZ25FZjhDVzYwWndMVTl4cmNXbDdGNUduVi1VVTViUmR2UjN2TGFiOVluc3V1eEM0OE9LbG9rOVJnbGlBb0NPUGtqdG0wcE1JOXp5VE1nZmJYRG5kZ0ZRRzNSSm16d3hUbEFtZi1xNzVkNjhORVh2TFBDVDBtWFFLcFhCRjYwSG1MYUJVN1kwVlBNMjlTTmJmYW41VTl0N2JjdVgwdEV6VktuaHJ4N3RZbVdBLTZrSEcwTC1Yb19UemYxRVYwNzFfVlFsdVpuVDVPQkxMX2JXN1VXaHJPVDBzcTFGdVl2WEc2Z0UxZWFB?oc=5",
+        "publishedAt": "2026-10-21T13:06:00.000Z"
+      },
+      {
         "title": "Retiro de AFP de 4 UIT avanza en la Comisión de Economía: Piden opinión a seis instituciones - Infobae",
         "summary": "Retiro de AFP de 4 UIT avanza en la Comisión de Economía: Piden opinión a seis instituciones &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -76,13 +97,6 @@
         "source": "notiperú",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajFmcG1iYUs3a0ZJRkxUYWVib3RRUmx2eG85bzJmZUs0c3NtRGlGVnhoVERsZjNaa2JBd1pvS3JsLWN6cVFBN2R1VUd1RkR5RkZWNWhOUFNWNFhoMmxVbXhiLWhRdkswQ0o3SkpVM2U2YmpuWnRzQnJnQlgzMGVhcWI1WTRPM1dNUFU2cC1ZYWhrS256LWh5N1JCbTA4djlaYlJJVHRYVnRKakYxSFoyWXVFZzdHbWtsTDVPWkktYjVhUnQxRmZGOHVjLV9tSG5zNnB4eFl5STdLdkR5UThQbQ?oc=5",
         "publishedAt": "2026-10-21T12:31:34.000Z"
-      },
-      {
-        "title": "Citi: Perú daría la mejor respuesta económica a El Niño en América Latina, ¿pero hay riesgos? - Gestión",
-        "summary": "Citi: Perú daría la mejor respuesta económica a El Niño en América Latina, ¿pero hay riesgos? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOFdSX0I1SWxoRENlQW52LVh4eUhnNjNFcEh5XzVUdEFqaVRhR3owZEo5ZGwzc3lHR0FRZ1NMX3BNZkdIR2RpSjhiem1xTjJmcjBNcFlSUlF3d2tma2Q2TU9CUklMUU1LOFAwQlI5eUc0LUVUS0EwdjVfZFRsZlIwN0FjRExEZVRxY3oyV2s4NEFrM1BGbEtVX2ZycDNIU0djX0tPekpESU9rSHA1OUVSODl1MU1Qb25oOXFqcXgxeG4?oc=5",
-        "publishedAt": "2026-10-21T10:35:00.000Z"
       },
       {
         "title": "EL PERÚ TIENE UNA ECONOMÍA SÓLIDA Y HA EMPATADO EN PRODUCTO BRUTO INTERNO (PBI) A CHILE - RCR Peru",
@@ -104,20 +118,6 @@
         "source": "Expreso",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZV8zSERaeFRUeTNHZTBMQThpeFlRaE5NWk4wZGtaQnBQVUsxT2x2Z1UzWkZRY3U1cmtCQVdfekUyR25jR2prWE9QWVVNalFuVXdaRE1zb1BtOVI3TGxzT3BVeHJQWElMN3dVQ1dEdFJ5RGh4S2dNUFJURzJBWHc2Rk9GWGJQT19ESnFWNnJCczM5MG0zajN5S0NtN1pnX1pFa2h2NmpQdU5kT1cydEhGWmRINTNVVkZtUTVUc1FTV2xRLUhuR2tFMU5sVDlKRk1sQmc?oc=5",
         "publishedAt": "2026-10-20T23:45:55.000Z"
-      },
-      {
-        "title": "🔴 #Expreso65Años | Perú mejora sus perspectivas económicas: proyectan un crecimiento de 4% para 2028 - Facebook",
-        "summary": "🔴 #Expreso65Años | Perú mejora sus perspectivas económicas: proyectan un crecimiento de 4% para 2028 &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeENLV21fWDBfTWJqLXBPMlo0MVotMGpndGdkWjJoQ29EUGhMbzJkWUpoLVhxTDJ5VUQtZENIb1I1U3BUVTdsQUdmSW9qTVdzcHFwM1ZuQWxhUDI5SGZOQTF1aENkV1BpRnAxUHlNTGFJY25oRDVqT0hWZkxaSC1oN1Fkd2pITlhuZ1gzQ1o0b2NvZXR4QXhmTmZ4U3dtcVlJUnFTT3d2NklJTDNMTTFCeTI2aHpQT25uRzBZaF9ieTlsUzV1MkN3VlFLTzVNV2xQZFk2RlBGcGxSVFYzSlFDLUdSSTZFT0tjczZ6bEFjMTQ?oc=5",
-        "publishedAt": "2026-10-20T23:44:39.000Z"
-      },
-      {
-        "title": "El 2027 será un año de grandes desafíos para la economía peruana - Rumbo Minero",
-        "summary": "El 2027 será un año de grandes desafíos para la economía peruana &nbsp;&nbsp; Rumbo Minero",
-        "source": "Rumbo Minero",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmpJZW9PYkE5dlNFVm9sY3I2WTg3OGdkenpMVmtFRDZpYzAzdlNaUkFwaDVVaTd5Vk4tdXN3dVBnYlNudXJCTnVHX0dKcVdhTDc4OEJ6dlRDaVU0ejNBeENKeHhqNnlUYlRqUVFRSlcxNk9fZVNMSEt0OFNzRTE1THp3UUdybDlILXg3V3lHTGdEZ2VwZGVVRHh0T1BCNDdFUUYzM3lxM2Rfdw?oc=5",
-        "publishedAt": "2026-10-20T22:45:17.000Z"
       }
     ],
     "sociedad": [
@@ -136,11 +136,11 @@
         "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
-        "title": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento - Infobae",
-        "summary": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3hnVnQwRDBOcWFqanlYajZhSmVHOVNUR0UxM2NlYVFtaU4tU2NtSU5WMHM3d0VZS0VrUVRRTUNPNzY1aXBhWndWZ1h2czJ0X3dmRkRyald3a0VYRktaSE5EVmpDU2R4MFRNTE82bG1QTjVjNVA1NW9CSlhtTHlqWEVNdVZoMUdfMWNQcy1Yc0xZRWNQUzZSQWhxZmFDNmQxTVFVcnpvdmtFdDVxWWRZNFRsSExwaG5val9ZbEptUGJ4by14SldZWm5qMzk4YlUxaHfSAewBQVVfeXFMUGZmVEVhN0NORG5ESURKOWpvS2c1Qnppcm5PaVd5SGFUbWRkQUhjMzBjMURnQzF4Yl9Oa01PVHI1c1k4M3FqRlBXUkdoR2g5d3JWdkp4eXllREJkWnFHY3dDOXVmVzhrTUF0ZjA2T0tJRUFhTERvTTV5aGpMdzdkdEpzMTJ6SWYtTEZXaDJmSkZqZ0h6VkpQY0tib3VlWW9oWXV5RWhmSTRLczhpd25UTWNXeWdaRy1KbzRNLW9uM1JQQ1VQdTVXOVNMZzRZLXF0bDBrVEs1YTUyblBreVJzOWJzM1I4a3JUdXE2Nmg?oc=5",
-        "publishedAt": "2026-09-30T07:00:00.000Z"
+        "title": "Educación, inversión en capital humano - El Economista",
+        "summary": "Educación, inversión en capital humano &nbsp;&nbsp; El Economista",
+        "source": "El Economista",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGxua3J0UGdsWkhtNWtRbVRwREltT05qZ3p6Q3RtV0xycEZNOHlkWi1PeFZvbUZCSEd2NDlSQWRyRVBUMnNiWndWRnhubXBFMDhUSlBoOUQ1SXlybXk0SkxFR0tZMVZ5RlhseHgzLURXa1JlUy1Oa2FsOEdUUlFaandBLVp2V0U2NUlxLUhQZEh3Wi1Qb2JSRktwQdIBoAFBVV95cUxQWkdMbXZUN0lBT0ttbFdhWHlFQ1ljRXNnaUJVcWxSUE1fb25xVmg2V0pYUzVqakZPc1Z4UVZDWUh5UG9kdVZkb0NXNjdQbnZmYjhidVdJbmxOek1YTUV5MjhCUzVXY0xMbC1TblN0TzNqTEE4QnZyZEprMUozdHpkSVoyNDF2b2JfbWlwdXhPWGl4dExuOG9NRmpGMUpFcEs5?oc=5",
+        "publishedAt": "2026-10-01T07:00:00.000Z"
       },
       {
         "title": "Perú tiene espacio para elevar su competitividad - El Peruano",
@@ -148,6 +148,13 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemVNbG80NXl2WFFVVFNUVUtSTWllaGx4bkZVaUcxT01xRmFtTm9tV0lKd2E5ZVQwLWpEb24yWjZtQnZ6NlZ2dFhNQkJRR3dPYnR1MVRVSTlVX0puTjBzMDJRVE5HYnNEaTM1dzVpQVphZFo2WEp1b3pSOEQ1c2x5d1lYWDFKU2M3eTh5Ug?oc=5",
         "publishedAt": "2026-09-29T07:00:00.000Z"
+      },
+      {
+        "title": "GOBIERNO PROPONE RÉGIMEN DIFERENCIADO Y DE SEGURIDAD MÁXIMA PARA ADOLESCENTES INFRACTORES DE ALTA PELIGROSIDAD - RCR Peru",
+        "summary": "GOBIERNO PROPONE RÉGIMEN DIFERENCIADO Y DE SEGURIDAD MÁXIMA PARA ADOLESCENTES INFRACTORES DE ALTA PELIGROSIDAD &nbsp;&nbsp; RCR Peru",
+        "source": "RCR Peru",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNGpOaVpral9xczZ6VEpYVGJfbG1PU1A0MElPdEhMYnRTdGxZM1R1MmlfT0VvLUJ2OThVU1AxSklWN0YwVzgzWFFETzJka0NRdmFXYmQxTlhHNmtMSl82ZlotQmoxcjNvLVR0Wmw2dTZ3akU1dUt1UEZBSHpSUnNVeElfWnJBOExPenh5a2Z1cmtEeXBPVEpKQmgzdmFyT0tDZ2c3MXZNRlBzZzFmYmZ3bTl6NTg2NjdxbjFUWG1DaFA1SGR0b29DRUprb0I2MmpE?oc=5",
+        "publishedAt": "2026-09-24T07:00:00.000Z"
       },
       {
         "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
@@ -168,13 +175,6 @@
         "summary": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud &nbsp;&nbsp; La República",
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVYRHNkcFVTRXlocG5ySVlLRzZJSzNKWEJXRldLWkJHQUpkeFBHWFJSNzVNVFhrTS1WTnliRHBhbmlZTDBCSEVLWjRkSHB0TTd3S3E3bGFucVQ3c0ZoeVJiSkRsRHltQWx0UWlncnNTaUhOcmZpcEUtbWdoR0ZFS2pJczljLUpyR0ZRS1VyTFF4SXBEODlfWG5aVzhsOXF6eGxQYnRPMlpaRHN6TG1hNHZKbzFhZElxOUd2TUNndXJDTHJubmNXM1pMUkNYRkI5eHpaMUNlT0NjYVQzSHh5U2h3c3pUZ2c0TWd5QTRJYWh4bDhuT1g3SHVNQmZ0OHfSAYQCQVVfeXFMTmktbXh4RFU1eWJvVkw4SFRHV2dDbm1rLTRiVU41TW9ONV9tS1pUUmFWcFExb3lfTWYyczVGSjJWLUJBSHRuTDE5RlVBRHhxQ19OdHpvcEtLNEdBcjZNZzZhS3kwRkxBdmxFZUhWZkZWTXRheEQ0U21ZWEV0ZHA1MTBoWWJ3R0VDa3pXQWFpVDlSclVsSUtLT1VtREFId0JXeFpEU3Z0ZmxyclIzcEZSSUFXME5seENxRU9uWVhwVURIWjlTa3JXSTRjd09QMExqeGhNVXpYa0Rzb0d6elRjRGNDMVZES1E2b202dHBrNVZMRW11YURrOGdYY0tuU3dOSFRKZnM?oc=5",
-        "publishedAt": "2026-09-04T07:00:00.000Z"
-      },
-      {
-        "title": "Presupuesto 2027: Gobierno propone S/266.506 millones, pero reduce recursos para salud, seguridad y saneamiento - La República",
-        "summary": "Presupuesto 2027: Gobierno propone S/266.506 millones, pero reduce recursos para salud, seguridad y saneamiento &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMDFoTzVTMmhIcmplX0V4TUl0S0Q0R1I4dVFTVVFhNm9lR2Y3X1NoZ1NGazVhTXZRVS05bUZoSm9QV2M0RWdRcUI2MU1GTXBKTGtDSklXNzBzZzlFQXROWmNhV01UTFpfSXhoYWEtNnExd2VETEs2RE0yQ0k4ZzFva0lnRG5VYzFueFAycXdDREh1VjlHOFVlZUp5eXdWaWZyZ0RYVkljQjlZVUc4NlJEaWZubXBXdFF2SG5fbFc4emNhX2tRN1JjcFJZTjBSUi1UcnMwOXpCQmFVb05XdnBCVWNzWTNaci1US3VCWTZueWFlUnBxTEHSAfsBQVVfeXFMTnZFX2pnS1FfUXRpVDY0ZlJXRXJxRDhHcHZHWnIxZ3VKWkw1VndIOHFKLXRhcnpwTWFiZXlvVHlFR2dzcC1sLWs1bG9zR1ozTkhWVnZOUVlsMTFuRGpRQ0lQUkhUZGFCLU9HbHJXS3c3MmtKbmYwT2lQWXdpLU5ITlh2WHl0T1BqdUUwdUdYLXc3WGEtaXlrdFJOVlBDMXdBQVNsd2hwNFdWa0ZZV1pENXcyN0xuYWQyU2x1VUl5QlFENXh3UXFCWHdJMGVORTFfTkJsWXF0bXcwZWE0emtuRkNUcWNkN3haOGNQZDRnYUtZeXhxQ1hQaUpENEk?oc=5",
         "publishedAt": "2026-09-04T07:00:00.000Z"
       }
     ],
@@ -352,72 +352,8 @@
         "publishedAt": "2026-10-07T07:00:00.000Z"
       }
     ],
-    "tendencias": [
-      {
-        "title": "“El reto de las 48 horas”: la peligrosa tendencia viral que impulsa a adolescentes a desaparecer de sus casas - Infobae",
-        "summary": "“El reto de las 48 horas”: la peligrosa tendencia viral que impulsa a adolescentes a desaparecer de sus casas &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXRuQnUzVFlpak42cWxYOVpfVVpBZDI1czRfY3I4cWpWdEtqOU9FWURLVjBmNjM0VzE3ZThLY0tLWXVaSmI3VDdsNEpqMUhNaUpJblFRX3E2VTBhSmdZcWtISVhFN01GeUhUbnhSVDEwejVpeFc3Wmp0a0ZTT0dXWGVpNkpSdFNDbC1od0xxRVVZbVB4MEZFUkdnQWlaeDNnNERJenpQS0RIQ1VPbDhPSkZjYVFJSDFDQ2h4enMzNzFRRy12MWhOZ1hNb2t5Z21UZXhIaldndkROWmZzb0pmcdIB-wFBVV95cUxPVlU3aUg1a2ZCaGg2c1M2WEV3cmFvNHc1N2UyYnZaRnlBVVR2Wngtdl9rNEEzT1B3YldhUHV3U3JBbnB2QzR3WEEyTVNCa2lpYWtNZ0J0VnM5ZzBCYlZST1lLX0NZb2ZPRVNIb2ZHQ2owLUpKYVFlcWEzMG5QaEo1OGtOVFVFR0d3Wm0wOUIwd1Y2enlYNm5WVXVVUGFSeGtYZ2F6X3Nrb0FSWEdmbWpZbHZBY1A0dWJCZUpTS0JSQy1FeG9kTW1EU2dhTWFvbC1YQ2hVSDVucDFWQ25UTFgtMUVITnpxendkYnpicWNoWHJiZXUyQjNydDJPRQ?oc=5",
-        "publishedAt": "2026-09-29T07:00:00.000Z"
-      },
-      {
-        "title": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” - Infobae",
-        "summary": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZkl0eXcxNEwyUDZrN1hILXpPcXg5NGtQOEw0OEl1bUVRdGY2Y1ZSQjNIbzY0Unk5czQ0MHRoUk9qRHhKQkJsVjVKMGVWLWx3b0wxYTMwM1ZNQ1NGSDA4dWcxTndOOTRuRW9qcU5WbndpaGpiellyQXlDNndLWU4yUkt0Y1NzX1dyNFYtM2xKRTBoTHQ2WHZzWDFBaXRwZzVKdEtIWW9sTVBTLVRWUEpJWGx1c0hUYWtyOWkxdFNkLXA2Tngya0RsUTNWV3I2Nm40LWpRTmF3TTdUX2pHNUg5NDBuUmlxOFVsNFhtUklFSXlLUFJpblMyY1drZ2bSAZcCQVVfeXFMT1o5dDZIVkxkRW9fa05iczBSeUxGUG9OaFlGaVp4ZmNNbkFpUWotS0ZScVdJNkpieG55VllmcUlscFExVHhYVHdfSjlHZm50SGJuNUp1NmFoOHRkeDR6dDdfOTVISXlodGt1MUcyaXRzNUNhc3o2cU1RVjc3amExb2kwZWl1Z3piMW1UYVNORzNZMFVwRmZneThyYW9WNktDX29SR0hGZUYzMm9JeDNWX0dGYjZCVlBKTWNBdnptSGFtZTI4Y0cxeWU4UGI4RGc3WVl5UXFKaXdyeVk3OWpZX0ZGOXZheU40NGg1b09LUksxRW1INjdLb3VtUmNZbUh2RFdQRU5mV2lCNEtEbzZJSGQ1emc1Z21v?oc=5",
-        "publishedAt": "2026-09-24T07:00:00.000Z"
-      },
-      {
-        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
-        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTlFMnQ1b1pJM1dEbTJaWnpNVGZ0T1g4SWpXZ25rWHBsN1hTdmRVTUVfdG9mQXhQOFZZU3F6X3BkQzRXMnFaejgzcmgzdDZZOFk1VEhBZzJsTmQxS3k3aDRBeHRLRnZBTzR0WFU0cjhNal9QUHVoNHY3czFrNGlxN1NpckM1bGVpSFJfVVdNTlp6YnJsRUxURVh2UXZValZzcEJqSkxxSGI4MjdUN3lFNFg0QzlFUmVWc0lCN3A2VzgyN0d6UXZwSG5Bc0xPejhQYkgycDZlblczUlhzekRGTmVEVDFxU2fSAfsBQVVfeXFMT1BhMjJ1RDBTRjF4WnRMdGxmYm90ZUVBWlVLMVRtVDFvc2tkOTdrbUM0UG54OWNMbHJJTmZ2ZHBHZmVmek1EMkVNeFhaZnJtOEZQdlNVME16WW5KbnJvOFBoUzhOU0tzX0Z3WFN1UG5POEFzZ1ppdGEwcE9ZQ21mYWk5RjA5anNPR0RuSk5sZzFHdmNUdlV1V2VGS2Z3UHpSb21TTDZNRU9KRy03cDd1bGFfbWxQWmRsZTQxX2d5LXJVTzAzRmt2N0xQME9sdkdKNVBhbXVMdGRwMUpTZlZfZXVSdEpvVG1LQ1BtMExkdGtLOHZQeWhGV2dVU0E?oc=5",
-        "publishedAt": "2026-09-12T07:00:00.000Z"
-      },
-      {
-        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
-        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
-        "publishedAt": "2026-09-10T07:00:00.000Z"
-      },
-      {
-        "title": "¿Cómo lucirían tus fotos con el estilo de los años 80 con IA? Así es el nuevo trend viral que arrasa en redes - RPP Noticias",
-        "summary": "¿Cómo lucirían tus fotos con el estilo de los años 80 con IA? Así es el nuevo trend viral que arrasa en redes &nbsp;&nbsp; RPP Noticias",
-        "source": "RPP Noticias",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRDZKcmlKWnk0QXptU0N5bFJnaWNZWGpEMlhYUnhyYVp6RXpGOUJhOThlZ2dqMzVBMkZKSUhQYkwwNThPRkt0RG1YbXlyNFozaXlYYWQyb0tpU3dlRUpnSXdnUk5JVGVvVGgwLUV4MXFSUGhEbzdTZTd1emlvUmxQSklsS1dUUWp6bTU1bzdiT2ZUZzYyZmt1RzNKSVRWR0NDemVzODN6RjZjaHJKcDhLd1BJUE9VbW0tUHFmZ1RqeDd0dDZiSWVDZTgwcUFZNElpbi1TVQ?oc=5",
-        "publishedAt": "2026-09-09T07:00:00.000Z"
-      },
-      {
-        "title": "Qué quiere decir la expresión “farmear aura”: así es la tendencia viral en redes sociales - Infobae",
-        "summary": "Qué quiere decir la expresión “farmear aura”: así es la tendencia viral en redes sociales &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGdDYk8yYWZZa1pGdmhMYWxkU2RkNDBFamVzRWg5dnZjal9kMUtiVGpENS1hUS1QdGhoMjAwSUZkYkpKMjlXSzhzaDhDcUVTU1RPVjdreHRJc0pGUWhnbERmNVhkOW9aNi1WSk1xQkhSdWdOWkhnUTNkSmo3VWNlU1pEUVg3NFI4VmFpTjlKang2enlMMFMwbFBXVkZjc2toUF8tZVBhal9Xa01YaUg1X0xxOUhjSDlBNjkwd3FGVDJmT3l2?oc=5",
-        "publishedAt": "2026-08-23T07:00:00.000Z"
-      },
-      {
-        "title": "¿Qué significa “farmear aura”? La tendencia de la Generación Z que llegó a Perú - Diario Ahora",
-        "summary": "¿Qué significa “farmear aura”? La tendencia de la Generación Z que llegó a Perú &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdFppR05rVjhGQzJMWnpycENKejBfQ2hLMG43cGRXalNvdXRVX2wzcGxzcFlaWmV0X1JxX2JobzZockdvanVVV1daMUl4SkVTaVFVZUkyelRTQWg4cWJyR0VrU1pIZTdYTllqVUhwelg?oc=5",
-        "publishedAt": "2026-08-22T07:00:00.000Z"
-      },
-      {
-        "title": "Qué significa ‘farmear aura’ si tienes más de 30 debes conocer qué es y por qué lo usa la Generación Z - Infobae",
-        "summary": "Qué significa ‘farmear aura’ si tienes más de 30 debes conocer qué es y por qué lo usa la Generación Z &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGVnY0xEajd1WjFMWGdqWi1DZmdwRVRtb1R2aHBBLTNORlBJZ0VRb1d5UEdnZGxSdXh6UWZkcThTZTZHb1dwRGtIS3BVT3RFcXRnRkJKOXI4b3NaVGVvN1ZFeS1PWnhoRENyd3V3LXVxWV9jblBfdmpKZElJaHhoY3NkNzlLUlVKd01FenVLaXBZZVFNbUV4czhSTWd3X1MzaTUxLUxjQ1AtZlB6ZTRHQ2dwR1ZQN3RaMk9HVHJjQ2lVc2V2YV9hUkE0ZDlILWl6MjJ4N05Kb0l1Z9IB9AFBVV95cUxNNXRmX2Y0Y2hFbXJjUEFDaHIwRnVwZkw3OUZfcnRod0t6cUE2TW1NRU9Sc3M0ZXhPTDZkVDBfUDMwTjhkazZITTE1dGJaRmVYQ1NuSXN3NzdfcTA0TW55ZVBNWXZzQUIwTHE4VjJQQ1FlR0Z3ZDVxbjFMeFlYR2dLUm1ZaDJyc1BSRlRPMVYwZC1MTXliRlBndHg1anp6cnBQemFzZFNkYk1Wc3NkY0VsOTViN2pSZGEwYjJfWDdLNE1nRzRheHA4eXhCbml5b1VuYk5vMlZrZzk5MUw5alZ0RE9VR2JRZFFER2ZaY0Y4dzlfSXVo?oc=5",
-        "publishedAt": "2026-08-18T07:00:00.000Z"
-      }
-    ],
+    "tendencias": [],
     "farandula": [
-      {
-        "title": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS - Trome.com",
-        "summary": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNekRuOHA2bzF2M0J2S21oMWpfOXlGaTR4LUFycU9xQ2ZXeUt2YmxJcmFZUk9WV3dUUTFIVUE5Tml3amdpNFo1OGNVY3pGcHVkREc5LU1fd3h4MDhNdFRfSG9JZnpnUmtlTXJHanBqUTNlUnhwWVphUkhvN1NtQ1h1TXB5NHJNNGJ1dTJzRGtlaWh5VExHZGRmR0RKRE1XeEZxeF9qLW9RRzZ0MU9mMTRQNWEzUEU4Zmk3NVhvWTItakZVdFczWjlHRDJINUFabERhTzhSN21ZN1ZZMnNXZmlib1JRUnJMdnotN1dFQkQ1V1l2NHhYX1ppdTlLbWVzUkZHRHNCU0ZTSGphSm1D0gGgAkFVX3lxTE9ueEZ2d3Jnbll2cVVyaGVuTGNfQkxpd2VLY1hqd0dXeThZM01wczNfcFBoWXYxSjVnYXNqQS1aZVFYTG9oYnVBTzdSZFhqeld6czVrV01QZlU2blUzYURQQm5zR1RBQUIza1V3NkVkSlBlZzF2cjRPZkxzMGR0M0ZWaHluSGRVdEsxUzdmaEVXX0NZZHUzMFZUYWZva2g4Vll6SmwyeDNlN2lUVlFYTXVqdmdEbzFFUDhzY1F1LVN4QkM2MEE4dHJBYzFvT21pNHBjZGpJT2d1QjhROUw2TVZBdzFFRVJxdHBuNE9BelM0eW03c1k1bnZWVzY3Z2VZUjhvdlB5dHQtZEJzdlZVUmE5MUxReG9xWWY4TThoWHY5MQ?oc=5",
-        "publishedAt": "2026-10-07T07:00:00.000Z"
-      },
       {
         "title": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos - Trome.com",
         "summary": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos &nbsp;&nbsp; Trome.com",
@@ -454,17 +390,24 @@
         "publishedAt": "2026-08-26T07:00:00.000Z"
       },
       {
-        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
-        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
+        "title": "🚨 Actriz peruana reaccionó a las especulaciones que surgieron tras una fotografía publicada por el cantante español en redes sociales. https://www.expreso.com.pe/entretenimiento/l",
+        "summary": "🚨 Actriz peruana reaccionó a las especulaciones que surgieron tras una fotografía publicada por el cantante español en redes sociales. https://www.expreso.com.pe/entretenimiento/la-foto-que-desato-rumores-sobre-stephanie-cayo-y-alejandro-sanz-ella-fina &nbsp;&nbsp; Facebook",
         "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQallZVXhIV1dwQ1FqTmNOdDlGVFQ0WEVsWE92NFdKM1hyWDBIYlRWcnJ5NmJXZ0dSWTd6N2pBb3FhWkdZNF9fRTZ0cG1IN2M5eFlJa2p2c042MDVsaEJMZUY1TmxFazFWQVlfNDRmRFBjajBjNGszT2E5eHNjdjJLaFRLbklwQ3FKQW1ZSEFvbmdzN1NXcjZ0VG9rdHlPNWVBYzdLRlB1aWpvUlFUZDdlZXVoWEU1eVFsYVFRdmJMUmpuWnN0bE96MnpuclJQVDFkMktOcmdTU3J5emxwVlVGSEtkajVfdFZiRUE?oc=5",
+        "publishedAt": "2026-08-23T07:00:00.000Z"
       },
       {
         "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
         "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
         "source": "Diario Correo",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
+        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       }
     ],
@@ -488,7 +431,7 @@
         "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; La República",
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUdGMXlJY2xDbGJKMklhSXdTUVhaV051cWliMm5VNkE3RlRBdnJWS1lGVzN1bVBWRHAwUmZMR2VLTUI1VG43TUhabEFUZThmRUEyZ29pUkFuNVI3QzRoVFoyQ3hvLU92ek1abjItSGtyNUhLT2g2Q3BMMUxuTnJsLWdVMWQtUmlTUzJ6eTlNZ1puSnZ1SUZKT01oWkp3YlFTeU9HSWtZZXI0U0NLNUFSVG9zaXN3Nl9EZi10STlhVFA3RWRfUFRCV2J4VWVvb0tha3VNb0VBOHE2cWpnaHFlSzAwMU84QVJNOTc0Z2o4MWZyR0FGenYyckU5VGM5MzVaeUJ3YVZpTU5BODNKc1FqUHpSeTUxZ9IBmwJBVV95cUxNQnVtd2xlRmNOTVEwY1pVOG83NzZpckN6VWY3eTZPZGk1YmdMS041aERIcE9lS2htWU5hZktLOVpTa25Hd1FLUHg5clRrcklXNVk2alVhS0l4OG9FVW9Ic2JBaGE4SDN5ZWt6Y0RjOFFrU3pRdEhrUWJaR183X2xYVnVFWlZqRzBVZGFmZzB4V2U2R0JPRllXeG1ZTkhCN0dXZzNXNnNtdDBSNjBZeVlQaVFXTm85N2pPSnRuSmxfMGJUbklnRjh4bUhWb0E2eGZWOVFZYV9JUVVlOGUzX3NGN2Q4dzlLUFlUdlc1OGNVRVp2UjF0NjVvQzg1Wi1sMEY5OEdMWFpKNmwzc2ZNU05MUFpUcWROeENQMjZv?oc=5",
-        "publishedAt": "2026-09-13T07:00:00.000Z"
+        "publishedAt": "2026-09-17T07:00:00.000Z"
       },
       {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
@@ -569,7 +512,7 @@
       "id": "tendencias",
       "label": "Redes sociales y tendencias",
       "ok": true,
-      "items": 8
+      "items": 0
     },
     {
       "id": "farandula",
