@@ -1,37 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T13:09:37.195Z",
+  "generatedAt": "2026-10-23T18:08:57.751Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
     "politica": [
-      {
-        "title": "Sheput pide no “arañarse” por dichos de Keiko Fujimori y niega cierre del Congreso: “Es teoría conspiracionista” - Infobae",
-        "summary": "Sheput pide no “arañarse” por dichos de Keiko Fujimori y niega cierre del Congreso: “Es teoría conspiracionista” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVVRLVTlDaWR6SDhKV2hsdHdRRjN2N2tKSHVxUml3V2tRNTFqdWlRcjdzOEpZaTRLTUpZb19YSE1FOXB4QU00R2gzQ0tucmJENmcwSGY4SXBpUEY5NVZpaElISDdGQWRCMkFCTUF3ODNrZFZkbTQ1d0g2b050bVZfZ0MtNzhaN1paeXM5NmpwaHZvX3NDWVRONXp5UXF6cWMzMFVsQ3dCU0E2WkxQUms1MWR2LWpRaWN0VWRWVUVfTzF3aUQ1V19SenU2ZS1fZVlsTHpKc2lLZnVmQ05VNkVvYWR30gH8AUFVX3lxTFBCWDVFRGVZcWZPcUhsVHlHb1E1aXM4R1FlSUNObkFDRkV4aDFXYjVmSE8tUDVVdUJTMkF6bVo2aTdDQ0YxQzlxaFd6TzFjc0RXMmVVelNMNUJKdGJxWXFQcDNWb1pDTGhFc2JsQ0plQkc5X1RJbWVvd3hFWFZQNjVrcFZ6c09kcTVFVldEM2d6Yjd6cXBaWHlMWmU5NnAxR3Q0bFBZbGwzNEpHcGp2WkhaTkM4eXlhVDR6M2tlUmFYN2VRWW1vNXdVTWo5UGE0V0NURjVWcXdhZVZpYVJWZUUtZkRfQ3pYeGJSVVVjY3hzR1dmX0g0SjVNUFFjeg?oc=5",
-        "publishedAt": "2026-09-30T07:00:00.000Z"
-      },
       {
         "title": "Luis Galarreta amenaza al Congreso: “Ojalá recapaciten, porque hasta ahora hemos mantenido paciencia y actitud republicana” - Infobae",
         "summary": "Luis Galarreta amenaza al Congreso: “Ojalá recapaciten, porque hasta ahora hemos mantenido paciencia y actitud republicana” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX0hKaW5YdzRsejZCbkU2cENkajZQRGQxZ0x2cjF3ZFc2Y3dqbkhkMjU3TjBFSHFLZG5Fc1E2ZjJNd0pfSjRKT2s4UFY1cGdrRWx5ZExCOUZuYjZjYzRIZl9LbHM1Z19ldU1jNHJSZXc0bU94MHdOYzVsclY3QmtMYk84bF9tZm41eG1PYVhwY3B0ZFhqQ1QtNlRMSW9RLUEyc0E0N1hUWUtBZ1dWUFhHVmJYX3FEUlVpdUNvZlpZZF81MlhKYzA4RnZLYXV0SUpJWFpVQVk0aWlEdVNlRkxrZVFQWUMtNzTSAYICQVVfeXFMUDBVeV9hSzg0Mm1sS2JZQzcwdW5OelJaMmtEY2tDNDRvajdSbDRvS2NRSTI1X3k3am8xTzlSMEp4Ui14RHhFa2JqZF9DVnFsSzhrWkFPM050Tm9qa2RHY2VrM0Y5ZGpVeUtOaHJLMXFLNjNMVklkMThkZ05iaHRhUGFzTU1GUWFyTDRWbHQ4Y0xxdmtuQjd0anhPMGhLQ3pQdHl2ODBJVjNkY05PRHZPLW1veEdGTFFMX2dXT29faURHT0hYRnp2bExMRXZmVGQxQnJ2Z3VUZUFjUTZRSnNVM3BmOC03X0hnOTlHQ2ppR3VQSEJrQUY4Q2ltU2JXcF91b1FB?oc=5",
         "publishedAt": "2026-09-29T07:00:00.000Z"
-      },
-      {
-        "title": "Keiko Fujimori al Congreso por negativa a facultades legislativas: “Están poniendo a prueba nuestra paciencia” - Infobae",
-        "summary": "Keiko Fujimori al Congreso por negativa a facultades legislativas: “Están poniendo a prueba nuestra paciencia” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWkJhMnpncnhfNy1Mell5SExfNTZVV1ZZSUVzM0d5MnYtTlZrblJxR3hhY08zckZzbHp0SDgtanR6UUNybmR4N1U0b3RtNzc0VXJQdXYyT3Z4dU9uMUl6SC1sQWVXMzlLbUg2TjNneHRNdmMxRThEcmMyMjFiZnFwa2RtREQyd0F4Wk9xRlBxY2FVTEZIeGRMWFp5QUI4eDN2clZrNER0S25BTW45Q0k5bVV4cDlBalNKZ3luY3haSXpUOXBYVFFHakQ5NmVVX3RDc3VxUmtTYzhWMlBZcHdHb1Jn0gH8AUFVX3lxTE1fU1VqVzlQeU1VWnhDX2puMmxqVkNOU0U3QzRVSm16a2JPREFxUEEzVHB1RzZSLV9VWjR6SFJFdW53cDhzeFo1VXphc3U1OE1rNUpyZnZmUzlnd2c5SHZKTW1lUG5EVUtlU1czeWM1akpLWFF2MURtTm5VeUNNUUlZbUJXX2dIY3EzdkRqMTZDVk9mNlpfM01RQlBEZHNCaHNXUkFId29xdGI1V0NVNFE5d0hBbDEzaEFNdGsyRS1lSzVFb2pNaFJza3JBbWVidE01M3ZhMllRQ1hUaXpFdWc3dV9FWjFyS0o1el9FVHhDUmlMTnloeE93Sm1JSw?oc=5",
-        "publishedAt": "2026-09-29T07:00:00.000Z"
-      },
-      {
-        "title": "Gobierno de Keiko Fujimori recurrirá a decretos de urgencia si el Congreso no le otorga facultades, afirma ministro - Infobae",
-        "summary": "Gobierno de Keiko Fujimori recurrirá a decretos de urgencia si el Congreso no le otorga facultades, afirma ministro &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcjN2SVRHOHE5b3hiZEF1SlAyYlRwV3c5YzRSWElOSEV1Qi1IZjJUSHdBTEhfRmwyNmRsdWI4eExvYVdHQUNWZWIxcVRoZ0dBNUJhTTM1YUF4R0IwM3pQUENuUWI0b3ExZ3pSZHg4VWgyaG5fcnd1N1BkeXAzblN0dEhvenhoamFTWHRiZ2RVLS1OV2tua2s0N0tNV2FhYU5aLXBYWFhtZnlpcGxFUHIzVjFEeGpleUhrbW8tQjVQUEgwUVlwOUcySnVLSGxHRXhnbFNvQlJ6R1NQWERSdHZoSnZodWFYQWZMRVJv0gGGAkFVX3lxTE5ndnpqZ1BYZ09IbjdlWkVIV3MyLUdXSk1KQ1FnMnFRaDZ1a2hFRnZwdERnQU5kb3ZOUVRVZGlhbFJGSjQ5ZnBTSU9IRTkzcjZuWXpxRHkwU3MtVGNqNldJSk1BNjhCdFNjNWF6N3lyX1ZzTHV2OXFEX3dqcHNCX3V5ZXp5TDh6bmhQQTdKX0hLUGFLMW11YVVKdGo4S1J1Y1JDNWlrUUJ2TjJ0d1MzMTBLdzU1ekxPdVJON3poY2prS2txS3M2SUJxeF94XzNTc2lWakNucFo0R1lXUnlQXzROWUdaOW5FRHZBd2hDRl9VeFYxN05YSXpFTUdfa29vVzFaVFZLaGc?oc=5",
-        "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
         "title": "El nuevo gobierno de Keiko Fujimori en Perú: un comienzo accidentado en un viaje peligroso - Infobae",
@@ -41,13 +20,6 @@
         "publishedAt": "2026-09-12T07:00:00.000Z"
       },
       {
-        "title": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso - Perú 21",
-        "summary": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnV3Ulo1aXZPYlMwS1Jtcm5Kc0tRazlRVkRPc3ZVa01FQzc2NUpQV0tRMXh3WXJ6YTRsQzlZOU5XWmNLWVRyUzFFYXRrZGVvaHFpVmc3NlVIYzR2bDU3Nk9sRnlidks3SlhaVWpWeXFuYmZvSXR3ODJic3A5WFJIelVKQkwwTzhvYUJ3MUJfc3FReUVrelBlaw?oc=5",
-        "publishedAt": "2026-09-11T07:00:00.000Z"
-      },
-      {
         "title": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial - Infobae",
         "summary": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -55,14 +27,70 @@
         "publishedAt": "2026-09-04T07:00:00.000Z"
       },
       {
-        "title": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad - Infobae",
-        "summary": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHp2T1ZoLS01bUlPNy1CZ0pvYlV1MTRzYkFwWHF3a1lWcWw0UVVmeG1Rd080N0FLSTgzejEwMDhVNUN4MXN4R3FBbUNBTXZuVkRUYTUwSDgwS1FiR0t2V3EzVjlKUWZpcVBrWnozOUpIMVVYeW5VSlZDRjZISmQ3Q0pyYndzTDhQZVRLR1N5bnhobVZrbkdJNXZraWlab1llak04N0g0NnFZTUpNNHNoZ19rcDE4cXlvUmxYeVBpRVQzSXNWLUFqdDM0TlV6V0RJVTZQSmMxSmVYbFVXd2NjN2h4bTdoTFFCVlN6QjRB0gGIAkFVX3lxTFBKclJfUEdTdXdGMkQ0enlHTmExUnl0emRmZGRUM3dIQ3BSandEVk5TaEhwU1NaVlR4SldydExWNVNpWGxub2tJTnRxVnZGRC02MGRabVkwSkM3MG5fWklUWkl6UlR1UDN2WDdUcllaZktNMm5BM20zNFpncmNyeXNZbElnLU9OUmFxWU5uMnhLN2xwMEltVXExeFRuQ2diYVNBT1dySXJQc2ljTDN3NHFHNFlpN2NMMHd3cUJkOXI5RE5GVWdvT1czY2VselNwX2xhaXJ3M0ZvQlBkQXZBUDBMTlM0SlhKblhJdW54NUxuYkVHdC1jUEN5bXRsQWhnOVlIRGJicEo5WA?oc=5",
-        "publishedAt": "2026-08-31T07:00:00.000Z"
+        "title": "🔴🔵La presidenta Keiko Fujimori descartó que el pedido de facultades legislativas presentado por su Gobierno incluya la fusión de ministerios. \"Eso no se está contemplando\", afirm",
+        "summary": "🔴🔵La presidenta Keiko Fujimori descartó que el pedido de facultades legislativas presentado por su Gobierno incluya la fusión de ministerios. \"Eso no se está contemplando\", afirmó al ser consultada por Exitosa sobre una eventual reorganización del Ejecuti &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWXZabHY0NEZkQ1lxOFpuSDBMRFhrTW1WYW5LTHJrZkZDelRacVh1ejJWbzlCSXIySl9vb0paZFc3VHlZbzVId1ROZ2h5bDhvbEZFdW5tU3RKeWJucHVhUGxSMWdRTnc3aFgtcllENWRtTy1xSWcySUFXM2V2Wm5tdlZyZlVMcWkzOHhfRjdCaEZtWkdGSGVMQWtqQ0VtVGtibkRaN1Bvc2lJY2ZFbDJQZ2NOQXBZa0h0Ulg1UGFsT09qSEE3dWNwaml3Q3pmMEZPSUVZalFyZjhBMmt2V2k0QzZtQnY?oc=5",
+        "publishedAt": "2026-08-28T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵 La presidenta Keiko Fujimori encabezó este jueves el Consejo de Ministros donde se discutió el pedido de facultades legislativas y la revisión del presupuesto 2027, en línea c",
+        "summary": "🔴🔵 La presidenta Keiko Fujimori encabezó este jueves el Consejo de Ministros donde se discutió el pedido de facultades legislativas y la revisión del presupuesto 2027, en línea con lo que la mandataria adelantó el último domingo, cuando aseguró que el re &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZG42RTFfNGpXVlpMbkpOal8tZzBWQ0lUY2xnanp0U1ltU1hTVFVod0cxNVVITWNPMWJMZ2hXOHU5UXYwWk92SFZDZ0pWZFFQSU9JRUVZcGg1aFRkM2VEWWszU2dzVXlRTDk4T0U4Rk1ibjhVakdzYmhqWnU0R2dDNUhpS24zNDhoRW5hNGs5VDR3NjVvTjhkZ3NKVFhSbk9KRG5kdEFPWVAwWlBFQTFYNFVuNDFDcHRjUU1SazBRREs3bGdIWE5IUlhfaUhMWW5TU3BWblNVZ3U4X2d6VDZYMmtSOA?oc=5",
+        "publishedAt": "2026-08-27T07:00:00.000Z"
+      },
+      {
+        "title": "Nueve ministros del Gabinete deberán responder ante el Congreso en los primeros días del Gobierno de Keiko Fujimori - La República",
+        "summary": "Nueve ministros del Gabinete deberán responder ante el Congreso en los primeros días del Gobierno de Keiko Fujimori &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcjVoMnQzZ1RHd3dDVC1ZMUNiaXVIQUxVb3lSSG9nNzZvdmd4aEtoT1dseW01WmFsRGNkdGNjMVdJdzNhdl9lclU1UXl2TkJQek8wNG1EMkYzRUdvNFlyLVktaFdUVkRqb3dVOWlKV2M3TmxhVElYWUdOMGl1bjNjR01FU1U5bkZISnZJTjNtTkpwVmtVOFFXNjhvMmFlbEtabURfMHl3akhkMG5HbW5oTXNOS3dGdGZuSFo3NzJ6c1RxbTB1Wi1lV2NrWlFaUFF4V25PT1R1VXFQZ0M1bWlNWlJTdHE3Y08zdFJJTVVlVU9KWm9JbnNtd3NFVWVXdzl2d19TemY3WGxyOUxnMzBKODdGRdIBmAJBVV95cUxQckQ1bWNJVWR6SFVwSDlXWFEtRHZyQUItaHJOOVE0SENlZ1hJLU5peUFXdmhkdkF3dml4SE9tMm9tcWxaMXJkVVEtMnp2dXFoSW4tb3d3d0FXNllfYXFTd2tLYmJnTVFvWjJ1VXZGTlNTTV9VdHdfWDl2Mkhsc3V2TDViSmVYbFQ5MUR1cGxPelRvNGpZdEpyRktuMERjMGZUazZkLWs3eHJPNXZGNlNVdE9pemVISVVfclFLLVlVTjE0NWFHSDJqakZySHFhbGZ0c3JIMHdNcjFOMnNadDJ6My03NGoxWXdVTXZYSjZyRGFQeVMxUUpTcWk4U24talVZYXdkckNrNGp5UThBbllWSVhXQzliZkR2?oc=5",
+        "publishedAt": "2026-08-24T07:00:00.000Z"
+      },
+      {
+        "title": "Gabinete de Luis Galarreta ante el Congreso: ¿Cuáles serán las primeras acciones y los lineamientos de la política general del gobierno de Keiko Fujimori? - El Comercio Perú",
+        "summary": "Gabinete de Luis Galarreta ante el Congreso: ¿Cuáles serán las primeras acciones y los lineamientos de la política general del gobierno de Keiko Fujimori? &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQUGRmVGRUM21JbHhyZzJMYUJfanFaV2xaWkg3LUdOcm1mNVZZcS05RnhKdHVHS1lMbDdBRHRtSTQ0dlA5TEUtWGFZV2RfLWNhZ0s1OUhoVV8zTVE2clYtQWVWQzlmQkNUdGhYZnlqQ3dRMVgxRVFodHdyd0doX0Zqbll6czVlZnphNi1sb2RyNVlaWXl6T21mdGNTdG5ZbTc0Zk45emxRQndSUDM4MG41Wl9TZG4wVU56R2xLZkxvTU1LcEVNemx3U2U4Rk1Ua2JFWDQ2MDFXQjRXQ0hkV3BmMzFwXzd1TGhJdS10cmRHSE5maXRTc3BvLWZ4T2VMMDhsX2tQQ3B4Q3dabmhDUUlMMDFCa2ROM0RncGJF?oc=5",
+        "publishedAt": "2026-08-21T07:00:00.000Z"
+      },
+      {
+        "title": "🔵⚪ Luis Galarreta afirmó que el gobierno de Keiko Fujimori recibió un Estado “desordenado y desbordado” y ya implementa medidas para mitigar los efectos del fenómeno El Niño y com",
+        "summary": "🔵⚪ Luis Galarreta afirmó que el gobierno de Keiko Fujimori recibió un Estado “desordenado y desbordado” y ya implementa medidas para mitigar los efectos del fenómeno El Niño y combatir la inseguridad ciudadana. 📸 Foto: Difusión 📲 Lee la nota completa &nbsp;&nbsp; Instagram",
+        "source": "Instagram",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhOXBBamFmTVR5U1EwUEJzV1VpRnNEb09pWnhUMk95ODF4dUFTOUZ6WjV5eUtCWkRvSW4tUWJzZi1xUmU3ZDhkeExaNlVua1VFcGc?oc=5",
+        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Regresan los bonos: Gobierno hará pago mensual a familias vulnerables y a jubilados ONP por el Fenómeno El Niño en Perú - Infobae",
+        "summary": "Regresan los bonos: Gobierno hará pago mensual a familias vulnerables y a jubilados ONP por el Fenómeno El Niño en Perú &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFdibGQwQUhGMjBfVXl4eG16VHlpMDA5MnVOWkxhV0U5bmk3VkxvVGh4cFhUMHh1N2xKYl84eWh4RGdVbFFET0V6SlVFRGdKdHJDd1ZxLXlkbk93Qk1ZQWxxbk5QWlRsM1BlN0tOYk02aE5FVnY4WHVsMmtLSHVQQUlmbjlkRmZ5U00yNDdKY0Njel9rS1l4NDlHWk91U3gyVnBVQlVCVjZ6Y256Z3R0R05xMkJSenB6dG1aUl9EVlFKX2E2OHfSAeABQVVfeXFMT3VGX1JaTFh0VFY5NnpnOVF2d2Zid19sTkN5aTBPeVBYeHY1Q2p4aUJDWmViTXBBcUFla1FlZnQ1eXQwdGUwWERuUFF1aENQYS1hMElqaFVMYk5tUERUSUVXT2UwN2UwV0M3ZGp3eExNcTVJNUtVZzBvRTQzSW5tMjh6UUFwZ3BVS2FPd3ppMGNybHFKaDZxZVJuLUJCVW4wMk9WTkdXdDhkV1Rjcnc5X0dteFJnMW51X3Q4amlRWDVjZW5NYkd1VDdXY3libGtWSXNJVTRPZVRnQUxZaWtuelU?oc=5",
+        "publishedAt": "2026-10-23T16:29:00.000Z"
+      },
+      {
+        "title": "¿Qué desafíos y oportunidades marcarán la economía de Perú en 2027? - Revista Economía",
+        "summary": "¿Qué desafíos y oportunidades marcarán la economía de Perú en 2027? &nbsp;&nbsp; Revista Economía",
+        "source": "Revista Economía",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQzVFQVQxQ2pMaHJUYVJZU2txd2JYbnVJdXJrZWV3YmNxN0MyNkl1MHN1LWcxMHFwSWdWclkyU3BGaG5YUlVrRnJMZ2poUWF1NlRudFQwVDAwR1BVamd6ZGdNaXB1cVdYZGxSZ0NqaWk5Z20xOGdwS2x3dTZsR2pLWUVzZkd4Y0pweExxRzRqTHdpU1dkSGpUcnlpTXZ3clE?oc=5",
+        "publishedAt": "2026-10-23T16:03:06.000Z"
+      },
+      {
+        "title": "Ministro de Economía sobre medidas para enfrentar el fenómeno de El Niño: “Solo los países solventes fiscalmente como Perú pueden reaccionar” - El Comercio Perú",
+        "summary": "Ministro de Economía sobre medidas para enfrentar el fenómeno de El Niño: “Solo los países solventes fiscalmente como Perú pueden reaccionar” &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRGhYTC1jT0pmWG1XUXdmMzZpUVVqajV2RjNrTXZYSzAyVWVSVXNFdk84VnRld0JvSzR5SnE3bXlkTFhjZWVLZzJVRTMwREsxVlJqRnMxdmhhdFQ1SlQtTTItV1RDNElMQ1JRYXllbmJmWG9kcDNMRmdyUUJVUmdWaUsxZ2dtM09URTFMV1BvRE9BRmxLZ0JvUVBvaW5WbHJMN09GVXQyVzVRQ1J2SU5FRjRuZV91eWFEeXpPMERnNXNCV19wdDRQSm9VaTVON2RHT1Flc2JvTHVBRHBJcEJvOGpGTExMblJXQm9ZQ096TTJzNlVVSks0WWRDNmZSM1kyWTdJQ0txajdjdmJmZTNPTHJ3SlJOY2hGOTNoZGx30gGyAkFVX3lxTE9CWWNqTnhNMV9IWFo3d1RlRExzY3VlN0RRZGZnQ0JOUWpNSERzcFUxcTd1UnpDT0pNeXotTVprMmZLaGpWX1ZXSHEyMUp3QWxpV0dTcWY0NnJ0VEtLeldOTUstcHZRQ1VFemh2UU9PS1VlWUNDNmJPdVRCRmZvOG9TUFp1NnRDR0JSaVBmTndzbTBsXzdhV0lhZHE5RUhNRW5aQUJRNFZldEFJRm1OMmFHVWdqdnBzVkFGT0RrcHhLSXp6TTBxSm9nLVdjYjJRaWNOUUJUVjNtNWxwZ1I3akw2Y0dhQUJPbm5rOG1KWTJMQl9sNDNDaGZsVWx5NUd3VzRLX2ozclVNZUlSZzBvNlVzZ1NvU21PNHVZamNid0dza2dzOGNqTFBZaFhfR0tiRER5UQ?oc=5",
+        "publishedAt": "2026-10-23T15:08:17.000Z"
+      },
+      {
+        "title": "Turistas peruanos y extranjeros dejan de visitar Machu Picchu y apuestan por otros tres atractivos - Infobae",
+        "summary": "Turistas peruanos y extranjeros dejan de visitar Machu Picchu y apuestan por otros tres atractivos &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd1FDTEVJVDI5QmZhWDBMcGVQVmloZ05QNWRsazZTV0FOMUg5RThramN0MkpIX21ybVVUc1I4dGVPUEJoTTBTREQycnlFcTBHX2JLMkpSbHM1U3FtRWR4SkVaZnIyODBDbVYwNWxyRkFwM3NlaWo0UEtqa1E4TkpkUXZyVzJWbUNoVFNaUUxWc28wS2p6WXNLbjA3TWNCSllWQW9IS2U2MDB3dnpoQmUwSjJ2RjZvR2RTZ1J6UjhTMVdxckRsXzRWc29maGtRMHVOcF9fT3RMT2zSAfMBQVVfeXFMUEt4ZHZvZ25FZjhDVzYwWndMVTl4cmNXbDdGNUduVi1VVTViUmR2UjN2TGFiOVluc3V1eEM0OE9LbG9rOVJnbGlBb0NPUGtqdG0wcE1JOXp5VE1nZmJYRG5kZ0ZRRzNSSm16d3hUbEFtZi1xNzVkNjhORVh2TFBDVDBtWFFLcFhCRjYwSG1MYUJVN1kwVlBNMjlTTmJmYW41VTl0N2JjdVgwdEV6VktuaHJ4N3RZbVdBLTZrSEcwTC1Yb19UemYxRVYwNzFfVlFsdVpuVDVPQkxMX2JXN1VXaHJPVDBzcTFGdVl2WEc2Z0UxZWFB?oc=5",
+        "publishedAt": "2026-10-23T14:31:00.000Z"
+      },
       {
         "title": "Precio de dólar volvió a subir hoy en Perú: Así cerró el tipo de cambio este 22 de octubre - Infobae",
         "summary": "Precio de dólar volvió a subir hoy en Perú: Así cerró el tipo de cambio este 22 de octubre &nbsp;&nbsp; Infobae",
@@ -71,11 +99,11 @@
         "publishedAt": "2026-10-22T19:51:00.000Z"
       },
       {
-        "title": "MEF sobre bonos y medidas contra El Niño: “Los países de la región nos ven con envidia, no todos pueden responder así” - Infobae",
-        "summary": "MEF sobre bonos y medidas contra El Niño: “Los países de la región nos ven con envidia, no todos pueden responder así” &nbsp;&nbsp; Infobae",
+        "title": "Bono de S/300 para trabajadores públicos de Educación también se pagaría en 2026 - Infobae",
+        "summary": "Bono de S/300 para trabajadores públicos de Educación también se pagaría en 2026 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRTJCWlM5TXZEM212dHFwWF9MdzFFZGVJN2FCTkVqeVE3cUVkSDBmdDFlNHpZeHJvYjBBRnJlRkxKd1dQR3JjNWZEaVZZVV9ySmQyanMwaWpsYThqRV9XQlRxUG9TVDF6R05GajBmRm1ZbHJqeHozRGhkUTdIaFFRWFFCUXpuYXYyc3dac1NmX1o0QTRTOGxVa3RUR3R2SDdjWVZjU240QURkbGl4VEhhSWpxSHlFYUNLV3E1QnFWSFVRWk53SmptMm1QMUM3cHNfQTY2bllnZkFrNjUzeTdHOUVvdGczdWEyWi1Z0gGGAkFVX3lxTE9OQzJFdGxnemdudjZJTEtDMF9DU0ZEU3ZQWnV4OFRQeXdLZndlLS1jVmt0cEloeU9iX3JlejlPbVpRVE5fWHdrWm42V0tjWi1XTHFwT1VNRC1DOGUtLVFnMm9vSjMzMnFESlBLLUpneVhXcFRLNnEyT1ptRkJUX19YaTl4Wko3bDBrN19wQjM5eG05SmZjdVp5OXhseWZrSWV3T011dnkwNWI3RUYzRnJ0Y0NLbUhWcEplWEZFVEhaTElOUjVfNVdMeDhTVVhrelFNT3VGXzRJOVdOanVHOTNqNm5xRURlQ2FrRkh6SWMyTDJEWWhldGFRanMzQU5BaG5ral94Wmc?oc=5",
-        "publishedAt": "2026-10-22T19:47:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNSRU9IUUcwQzB6SGlxSVFLcTNEdXRURU1mWTJ6VHpKNFlISWlMUThDUkV1ZnZKWE5sZ2gwYnFpd2FTZEVpVGhRcGs4ZENmZWxWZHhVc2hrMElDODMxWDNFZURmLXhDZ3hrdndYX3RHVFRKZGw5TXdZajlXbmN4T0M4TGFxVldSREhKR214akVWSjJ0Z3lzYkE1dVR0YlhVYlpROUNzdkpFWndfSzNSNjRSaW1fRC1lSDBFVNIB1wFBVV95cUxOcHliS2JVd2x2a0xoMmtvQjB5LUtPQUdxbl9aQTlRSXZJbDBSa25ORF9LSmx2bUlzamNTTzc3YlNfSjZUX3pXZEg3eXhLaVlycVhKVzdIaTFQbWhuamQtYnI3R1JGRHR2UkROS1lVaU1iYVYtVS1SLU9iZTVOQVhmM0Jfak1WQnFkSWNSaWRfdDZDejIwUjJlTm90cXRFdE9RSWdheGhPN3FOMW5qLVV3ek02SzZXRE1Bakp3RU1TNU8xYW8wVHhHd0k0UC1HREVsM3J0bEFEYw?oc=5",
+        "publishedAt": "2026-10-22T19:17:00.000Z"
       },
       {
         "title": "Perú anuncia bonos y otras medidas económicas para afrontar El Niño y choques externos - ABC",
@@ -90,34 +118,6 @@
         "source": "ABC",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmk2N195RTEwMEgybWJ1a2RtcWJFWmYxWmtYREtjSFZVNWs0Tms0Q041dzRTRG0yamlsYUJhcm5sdG1wRHhfaWNJZ3phSjlueG56eGYtOUNOVVdHY2lNMjJ4czg1eU9Ca2dEd3Q5cXlQeGxsSDBCN0twYU5Jb21YckZuTVFoUzA3aTZ1SldBc0VjdHV4VXVsS2c1OWZiTk43N0NzNW5CenBOY2tJ?oc=5",
         "publishedAt": "2026-10-22T18:31:21.000Z"
-      },
-      {
-        "title": "Perú.- MEF: Economía mundial enfrenta riesgos, pero Perú tiene espacio fiscal para afrontarlos - notiperú",
-        "summary": "Perú.- MEF: Economía mundial enfrenta riesgos, pero Perú tiene espacio fiscal para afrontarlos &nbsp;&nbsp; notiperú",
-        "source": "notiperú",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWkx6ZGRQbWFYTWlpR1hXVHNtNnpKQXVnMXo4Q0dtVXpUb1liT25wajdXTzBBY3lKWFY2VjZ2WjBuYjJ2OE5iMzR3cVlYVDNVdjZzQ0pLWDdYeDktSFM1UW9IblV0ODJRd3d4Sm5lOThsLXh2Z01VaUpEVVZ5TDZmeXVrX1VWUzhtTHhiMnhnWU9hdklkOWQzTmpkckU2WURTODBhTEZ2blNsdWNFV2ZISDZ1X3NSVmxhMXVBWFZ4WDF3NkVsZElEcWdERVJjdmtZVEZPMTZ2NEd0aHpobmc?oc=5",
-        "publishedAt": "2026-10-22T17:33:11.000Z"
-      },
-      {
-        "title": "Bono monetario contra el alza de la inflación en Perú: ¿A quiénes se pagará y cuándo? - Infobae",
-        "summary": "Bono monetario contra el alza de la inflación en Perú: ¿A quiénes se pagará y cuándo? &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN05taFo2d0dOUEg0THFlcVNOX3lGb05KaGRQVml1cFZOVXJwa2dEeU1uVXNrZEZoUkgyb2JOUktPQzA3RExuMVJuMlppZDZ0TFNsVzFsUzZqbkRYRi1ubW1mczhUYW85LVhudVhjTWZ6YmZ1dzBieWVwR0p0Qmd5Y3ViOFJIUkwwMk1XbUR1SWJqRzAzbUk1YlZDVnh0SVhwUllzcnBLNFROVUZhVWl4alYxcGFGbk5Td0xjWjY2clbSAdsBQVVfeXFMTktBaXBMa3c0NlpKWm5HNGdvS0hjVTVKRUl4VHZrVlNPbk9sQWpPSlRPUDF1c1dYSG5TWXg4TGFhQXFIVlJ4TFBrdHZxeDdrU1hOTGZZUS16RXBHOUUxU2hmaWNDUEh5aGJocnRaLVdVN1FsS2VGU3JJZlp5VENTRng3Z1B5M3VmTHNYcEF2QVFvMjJNcFRvWkhxaVlRYVNzbmlDMk0zYW5zSHhtQjduZTZZdFJUNEZobTZERjZfNWF5U2VTbGV0WF9xSndHek9NdjVMcWl6akN1b0pB?oc=5",
-        "publishedAt": "2026-10-22T17:28:00.000Z"
-      },
-      {
-        "title": "Vuelven los bonos: Gobierno entregará pago mensual a familias vulnerables y a jubilados ONP por el Fenómeno El Niño en Perú - Infobae",
-        "summary": "Vuelven los bonos: Gobierno entregará pago mensual a familias vulnerables y a jubilados ONP por el Fenómeno El Niño en Perú &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFdibGQwQUhGMjBfVXl4eG16VHlpMDA5MnVOWkxhV0U5bmk3VkxvVGh4cFhUMHh1N2xKYl84eWh4RGdVbFFET0V6SlVFRGdKdHJDd1ZxLXlkbk93Qk1ZQWxxbk5QWlRsM1BlN0tOYk02aE5FVnY4WHVsMmtLSHVQQUlmbjlkRmZ5U00yNDdKY0Njel9rS1l4NDlHWk91U3gyVnBVQlVCVjZ6Y256Z3R0R05xMkJSenB6dG1aUl9EVlFKX2E2OHfSAeABQVVfeXFMT3VGX1JaTFh0VFY5NnpnOVF2d2Zid19sTkN5aTBPeVBYeHY1Q2p4aUJDWmViTXBBcUFla1FlZnQ1eXQwdGUwWERuUFF1aENQYS1hMElqaFVMYk5tUERUSUVXT2UwN2UwV0M3ZGp3eExNcTVJNUtVZzBvRTQzSW5tMjh6UUFwZ3BVS2FPd3ppMGNybHFKaDZxZVJuLUJCVW4wMk9WTkdXdDhkV1Rjcnc5X0dteFJnMW51X3Q4amlRWDVjZW5NYkd1VDdXY3libGtWSXNJVTRPZVRnQUxZaWtuelU?oc=5",
-        "publishedAt": "2026-10-22T17:09:00.000Z"
-      },
-      {
-        "title": "Perú busca ampliar sus límites de déficit para proteger la economía - Yahoo",
-        "summary": "Perú busca ampliar sus límites de déficit para proteger la economía &nbsp;&nbsp; Yahoo",
-        "source": "Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjBHcmNwYnpWTVRJWjBRLS1BNmZWaVZLQWw4WmVQZEVJZG1MVmdqc1JoMlJQcHlqQkJqeGRseWJpMzA2U2JwWlpWcUhBaWZrdFdSQVpUNHY4VDdIcm5CWS16Si1UaFZ4RkpYbExkVW1adFFDeXFybnBsZUhMRVNGaXlGcW5fZl9WeDk0QWZnVU94NkRoMnpOMlNRUkNPc3p5bFEwZQ?oc=5",
-        "publishedAt": "2026-10-22T16:41:31.000Z"
       }
     ],
     "sociedad": [
@@ -164,18 +164,18 @@
         "publishedAt": "2026-09-24T07:00:00.000Z"
       },
       {
-        "title": "Adolescentes de alta peligrosidad tendrían módulos especiales: Gobierno propone reformar el sistema de responsabilidad penal juvenil - Infobae",
-        "summary": "Adolescentes de alta peligrosidad tendrían módulos especiales: Gobierno propone reformar el sistema de responsabilidad penal juvenil &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNb3gtYm5wTl9TZ2JDblJraGQ2TFEzeXdCLVVnRm03MjFyVHQ2VG1CbmNKR2tmdXhXY0otbi1LYUlZcndPZDhacGZQcWVOWTRIVVBDUlo0VzhIVDZwSEZGM0hwZ25sdF9Ma3FFOFF4MHJOdU1uZFduM1JnMGVGeFVyc0Y5amlrRU1lcnE0UkU1REVmMFJTbzNZR0FhTTRRMUVfSjhWaE1ZRzJJWmNDeHZvTEI4U1FDV0ZNbEhPaER2Mk14OFc1VUd1LWdDVHZlMUItT1Bta1N4WldBZ3BQVmtJLVR4TF9CVXhwVHVnMGlIVnYxMlFTT3NCUnhIaTlTVG5pX2fSAZwCQVVfeXFMT0h2SHBSUjFJS0ZmbFlHaHhGUzNBRXN6Y2RYRFlTdDRHM1l5SkdPVjRrTEk2Tm10b1lsNGw4d1RLZVJfS3RRSVlYZHBfYk5PQzl2UjJNdjVKUGFOYngzOU02bWtfRU5vSm1od2pZdmlEbGJNVlRNNmtKMlR5dTdwTG5HY0pVWVFnSkc5bFdtN0xaUzZ2UE02dlE0WWVKd3J1WHB4NmFvTGxJSi1LdzdkNkhsUzZEc3Z5N3FHQU4xZGNBNEwtNy13NjFOLUFSbWtxMHJPUm5YSjYwdEV1Tzc4RXdLX3Vpdk5ueGNvZnRlNUFqTFBfTEdiTFVSNHZCcnJtaFNkZEwzTFdVUlY0eV8zbndEX1I1TkQwYktMRzQ?oc=5",
-        "publishedAt": "2026-09-24T07:00:00.000Z"
-      },
-      {
         "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
         "summary": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
         "publishedAt": "2026-09-21T07:00:00.000Z"
+      },
+      {
+        "title": "Elecciones en Piura: Pedro Alama plantea destrabar obras, reforzar la salud y mejorar la seguridad - Norte Sostenible",
+        "summary": "Elecciones en Piura: Pedro Alama plantea destrabar obras, reforzar la salud y mejorar la seguridad &nbsp;&nbsp; Norte Sostenible",
+        "source": "Norte Sostenible",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kMkgyOFQ3UzgzQUo2RmJmVnl3TGpOTE45eFFOWVYySkF1NFJKcXptcWtEdXRMdlBPUkNpMFdzT29TUDlpTTdfWFk2Q2lweEowLWFPVE9oS0xuLXZmRjRVT3IyM2RaQ19qOWh6VTRTX3dTNURIOHQwY1Bpb1dmUQ?oc=5",
+        "publishedAt": "2026-09-10T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -419,13 +419,6 @@
         "publishedAt": "2026-10-20T22:11:33.000Z"
       },
       {
-        "title": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS - Trome.com",
-        "summary": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNekRuOHA2bzF2M0J2S21oMWpfOXlGaTR4LUFycU9xQ2ZXeUt2YmxJcmFZUk9WV3dUUTFIVUE5Tml3amdpNFo1OGNVY3pGcHVkREc5LU1fd3h4MDhNdFRfSG9JZnpnUmtlTXJHanBqUTNlUnhwWVphUkhvN1NtQ1h1TXB5NHJNNGJ1dTJzRGtlaWh5VExHZGRmR0RKRE1XeEZxeF9qLW9RRzZ0MU9mMTRQNWEzUEU4Zmk3NVhvWTItakZVdFczWjlHRDJINUFabERhTzhSN21ZN1ZZMnNXZmlib1JRUnJMdnotN1dFQkQ1V1l2NHhYX1ppdTlLbWVzUkZHRHNCU0ZTSGphSm1D0gGgAkFVX3lxTE9ueEZ2d3Jnbll2cVVyaGVuTGNfQkxpd2VLY1hqd0dXeThZM01wczNfcFBoWXYxSjVnYXNqQS1aZVFYTG9oYnVBTzdSZFhqeld6czVrV01QZlU2blUzYURQQm5zR1RBQUIza1V3NkVkSlBlZzF2cjRPZkxzMGR0M0ZWaHluSGRVdEsxUzdmaEVXX0NZZHUzMFZUYWZva2g4Vll6SmwyeDNlN2lUVlFYTXVqdmdEbzFFUDhzY1F1LVN4QkM2MEE4dHJBYzFvT21pNHBjZGpJT2d1QjhROUw2TVZBdzFFRVJxdHBuNE9BelM0eW03c1k1bnZWVzY3Z2VZUjhvdlB5dHQtZEJzdlZVUmE5MUxReG9xWWY4TThoWHY5MQ?oc=5",
-        "publishedAt": "2026-10-07T07:00:00.000Z"
-      },
-      {
         "title": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos - Trome.com",
         "summary": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -466,6 +459,13 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzRDT09zWS1CTk5TTXRPcWpzTGxTd253VmNxT1lYZVRMSDk5WXlld2NPLXo2b0ZwR0VxV196Um5FcFVtWTZyZ1VMMFF6NHowMl9XWDFLLWlOM1ViLTNDa19ZX3ljSkhJaFFVdU1xODRVeGh1YkdEcVlETFFCS0tfaU9SM1d1cnM5MFo2SjI3dFY3Y2ctRi1QbDFWY3A1WU1sbFZpcG5Fd040Vk5PLW5yYkg2Tk9JckV0WW51eURGUGtqRjlVbzZjS3pFSV83MUZRbzNwLWI3dnFHYWJPYUEzOHdfWGFqTkczSlVYOHpQSQ?oc=5",
         "publishedAt": "2026-09-21T07:00:00.000Z"
+      },
+      {
+        "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
+        "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFRYakI4T1o2cXhXN2pKSzc2bXBiLVlUZ1R1VFAxSWtDRW10LUl1TnNZaWJLRXpXSlBEZmJzN2lZdGF1SG5NUDBWQXUzZXp3VTlnbXlTODd1clZtRXZQUENXWlRydS0ydkhyWFg3SHJScVdKZ1VlU1l2cWpBM2RJcndGYjNWRVJNblpCa29EOHpXRGlnRVVCb0JOd0s4allqdVVjS0FEMGZXU2c5OXB4S214NUhIb1FFRWlaNVc3OHA0Uk0xcmpVbGFkdW1Kb1laTXZTSzZNY0J1WkFNM3BCRkRqdVNsV185WEdkSGtmMjZhLU00eW9mcExBdkvSAZcCQVVfeXFMTUlaaHZOVlluQ2hONUZIY1Y0bnBXNDVmN2tYNXFvbjNBVFBSR3RRUXNYOWVJdU9oQ0dHbUExc3FwTkEzWFM4UkVMTmFjX1dRdVR4VFRncThQWXFFV2pNUmhGZDBFRHZyUnZXcDVBWnhneG9fSklpMDFScE9nZlNjMzQ4aFI4MnNBTmtiTnM4SkhzRGFWWVZSai1IYnV4QkFsU1FSUGZXU1V4SGNlSjYtNUY1UFNiSXVDWEtEV3VjaXljZDZkdFEyMFJhenFNaXB3VVhRcTNEWTJzU2prTm1MMzkzOTdPT3laQV9sNkItOGRoWFo2SXZzRmZNTU9UYjhuYjd0VnZWTVY5WmNoRktEczI5b3dKbGVr?oc=5",
+        "publishedAt": "2026-09-09T07:00:00.000Z"
       }
     ],
     "cultura": [
