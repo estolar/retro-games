@@ -1,16 +1,37 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T18:08:57.751Z",
+  "generatedAt": "2026-10-23T21:53:48.302Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
     "politica": [
+      {
+        "title": "Sheput pide no “arañarse” por dichos de Keiko Fujimori y niega cierre del Congreso: “Es teoría conspiracionista” - Infobae",
+        "summary": "Sheput pide no “arañarse” por dichos de Keiko Fujimori y niega cierre del Congreso: “Es teoría conspiracionista” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVVRLVTlDaWR6SDhKV2hsdHdRRjN2N2tKSHVxUml3V2tRNTFqdWlRcjdzOEpZaTRLTUpZb19YSE1FOXB4QU00R2gzQ0tucmJENmcwSGY4SXBpUEY5NVZpaElISDdGQWRCMkFCTUF3ODNrZFZkbTQ1d0g2b050bVZfZ0MtNzhaN1paeXM5NmpwaHZvX3NDWVRONXp5UXF6cWMzMFVsQ3dCU0E2WkxQUms1MWR2LWpRaWN0VWRWVUVfTzF3aUQ1V19SenU2ZS1fZVlsTHpKc2lLZnVmQ05VNkVvYWR30gH8AUFVX3lxTFBCWDVFRGVZcWZPcUhsVHlHb1E1aXM4R1FlSUNObkFDRkV4aDFXYjVmSE8tUDVVdUJTMkF6bVo2aTdDQ0YxQzlxaFd6TzFjc0RXMmVVelNMNUJKdGJxWXFQcDNWb1pDTGhFc2JsQ0plQkc5X1RJbWVvd3hFWFZQNjVrcFZ6c09kcTVFVldEM2d6Yjd6cXBaWHlMWmU5NnAxR3Q0bFBZbGwzNEpHcGp2WkhaTkM4eXlhVDR6M2tlUmFYN2VRWW1vNXdVTWo5UGE0V0NURjVWcXdhZVZpYVJWZUUtZkRfQ3pYeGJSVVVjY3hzR1dmX0g0SjVNUFFjeg?oc=5",
+        "publishedAt": "2026-09-30T07:00:00.000Z"
+      },
       {
         "title": "Luis Galarreta amenaza al Congreso: “Ojalá recapaciten, porque hasta ahora hemos mantenido paciencia y actitud republicana” - Infobae",
         "summary": "Luis Galarreta amenaza al Congreso: “Ojalá recapaciten, porque hasta ahora hemos mantenido paciencia y actitud republicana” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX0hKaW5YdzRsejZCbkU2cENkajZQRGQxZ0x2cjF3ZFc2Y3dqbkhkMjU3TjBFSHFLZG5Fc1E2ZjJNd0pfSjRKT2s4UFY1cGdrRWx5ZExCOUZuYjZjYzRIZl9LbHM1Z19ldU1jNHJSZXc0bU94MHdOYzVsclY3QmtMYk84bF9tZm41eG1PYVhwY3B0ZFhqQ1QtNlRMSW9RLUEyc0E0N1hUWUtBZ1dWUFhHVmJYX3FEUlVpdUNvZlpZZF81MlhKYzA4RnZLYXV0SUpJWFpVQVk0aWlEdVNlRkxrZVFQWUMtNzTSAYICQVVfeXFMUDBVeV9hSzg0Mm1sS2JZQzcwdW5OelJaMmtEY2tDNDRvajdSbDRvS2NRSTI1X3k3am8xTzlSMEp4Ui14RHhFa2JqZF9DVnFsSzhrWkFPM050Tm9qa2RHY2VrM0Y5ZGpVeUtOaHJLMXFLNjNMVklkMThkZ05iaHRhUGFzTU1GUWFyTDRWbHQ4Y0xxdmtuQjd0anhPMGhLQ3pQdHl2ODBJVjNkY05PRHZPLW1veEdGTFFMX2dXT29faURHT0hYRnp2bExMRXZmVGQxQnJ2Z3VUZUFjUTZRSnNVM3BmOC03X0hnOTlHQ2ppR3VQSEJrQUY4Q2ltU2JXcF91b1FB?oc=5",
         "publishedAt": "2026-09-29T07:00:00.000Z"
+      },
+      {
+        "title": "Keiko Fujimori al Congreso por negativa a facultades legislativas: “Están poniendo a prueba nuestra paciencia” - Infobae",
+        "summary": "Keiko Fujimori al Congreso por negativa a facultades legislativas: “Están poniendo a prueba nuestra paciencia” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWkJhMnpncnhfNy1Mell5SExfNTZVV1ZZSUVzM0d5MnYtTlZrblJxR3hhY08zckZzbHp0SDgtanR6UUNybmR4N1U0b3RtNzc0VXJQdXYyT3Z4dU9uMUl6SC1sQWVXMzlLbUg2TjNneHRNdmMxRThEcmMyMjFiZnFwa2RtREQyd0F4Wk9xRlBxY2FVTEZIeGRMWFp5QUI4eDN2clZrNER0S25BTW45Q0k5bVV4cDlBalNKZ3luY3haSXpUOXBYVFFHakQ5NmVVX3RDc3VxUmtTYzhWMlBZcHdHb1Jn0gH8AUFVX3lxTE1fU1VqVzlQeU1VWnhDX2puMmxqVkNOU0U3QzRVSm16a2JPREFxUEEzVHB1RzZSLV9VWjR6SFJFdW53cDhzeFo1VXphc3U1OE1rNUpyZnZmUzlnd2c5SHZKTW1lUG5EVUtlU1czeWM1akpLWFF2MURtTm5VeUNNUUlZbUJXX2dIY3EzdkRqMTZDVk9mNlpfM01RQlBEZHNCaHNXUkFId29xdGI1V0NVNFE5d0hBbDEzaEFNdGsyRS1lSzVFb2pNaFJza3JBbWVidE01M3ZhMllRQ1hUaXpFdWc3dV9FWjFyS0o1el9FVHhDUmlMTnloeE93Sm1JSw?oc=5",
+        "publishedAt": "2026-09-29T07:00:00.000Z"
+      },
+      {
+        "title": "Gobierno de Keiko Fujimori recurrirá a decretos de urgencia si el Congreso no le otorga facultades, afirma ministro - Infobae",
+        "summary": "Gobierno de Keiko Fujimori recurrirá a decretos de urgencia si el Congreso no le otorga facultades, afirma ministro &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcjN2SVRHOHE5b3hiZEF1SlAyYlRwV3c5YzRSWElOSEV1Qi1IZjJUSHdBTEhfRmwyNmRsdWI4eExvYVdHQUNWZWIxcVRoZ0dBNUJhTTM1YUF4R0IwM3pQUENuUWI0b3ExZ3pSZHg4VWgyaG5fcnd1N1BkeXAzblN0dEhvenhoamFTWHRiZ2RVLS1OV2tua2s0N0tNV2FhYU5aLXBYWFhtZnlpcGxFUHIzVjFEeGpleUhrbW8tQjVQUEgwUVlwOUcySnVLSGxHRXhnbFNvQlJ6R1NQWERSdHZoSnZodWFYQWZMRVJv0gGGAkFVX3lxTE5ndnpqZ1BYZ09IbjdlWkVIV3MyLUdXSk1KQ1FnMnFRaDZ1a2hFRnZwdERnQU5kb3ZOUVRVZGlhbFJGSjQ5ZnBTSU9IRTkzcjZuWXpxRHkwU3MtVGNqNldJSk1BNjhCdFNjNWF6N3lyX1ZzTHV2OXFEX3dqcHNCX3V5ZXp5TDh6bmhQQTdKX0hLUGFLMW11YVVKdGo4S1J1Y1JDNWlrUUJ2TjJ0d1MzMTBLdzU1ekxPdVJON3poY2prS2txS3M2SUJxeF94XzNTc2lWakNucFo0R1lXUnlQXzROWUdaOW5FRHZBd2hDRl9VeFYxN05YSXpFTUdfa29vVzFaVFZLaGc?oc=5",
+        "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
         "title": "El nuevo gobierno de Keiko Fujimori en Perú: un comienzo accidentado en un viaje peligroso - Infobae",
@@ -20,49 +41,56 @@
         "publishedAt": "2026-09-12T07:00:00.000Z"
       },
       {
+        "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - Exitosa Noticias",
+        "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; Exitosa Noticias",
+        "source": "Exitosa Noticias",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXVFeHN5ODA4dEFpY0hYcjZDdVNhbm9TVmhLSUFvMXJ1MUlCR0hpanB6SzcyWXhFMkl3NjFBa2FPdG9rRDd4LTlfVG9LZ1BQZjJNTm03OS1XUkRMR3B1c0EtQmVLcHZVNW1TRWdZOVhxM1Z5Y0NKZFdpX1RrRVV2WEJsdkJqSDgyTWNFYW5sWXBtVC11S210cXh3VXN0NXVEQ2N5UXlscXlDcGZ6T2o3NHk4aXZjeXlnWnA1U09tN3Z2clA4cXl4V0VDWkQtZDZhWkFJOEdFd3R4QQ?oc=5",
+        "publishedAt": "2026-09-11T07:00:00.000Z"
+      },
+      {
+        "title": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso - Perú 21",
+        "summary": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso &nbsp;&nbsp; Perú 21",
+        "source": "Perú 21",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnV3Ulo1aXZPYlMwS1Jtcm5Kc0tRazlRVkRPc3ZVa01FQzc2NUpQV0tRMXh3WXJ6YTRsQzlZOU5XWmNLWVRyUzFFYXRrZGVvaHFpVmc3NlVIYzR2bDU3Nk9sRnlidks3SlhaVWpWeXFuYmZvSXR3ODJic3A5WFJIelVKQkwwTzhvYUJ3MUJfc3FReUVrelBlaw?oc=5",
+        "publishedAt": "2026-09-11T07:00:00.000Z"
+      },
+      {
         "title": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial - Infobae",
         "summary": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHlnUW12Z25xWXFVV3N1dVN4UzNLY1ZlYzFqcXk2NDZWSENpcGhjRGtTOTBnRE9fWmlPbzNzOXU1RldUVXRkR1JhUFZwd1NRODBWb1FsYTNLV3JvcDU3NUtLUVVPdEhhejNlWU5CZ1dXSk9TTThhbUtnSGVlQi1XMHJrSm1QLUpTNG1oaGNRN0lWeXkwWVlxM2l4MGFuTkZUNTZfQmdISXNOMW9MdnRxVlV0QzhCWXZzQVE4cVJrTzZtWnA2TEU5MFExdUhYanZoWVhMblVHNi1yQ3RFQXFWLTZyNlA?oc=5",
         "publishedAt": "2026-09-04T07:00:00.000Z"
-      },
-      {
-        "title": "🔴🔵La presidenta Keiko Fujimori descartó que el pedido de facultades legislativas presentado por su Gobierno incluya la fusión de ministerios. \"Eso no se está contemplando\", afirm",
-        "summary": "🔴🔵La presidenta Keiko Fujimori descartó que el pedido de facultades legislativas presentado por su Gobierno incluya la fusión de ministerios. \"Eso no se está contemplando\", afirmó al ser consultada por Exitosa sobre una eventual reorganización del Ejecuti &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWXZabHY0NEZkQ1lxOFpuSDBMRFhrTW1WYW5LTHJrZkZDelRacVh1ejJWbzlCSXIySl9vb0paZFc3VHlZbzVId1ROZ2h5bDhvbEZFdW5tU3RKeWJucHVhUGxSMWdRTnc3aFgtcllENWRtTy1xSWcySUFXM2V2Wm5tdlZyZlVMcWkzOHhfRjdCaEZtWkdGSGVMQWtqQ0VtVGtibkRaN1Bvc2lJY2ZFbDJQZ2NOQXBZa0h0Ulg1UGFsT09qSEE3dWNwaml3Q3pmMEZPSUVZalFyZjhBMmt2V2k0QzZtQnY?oc=5",
-        "publishedAt": "2026-08-28T07:00:00.000Z"
-      },
-      {
-        "title": "🔴🔵 La presidenta Keiko Fujimori encabezó este jueves el Consejo de Ministros donde se discutió el pedido de facultades legislativas y la revisión del presupuesto 2027, en línea c",
-        "summary": "🔴🔵 La presidenta Keiko Fujimori encabezó este jueves el Consejo de Ministros donde se discutió el pedido de facultades legislativas y la revisión del presupuesto 2027, en línea con lo que la mandataria adelantó el último domingo, cuando aseguró que el re &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZG42RTFfNGpXVlpMbkpOal8tZzBWQ0lUY2xnanp0U1ltU1hTVFVod0cxNVVITWNPMWJMZ2hXOHU5UXYwWk92SFZDZ0pWZFFQSU9JRUVZcGg1aFRkM2VEWWszU2dzVXlRTDk4T0U4Rk1ibjhVakdzYmhqWnU0R2dDNUhpS24zNDhoRW5hNGs5VDR3NjVvTjhkZ3NKVFhSbk9KRG5kdEFPWVAwWlBFQTFYNFVuNDFDcHRjUU1SazBRREs3bGdIWE5IUlhfaUhMWW5TU3BWblNVZ3U4X2d6VDZYMmtSOA?oc=5",
-        "publishedAt": "2026-08-27T07:00:00.000Z"
-      },
-      {
-        "title": "Nueve ministros del Gabinete deberán responder ante el Congreso en los primeros días del Gobierno de Keiko Fujimori - La República",
-        "summary": "Nueve ministros del Gabinete deberán responder ante el Congreso en los primeros días del Gobierno de Keiko Fujimori &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcjVoMnQzZ1RHd3dDVC1ZMUNiaXVIQUxVb3lSSG9nNzZvdmd4aEtoT1dseW01WmFsRGNkdGNjMVdJdzNhdl9lclU1UXl2TkJQek8wNG1EMkYzRUdvNFlyLVktaFdUVkRqb3dVOWlKV2M3TmxhVElYWUdOMGl1bjNjR01FU1U5bkZISnZJTjNtTkpwVmtVOFFXNjhvMmFlbEtabURfMHl3akhkMG5HbW5oTXNOS3dGdGZuSFo3NzJ6c1RxbTB1Wi1lV2NrWlFaUFF4V25PT1R1VXFQZ0M1bWlNWlJTdHE3Y08zdFJJTVVlVU9KWm9JbnNtd3NFVWVXdzl2d19TemY3WGxyOUxnMzBKODdGRdIBmAJBVV95cUxQckQ1bWNJVWR6SFVwSDlXWFEtRHZyQUItaHJOOVE0SENlZ1hJLU5peUFXdmhkdkF3dml4SE9tMm9tcWxaMXJkVVEtMnp2dXFoSW4tb3d3d0FXNllfYXFTd2tLYmJnTVFvWjJ1VXZGTlNTTV9VdHdfWDl2Mkhsc3V2TDViSmVYbFQ5MUR1cGxPelRvNGpZdEpyRktuMERjMGZUazZkLWs3eHJPNXZGNlNVdE9pemVISVVfclFLLVlVTjE0NWFHSDJqakZySHFhbGZ0c3JIMHdNcjFOMnNadDJ6My03NGoxWXdVTXZYSjZyRGFQeVMxUUpTcWk4U24talVZYXdkckNrNGp5UThBbllWSVhXQzliZkR2?oc=5",
-        "publishedAt": "2026-08-24T07:00:00.000Z"
-      },
-      {
-        "title": "Gabinete de Luis Galarreta ante el Congreso: ¿Cuáles serán las primeras acciones y los lineamientos de la política general del gobierno de Keiko Fujimori? - El Comercio Perú",
-        "summary": "Gabinete de Luis Galarreta ante el Congreso: ¿Cuáles serán las primeras acciones y los lineamientos de la política general del gobierno de Keiko Fujimori? &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQUGRmVGRUM21JbHhyZzJMYUJfanFaV2xaWkg3LUdOcm1mNVZZcS05RnhKdHVHS1lMbDdBRHRtSTQ0dlA5TEUtWGFZV2RfLWNhZ0s1OUhoVV8zTVE2clYtQWVWQzlmQkNUdGhYZnlqQ3dRMVgxRVFodHdyd0doX0Zqbll6czVlZnphNi1sb2RyNVlaWXl6T21mdGNTdG5ZbTc0Zk45emxRQndSUDM4MG41Wl9TZG4wVU56R2xLZkxvTU1LcEVNemx3U2U4Rk1Ua2JFWDQ2MDFXQjRXQ0hkV3BmMzFwXzd1TGhJdS10cmRHSE5maXRTc3BvLWZ4T2VMMDhsX2tQQ3B4Q3dabmhDUUlMMDFCa2ROM0RncGJF?oc=5",
-        "publishedAt": "2026-08-21T07:00:00.000Z"
-      },
-      {
-        "title": "🔵⚪ Luis Galarreta afirmó que el gobierno de Keiko Fujimori recibió un Estado “desordenado y desbordado” y ya implementa medidas para mitigar los efectos del fenómeno El Niño y com",
-        "summary": "🔵⚪ Luis Galarreta afirmó que el gobierno de Keiko Fujimori recibió un Estado “desordenado y desbordado” y ya implementa medidas para mitigar los efectos del fenómeno El Niño y combatir la inseguridad ciudadana. 📸 Foto: Difusión 📲 Lee la nota completa &nbsp;&nbsp; Instagram",
-        "source": "Instagram",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhOXBBamFmTVR5U1EwUEJzV1VpRnNEb09pWnhUMk95ODF4dUFTOUZ6WjV5eUtCWkRvSW4tUWJzZi1xUmU3ZDhkeExaNlVua1VFcGc?oc=5",
-        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Cuatro medidas del Gobierno contra los tres choques que impactarán al Perú en los próximos meses - Infobae",
+        "summary": "Cuatro medidas del Gobierno contra los tres choques que impactarán al Perú en los próximos meses &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSFhJMGFqbHBfdzlMT0w3THBLS3Y2RWc2QTFzZHc3QmJlN0YxUVd0R3l4Mnoyc0dyRE9wcW5aN3hvT0tabE4xR3VISmNseHYxLWZHZ0ZDMUo0bjJtNzZTaGhSN2FiaGVBbUZ1aHpDQ25YOGN6aHhXcVJhWFdaOTNBVmV1a3d0RzZMUmhEaVlSMGYydlVYelpnUkpLX1UtaV83MmViZTl6bWtrMEZjN0hRQl9UME9vY3U4RWk5VUtuZXJQNmFuMUNYTGNObXNZWWhLMjlF0gHuAUFVX3lxTE1sdVhXc1ZrSG1HU2Y1b2ZXR3RUM25Jbk5udXhpS09ISVJmaWkxU0Jsd3pieE1TaTQwd2YzZTQ3eWM0U0d1NVVidDNpM3JlZVZvNVZVQVpTWmh3NUh2SDBCd2pteTZRdmVoM1dSWmpLc3dqQktoendCb0JqNXczTzZUZHI4ajZEajNMRVUzMkpuVXY4NklnUm1XT29icVhlMDVKb2NZVi1iclRpQ21IMGFmU0t6QmdQLXRfb3E1VkNTSEFBaW9FX2NiQ0tnZ1BCZi1EUXltT0ZNVFl5Z0tOS0dCWl9QbGpkdlNsbS14a0E?oc=5",
+        "publishedAt": "2026-10-23T20:03:00.000Z"
+      },
+      {
+        "title": "MEF señala que están trabajando para que economía crezca sostenidamente en próximos 5 años - notiperú",
+        "summary": "MEF señala que están trabajando para que economía crezca sostenidamente en próximos 5 años &nbsp;&nbsp; notiperú",
+        "source": "notiperú",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZkZleVluUVJubVpFSWoxemtORkJIOXdHUW5kcHRST2lPemdOa2RROXdfdERKd2xBWVozdEVwa1BpLVRqRlg1Z21TSG9fRlMxNU9JNTFlRF9Xa0JreVFwekYwTEJpb0kxcmZkbjlZekRoOTE0bERfaTFCZEdiRjZZaThWNm9paTVNUmM2ZXFHNGMyeFVjQXNLTWNWNGstRExkcW9UMVNnOW9DYkZwMTZBblRmbkRIandBaHYzcTNCaVY3SExXek1QbzBSeFllclBFWVVWY2hnRkdmUQ?oc=5",
+        "publishedAt": "2026-10-23T19:44:45.000Z"
+      },
+      {
+        "title": "MEF: Petroperú registra saldo positivo de US$ 600 millones en lo que va del año - Expreso",
+        "summary": "MEF: Petroperú registra saldo positivo de US$ 600 millones en lo que va del año &nbsp;&nbsp; Expreso",
+        "source": "Expreso",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSHJJaHFmV0VYanJrdWhYX2JsbjRTTHBKckF5bF9ldFBLN3VIQnpWb3V0YTZvcTFPRWdEcFdSRml5dmJJbDBldE5VMVhpWkpSQzJYcjdFTmdpUHNBM01WQ2wxM3d6dnRpSGJRTG5yWlNXRjh5TEtBbnBzbWY2TU53M3A3SnVPVTBwQkxwSndic0RORThWREU1N24xMVBNVzF6X3gtTFVXcmJTaWUwUEpWdzYzWHhVeDM3UjY1TDFNcHlSSng1QlE4RWtqNFVpRDZQdnp0NDhqSjYtcjRpMXI2cW1aWWxNek0xVC1STlFtVTlJeUlWSjJUX2Jn?oc=5",
+        "publishedAt": "2026-10-23T19:06:21.000Z"
+      },
+      {
+        "title": "Retiro de AFP de 4 UIT ya avanza en la Comisión de Economía: Piden opinión a seis instituciones - Infobae",
+        "summary": "Retiro de AFP de 4 UIT ya avanza en la Comisión de Economía: Piden opinión a seis instituciones &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV3kwRjVMQXRjVWk0bjNZdlVVekktODJlbFM3eXpIVUtyckFMNnM5RnNrSjBLenM3YVg0X3htWHQ0LUxyYWNoNlR5NG9DRXhfaEstQ19RMFVaY2FSMGw3NGFaVnJtR3NQNkFMMGhaWW4tOWFqUElfUzY2bjhPYl9SSEF3SUhwSzhUWWMyWTlaREZtUlRnb3VNUHNrSmpIb0dOR05KQzRDZU52MzVIWDhkUjczbUlSR1phN3NsNHlBbzZ4Rnc3Z0Y1aWhzVdIB5gFBVV95cUxQRC1sZzAtVUFkQmNQal84ay04VmRLczdzc0gyNS1wNXItMjZpVWxHMlAxOTFVVUxrWDI3NEJvTV96UWRzaTJFNVUzenFLZDBZT2dCckhlLVk5NlNCOUNtSEZSVDVhYVZJb0d3VFFKS3ZsTndRT3JoODFCclN3MUZZaTNNczVXblo2NkhLbDlNdWI0OHFjdFNULVQ3ZUdFbnlGSjA2M0tUUXZDMzJNS2JVZjNnQzF2bnR1YmtJTGFHcWNEZUxTZDNJb0Jyd3FGU2N5cm1CZUczRUZqYk1xajVfUlJ6YnhBZw?oc=5",
+        "publishedAt": "2026-10-23T16:32:00.000Z"
+      },
       {
         "title": "Regresan los bonos: Gobierno hará pago mensual a familias vulnerables y a jubilados ONP por el Fenómeno El Niño en Perú - Infobae",
         "summary": "Regresan los bonos: Gobierno hará pago mensual a familias vulnerables y a jubilados ONP por el Fenómeno El Niño en Perú &nbsp;&nbsp; Infobae",
@@ -90,34 +118,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd1FDTEVJVDI5QmZhWDBMcGVQVmloZ05QNWRsazZTV0FOMUg5RThramN0MkpIX21ybVVUc1I4dGVPUEJoTTBTREQycnlFcTBHX2JLMkpSbHM1U3FtRWR4SkVaZnIyODBDbVYwNWxyRkFwM3NlaWo0UEtqa1E4TkpkUXZyVzJWbUNoVFNaUUxWc28wS2p6WXNLbjA3TWNCSllWQW9IS2U2MDB3dnpoQmUwSjJ2RjZvR2RTZ1J6UjhTMVdxckRsXzRWc29maGtRMHVOcF9fT3RMT2zSAfMBQVVfeXFMUEt4ZHZvZ25FZjhDVzYwWndMVTl4cmNXbDdGNUduVi1VVTViUmR2UjN2TGFiOVluc3V1eEM0OE9LbG9rOVJnbGlBb0NPUGtqdG0wcE1JOXp5VE1nZmJYRG5kZ0ZRRzNSSm16d3hUbEFtZi1xNzVkNjhORVh2TFBDVDBtWFFLcFhCRjYwSG1MYUJVN1kwVlBNMjlTTmJmYW41VTl0N2JjdVgwdEV6VktuaHJ4N3RZbVdBLTZrSEcwTC1Yb19UemYxRVYwNzFfVlFsdVpuVDVPQkxMX2JXN1VXaHJPVDBzcTFGdVl2WEc2Z0UxZWFB?oc=5",
         "publishedAt": "2026-10-23T14:31:00.000Z"
-      },
-      {
-        "title": "Precio de dólar volvió a subir hoy en Perú: Así cerró el tipo de cambio este 22 de octubre - Infobae",
-        "summary": "Precio de dólar volvió a subir hoy en Perú: Así cerró el tipo de cambio este 22 de octubre &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX01USnZLTHdTUlh1UGhxczl1bkpna1p3cWFUNkVKZ0dQbTM1LWZCWVVyNWtKR1dWLWprSkduOVlySmdmUjZxZXRUMWRzX3ZDOFo3RDVmTUN6dGRURVNmcmNnWXkzYkZCbjFvdmt6LVlvR3dZWDRTOVJKTDUxRlNiV3hEZ3R4S3ROdHFtdElRQjVUYm90RmxBQ21Genh3WlpPRXRNV015aUE4Y0VmVGtF0gHKAUFVX3lxTE4xNUtaWk1JeTd5NjM5bVhpRHZKSm1EZVcxczdSRHQ2dURnbl9Bd1BVc0Nfc3RrOXk5Y2FxT19PbmpjNDVXdGJzMHUtYjhGdzdsQnhfUmo3NEV3bE52SktmZVUxSnI1MUtsOW1sSWVoZmduRkc5Q0Q5bko5VGJGOTlpRGdQR2xWX29KY3lyUHhpOHB0OWlmX2dFZlpxYkp3U3J0NGdCX3lUMVliZHF5elE0UXhYZkdMVTRpcDZvNXFGb2VvRmRqYkdCeVE?oc=5",
-        "publishedAt": "2026-10-22T19:51:00.000Z"
-      },
-      {
-        "title": "Bono de S/300 para trabajadores públicos de Educación también se pagaría en 2026 - Infobae",
-        "summary": "Bono de S/300 para trabajadores públicos de Educación también se pagaría en 2026 &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNSRU9IUUcwQzB6SGlxSVFLcTNEdXRURU1mWTJ6VHpKNFlISWlMUThDUkV1ZnZKWE5sZ2gwYnFpd2FTZEVpVGhRcGs4ZENmZWxWZHhVc2hrMElDODMxWDNFZURmLXhDZ3hrdndYX3RHVFRKZGw5TXdZajlXbmN4T0M4TGFxVldSREhKR214akVWSjJ0Z3lzYkE1dVR0YlhVYlpROUNzdkpFWndfSzNSNjRSaW1fRC1lSDBFVNIB1wFBVV95cUxOcHliS2JVd2x2a0xoMmtvQjB5LUtPQUdxbl9aQTlRSXZJbDBSa25ORF9LSmx2bUlzamNTTzc3YlNfSjZUX3pXZEg3eXhLaVlycVhKVzdIaTFQbWhuamQtYnI3R1JGRHR2UkROS1lVaU1iYVYtVS1SLU9iZTVOQVhmM0Jfak1WQnFkSWNSaWRfdDZDejIwUjJlTm90cXRFdE9RSWdheGhPN3FOMW5qLVV3ek02SzZXRE1Bakp3RU1TNU8xYW8wVHhHd0k0UC1HREVsM3J0bEFEYw?oc=5",
-        "publishedAt": "2026-10-22T19:17:00.000Z"
-      },
-      {
-        "title": "Perú anuncia bonos y otras medidas económicas para afrontar El Niño y choques externos - ABC",
-        "summary": "Perú anuncia bonos y otras medidas económicas para afrontar El Niño y choques externos &nbsp;&nbsp; ABC",
-        "source": "ABC",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORjM3TmEyZTVvSVNwMnpDS1lLZjZLV3oxZ0xtc1hZenYyUm9CMlBoeEFkY2dkUGJSNXBzLTlsWjNTUnVBQllVSUxwYVpQZDhFYW9pWENxTlZ2OGczUzdEUmdQclNWaFd3Q3NreHoteTJlVXVGZlFJemRlaDdvdHVyamVlbmsxTkE5Q3hIZTYweFRadjEwY0x6YUxzSFk5a3lUNDhHRA?oc=5",
-        "publishedAt": "2026-10-22T18:45:31.000Z"
-      },
-      {
-        "title": "Perú anuncia bonos y otras disposiciones económicas para afrontar El Niño y choques externos - ABC",
-        "summary": "Perú anuncia bonos y otras disposiciones económicas para afrontar El Niño y choques externos &nbsp;&nbsp; ABC",
-        "source": "ABC",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmk2N195RTEwMEgybWJ1a2RtcWJFWmYxWmtYREtjSFZVNWs0Tms0Q041dzRTRG0yamlsYUJhcm5sdG1wRHhfaWNJZ3phSjlueG56eGYtOUNOVVdHY2lNMjJ4czg1eU9Ca2dEd3Q5cXlQeGxsSDBCN0twYU5Jb21YckZuTVFoUzA3aTZ1SldBc0VjdHV4VXVsS2c1OWZiTk43N0NzNW5CenBOY2tJ?oc=5",
-        "publishedAt": "2026-10-22T18:31:21.000Z"
       }
     ],
     "sociedad": [
@@ -259,13 +259,6 @@
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
-        "title": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional - Diario UNO",
-        "summary": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Diario UNO",
-        "source": "Diario UNO",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjYxUUxNV1dqcXRBRzRyY1BNcm5UZE5abG00MVNLSWNWd2xkMVVhUkhTQVMyQ3U1dEFKeWdyTG5NX1hRRlJiTXJjRWppU2hmMnFKdXJkZHVKNW5GZWR4V1ZfZ2pBZW56T0d4Yk4zR3FJSHZEU1hYblNoZm1VQXFUYUN4RFpoRTloVF84OEt0VEtNcjBwM3JjemdQTnQtQ1dpa2tDZ0haTjg3OHNrNmtsMXdaaVBwaFpfUWhRbS04UWRFRFo5UDF2UjZGNGd4WFEwYkJLWW5GUzE?oc=5",
-        "publishedAt": "2026-09-19T07:00:00.000Z"
-      },
-      {
         "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
         "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -292,6 +285,13 @@
         "source": "Revista Minería & Energía",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC - 24 semilleros de investigación de Cundinamarca mejoran sus cap",
+        "summary": "24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC - 24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC &nbsp;&nbsp; Gobernación de Cundinamarca",
+        "source": "Gobernación de Cundinamarca",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaG94YzZZUlRrbWhTOG1UTGlYSU0xNG5yUTYzN1dMQU5xbElHX2p5dm9FcHhNSk1ueFE5ZkFhaU52S1pBM0V2ZUM4clBrVDVmTVBqNEtYMVE2YTRmVDdCZlUxUjBEV1lobUphV0dCZFRjUU5GT3l0RnN1cWhQUVI3QlBIelNtS3V4LUJBb2tkQjN2cFZlS1FpYUUyYTZIaTFkS1Ewem5hYzJrbjRTMlUxQk9Fak1zeVlqbXprZWZjZWgwNWczcGdZQ3RWb2hhSTQ4Q3dWVDY3bVZjWDNCdl9Hektnc0tkRV80WGdvcg?oc=5",
+        "publishedAt": "2026-07-01T20:32:44.000Z"
       }
     ],
     "ia": [
