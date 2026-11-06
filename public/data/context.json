@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T00:52:19.431Z",
+  "generatedAt": "2026-11-06T07:44:48.136Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -64,6 +64,13 @@
     ],
     "economia": [
       {
+        "title": "Euro hoy en Perú: cotización de cierre del 5 de noviembre - Infobae",
+        "summary": "Euro hoy en Perú: cotización de cierre del 5 de noviembre &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSE9TMFlrNlBSaFlhNE1DLXFMTXR3cHRzUmFKbXB1cFVpNVhxbW9FaVlFTkZaVXdhcmwta1RFa1EzcGJvdGZlVm5vaWtyazlwbHNodnBDcEJWdEszNnNGVWRTNmY3WWs0S3E0Zmp4a25kTmJoaVIyOVRvNzltZ0h5eURDODh0MmZaNm1nN2pNVzVhSFp2MEZwalJIX3Vld9IBuAFBVV95cUxOX1hvdFVTY1NxdFVPbzY0SEFDZnZKYWZqU2RjbU9RRHBtejVzUjhpMzVIQTU1cHVCbEZVTkVNSXpMLWNCSnFDTDYyUkE5azhjc1JxbDhMbVB4MUFFNHZnTld5YlpoVHFvN1RDZVl4bVZtMlVUdEhUcFNENXhuaDFvMDZWSFVsSGhVNzRnMHg0MG5xOFdXMi05WE9vQ2xjb2hCbWltcEMzeVR0YlF2ODZTekU4T1RCa25a?oc=5",
+        "publishedAt": "2026-11-06T00:52:00.000Z"
+      },
+      {
         "title": "Visita papal generará más de 300 millones en la economía - Gaceta Perú TV",
         "summary": "Visita papal generará más de 300 millones en la economía &nbsp;&nbsp; Gaceta Perú TV",
         "source": "Gaceta Perú TV",
@@ -111,13 +118,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZnN6THJWSmFyeWJmbG9oUzAtV3pmMEs0UW5rVnRyQm1zZDdrU2cxbG9jMG4ybk5JeWZGYXp2bmVXOTJWUkJRRGpjMlk0SXZiUjFlWnBseXpxVUNIRU9RVEpkVk55T1RHaGNYR3BBMklfajhDZ2JVa0tNZGJkMFhyZ2VCcWxBcUhzUnd6YkNjQlhyajE1UEp5MmJMTkh2QmxQZXR1Y3NyT1oxeHhibkIyM0ZyT2oybHYwQTNmdmY2QmIyYlVCdzR6MDlVSUxjcFJ0S0NHSFAwWXM0cXJWWkRZYUYtMVBrV1NrV0prWmJmenjSAYsCQVVfeXFMTUszdVUxQUxOaWdnNEh0MzJ6Q2NGRDRubXZwSW9iRjdBeTA0bmx1bThRRzg4X09YSG8zZ2dkM3k5YlRYUFNMbzFJalVSU1ljT2hZYWNVaENMMmJYUFhKWkhKYm1WQjREZUktMUhJQWlLOE5ybFA5RVdyWU1qZ3o2enJaYV9DZWMyVlNJVUhtYlR2bkpTOWRLNk55bHk5NURHUmNROW1HaTNKbHFsSGFmUnE3WDVRaWl1eThNcUlsempVLURqOHdtT3RaQnNaQjZXODkzaGNtQUZ1bnVUbVVBLUl4MXYyMzJTUmNTY0cxWVJFb2o5M2EySDN6Nl9Nam9sdzV3ZHBQUDFhUkRz?oc=5",
         "publishedAt": "2026-11-04T17:25:00.000Z"
-      },
-      {
-        "title": "Tecnología de Siemens se aplica en sectores clave de la economía peruana - Desde Adentro",
-        "summary": "Tecnología de Siemens se aplica en sectores clave de la economía peruana &nbsp;&nbsp; Desde Adentro",
-        "source": "Desde Adentro",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM0MwR2V6VXk3bkVub0hnZ3ZnUTRDSFo2ODNZYTVmTDZ4YUJhd1g5Q1pCaTA4SGxLUFRhY2N6ZmpMd2hIRWtMSnFZbkRCSk1DR3Uzd2drZGxfcGhJTkhWcTlXTUpMak9NUXg1Sk9pQnBTRFFTT3VLNEZ6TEV4MkJBeVNMOUNiQXpKbUdCLUsxQkVVUzloM0hReUxNMUVvR3N5bkxtU0lGMnlUTDlkcHc?oc=5",
-        "publishedAt": "2026-11-04T17:24:44.000Z"
       }
     ],
     "sociedad": [
@@ -134,6 +134,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONWlRZTRmVlV0Um00MXJXVmdtY05iQ3IwYUVkN0lBZUF4UHpPMGNtLTdWX0xQNTVWSlpxYVdiajlIN3dxRy1KaUs2aWUzWHNKa2NDQXlmV3gxY292OHp4elhDaUpSdnZqZnliRVFxeXBHcVdUSFlwbzdKeDVNNVJwWDNlWTJNOUZTWTR0aXNMaUd3Y1hvaXJ0N0lGQ0ZBNEdVY2NaV0ZHR1FLV0hNVUhGQ29ZRHdjcjBuUFE4UE12NWF3WnlRa3d1TkNVTDhoNTFLRmZhQ0Q2VXJXQ2PSAfYBQVVfeXFMTlRKT2treDhQQ3dJYl9MSTFMZzE3d3g0ZDAxTzhYcVVWbkVhY1dJa01TYlljaG9PTEtJbDUybVZyRWlSM0dfcmpWb3BmWklPem8yTHhNaTNSUzFlQXBCcmZsc0hiZWRjMnd2bHlxZWlONF9ZcncyVWhlYVBMVUduanIxaTZ3REZWU2k5enpTb3UyOExUdWN4MWdUeXRONG13Zmw3c090MHhVLTlJUUp4dXVnUHllNEhjeEgtQ0FNbXd4TkpMMDdLVDBhUG9IUVlrU3VPbWp4akhwMUVwbXNLbWliQTVQOFdha0ZLUTlScjFnVXhFQjRR?oc=5",
         "publishedAt": "2026-11-05T14:18:00.000Z"
+      },
+      {
+        "title": "Europa, sacudida por falsas amenazas de bomba: tres aviones que partieron de Madrid, entre los afectados - lavozdelsur.es",
+        "summary": "Europa, sacudida por falsas amenazas de bomba: tres aviones que partieron de Madrid, entre los afectados &nbsp;&nbsp; lavozdelsur.es",
+        "source": "lavozdelsur.es",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNlZvc2haQUZXQmduWW9jQkY0MUw5dWtfa2Q2X05fYWdpUndGVXd3eVlyazdLcWtCcWIzZnJncjlESlJSYkc5dFpwVXJ1Z1hZNzhCVUIzcjc4U1ZFWFF1RmpaM0lCazVKM2lsRTVONXpTY2xGWl81d2szdVJTdFpjVHhWOGVuQUpDMTVnR3dHNm02RG4xeEJ5ZE5kSDEzOFFEQVowM3VoWUszOGRfRnF1OHhZRGVmZXgzNGFkR0JUejZrbWVSa19qQjRLMl90cFM0MkFka1MyOVBUSEZzUllCNjU5aHlpUQ?oc=5",
+        "publishedAt": "2026-11-05T13:58:41.000Z"
       },
       {
         "title": "Niños y adolescentes de nueve regiones presentaron al Congreso una agenda con propuestas en educación, salud y medioambiente - Infobae",
@@ -169,13 +176,6 @@
         "source": "Welcome to the United Nations",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vQlNNZEpOcjR1MzRSVm9tY1lEZjJNZmgxZDA4TDhsbVoxX0piTU5BRHF2QUZ4QkNFNEcyblk4c2NWTmZYZV9mUnJtVTBLTEZEaXd3ZEM0VmJjdW96WFZjNUtWeWJDUQ?oc=5",
         "publishedAt": "2026-09-13T07:00:00.000Z"
-      },
-      {
-        "title": "Empresas de IA en salud, educación y justicia deben adecuarse al reglamento hasta el 10 de setiembre - El Peruano",
-        "summary": "Empresas de IA en salud, educación y justicia deben adecuarse al reglamento hasta el 10 de setiembre &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS1o5c2NlVnJ6NHNsZ3A1TUNRMDJMcXllRW1JMU9fX3d1cXhTVFh6M3JidVNnVHNQQUJRMWpNTkp4RHY1U1U5dDF3RmtQRGY2bW9Ub3RNVERISG1wd1NjYThnVHpvaHFxc0hTS2JPdVpOU1lRVkZaY3ZIa3ByTi1HY18yZ0s2QXpYcEZFczR4eG1pRnhyWjJ3Nmp2Y1liVGItSWNQSll2UVZiZUViUHZHOTV2TXhmdXY2RkhGdU82NVFSeFJQYVdUajBRcXpINmtH?oc=5",
-        "publishedAt": "2026-08-31T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -238,6 +238,13 @@
     ],
     "ideas": [
       {
+        "title": "Imprime lo que imaginas: llega una nueva experiencia que transforma ideas en creaciones tangibles - Serperuano",
+        "summary": "Imprime lo que imaginas: llega una nueva experiencia que transforma ideas en creaciones tangibles &nbsp;&nbsp; Serperuano",
+        "source": "Serperuano",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMkZZMk9CNXFMVFBnN1Q5OFJ3c3dOazQtOW5lTm1wSHlfVUZBMkltdHlmc2hsX0R1NFNzMkI4NkZnc0FRS0hWc1F1X0ZnTGN0NEhCdFVRUUNGa3ZsZzVlRlB0a1FNS18weXp3UEJDYVQyRFdwM3M5ODFpVFVLVF9rV21CcjY5M0wyNmJ1eHQtOGtVN1VwNFkwQUlhTkZ1VzktSVRTQWVOVW16c0N5czdsUG15ZGIxNXIzVkZtT2tvWVNhOTVwVHdV?oc=5",
+        "publishedAt": "2026-11-02T22:57:24.000Z"
+      },
+      {
         "title": "I Convención Nacional de Innovación Pública y Transformación Digital - Plataforma del Estado Peruano — gob.pe",
         "summary": "I Convención Nacional de Innovación Pública y Transformación Digital &nbsp;&nbsp; Plataforma del Estado Peruano — gob.pe",
         "source": "Plataforma del Estado Peruano — gob.pe",
@@ -250,13 +257,6 @@
         "source": "www.desdeadentro.pe",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnNuSHpJYVRQODAwb1V3YnlZbXJjY1RuTkdxVXIwWWVZUHN6LXlRZUNIeTduSEZoZXBiNW16V2t3YkQyNmlmbjVLRWJTQk9tQzBGRzk0ZGRpT1QxZ2E5UC1FZi1KNjJhRHFsbmhua3pjY0R5VnpYUnVkbmJ3MlVsQWFxQWhFNUhUY3NFc2JZMml4SnZKNllqaFRwd2dBYjUyX2dNbEhMa19lYkU1X1hDRUNtMVR0bTNBT0pmeGsteHBCcU5rb3hwQWhvaDNjZw?oc=5",
         "publishedAt": "2026-10-15T07:00:00.000Z"
-      },
-      {
-        "title": "Fiscalía impulsa innovación tecnológica - El Peruano",
-        "summary": "Fiscalía impulsa innovación tecnológica &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjZjRkNqZS1ia253Y1RhckVWdy10dEtuWHVaQTY0aktDSHJoVlFKTHdrVEhFMzI1ekQydC1EWFRmRWZNTzZmZVAyeHBWWGxXSUlvb0JQcWRZR1BoazN0RzNfUC0zcThmcVVsUG9DQ090WUU1bThXWUxWWWgzSnJBMw?oc=5",
-        "publishedAt": "2026-09-26T07:00:00.000Z"
       },
       {
         "title": "Innovación en Perú: solo 49 % lleva sus ideas a la práctica pese a su alto potencial, de acuerdo con encuesta - Infobae",
@@ -295,6 +295,13 @@
       }
     ],
     "ia": [
+      {
+        "title": "Google reconoce a la UCV como universidad referente en uso de Gemini e inteligencia artificial en Perú - Mercado Negro",
+        "summary": "Google reconoce a la UCV como universidad referente en uso de Gemini e inteligencia artificial en Perú &nbsp;&nbsp; Mercado Negro",
+        "source": "Mercado Negro",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzNJYklqYUgzaURYTFNJMmlaSGxoY3pXMjFyeDBzeDhuYlR6TzNBMjdVRktVOWlxdG5DNXJTX29YVnNEdVlzN3RwUzFfd0ZSSncyb1FSeEQ5ci1JaC10TEVNRy04clItbXlJYk5BZ1pfeHN0YklLRW56aGREaHhNT1JWVzA2OFpJN0xxU2c3d2FkVUNzVnBHb1VuTHM4QjZNVnpFUFBvandiaXdNNzFiX2JCTnkwNjlFWHJHSnRVU1Y4ZG9ZZHhDTUhWSUF1WVRDOUpUOUJUeVY?oc=5",
+        "publishedAt": "2026-11-05T21:51:31.000Z"
+      },
       {
         "title": "EY Perú: Las lecciones de las empresas de EE.UU. para evitar errores al adoptar IA - Gestión",
         "summary": "EY Perú: Las lecciones de las empresas de EE.UU. para evitar errores al adoptar IA &nbsp;&nbsp; Gestión",
@@ -343,13 +350,6 @@
         "source": "teleSUR",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
         "publishedAt": "2026-09-10T07:00:00.000Z"
-      },
-      {
-        "title": "Impulsarán desarrollo de la inteligencia artificial en Perú - El Peruano",
-        "summary": "Impulsarán desarrollo de la inteligencia artificial en Perú &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWFvUGgxRUM0Z0FXQUl0LVdzTEQ0VGcxQ1JzTThXVmFCTjdEbERlelhqWC1CNWhjX3JHcXhacjdyalJVaWJHUGZVNzdPc29rNnVmOUpMNjRYa2ZUVW5vb1ZXeGhsTnJpNlRRQmhseVlNeW9JVTM0LTM2WGlYU2hCUjZpZjdIdGtXM1M3TjRPZ09fbWpEVzNIQnZKVQ?oc=5",
-        "publishedAt": "2026-09-09T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -412,6 +412,13 @@
     ],
     "farandula": [
       {
+        "title": "Rebeca Escribens llama celosa a Ana Paula Consorte tras su mensaje de Halloween sobre los falsos - Infobae",
+        "summary": "Rebeca Escribens llama celosa a Ana Paula Consorte tras su mensaje de Halloween sobre los falsos &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaVpxLXROd0dNVGxvSjIyZGJoQjRoX01JV1JreS1jRGZ5Vkw2cHIzdlRWbFU5TDhJN0JGa3hNQjRvTXBWa0dPRThGaENWWHpUSU1nVk5xZU9sTnNhWjNjS2pXeDRSMDkwYXVRZlN1ZmRXVDZYaUQ1Z0ZLaFNyVXJUbnZTX1lzWV9fbUh1WWRRS2N0U3JBejNPazdQblMxQ3Z1ZHpHN1l1SXAzZTFvT0QyWk5TdDN1U2Y3YlB1Rk16eF8wdVJzVU54YVhjN3NTaGdnQWJr0gHuAUFVX3lxTE1IRGtyU1pxRWtiMWNTQTA4RE5fZGdsMmJ1RDJDVk1IejBJX1dNRjF5WHMwd0pPOUItNGsyalR0Y2V6c1VoYTRZZFJjb05LXzl0NzAyQzc3SW45R2JYaVRJb1dhRHJBYlhiTFlwY0ctSkhiV3VqM0o3bGRMaHlFaUE4R1hxUUtKTFJCMkc3dzhFTnBVeThyY1hZZ0F4S2xWUjZ2LW5ibUFNZWI2dWZLb0p5dFZFUVVudlhfeXRMQVExQW1aQUpLWXlxSTNBbDNjT1pWa0xZM1lrcFMyalV0eV9ERTYxLU93R2NQVEdmZFE?oc=5",
+        "publishedAt": "2026-11-02T21:40:00.000Z"
+      },
+      {
         "title": "¡De las pantallas a los conciertos de BTS! Conocido actor peruano sorprendió con su talento detrás de cámaras - Trome.com",
         "summary": "¡De las pantallas a los conciertos de BTS! Conocido actor peruano sorprendió con su talento detrás de cámaras &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -437,13 +444,6 @@
         "summary": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNekRuOHA2bzF2M0J2S21oMWpfOXlGaTR4LUFycU9xQ2ZXeUt2YmxJcmFZUk9WV3dUUTFIVUE5Tml3amdpNFo1OGNVY3pGcHVkREc5LU1fd3h4MDhNdFRfSG9JZnpnUmtlTXJHanBqUTNlUnhwWVphUkhvN1NtQ1h1TXB5NHJNNGJ1dTJzRGtlaWh5VExHZGRmR0RKRE1XeEZxeF9qLW9RRzZ0MU9mMTRQNWEzUEU4Zmk3NVhvWTItakZVdFczWjlHRDJINUFabERhTzhSN21ZN1ZZMnNXZmlib1JRUnJMdnotN1dFQkQ1V1l2NHhYX1ppdTlLbWVzUkZHRHNCU0ZTSGphSm1D0gGgAkFVX3lxTE9ueEZ2d3Jnbll2cVVyaGVuTGNfQkxpd2VLY1hqd0dXeThZM01wczNfcFBoWXYxSjVnYXNqQS1aZVFYTG9oYnVBTzdSZFhqeld6czVrV01QZlU2blUzYURQQm5zR1RBQUIza1V3NkVkSlBlZzF2cjRPZkxzMGR0M0ZWaHluSGRVdEsxUzdmaEVXX0NZZHUzMFZUYWZva2g4Vll6SmwyeDNlN2lUVlFYTXVqdmdEbzFFUDhzY1F1LVN4QkM2MEE4dHJBYzFvT21pNHBjZGpJT2d1QjhROUw2TVZBdzFFRVJxdHBuNE9BelM0eW03c1k1bnZWVzY3Z2VZUjhvdlB5dHQtZEJzdlZVUmE5MUxReG9xWWY4TThoWHY5MQ?oc=5",
-        "publishedAt": "2026-10-07T07:00:00.000Z"
-      },
-      {
-        "title": "Carlos Orozco lanza dura crítica contra los papás de las ARMY en medio del primer concierto de BTS y redes explotan: “F por sus cuentas” - Trome.com",
-        "summary": "Carlos Orozco lanza dura crítica contra los papás de las ARMY en medio del primer concierto de BTS y redes explotan: “F por sus cuentas” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcTdFUGJ5a284a2hXdEJwYlFhZkpYOFcyR3VKS2ZsNnM3R2x2QXlmZEcta0J5alhrdFpRY3JLYk5pSjh2ZzJjQW5FRlFWalZ2SF8yM0tYVWVDN01xaUoyQk9iVlhZdmRyY3RELXhWOVk4Q3NSOTZvM3NxbFBldnk1Mnh1T2hpQkFDb3ZOU0ttbWtTRFZZaWtxWEx6aGFobzRjajVESm9kaWhRNjFZMlloSzI5LUN1MXRrV0dfanJ5aUhTYWVvMm14ZVQzSlVKNVdXYWNndks3eEJGeEtPRVR4YmtHR0RkdXBYNUE0ZHZoWEl3UDRfYmFKNjJZX3I3X3ZiQzRtdDdPanh3enPSAZ8CQVVfeXFMTXNYSlpzVzh0bHFscE9XdlZzcERQaDZKUTN6THUtR1pqdTdrS3pNOEV0cU1CYm5XVXRmMnhYTVEwNjBUZFBCTGVtX0pHNGdJd2NwemtTTmJrbmEzclBHaUlqcW1pNDJSX1B6a2d6V1ZiV3d1ejR3aWFZdm85WWhkekpNY05keUUyNVhnUnAySk4yX0Z0MXg5TmNvME9ubFUya1E5SzNtLVM4R180WExoNDk1b2ctd1JCRmhldU5TcHFIeldNM3cyU1VPeVpDVzZzN0tKZkJmdC1mR3pZV2lpUTJqV0lEXzNqN2ZhdGNCLThEWklPOFlSbTVnM3JBSnJKNlpGdXFFcUdFUmtqX2stSlVWdWQ1NFVwWHRqSlVpY3c?oc=5",
         "publishedAt": "2026-10-07T07:00:00.000Z"
       },
       {
@@ -498,11 +498,11 @@
         "publishedAt": "2026-11-05T14:10:36.000Z"
       },
       {
-        "title": "INSÓLITO 2026: el cine fantástico toma Lima con historias que desafían la realidad - Lima Gris",
-        "summary": "INSÓLITO 2026: el cine fantástico toma Lima con historias que desafían la realidad &nbsp;&nbsp; Lima Gris",
-        "source": "Lima Gris",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQWFES2QxNHpjdnV6dTlRaHk0SnVHOHo3RFhnS2ZCTVNjRkFYejJNWUpXaTFFanVhQnQ4aTBjamFmWXRWLVZUNVg5eTlfS1E5cXpyMEZuTmJRemJRRnlXYjh4UU1zN0pnbnlIeXhJd0lCdFd4RDAzVUlRQnNiS0RRcTNVUXFxZE9BWTcyV1hiSTBnb3dzSzA0VVF5ZlZtaHNYWmM3QmxB0gGrAUFVX3lxTE1uS0NRczVFOHVGa0g2aHJoOGxUaFhCYWFwOUdROXJ5WWNWZFVkVy1lVWwtWHZYdldvZmFockJrbE5XVHNSaUJxXzlqSjIwTFJOa29qQktvWlF5WnV2dmJGQUVEdGk1YkxNdGpPenNfYTR5ZVEtR2NFM1poZjMwaDdhV2ZWNFR4clRPN2NRb2h3RVg1UWxyNGRQM2JXYlM3NTBzRmJVV2dwSWxvMA?oc=5",
-        "publishedAt": "2026-11-05T01:24:25.000Z"
+        "title": "The World 50 Best Restaurants 2026 en Lima: Tres restaurantes peruanos entre los mejores del mundo - Perú 21",
+        "summary": "The World 50 Best Restaurants 2026 en Lima: Tres restaurantes peruanos entre los mejores del mundo &nbsp;&nbsp; Perú 21",
+        "source": "Perú 21",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYlZwUVlETkl4SlRfR3hab0dYNG5Wc3Zlelk0SGthZXNGOXNWdGRrQ3NJdFR1VlBjeEw0UVFtaVFBMVRldUctNkNjazlsMXRTYmg4UnJRUklXYm1QVU1GbXJOSk53Z1d6dHp1MUVMUU9sYy15amp5b19mZnQycU5hUU4xMDFBMEZjTjkxTVQ0cVJfYzc5ZzFWaGVWOTNUU3F6bkYzanRNZzlZT2xLQUh6ejZGUXZnRzBIS3VwZjJPbGQ1ZmFIdHc?oc=5",
+        "publishedAt": "2026-11-04T15:37:49.000Z"
       },
       {
         "title": "Rikki Tidball, directora general de Eventos del 50 Best: “Llevar nuestros premios a Lima nos permite celebrar la contribución del Perú a la gastronomía” - El Comercio Perú",
