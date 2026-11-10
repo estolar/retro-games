@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T20:29:42.510Z",
+  "generatedAt": "2026-11-10T03:15:36.738Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
     "politica": [
+      {
+        "title": "Gobierno de Keiko Fujimori nombra a exministro de Pedro Castillo como embajador de Perú en Marruecos - La República",
+        "summary": "Gobierno de Keiko Fujimori nombra a exministro de Pedro Castillo como embajador de Perú en Marruecos &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWlpDWE4wQWdHQnZvbHI0WTczTkY3TDVkQ0dZc2FMenBXcmJrclljWkR5eTV2Z3Zqak0ydDlKV2FEeVpPc0piM25lOF95TE5SR3I1OV9zTXIyZ0xXODJqTnB4ZUVGM29wVW03WDRxMndIVEFCeDlKYUpHZVhfQTE2ZVJOaUM4VHBhZlNwdUtLTnNqZzZpN2FNVlpwUkRLNFhZQUp4d0JNUURTWjdQdkVjbGEwNnpUVmwta1YySFpWR0FoTUF3bTRCeEVkTjliNTBTRHBEZE5RcEUtWWVTcHhvajRycWloT2tUek9MZdIB8gFBVV95cUxNSnIxNEFKUXpzWFRjUFV6bDRvb0RnVXNWYjY0VmpYUDdYOGtVdnZkdlo1TmgzZ1JZN09VOXVyVzBRaGdGLXZMZXRiZnR1elBzX0VVNmd6dVhEeDBoWGFFaEtTUUtEd0FaZmpJRGg1d0tPQ0hGbzlQc0l0NldWTUVUS3NmZFFxYmJaWkM5RHBLZE9HRlVYS04wWDlqbE9DNmVuMEJjTVJNT1BsZ2xBUFljLWk2YldsZHZhX0d0N2R0bnV1YzhFZlptWWVZb2xSOFFBNlBYVWVwaGtETF9xNWhKLWZHMEFtQW5DUU9fOFBYNWprdw?oc=5",
+        "publishedAt": "2026-11-09T13:17:11.000Z"
+      },
       {
         "title": "📢 Keiko Fujimori: ¿qué dijo sobre obtención de facultades legislativas durante mensaje de primeros 100 días de gobierno? - Facebook",
         "summary": "📢 Keiko Fujimori: ¿qué dijo sobre obtención de facultades legislativas durante mensaje de primeros 100 días de gobierno? &nbsp;&nbsp; Facebook",
@@ -17,13 +24,6 @@
         "summary": "Luis Galarreta amenaza al Congreso: “Ojalá recapaciten, porque hasta ahora hemos mantenido paciencia y actitud republicana” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX0hKaW5YdzRsejZCbkU2cENkajZQRGQxZ0x2cjF3ZFc2Y3dqbkhkMjU3TjBFSHFLZG5Fc1E2ZjJNd0pfSjRKT2s4UFY1cGdrRWx5ZExCOUZuYjZjYzRIZl9LbHM1Z19ldU1jNHJSZXc0bU94MHdOYzVsclY3QmtMYk84bF9tZm41eG1PYVhwY3B0ZFhqQ1QtNlRMSW9RLUEyc0E0N1hUWUtBZ1dWUFhHVmJYX3FEUlVpdUNvZlpZZF81MlhKYzA4RnZLYXV0SUpJWFpVQVk0aWlEdVNlRkxrZVFQWUMtNzTSAYICQVVfeXFMUDBVeV9hSzg0Mm1sS2JZQzcwdW5OelJaMmtEY2tDNDRvajdSbDRvS2NRSTI1X3k3am8xTzlSMEp4Ui14RHhFa2JqZF9DVnFsSzhrWkFPM050Tm9qa2RHY2VrM0Y5ZGpVeUtOaHJLMXFLNjNMVklkMThkZ05iaHRhUGFzTU1GUWFyTDRWbHQ4Y0xxdmtuQjd0anhPMGhLQ3pQdHl2ODBJVjNkY05PRHZPLW1veEdGTFFMX2dXT29faURHT0hYRnp2bExMRXZmVGQxQnJ2Z3VUZUFjUTZRSnNVM3BmOC03X0hnOTlHQ2ppR3VQSEJrQUY4Q2ltU2JXcF91b1FB?oc=5",
-        "publishedAt": "2026-09-29T07:00:00.000Z"
-      },
-      {
-        "title": "Presidenta Fujimori respalda a ministro del Interior ante eventual censura en el Congreso - TVPerú",
-        "summary": "Presidenta Fujimori respalda a ministro del Interior ante eventual censura en el Congreso &nbsp;&nbsp; TVPerú",
-        "source": "TVPerú",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMjBqTVNtWWc0RlBQaXF0NWdDWlNPY1V1QnJoNkc0R0JJS2VkS3NrTFgxdmZ0dEhmLWhPYkJXalpJX3dJOG43eVB2ZDBkZm03clplYUVnY3RROWJjWThyVEdDcHd5NnZQWl95alcyWU00VjZqSFNaRnJLMXJJcVczenMycTcxd1V3T0NidzROLW9iczhid25RNVJlS0UwOEQyV2owaFVEbVRVRUtRaVloRlQ1Z2RaY0UwVkNuYXl2VDZ1aEFJY3Nyd2VyS094UQ?oc=5",
         "publishedAt": "2026-09-29T07:00:00.000Z"
       },
       {
@@ -63,6 +63,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "El cambio climático amenazâ la pesca de especies clave en Perú para la economía a 2055 según un nuevo estudio - Noticias24hrs.com.ve",
+        "summary": "El cambio climático amenazâ la pesca de especies clave en Perú para la economía a 2055 según un nuevo estudio &nbsp;&nbsp; Noticias24hrs.com.ve",
+        "source": "Noticias24hrs.com.ve",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdW5weU5zVUFfU3RaZWQtbTkwczdqaDdJODk2amd2UnZQaFhINWpwV3NtMVNGOUgyMUZzZS15eE9zME9Fckg0Ui1TTkphazE1YnRIQmQ5Nlpqc0luTE8wT1VnZlJDOEVwMkoxOGtjNlJhTGdPaHJaMmpMTUdFYUEtaWxGT01tNWpQZHdWeUJXNjZ3NGlhb1dlUGJqcUtzQjVOTGZmXy01X1prOVdfVWRtQ3A5dkIwc0RhcmsyN0xKQWQ4b1JOc3d2M3RDRWI3YldzTnJNd0E5VUlDM1U?oc=5",
+        "publishedAt": "2026-11-09T23:26:24.000Z"
+      },
+      {
+        "title": "Perú superaría a Chile como la cuarta economía de Sudamérica en 2027, ¿de qué depende? - Infomercado",
+        "summary": "Perú superaría a Chile como la cuarta economía de Sudamérica en 2027, ¿de qué depende? &nbsp;&nbsp; Infomercado",
+        "source": "Infomercado",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeXB5UWQyMEo4X3Z1OVhyMmZ0WFFFaTduX01ycC1LSmxaX1pDTDd4RndhQmpvUWlwdUZUOHU5c2ZWMGdueFA0ZDZOdGlzV01OQ2lFd1k4QXBlaWxMZVBrbEMyb2hTSW5CNTNNdlFUQ0R4OE44a0RNMVdteWw2ZTJYR3lVM3d5QmcyQUZqb0RrdnEtNWs3cVNLWVdQbmZhRG9GWGxUdzlRT3M4cTA?oc=5",
+        "publishedAt": "2026-11-09T21:32:16.000Z"
+      },
       {
         "title": "FMI proyecta que Perú superará a Chile como cuarta economía de Sudamérica en 2027 - Prensa Digital",
         "summary": "FMI proyecta que Perú superará a Chile como cuarta economía de Sudamérica en 2027 &nbsp;&nbsp; Prensa Digital",
@@ -104,20 +118,6 @@
         "source": "BioBioChile",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQU05xZGNCcnlQTzl4cFljakRjNkNRcmp0ZGd0c2xzV2NfWE5yTnRiVGNZeDRjeU81SmUzTXkxR2E4bGZGZGttZXdrTWlKNDBxc01zaDJOYzN6bURfbGV6bWl3X0cxeVBDUGVkWlVOSHU4bC1UeHJaRV9vdEZhNl9yZjk1UTE5SVRLM19kWG81T083Yy1QZVQ5OTA1ZXA3Ti1PQkFLYVJUNGRfN05GMUpGR1l6Z1VfRXhnZ2lTODByeDdZUXkza2g1YjFCVFlFUy0tU3hFNTRVY2JVN2lxMFQ2WFhOUEdJN3hTWjhuZXFQa0s5MXFkNTFCT0J3?oc=5",
         "publishedAt": "2026-11-09T15:21:28.000Z"
-      },
-      {
-        "title": "Perú desplazaría a Chile como cuarta economía más grande de Sudamérica en 2027 - Rumbo Minero",
-        "summary": "Perú desplazaría a Chile como cuarta economía más grande de Sudamérica en 2027 &nbsp;&nbsp; Rumbo Minero",
-        "source": "Rumbo Minero",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQWc3S1pUNkpHcnRsQWtRSnFFM0JHVXZHbXFBVktyREltcnpyTlBwcmFMbWx2R3QzM3c3YjJxVV9QZEpJMDU1Nm9vYnVvTW92U2lQYXBEb0ZxUnoyMFlZUlQ1R3ZRY0RMbTVwYXpaSWpQekVUTmhPSkpqR2JFMmdJc3V0M2Eta1BFUXVlTVVlQzRscTNwUGRZQ1pIZ1ZtVURqOUMwY2VpamxJMzBlV1NQR0RqRWJCSThJc29PWUloRDV2SUVZbGlEMXVB?oc=5",
-        "publishedAt": "2026-11-09T14:09:19.000Z"
-      },
-      {
-        "title": "Perú superaría a Chile y sería la cuarta economía más grande de Sudamérica el 2027 - Gestión",
-        "summary": "Perú superaría a Chile y sería la cuarta economía más grande de Sudamérica el 2027 &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV1d0dEtaYW1nNTVtV2RJSWFkMVNWZU9hbWlLaE1NaUl6RlpKNGphb2RkV0YwRk9SaWUtRXZDNTB3alM3LTNGUkx3SE81d25KQ1pIcmV6bFNaU25CQnZEZ3duTG9zbjZmTjBPRm1lU0E5VWZFSER2VkQwdkZQQ19zS1I3RDBNZ1V3U21yUU5iM0tzZ1JFbXRzUWlPcjktSUloWFFYMnUtYkFYSThhQzFvaERjY0owcFIteEFabW1GckZ0NnVXOGZsdVJqekx1QQ?oc=5",
-        "publishedAt": "2026-11-09T03:45:00.000Z"
       }
     ],
     "sociedad": [
@@ -238,18 +238,18 @@
     ],
     "ideas": [
       {
+        "title": "MIWB Brasil 2027: startups mineras postulan hasta el 23/11 - El Ecosistema Startup",
+        "summary": "MIWB Brasil 2027: startups mineras postulan hasta el 23/11 &nbsp;&nbsp; El Ecosistema Startup",
+        "source": "El Ecosistema Startup",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTlE0aUdxdFNyQjQtX3R2QWFPY1YxbmxrbHRzUHI5TnZBUExuNm5COVVDQXdqQUNTUnhOaG5GcEw3bTQ2d29OT2lrRGxyZDI4eWdpYklTTTBYNkxUM2ZPbnluVHJIRnpfQlpKUWo4YTBHdVhVek5ueWNuQ0NJOTdEM3Frc0pTdERUNzdZY29TVjVIUQ?oc=5",
+        "publishedAt": "2026-11-09T23:21:37.000Z"
+      },
+      {
         "title": "El Ojo 2026 anunció los finalistas de Creative Commerce, Creative Data, Innovación y Media - LatinSpots.com",
         "summary": "El Ojo 2026 anunció los finalistas de Creative Commerce, Creative Data, Innovación y Media &nbsp;&nbsp; LatinSpots.com",
         "source": "LatinSpots.com",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHZ4WUItQUdQTkVOamlKeDJNNVdyYjd2NE9HUDBwcUhJSnpEbVFaRXZHdWNYZGVOQjVjNkV2N0VUdEJYLTZDNkFOenpfVWczazBIZzZXajhSc0NvT3E4SXVZdEs4T2p6WTBKMm1jR1kxVS1GM181Tk4wT3g3R3JfR1hLVnBqeWZNTElTN0U3Q3lTbm9CUXB6V2F4QThPLVFNdHVBOWtzQmdYby1XOGVPVDZDUzNsVDZEVWR3MkFjblhHX2ZMU0E?oc=5",
         "publishedAt": "2026-11-06T17:07:58.000Z"
-      },
-      {
-        "title": "Noruega y Perú exploran inversiones y tecnología para la minería - Rumbo Minero",
-        "summary": "Noruega y Perú exploran inversiones y tecnología para la minería &nbsp;&nbsp; Rumbo Minero",
-        "source": "Rumbo Minero",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0ZKM3Zyc29QUGx6Q2dKVDJja3RsQlgyUUp2ZlJBdWRfVUJ0aE9mZnJ5eFhMSUU5NWU4WUYzaEp2NGp3blgxVm53TlVWRENSVVNzalZCSHlKTEMzcS0weVBhOU4tS1NOeENVUGtBcFlrYTNQYXhrcmY1cTdlN1FMNU41WFpXWTV5d091MENfWXV1U09oTU9YMzVpdEh3RlNucDBrRkFtS29jN3paamNKeHlkQjVOZw?oc=5",
-        "publishedAt": "2026-10-25T07:00:00.000Z"
       },
       {
         "title": "Ruth Escobar, Cerro Verde: la innovación tecnológica debe pasar tres filtros antes de ser adoptada - www.desdeadentro.pe",
@@ -300,7 +300,7 @@
         "summary": "Perú enfrenta déficit de profesionales en inteligencia artificial y tecnologías 4.0 &nbsp;&nbsp; CRprensa.com",
         "source": "CRprensa.com",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHNRblhFanZyVFB5ZEsyT2ljUXhWN1k1SVJ1QmJKUERNZ0ZnUEx2QVppRlBYWFVCY2FzN3FpWm51WjNCRksyeFJfNG9wMVp1dFpjY19jc3NTUEdQR1EyM01HX2hDVzhlRUxtSEwyd3hCMmJ6clB1WlBFOGMwUERGaGcxSUVnOXRUN2tpek5ZeWc2aWdpNVJmdGVhaUo0ZjFnNXFoTERNSG5KMUpQN19yMEFDN2tSekk?oc=5",
-        "publishedAt": "2026-11-09T19:11:41.000Z"
+        "publishedAt": "2026-11-09T21:03:47.000Z"
       },
       {
         "title": "La paradoja del empleo tecnológico en el Perú: Muchos puestos sin cubrir y profesionales sin las competencias requeridas para ocuparlos - Infobae",
@@ -308,13 +308,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQYlZUNm1iMFMwQzhIb2dZZThISGQtV29zVTNpMkhmOTR1TV9JZmpTY3V1UzA1Z2x4VllxelBzOS1HX0JJcnhhd1I5UGZQQ3lXdlpWcGhwNlRYZHdlZm5KOThfYU5ybXpmTWZaa0RISmotcnBXZ1BUeG1OaDVrZ0lKN2ZXd2tUTXRaWkNZQ3RiRXNBMXhpYnVYcl82cEc2eUJYMDFlWDVwN1c3TGxNaWlqbXFNTEp5Q3NOTHNNRDFPWkp3LUpoNGVXeXlDbHVud0t1NjlqR0RlOEZIaU9nMW5MMm8xT2MxREJoUmRwcVo2alRvdl9JeDNEaGh4b2RYSF94NV9lY1d30gGgAkFVX3lxTFB5bURmaVpKOWN3a2YyY3dLQTBzaUp2aTZPQi1KaWkyeWxnRkVQUHRTeEczVTZEazJZSXJ1SFJ6T1dwbUdqTWMwNTVrMnVCd3VxclF6X2M4cEo0Nk1jNk5vYV82SDJ5STVrRk5RUDluM1pTdC1zQUdfVGJhQllSR0FxOVpBWGhGeXVBd2VZdlJkX0phMVA1akZhMXAyWXVoYzVCLWkyaUp0clB0NnAzdVZVemU2RXk1c2JkandCYWQ4VVJtTnJsS1Q1dVFnZ2Nmb0Z6VFJKdU5jTGN1My1qTjFycVJlcEtQTFJnX3ZUUm5odzFVcmEzT2pBamFYSXRjeV9PYWpJcFJCTXo0cHF6dXdiWUt2R2tkTXJuNjZsQ2l6Yg?oc=5",
         "publishedAt": "2026-11-09T18:18:00.000Z"
-      },
-      {
-        "title": "León XIV en Argentina: celebran “valentía” del papa sobre IA en vísperas de visita al país - El Comercio Perú",
-        "summary": "León XIV en Argentina: celebran “valentía” del papa sobre IA en vísperas de visita al país &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQeWFZV0RIOUNjRDZ5VEFPQ1ZOTGVEYmY3QTBBRlZnOV9uSXJFemkzZjZSU1QtS21MYk5aaXZtY21rejU2cmJRWEt2b1VGS1dlRlZTVy1jajdTMmlxYzg5czdmUGlmNFhtaEdkYmY3bXhNMS1fdWdvc1pMcHpBblFvaURCeS1GeUJsLS1ySTJ0VjUzY1RtcVhPUGJLYjBUWTNwUkxWV3RNZTNXYlVpNk1iUnJESEY2WmFpWld5TkI1RHFMdVdFUzNEcl9GdmdCMzVtc2lncTNrZlVFMXVOWkxFdTEwZEFaTVJrU1hqUlNNQTNadmdQLWEyWnQwVHJqemNGY3JwQ3hkTWFxSXdrMUVvMkh5ZXdGUdIBqgJBVV95cUxORWg4dE5LNWpnZmlHdVFlUkxJeThmbDdxa2hLMUFla3BwSEdfLW14UDdmMGRyTDI5SFNyeU5sT2pnYThBN0R4M1VQZl93QWVGY3NZTTgwZjRJaGZDT3ZyY0FXTF9JVno1Y3Vpdkp5Rm5hZDdQcE80bmVyRHl2WE02Q0Y0NXNPbk5ieFc2clQxckx1d0JhcEVaQzdvdlg2Z0RHTW02dGtBTXJISUMzMldtbG5wZHdJOG1iT0ttWWotcXdsRENvdFhUZ2otTUdLY3B3anRUekJjekxnWE15aEZjenRZSHZETFZESjBUUFluc0xxV1k0ejVMc01hZXNFeXZ1R0c2eEtLZ095NzNqOHRRVXhyNlBoWkRxa1BWQVNVZks3V2FHMXlzQnh3?oc=5",
-        "publishedAt": "2026-11-07T15:00:00.000Z"
       },
       {
         "title": "Inteligencia artificial en Perú: estos son los sectores con mayor potencial y los desafíos pendientes - El Peruano",
@@ -350,6 +343,13 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWFvUGgxRUM0Z0FXQUl0LVdzTEQ0VGcxQ1JzTThXVmFCTjdEbERlelhqWC1CNWhjX3JHcXhacjdyalJVaWJHUGZVNzdPc29rNnVmOUpMNjRYa2ZUVW5vb1ZXeGhsTnJpNlRRQmhseVlNeW9JVTM0LTM2WGlYU2hCUjZpZjdIdGtXM1M3TjRPZ09fbWpEVzNIQnZKVQ?oc=5",
         "publishedAt": "2026-09-09T07:00:00.000Z"
+      },
+      {
+        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
+        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
+        "publishedAt": "2026-09-07T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -426,6 +426,20 @@
         "publishedAt": "2026-10-31T07:00:00.000Z"
       },
       {
+        "title": "Hijo de María Pía Copello confiesa a Magaly Medina si tendría un romance con una modelo de la farándula: “¿Me sacarías (un ampay)?” - La República",
+        "summary": "Hijo de María Pía Copello confiesa a Magaly Medina si tendría un romance con una modelo de la farándula: “¿Me sacarías (un ampay)?” &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWkxmNTAzVjlfajVtYVJkS2tfbGdYbXNRT2Nfd0lreFdXQXZKdmRvQnpQRThqT3JrODhQMTJrc0hzMTU0MGVVNV9DVTc1QzUwNGkyWkREV0t3SXBybWcwRVdXYWxPM2RXeHNzTTE1TXN1QTF6cmItUWFxZlB4TXhvN1Y5bmlKNUh6UUY1bExudEZGWHVESnFqN0xqd1ZpdlA4MUNHRFZQaHdWZzRGRGxOY1I3YU9HQWw2MUtZNWFPWGZ5XzdXQUtseXdGYnZyT05iVmJ2eERhN1A5UzhPdGRtc05GYUZVYXlSaFZQNlhnaWdPdXJlcVhESEw3Nmc5OUN5bHZLblZiaWZZUdIBjwJBVV95cUxPVEljR3dQT1dZYlBCNVdaMkR0RVQtNlFtV0dnSWxVRlpoVjlRQm5XVUlBLW13R0tDZGhrbVFoY1hBSl9SdDJFT3h5VVdkaEVhZ3ZMRE9tVW84Z3J0YWg2dWRtcjAyNXlFck5CX3hxM2ROZVp4WV9uNC1BcmpQWm9TRnZVOV9FMWtVaE1LNFJ1X3NTeGM4ZGFWWWlWQzRhQkNvTHFOeXRHeC1BMnJ6TGRWZVlycGM5cll2SnZ4TmhLSU42NjNWZGZvYVhOWGx3Y0FBVEFaWDRQbk1pa0NtVDRvdWIxOC1NM1ZZbkh3YXM2bENUalBxTlAzWGR1aUVrM0h0UElhZ0xGU3ZNMlZkNzRJ?oc=5",
+        "publishedAt": "2026-10-19T07:00:00.000Z"
+      },
+      {
+        "title": "¡De las pantallas a los conciertos de BTS! Conocido actor peruano sorprendió con su talento detrás de cámaras - Trome.com",
+        "summary": "¡De las pantallas a los conciertos de BTS! Conocido actor peruano sorprendió con su talento detrás de cámaras &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaFVKR3lPUm5HSTFySUVvUmVvMzFQSktELTZFaHVSN1JBdmlreHZIeC1vX3FBNDRpSXJPTHFIaXd3UUFjOW5TdnJvYXMxTlp0azdEUElvVEdrVEJRSHZ0RFp6UW03ai1rMVlTbXlaUUhqWFJJVGxBS1VDdHRDUVA0TmotWVNlQnN2TFoySTQzU0xXYUpZRW5RMjJIeVhZcFl0bmdWeDNNNU1WWmtUalQwdTV0TmltVWpZVTBmSVdUb01BbVVwZmNFbXpEOXNsa2JLcElxTEV3MDI4bTQxNlZqQktfLVI4VWViM2RqRGFzX0Nyc1MxcTlLZHd3YXJELWNTUnJF0gGXAkFVX3lxTE9JdFE0ZnRwejZSNm9DcUMySHE0U0tNZ3ltMDE0d0RFakhHYV90aHFSUDlnbDFMcXZiM0g4T1ZEUVMxN2lyUndfUlZDOVVZVFlQdm5xQ1Z2WjlEc3ZITW9vd2pkYjdhb3RIUXhNVUc2NUk1X3MtejAtN0VvNl93UERNX1JQT3R3dlUyOW85cHFnRTItMlU2dnozTFpHYkRmWXlBWHVoRzFIUUlreHhsYnZaaE9UX01WX2tyUExtYkpYZjgzSm9wWmtuTmFqbE5TT2YzQ0F3YWpEZHVwVk80RXhsOGxQNmlrN2dUb01yTG5fWlBYcWdMY0YtbVlWalljQ09jcERWM2Q0SG9iLXNRMTdicktBV3ZsQQ?oc=5",
+        "publishedAt": "2026-10-12T07:00:00.000Z"
+      },
+      {
         "title": "Esta es la historia de HYBE, la empresa detrás del fenómeno BTS: De una pequeña agencia en crisis a un imperio global del entretenimiento - El Comercio Perú",
         "summary": "Esta es la historia de HYBE, la empresa detrás del fenómeno BTS: De una pequeña agencia en crisis a un imperio global del entretenimiento &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -433,11 +447,11 @@
         "publishedAt": "2026-10-09T07:00:00.000Z"
       },
       {
-        "title": "Ana Gabriel en Perú 2027: cuándo es su concierto, dónde será y lo que se sabe de las entradas - La República",
-        "summary": "Ana Gabriel en Perú 2027: cuándo es su concierto, dónde será y lo que se sabe de las entradas &nbsp;&nbsp; La República",
+        "title": "Liberan nuevas entradas para conciertos de BTS en Perú 2026: hora y cómo comprar tickets del tour 'ARIRANG' en Estadio San Marcos - La República",
+        "summary": "Liberan nuevas entradas para conciertos de BTS en Perú 2026: hora y cómo comprar tickets del tour 'ARIRANG' en Estadio San Marcos &nbsp;&nbsp; La República",
         "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZWllNWpsdy1xSVRISTF4djZxSEJaTEhiZldtMFVmdk53djRwUDE3VmFhblBLWXBKemNuUUVDTk1HcjdXMGdDSlhwdVJPc2Z2Ul9admYxTkMzTFVCT3NYenFVSEZ0UnFPdU8tdGtBSU1ZZEgyWGJBWjZQNlJBd2JsN1BKbTVQWV96X1JlYURNVnFvUERsOWhwT0pHUTY4amx3VWhQemtQd01jdWt5Wm9PSkFjT2xYa0ZSZFZSU2FoMWRydXV3XzFqU25xZGY1MlNxNjd1Y3pvVzBLSjF0VTNuMTZn0gHnAUFVX3lxTE5IMVdob0RwVTJMeHZHdGhIZ1Y2UUwyN0RfTjAyYWF1M19SeGUtZHRMeDBTbFB2TzVfSzg3cG93Z2pLQzVoYkFfLThsUDlKTnlIb3VQNUUtcmdCdTJqZlBFaEdXV0ZvckJveC1sYUhLcWp2VWtHcGE0a2Vvb01LU3VwMTlpclBWWlFTRGt3alU2UEZGZ2pmcnN5MGxleVQ3a013T0oyekpiczVsMUpWRDZZQm5OM3FCXzZrZjlfVzJrOGRhZVBWYVFrOURvU2pQVkVpWTRsYzNVbTJZNmRlWUtpNWNGUFRQdw?oc=5",
-        "publishedAt": "2026-10-09T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMF82SUZERGo1VHRXSlZGU2hLX280cDVzQXRwWFh0UGNKVVcxNmRSZXYzYW5ET01LNUlvSHV2WXZOOFQ5R3dZX1M3TnBnc0hUejJwbDFMcGoyZDI1dTQ2OHpYUXRqazNrb0VWRDZ6YVJ3SW81OHN4VXZqa2tMeDgzMVM3X0g3UjdCdnhTSnFIX2JTektDU3pQTUpJcVd2NkpCSkdKUzEyNUdCRlpmdGZXTWtJTEJoeHNVSE1HSTk0cFpBalVJQl9QaU1EMUJUNk1DQ3FOQ2NyemUzWUlVYWVoRi1aX0wxYmVIanFwVzFjYUdTeEtzT05Zd29VaUxWNHZmVndTWWg1WklMMGM4VEwyctIBlgJBVV95cUxNMU1JZlVjbEZQcWpIeWpWcGthUWg2SWZvamJ4ZE4yeG14RGYxbVhvdFBGeXNmT0V4VzE3bDhBYlhTMHliUmhoY2swZ0M5Z0poZndRZGU2dUZCS2VVYTRfR1RvLTFGTng4SXphN3JtUWEzUFhGaFllZmtpOXhKTFRKemk4aTltc2Q0aVhHbkw3ZkZwcXppZVNfQkhiS3VZTnpWN3RhX2c0QWxvQ1M4VlpkX0pqLTdfU1pKdlBJWGg1QlRRTjJXSFhCMkNucHJFanYxQzRCbF9QaGdLV2NtMVdkSUpNd0RycHhKbld2NEFjVWFfMy1yYjhxdnJoMzBzT1VmTF9LN1JwZk1Ja3F1SUFCTHU2bWtkUQ?oc=5",
+        "publishedAt": "2026-10-08T07:00:00.000Z"
       },
       {
         "title": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS - Trome.com",
@@ -452,20 +466,6 @@
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmx0Rnc5SWVnVTJKRTVIZmlrcHlaSEJhaDhGcDdxODduSEtDR2Fla2tIZHYyaExOejNKcHdQd2FXbHRRVlFoZlAxN0VGTHpVSWRyMkdkYjhmallqUEg1WmxDa19jNzRwbFhDSHJES0RlU0Q1U0xyRjBTRWZ5SmUzdXVjX1I2Z2NqUGlPMFo3N1VLbDlKUU82M2tmZDQ0c2dWM2xqajdDSmdzMDZNM0tWT3huMUNQNXZFeE1sVm91MmJWZ0V6ZGozNzRkd01CM3gyQ3Rsek5fTUx3TGY1WTFWbW9xMzEwamh10gH8AUFVX3lxTE9lM05WNjM2a2tXRzRLdUJKR3pOMmdxM1NNYUFsRFpWSWEzcjlOZjdyUk4xamNrZjA2TmtDU2NaZHByWDA0dVJ3aWRObFNEOTdCREF0emh1b0tpR2RWOUpyMGR1ZHpwN2RtQXZ5VHl4dEJlazBZUWd5WFhYUDAzOXFPTnloOUdTYi1HTEcwbTVLY3ZFOHZpaUlua3pweWRqRkVPU2VWY1NhTUduVm1zRVlucmhHRDFJRHNSUWRZMkc1UFB0dnhZTEk1STh3SHJ1ZzRHcVhrYXpmWk5KYzlWNWtJcmhqcjZqM0xJTDVmR2ZoblJSQThfRWpOSndZaA?oc=5",
         "publishedAt": "2026-10-06T07:00:00.000Z"
-      },
-      {
-        "title": "¡Atención Armys! Ticketmaster anunció venta de nuevas entradas para los tres conciertos de BTS en el Estadio San Marcos - La República",
-        "summary": "¡Atención Armys! Ticketmaster anunció venta de nuevas entradas para los tres conciertos de BTS en el Estadio San Marcos &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZzdTLU5fYmNmQ0VxVlc2T04tQktMcTBRYW1tVUVkb0Jpdlc5UWJZeC1vYWk3RHV0MWtTeEhSZDRkbFdhaVd1UWRFWGQzUjFHeFp1dU1vVDFaU0kyckd1RGN1VFB5a0ZkZ3h2SkR5RnNmWjJOejR5cy1FUGctNWg2UmJEenppOTQwcS1YVkNhUjZHcHRiX2FQSUhxOHo0cWI2OUp4Zk82cldHTk9zdzFEUl9iZW9jM2YtUHhzNXlRMUV4U2ZIRUllMmlaQUQxLVdJeUpibjZZVEd4MWF2RWxDLXd0UzlJTnBleGoyQXdXZXRRYVZ0VWfSAfsBQVVfeXFMT0VJZHMydEp3Q2d5LWlCeGI5Mi1yanVDY3B2LWdsYjduYUdQbWphNkVzMTM2di03aFNkWGpsODZGYlJXN2t1czd6d3dsSDBSZFBRdWxQZDhNWDFIWndXY1ZoTllPRG5aMGdZS1VmVGVTbklZaUhubE9kRVRUOGVQWjNWV1ZISVdoMXdQZjZXblhCbUJFLV9aZEhCLU1wc210VFFlemtmc3lSdkxVdFU4UUg5QjM2b2dZSE9SaEM0cndTUGE0NGFNbXJoa0VwclQtY0oxbG85alpNcnFNQk9EbVJHMWdjQkNPVFI4RVRoVk4tbTNWMnZpbEJhbWs?oc=5",
-        "publishedAt": "2026-10-06T07:00:00.000Z"
-      },
-      {
-        "title": "Conciertos en Lima en octubre 2026: qué artistas faltan presentarse, fechas, lugares y entradas - La República",
-        "summary": "Conciertos en Lima en octubre 2026: qué artistas faltan presentarse, fechas, lugares y entradas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUW4ySzduQ2JxSEJmblVtT19uTHVZTUItZl9ZRFhwVEtJRk5GT1B2NklmbEk2aHdfNlBuUy1vNXdQWHdmc0FlYzNSZ21QcVdtTUFNeU5GQWpRdnhOMTI3b0lheUZUMWtha1AwZy1kYzloSWJfUXZ0VDBpTVpsTWJCbFh1TzgzR1l2WElFQTdfeGVScV9IZVdBS1hfeGh0UWgteE9ya0IzTjlrWGdsa2lTOVZSeGlydEd6LW1Xd2lFdTVHZkVqVzB5XzFKNzQ1clhoYmJqX19fZVhMWkZjd2YwdzlpNmlsajRwSWR2ZEppV240cWJyNGxwMnJiU0dfRDZ2aDZWWkhvaXh6eWlaOVHSAZMCQVVfeXFMT1BBQ2w3SjF1T25WR1pfdTBvV3VrS2cxVXVyU3VNTUNJa2tQY2xmRXdhVGlsUHlwMnJsU2VlSUZ5NjA2TXBlRkE5c2Y2cnE2VGJOSXE5S01XaFpJRGx3UHJLSldGVUlKWVYxVUlGb252T1BRSDI5SHNIVmVpLTk2Y2xsQ1AwZjV5UW1ZLXlwaTh3WTBFdU5xSERVd2stSEQ5enVHcWotVWswMEp3Y3Q3RzFkX1E4VEpuMjZoR2J1XzRZSUJfUjBldVlnMlFuX1pGbHV2NmdhTndQMEJ6dEh0NTBVMFhPenRGQjNfVlZPcHhUZURwNVI2YUtQeVdvYjJfc2FpYkoxNGRsX21OeUVHcnd6ams?oc=5",
-        "publishedAt": "2026-09-28T07:00:00.000Z"
       }
     ],
     "cultura": [
