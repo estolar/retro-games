@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T08:38:51.494Z",
+  "generatedAt": "2026-11-19T18:00:26.422Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
     "politica": [
+      {
+        "title": "Presidenta Fujimori dialogó con primer ministro de Singapur sobre cooperación en educación y gobierno digital - tvperu.gob.pe",
+        "summary": "Presidenta Fujimori dialogó con primer ministro de Singapur sobre cooperación en educación y gobierno digital &nbsp;&nbsp; tvperu.gob.pe",
+        "source": "tvperu.gob.pe",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2hpMDB1ZzVrLXZsX0hkUl9NbDNWU3NBNDdCeC1LbHExLVZJeno3YzJDZDI5THNmWlQ4WlNWeVRaMVRmbFh2ZFpkUURXbEsyVUhBUzhQaUtPYlhTbWdsMEhSd09USFk2elVVd21hVE9SQkNyY3BOV3RjVjdCSEF5WEtFMkwxeUFrWExXV1BjMTJfeVp2VzdIRmVrLThWYndRZDdDRmdFMU1XOXRYb2NWcVFfOTI5b0FMemhuR0xZU3FGQQ?oc=5",
+        "publishedAt": "2026-11-19T16:31:00.000Z"
+      },
       {
         "title": "Luis Galarreta amenaza al Congreso: “Ojalá recapaciten, porque hasta ahora hemos mantenido paciencia y actitud republicana” - Infobae",
         "summary": "Luis Galarreta amenaza al Congreso: “Ojalá recapaciten, porque hasta ahora hemos mantenido paciencia y actitud republicana” &nbsp;&nbsp; Infobae",
@@ -18,6 +25,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZHhlZV9iZ1lHSE01dEJyTlJIVEtva3NsVEpYYlBscDRYZzhXOGY1a1lJZHVWM3pvZ3pDMHdvQkVDdlpQOHl5Q1JYUFFJbFJpWWhmYVYtZDBDMm9XLVl0T2tEcDl1QnlYbkY5Y19NZUVyNUhaYzNXRzF4RTkwQzN2c0kwV2pVN3paR0Y3bVI1dDhvalVIWHRudl9vSGJ5OXh2Q0daNXFHSDBEdzVPRGZMRG9TQ3FJV0tkZW1fcU84dkdtOGkxRHVGRDZn0gHkAUFVX3lxTE5sZ3gyYUswNkFqR3Zra1JxLUxEcUtiYmxpSnByNVV3NElzeXdFTmFSY3NhbWpLS2drV3ZQd0tMeEp3cWoyZUVyMVZtbFdzZnhuVjNzMUxwSmhmZFlmTkJ0MExibmhTX21kYzc5N2Ixd0huR1hfRW9uWWtqRTBXVTBJOWRPNFhUcU9TM2Rkb3ZpdlhMLU9FYkFiekpTczNOWkZ6S0JxR3BmWno5b2k1RHRlUUowczBZUWtGTHJ2TDFkRGw1dFBwQzBHcU9wZHE2YjBuOFRjQ2N0Q2JLOEZzTHVacjczQg?oc=5",
         "publishedAt": "2026-09-12T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵En entrevista exclusiva con Exitosa, la presidenta de la República, Keiko Fujimori, descartó que su Gobierno tenga previsto realizar cambios en el gabinete ministerial \"por aho",
+        "summary": "🔴🔵En entrevista exclusiva con Exitosa, la presidenta de la República, Keiko Fujimori, descartó que su Gobierno tenga previsto realizar cambios en el gabinete ministerial \"por ahora\". &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU0poS2REOWFKNE5oa1hrRDZvVnV5OG1XQ2piaUlVZU9NWlo5ZVRYSkxXZ2VoTVJENE9BNUNpZ2hkTE5PYVhwVFc1akpCbU1jTHBFc1MwVFVkZ2RfUXNTNHFLOUNhQ25QdXZCYzNZX3VJV1MxdElmREN3bzNKbW5XTVJqbWxvY0NfRlZKTDRMd1BiWGl6LWVhSTFuU1VQS1FYb2wtOEt3VTJMNW93UUt1V3ZOU0U4a2dUTzI1YlNJZjRNS0Vtc2xvUlRubE1PZ0RPWHJCTUM2TGJlRThLWFIwdVVrYm8?oc=5",
+        "publishedAt": "2026-09-11T07:00:00.000Z"
       },
       {
         "title": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial - Infobae",
@@ -46,29 +60,29 @@
         "source": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR2dscHZNVjhmdEFJZGhVTklXem8zeEltQl9FZF90bmFkcXk4dUNJV3RCX0k2bUpDamZRdFBhb2MyR3FnMWZUR2NFZFdPZzNZM3ZZdHAwUnZ5SjM3eXdxYzEwSGl2WExjTmsyMVl3aFJkTkEwVDFvRXBuQ2FfdjliTm95ZDV3YWlNYW5OU01yaDhNemNOUFNNUEU0Qmd0ZDVUc2ZuMlJaRU5CSEdKSXZPUWI5TTVFRmtsSTBwVEhGSUlKLWNzbG5iUkF6MjJScTN0a0QzemY3OW1KM09ZcVQ2SG5kSmI?oc=5",
         "publishedAt": "2026-08-27T07:00:00.000Z"
-      },
-      {
-        "title": "Nueve ministros del Gabinete deberán responder ante el Congreso en los primeros días del Gobierno de Keiko Fujimori - La República",
-        "summary": "Nueve ministros del Gabinete deberán responder ante el Congreso en los primeros días del Gobierno de Keiko Fujimori &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcjVoMnQzZ1RHd3dDVC1ZMUNiaXVIQUxVb3lSSG9nNzZvdmd4aEtoT1dseW01WmFsRGNkdGNjMVdJdzNhdl9lclU1UXl2TkJQek8wNG1EMkYzRUdvNFlyLVktaFdUVkRqb3dVOWlKV2M3TmxhVElYWUdOMGl1bjNjR01FU1U5bkZISnZJTjNtTkpwVmtVOFFXNjhvMmFlbEtabURfMHl3akhkMG5HbW5oTXNOS3dGdGZuSFo3NzJ6c1RxbTB1Wi1lV2NrWlFaUFF4V25PT1R1VXFQZ0M1bWlNWlJTdHE3Y08zdFJJTVVlVU9KWm9JbnNtd3NFVWVXdzl2d19TemY3WGxyOUxnMzBKODdGRdIBmAJBVV95cUxQckQ1bWNJVWR6SFVwSDlXWFEtRHZyQUItaHJOOVE0SENlZ1hJLU5peUFXdmhkdkF3dml4SE9tMm9tcWxaMXJkVVEtMnp2dXFoSW4tb3d3d0FXNllfYXFTd2tLYmJnTVFvWjJ1VXZGTlNTTV9VdHdfWDl2Mkhsc3V2TDViSmVYbFQ5MUR1cGxPelRvNGpZdEpyRktuMERjMGZUazZkLWs3eHJPNXZGNlNVdE9pemVISVVfclFLLVlVTjE0NWFHSDJqakZySHFhbGZ0c3JIMHdNcjFOMnNadDJ6My03NGoxWXdVTXZYSjZyRGFQeVMxUUpTcWk4U24talVZYXdkckNrNGp5UThBbllWSVhXQzliZkR2?oc=5",
-        "publishedAt": "2026-08-24T07:00:00.000Z"
-      },
-      {
-        "title": "Gabinete de Luis Galarreta ante el Congreso: ¿Cuáles serán las primeras acciones y los lineamientos de la política general del gobierno de Keiko Fujimori? - El Comercio Perú",
-        "summary": "Gabinete de Luis Galarreta ante el Congreso: ¿Cuáles serán las primeras acciones y los lineamientos de la política general del gobierno de Keiko Fujimori? &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQUGRmVGRUM21JbHhyZzJMYUJfanFaV2xaWkg3LUdOcm1mNVZZcS05RnhKdHVHS1lMbDdBRHRtSTQ0dlA5TEUtWGFZV2RfLWNhZ0s1OUhoVV8zTVE2clYtQWVWQzlmQkNUdGhYZnlqQ3dRMVgxRVFodHdyd0doX0Zqbll6czVlZnphNi1sb2RyNVlaWXl6T21mdGNTdG5ZbTc0Zk45emxRQndSUDM4MG41Wl9TZG4wVU56R2xLZkxvTU1LcEVNemx3U2U4Rk1Ua2JFWDQ2MDFXQjRXQ0hkV3BmMzFwXzd1TGhJdS10cmRHSE5maXRTc3BvLWZ4T2VMMDhsX2tQQ3B4Q3dabmhDUUlMMDFCa2ROM0RncGJF?oc=5",
-        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "APEC: se abrirá nueva era en las relaciones bilaterales con China [entrevista] - Agencia Andina",
-        "summary": "APEC: se abrirá nueva era en las relaciones bilaterales con China [entrevista] &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnF4czJuRVA0azV4QmMwbUJwQWNEbWo3b3lvTkxNNEJ0LTRHeURwa2xBRjZibEZUZDFNUVJMOTU3SF95dHpRbXN6YWIyQzc5NkFjYmxjSkdrMGNmQm5vT05vWTgzQXZacW5XQktvcXozcGdEcUVJb1k1WFpFYnhQTnIyaE40Mjd4T2VyMWFzRGM2Qm9zYmxSS1h1ZW9HTmthTVBBODRlc1oyUW1OUVgzaDZsRXlZdw?oc=5",
-        "publishedAt": "2026-11-19T08:09:36.000Z"
+        "title": "Perú suscribe Acuerdo de Libre Comercio con Tailandia y amplía su ventana de oportunidades en el Asia - Infobae",
+        "summary": "Perú suscribe Acuerdo de Libre Comercio con Tailandia y amplía su ventana de oportunidades en el Asia &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMzdUMlY5SEQ5YnBMT3Z1bnZyMjgtY1FZT1dIaVVtYXYxbXRaTGdqb295ZWJhREU5UWY4NnFMdHhRX1EzNFVTUFdfNmpyVWxicHFOYTMyeWticXJwbE1fczlZYzNiZzNmVklqMVhhdnk5cnN6aTl5U2owejY1bjBMQ000enI3d3JQaV9YQzUtU3hzTDAyZ2pqU2pQNkxBTVhfY1pfdlFtdm84cGcwc1hmM2FtNnVWSGVJckdYSUhnUnRBa2xhV0I5a1R6SHk4S3UxaVNaNVc5VXp4Z9IB9AFBVV95cUxQX0FYWkI5Q1Vlb3lFVlhsVEUyLUxCVDlzV0w5WDRjeWkzRDAwRlZmdlJ5MmxjU2xuS1hDVVVHcWNoV1FKaDdSRmVvZ3ZOQmN5WVYyS0JwOHVVdF9uc2dHMzViYW9oWjVFSWpxS1VBOEZ4MG9pdkJrM2dGcXo5blBrWm9NcmhLUmFQNGRBaGp3QmdPT0hvMEZYUmZKVUlvM2hic0tNN0Q2Zng3QmRORmJwZjhtN3JvVWhHdjBRVHRwX0E2M2J4dGxQeUlvV2s2cG5RVXF6dzNmeFlNS2g4VGlyZVZ3SjROeUFRaEQ2YW9uTTRhN0xy?oc=5",
+        "publishedAt": "2026-11-19T14:49:00.000Z"
+      },
+      {
+        "title": "Perú buscará sacar más agua subterránea ante posible crisis hídrica por fenómeno El Niño - Infobae",
+        "summary": "Perú buscará sacar más agua subterránea ante posible crisis hídrica por fenómeno El Niño &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2V6cTZxdzlJeFNOM2t3YlhqT0xZanVZa2ZULTFnNVlzRTgwYnJwa04wSm9LSmVmVllJLURDN3h6aVBqU2pMSFM1NEVMT1hZWGp0N2xZOWt3SzJZQzZXQUlUUXBTTVRMVVpNVVFBWFpwZkVadmotYkNPcXRBUkF1SnpKNkNqcjY4UjB4MTVnM3dBaHlxSWpmYy1RVjlGbl9DTnl1YVZlTzF5dDZMTU5CVjZNQzFfd1djTmhlTEhBNG9vRXRPUVMxTdIB4wFBVV95cUxPQmtSUEVRVDkzYTNqLUNRaktZbzdYT1pTSWlPY3JKQm1PcTV0b2YwYUNVTXdWUk5tQUdxMUtQU0hIZkhlMUJYWHFiYXBoZkZCRngzTHc3eWJHUXlHc3dkZG4xX1FCRG4zNzl4R1Q4QS1pVG1KZEQwM196X0FJSWNqbWE2MkRsUjgxZUVTZkZ0UWhwY0dMemZDRDVJUnNjMHhDY1VZODdidExUcVg4QjBwdTEzTU5DNWZTRnpqV1E5aVNibmttSFVYOXppek43UjZhNFNxc0NJeFRRUWZfSnRmOFdaSQ?oc=5",
+        "publishedAt": "2026-11-19T14:18:00.000Z"
+      },
+      {
+        "title": "Presupuesto 2027: Gobierno prioriza la respuesta ante El Niño e inversión pública, pero algunos sectores vieron recortados sus ingresos - Infobae",
+        "summary": "Presupuesto 2027: Gobierno prioriza la respuesta ante El Niño e inversión pública, pero algunos sectores vieron recortados sus ingresos &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWGFlZDFjMWVQdkZTeW5rVW91Q1h4YmJpdXBteEh5c2g3SEVFd19IXy1NdlkzaU5wOXlLVFNtUHNDNzZCaURTVk1VRW1DaWlELUFFZDlMSWlGRGJRcEd4SGl2WnJkZWNFSGlIZFJ4Q0o5cFhGOU5EXzcxdUI2VkNab1dhelVUelotR3NXTG1hSVZIQ3RzNG8wQVFvMEVWdVNjOWFYSlhZWms3dk1CVDFpV2h1MFFUZHRIaGlveVpobWFBRmJQRFN1WlI3M1ZaNjRGNzVCMWUxNWxSNGRiendBb2VpUU12MHM1STJQRkdlTzE1ZnpPcDk2R2dMODM4UUt3WmstM9IBnwJBVV95cUxQX2JoSS1jWk1SNW9acGV3eEZIcmU2czVsWVZDeURCcjdfdDd0dmNhQUlXZVpZakJXUVlrVzdOTGlPQjZYZEEzYVlNekx6M3B2c3dtSlhIS0lMeTJLdk41TEFjcUZ4SnZGS0NqdjhIenMxUVVadlFsZENhTWcyemlDY0xzRkJzS1I0dXRRRDNZemZqQTR0NlB5cVBFelZKRW5HRWprSWxKY2pOSzlHdl9HMXhHYUs3WUlJZnRJWTZuQldPUW45TWpET20tLUh4ZEltRWo1LTBlUDhyUVI2ZHB6TjBRVmsxRUswUldTODEzRnhsOTF0Wm1HQXN4dTRkeGZ2QjZ4STBMZXoyM255RF9sQ3Nya1pvWnMtV0xwekJMTQ?oc=5",
+        "publishedAt": "2026-11-19T11:36:00.000Z"
       },
       {
         "title": "Doble Fenómeno El Niño y guerra en Medio Oriente afectan a Perú: inflación, combustibles y alimentos seguirían al alza - Infobae",
@@ -85,6 +99,13 @@
         "publishedAt": "2026-11-18T19:02:00.000Z"
       },
       {
+        "title": "Precio del dólar subió hoy en Perú: Así cerró el tipo de cambio del 18 de noviembre - Infobae",
+        "summary": "Precio del dólar subió hoy en Perú: Así cerró el tipo de cambio del 18 de noviembre &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnlod24tM1E0ckpFanptbmpNZTJzTFZkY3VNd2ZLbGt5SG03V3Aza3JGcTdRREJhVklUVE41VGZTbF9pVmdLTXJDREt1Z3Yxb1o3eVlHQ2lDRlJRanJOa09Kb1AwMGhaQ2NvMFp1UnhMblNzcmxLcU9CenVQM0oxVFltbmJMUFFiMU5tc3JIS0MyOWFiSTA1M0lvY3R4U3JBRDgxV2JmTDZYLTR3dGp5WUNJOFRfR3NmMVdZM0p3ONIB2gFBVV95cUxPNWZ6VXo4b001SHozY3ZzeElUQ2tnb1R6SVdoOUlycTE3TWNkUl82ajFBNW04RnNKNkJWWTFCMUF5UjNuVUxuQXhJakRhaWd3U3pIbDdtTDhiLUstMjVZRnlTRDYyd1hHWHVVaEFFMXE4M1N1US1xc1dESEJZeFA0VFdnNXZHUDdIMmgyRFNFbEI3eW5KQm5sUzVlMl9hd1RJSUJoSFE4ZWp3dDNQTTh2aldIYjJFbXJISTBuWkpfeXJ5TGFydDMydHZKQU1pZUJOUFVKNFBJYWRCQQ?oc=5",
+        "publishedAt": "2026-11-18T18:58:00.000Z"
+      },
+      {
         "title": "Perú sale a conquistar el capital global desde Panamá con proyectos por US$ 41,297 millones - Diario Altavoz",
         "summary": "Perú sale a conquistar el capital global desde Panamá con proyectos por US$ 41,297 millones &nbsp;&nbsp; Diario Altavoz",
         "source": "Diario Altavoz",
@@ -97,27 +118,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeEFSWEQ5RjlNd2h0NnV5YWtoSzh0MGlibHdJajg2R2I2R003SmNKcVJuRms2b0RUMENRWmNucUNtcm5ZcVo0Mm9HQW9mZjVVWHlSOTVMaExrYVBIVmkwYTZwQ2hLV0JCN1BqbV9SSUducUZGRVVtdUtiN2l4eWlPNnJTcW00VTloQU00ZHFyejdIWGo0WU5Mc25NbnFkdVRyYi1YS1VrdmRNS1RYM1YzRUpHSnEwRzY5bnh2YkduQdIB2gFBVV95cUxPNXJ2Wm95TlhQT1Fmcl9yQ3hpWFdabnNsYU5uRzRVNC1ZM2N5a1QtUUlEVUlLMDFjeHhheTdXMkU3RTJUM0pxUklHbTBxWDVqRVJFVnFxOXJXODhleklIZmxRb0U2VmNSOHk1SHFFNkotMWtGaWpuRm5VWnJFcEtfWWpWX1Y5c25IM0pZejdQTnp1Uy1NNi1mdVNHajRIOFUtWXhKd1pnRVM5UFRNaE5iYkxNdTFrbk1nY0N4NDR3YmdMejdTdVUzNnV4VTNfTktuSkdRUlZfbFdPQQ?oc=5",
         "publishedAt": "2026-11-18T18:25:00.000Z"
-      },
-      {
-        "title": "Bank of America asegura que Perú crecerá 3,5% en 2026, por encima de las predicciones del MEF - Infobae",
-        "summary": "Bank of America asegura que Perú crecerá 3,5% en 2026, por encima de las predicciones del MEF &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMTJQN2ktUnpXY3F6eE9uMHZzY2lGLVhGa0t4RWNyM093WFZtTUwwZ19tRjVCSjMxeUtveEswcnZkVWtFS2dVeWdCNzFoeHBELUU0eTBQQkN0RlMtTllDMHVLbXFhMmFEV0ZqeEF5LVZoaHJwaFUxdW5kQngzVG1SRXBSM0xEbUU0UW53dVB0SGJSQ0tycGt6Vkt4dy10YmJtbFRCVDJNMTN0elNrN1ROam9Ibl9KVDM3QXlhVTVSUFBiOUszRGNLYllwc9IB5gFBVV95cUxPOGNYbG4ydE9IdWxpVkpHdlFrclJyRTZjUDJGVXJIcDY5QjBzQUNRell2WUpseGcxQkRyZXgxRy1SVWxlLVJNaFJEblFMUDVsU0RXa1RueHBFd0VCQXZMc2VvMUNMSWZVd1M5eWhTZE9xNFdWdWtzYmJ0bk5fc2ZueTlVTllGQ3JaZ18xSkx6MjNJY1Q2QkE2R2wtTUxrWWg3Xy02YU9ETmRqXzMwTFFfRl9SZ3NLYldlRjNpM2VJRkRpR1NpT1lKcnNYdXVSbkc1ZDZmelVWQzJ1MG44dGhLSnBwOE9CQQ?oc=5",
-        "publishedAt": "2026-11-18T18:21:00.000Z"
-      },
-      {
-        "title": "Techo Propio: MEF anuncia S/150 millones para nuevos bonos, pero todavía dejaría a 6.500 familias sin vivienda - Infobae",
-        "summary": "Techo Propio: MEF anuncia S/150 millones para nuevos bonos, pero todavía dejaría a 6.500 familias sin vivienda &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdEtkUmlVYTRDZ0xtdnlmTUg4SVd4NnVMM0MxNE9kSnlSWGFXSUFOQXpsUzhDaFNRR2lnY09iUHpsNk9PUW5GWHZRVnNtVVd3eVdpaV9rVFJfNWxSQXNqb0s3ZmdYWHpkN1BQd3pfS18zdmRCdENwUnFSYUdwYnFzQzZuYlNxYXFnVEg5bUJERFZJQWcwVEppNll3VmVrenotVmJkTzNGdzVkandZZnNtcjBLOFMtbnpFUkRfSmthemU3eE10QU5rcF8zeVdweV9VS2xsaHNHelJmVmNTdXRyMtIB-wFBVV95cUxNbnZGcHJVRDcwWllVa3lieTdsZDVYbmFvRU02ZFdNc0RxalIxOTV6RXZETl9oUmJuUjNWUVphdlVJalRGSXh0Z0xCM2FQdVpMajd2TmJoMkM0WVhXMDVGQ0twWXJmaGZxYXZOc0YtbEdmUmNrdy1Fd3ZRbFhTaEdwNUVyVXdfZzhsNGMydFlHVVppemk3QnluSEZ1MS1qVlhzX2JqZGVsanQtdW5pWFViYnRCQmxmVHdMcnd2Z1FXRDVqLU52TDRxZHZTeTIwN1VRdGF6M3RVQmRfTmJ3RVM4QjJId09ZTHVlYUpPbGFRb21rRzJzN1ZfSC05Yw?oc=5",
-        "publishedAt": "2026-11-18T17:32:00.000Z"
-      },
-      {
-        "title": "Perú en APEC: ¿cuánto les vende nuestra economía a los gigantes del foro? - Gestión",
-        "summary": "Perú en APEC: ¿cuánto les vende nuestra economía a los gigantes del foro? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHhxdWVnVUJLeVRqTlUtd3ZtRk5iZ09YQUV6MFZWWFNXYTNlWnpkNUNldEd4aUNFN3hiZDl5SlJxVTRzU283YVdJQ2RmU08zYl9GQ3RkM1BQVGc5bkg0ZzRqa3Naa3l6Sm1mRV9Dcl9Cd25HaDF5a0JTNzl4TmF0bGcta3ZmMkJWQXktYTRaenFZT0liZjdSd0Z2d3R1NU1xMHdfcjV4MENnRjg?oc=5",
-        "publishedAt": "2026-11-18T17:07:00.000Z"
       }
     ],
     "sociedad": [
@@ -134,13 +134,6 @@
         "source": "Correo del Sur",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQk1uajFBVmtaYllFWnFXejhQUlRwTnVVUFRBSHZiSnlMZG5TNTBTYm4tTGNibDFzeHBkdTNVMWdlU1lRWWc1Rjh1ZnFXSVNtUmNpNHdxV1llVjZuRWZ1TUc2TEt3aHp0Q1Byc0FOZl80VEtVQ3lSN3JOSS0wcGZDNHctRGdKOXgwZEVYODllUlp6RDdiV2I4LTlJMVNYalJYV0E?oc=5",
         "publishedAt": "2026-11-18T10:37:00.000Z"
-      },
-      {
-        "title": "Nuestra necesidad de formalizarnos; Por Carlos Gálvez Pinillos - CanalB.pe",
-        "summary": "Nuestra necesidad de formalizarnos; Por Carlos Gálvez Pinillos &nbsp;&nbsp; CanalB.pe",
-        "source": "CanalB.pe",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNakNzbDlTbHVXZ2hpR2ZXRjZYTFROajdJVzc0bWJSUHJzNGZUcUtmUnEyRXZMem8zYnVaWXdocmlHRFVYU1RLWGhTVDZtOHgxUXVENHoyeTVZZjBuMldCNk5JenNRNFQ1RkhPSHNlS2RmMXZIcWVzOWFMOEZMZ0tIX0tXV1lDZWRvdnZCZTFUSkNLM2R5TkstZkw3ajM?oc=5",
-        "publishedAt": "2026-11-17T20:59:15.000Z"
       },
       {
         "title": "Jenry Huisa presentó a su equipo técnico con miras al Gobierno regional - Evidencia.pe",
@@ -164,6 +157,13 @@
         "publishedAt": "2026-11-16T05:52:05.000Z"
       },
       {
+        "title": "La salud mental en el trabajo - World Health Organization (WHO)",
+        "summary": "La salud mental en el trabajo &nbsp;&nbsp; World Health Organization (WHO)",
+        "source": "World Health Organization (WHO)",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wOEFqeTlsZWdKV2NsVk5TWGxoSTNRb0pJeFRrbHFCMmNOSVlqRktZVWhtR2RNNXBWZXQxbFZKMXZ3ZktEVjZ5QWFpeE1EWVIzSC12UnNDQVRLTUVvLWk0bFBWdTdveEEwcWtqWlhuc2xVNUFZaGp3NXJzcVBHZw?oc=5",
+        "publishedAt": "2026-09-15T07:00:00.000Z"
+      },
+      {
         "title": "Educación - Desarrollo Sostenible - Welcome to the United Nations",
         "summary": "Educación - Desarrollo Sostenible &nbsp;&nbsp; Welcome to the United Nations",
         "source": "Welcome to the United Nations",
@@ -171,27 +171,34 @@
         "publishedAt": "2026-09-13T07:00:00.000Z"
       },
       {
-        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
-        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
-        "source": "EL PAÍS",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
-        "publishedAt": "2026-06-07T07:00:00.000Z"
+        "title": "Naciones Unidas contribuyó a fortalecer servicios de salud, educación y oportunidades para millones de personas en el Perú durante 2025 - Naciones Unidas en Perú",
+        "summary": "Naciones Unidas contribuyó a fortalecer servicios de salud, educación y oportunidades para millones de personas en el Perú durante 2025 &nbsp;&nbsp; Naciones Unidas en Perú",
+        "source": "Naciones Unidas en Perú",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYzNoV0N1ZWRwaXppZmNuai1FNW5UdXBQbllqYThGa0h2V3poZ2sySjVhRlNyZHhDYkFmMUI4YzVaazlJSDV4aGJ2emprMkY3MTU5Qi1KSnU5eHdvb2xQbkZWak5mNkViUDZjQVJPbktwLUM3NzNrbVMyajVhSVlHaVUwSExZQ0pmOEw3WmVwNVFRaDlPbEpFOFd1M09hQ0dJRC13WlItV2hnTGVza0NlWk1EM0ZQZndRSmtBMzZSVzhjUEVmOVE?oc=5",
+        "publishedAt": "2026-06-02T07:00:00.000Z"
       }
     ],
     "negocios": [
       {
-        "title": "Fernando Eguiluz, CEO de BBVA Perú: “Mi primer emprendimiento fue un negocio de agua embotellada” - Gestión",
-        "summary": "Fernando Eguiluz, CEO de BBVA Perú: “Mi primer emprendimiento fue un negocio de agua embotellada” &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbjBIUUgzOE1hX3lTVUpNd2pLNnhmcnVCLUJwZWpONkRrSEV5YjR6UFFUSnZwbGNPYWRBblJHcUZlcWI5N2R0c2U5UWVSZ1ZTaThVSlM3eG5MVEpGM2VWV0tNdVF1T051Q09FOHFpdmJDRFNoY3Q5WWZucWZwbjdIazN6RGQ4Z25YbTVGYjgtMTNXa1NscHlnbmI3WGJqenc4eGxLN3pZaGN2bHlxbjdjWFFWMWpLUVVkYjVWdlB0Zm9rVURmNDVvOTNUeEFfYUZZWEI2ejg1SEFpQ0owR1ZCT3BUb1RacW1FS3lJdGNaTmw3a0Jh?oc=5",
-        "publishedAt": "2026-11-19T00:26:26.000Z"
+        "title": "Mujeres lideran el 44% de las empresas formales en Perú: ¿cómo ayuda la tecnología a que sus negocios sean sostenibles? - Revista Economía",
+        "summary": "Mujeres lideran el 44% de las empresas formales en Perú: ¿cómo ayuda la tecnología a que sus negocios sean sostenibles? &nbsp;&nbsp; Revista Economía",
+        "source": "Revista Economía",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON2VpbWt2Rm02V0V6c0FhSUlIZTNjN2h2SFNkeGFiMHJKaXdsZkgyUHhWU0tXYmNpV3UycVpLREhQMUF0QjVsR29yX2UyYzVoemZlb1cxbnM5a0RpcVRVeEJqaER5WUNtTGdYdkVLYkVsaVF5SmhpZElvai13U3p1QnVMZ2hadkxsbWp2ekNoOW1qVi1WY2Nxc3ZhbGg1dzVuSHFxOXVuMTk2eTJIRlFRUVBtTkFfMlFPMzh6STM1RkUybVNieF84R2lhNk56YzJlSkVrdDJhQWtVZl9HVmNNMGVR?oc=5",
+        "publishedAt": "2026-11-19T14:45:54.000Z"
       },
       {
         "title": "Radiografía sobre el avance de la IA en las empresas de Perú 2026: un ranking revelador - Gestión",
         "summary": "Radiografía sobre el avance de la IA en las empresas de Perú 2026: un ranking revelador &nbsp;&nbsp; Gestión",
         "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjVQVGdiYVZIZkJ5VmZROHlQc3NmaXl4bkJfeXhuc0VnZXpyWHhGZ2N2UmJ3TjlDZ2pzMjhfZFdJNXNKMEZicDItTlhBZ29nM01hU3FJZW42SDk2c3BQNVAzcmxGU3U5a3FKWEZEWUhMQUF3d3dXTUJEWllSNkIxRmhJV2QxdEx5Vjk0QWwtNGRnQnFYWkE1cEFack9TSGlIci1hMWEtZzB4VkJDZXpCTDNyVEFsd3BrTTA1ZlJPdVc4SmpQSGdZ?oc=5",
-        "publishedAt": "2026-11-18T20:30:00.000Z"
+        "publishedAt": "2026-11-19T13:27:51.000Z"
+      },
+      {
+        "title": "Fernando Eguiluz, CEO de BBVA Perú: “Mi primer emprendimiento fue un negocio de agua embotellada” - Gestión",
+        "summary": "Fernando Eguiluz, CEO de BBVA Perú: “Mi primer emprendimiento fue un negocio de agua embotellada” &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbjBIUUgzOE1hX3lTVUpNd2pLNnhmcnVCLUJwZWpONkRrSEV5YjR6UFFUSnZwbGNPYWRBblJHcUZlcWI5N2R0c2U5UWVSZ1ZTaThVSlM3eG5MVEpGM2VWV0tNdVF1T051Q09FOHFpdmJDRFNoY3Q5WWZucWZwbjdIazN6RGQ4Z25YbTVGYjgtMTNXa1NscHlnbmI3WGJqenc4eGxLN3pZaGN2bHlxbjdjWFFWMWpLUVVkYjVWdlB0Zm9rVURmNDVvOTNUeEFfYUZZWEI2ejg1SEFpQ0owR1ZCT3BUb1RacW1FS3lJdGNaTmw3a0Jh?oc=5",
+        "publishedAt": "2026-11-19T12:26:00.000Z"
       },
       {
         "title": "De ideas innovadoras a negocios tecnológicos: conoce a estas emprendedoras peruanas - Business Empresarial",
@@ -215,13 +222,6 @@
         "publishedAt": "2026-11-15T21:49:22.000Z"
       },
       {
-        "title": "Emprendimiento en el Perú: 5 consejos para jóvenes que quieren iniciar su propio negocio - tvperu.gob.pe",
-        "summary": "Emprendimiento en el Perú: 5 consejos para jóvenes que quieren iniciar su propio negocio &nbsp;&nbsp; tvperu.gob.pe",
-        "source": "tvperu.gob.pe",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLXV3aGlFVWRaTWxXZThzVnJIdWduVzFVb3ZjVkR4cFdjZHB2aWlaZnktT0xrcWMwdE5ETUxOQ1MwS3o2T0ZiSXhWUks3a1VLRFVTNV9ENXRQMUNZNWcwUWxJTGl4UWRBa280emZET3MydjlvRVZhTmlrYW5ZTjdxYjVocHo2ZWxGYUVHSUhiRER5OTFNZnl4WVFFcnJxWTNMd0w5UlE0SmZzdjR5XzJveEhGbjNvNTBxanVsTGxzNA?oc=5",
-        "publishedAt": "2026-11-12T00:38:21.000Z"
-      },
-      {
         "title": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país - Infobae",
         "summary": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -237,6 +237,13 @@
       }
     ],
     "ideas": [
+      {
+        "title": "Ciudades sostenibles: los ciudadanos pueden pasar de habitar sus espacios a diseñar y transformar su futuro - Opinión Bolivia",
+        "summary": "Ciudades sostenibles: los ciudadanos pueden pasar de habitar sus espacios a diseñar y transformar su futuro &nbsp;&nbsp; Opinión Bolivia",
+        "source": "Opinión Bolivia",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMjFBSHlmb0R5bG9aY0NscjB3UU5GRGVsVGxTU3hzNlZWc3FFem80UGFtSkdXZ19QakJrY2xsMzNTTklFVTMtYVQ2Y0VmeWYxclRrQVlIeTBGUGp3elF0NlFiLTB5Z0JXRGs5aUYtSUQ5czMxZzRaUTl3SXQwUk5UbURRVFhBWVlQUGtXSTVJSGFfVUpVMUEtcjNmUU9JRloweWZ1RmFJTDVLMGZLTDZfZms1blh0cmlBeEdJSDZaazJuVklva1VqU3VDOU5ab3VqUzU2alJpeHJEcmRvNS1jb2tXOXNDX1RuT1dPNllnT2d5cUIx0gH6AUFVX3lxTE5LZlJKc25lYUpLQ0l3ejM0SlhQRGFsVE9qTE9SbkFrc1JuaHE5UXE2MU92VXlTb19QejNlM2Y5SGVWc096cndDSld6RVVBdEVlRjQ3MkM2Q3NBeHFadkNpRVZIb1l1M2JSbzgtNGVpak1lNmxGalBuc0Q5V0w3RnA5aFpzdWJHQldNdlcwbnhFa1ppOEVxT0hFaU5HWDZsUk85dEcyZjRxSUFmN3U0bXFTaFJhYjFXaWJNblhsdFFObGFNaXdadmdTSFpFMFZkZFdxMTRmUkE1bVd2UW9taE9UZWdGMkpnM1pkeE53VlBKd0ZCS2JRMTlJbkE?oc=5",
+        "publishedAt": "2026-11-19T13:46:48.000Z"
+      },
       {
         "title": "Córdoba presentó su experiencia en un encuentro internacional de ecosistemas de innovación en Perú - La Ribera Web",
         "summary": "Córdoba presentó su experiencia en un encuentro internacional de ecosistemas de innovación en Perú &nbsp;&nbsp; La Ribera Web",
@@ -257,13 +264,6 @@
         "source": "Diario Correo",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb0poQURJU3pFU1hEWkgyeWljNzJrZGJvNXRZaExvaDZtbHVJdi0zRnJSSFBVV0tIakRhdWkxbWdBTTRWZklrVzRDd2x4VjR4MjRPb2xPVDExNGhCYmhKSWYyQzRERV9PR0h5UlM0X0k4YXhtYUFLMTYzbC1EX3lCUUtiTnN1c2xiMXBmVU93ZHZRSkZvN2NFUHcyU1E0TFAyUXZ3R1lrWk5lTkk4TWs4REhhdFFyNlNEZEJ2MEFDQl_SAdQBQVVfeXFMTkpZTkpPS1J5VkZXRW1MMHpxZFNfSXBfZ3RHM01Ld242bE9ZQnZiQ2FmTVVnVmtQcF9haG42R2dhM011a0tpVlFiUnYzcVpLa0FManVDOVhXd0VrUVdDMnFHZXpuamJQcUNKMUxFVmVxUkpycEx5YzlXX0FSLWJUSXVYakpCMjBWQVMyZXVOaU5BYlpvTF9TajB0MFBySTE1UmVmMFpvUEtxOWQ4MnZuQjd1U2lhZTdUbFVTbVJvaWhHclNmMkhrbGhnVlpReGpjTG9NcE4?oc=5",
         "publishedAt": "2026-11-17T19:23:58.000Z"
-      },
-      {
-        "title": "De la cultura deportiva a la innovación, los siete Grandes Ojos de El Ojo 2026 - Mi Punto de Vista",
-        "summary": "De la cultura deportiva a la innovación, los siete Grandes Ojos de El Ojo 2026 &nbsp;&nbsp; Mi Punto de Vista",
-        "source": "Mi Punto de Vista",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1FPaXpoWllDNUh4d3VOcGlzZDRYMUI5eGdJR3pjYmdHTVphTkIwSEJ6QWJ6TldfYlU3TE1RYVNFZFM4dFNrel8ydng0ekxURDUxeVgyVW91UU00eTRZOURNRnNQVm1YU1g4ZEZpeGg5LU1QSzB2b21HbEdwaDdOSTVCalhSbEdzRVNEZHduVnV5QXJnelkyd0x0eWFWMVBvOUFzRGR4NWY0TGo3a0E5R3BB?oc=5",
-        "publishedAt": "2026-11-14T01:12:58.000Z"
       },
       {
         "title": "VML NY + VML Spain logran el Gran Ojo Innovación para Aritium - LatinSpots.com",
@@ -345,11 +345,11 @@
         "publishedAt": "2026-08-26T07:00:00.000Z"
       },
       {
-        "title": "Inteligencia artificial: plantean guía para convertir la tecnología en valor para las empresas - El Peruano",
-        "summary": "Inteligencia artificial: plantean guía para convertir la tecnología en valor para las empresas &nbsp;&nbsp; El Peruano",
+        "title": "Inteligencia artificial transforma la salud y acelera la modernización hospitalaria en Perú - El Peruano",
+        "summary": "Inteligencia artificial transforma la salud y acelera la modernización hospitalaria en Perú &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWU9QeVVMZWZqNkUtQXdqcjB3YXFvWERHQ0pDZ0RtSUdoUktaRk1wcENGWENlanFfRlljS0NHVTdnWEgxOUpkYWphRXdqa2RSTWF6SW8xSmhBRmdBZElfb1oxcWdSRGZzalNJaFQ0bDN6TzhHOFJTN01ORHdmaUJCcHMyTHp2Wlh4YVRPUExEZDNQRm1wWnU4d1FjeE1kNjRYZlk4dlJuNDhiMzlqZzVmSGdSX2QtT0Z6SEdGSzFsM0NVb0E0Y3pJWQ?oc=5",
-        "publishedAt": "2026-07-13T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeGcyN0M2VUxPY0gxN3d3Y2pGMF9fbFlYZmk2RGpXWS1neU1oUTBQME5hYnNaNXV0andvZmtrY1dqQ3lxbUtVYmxsN1BYY1hkLWJ4ZXVnaHZ3dFVBbE1uQ1o5aDF4QS0xZ1pmWjgzc3E3ajk1MmFOb19IM2dSd3dCdkxZZXBUeEZIY2xYdmx3el9LbHdaZlM0b0g1aURrTXlfdC14cWRCQzFCR19BMExtY1RtM2VRVFRoUzB3U1ctR0JYczEtci1zaXhuTQ?oc=5",
+        "publishedAt": "2026-05-13T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -359,6 +359,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXRuQnUzVFlpak42cWxYOVpfVVpBZDI1czRfY3I4cWpWdEtqOU9FWURLVjBmNjM0VzE3ZThLY0tLWXVaSmI3VDdsNEpqMUhNaUpJblFRX3E2VTBhSmdZcWtISVhFN01GeUhUbnhSVDEwejVpeFc3Wmp0a0ZTT0dXWGVpNkpSdFNDbC1od0xxRVVZbVB4MEZFUkdnQWlaeDNnNERJenpQS0RIQ1VPbDhPSkZjYVFJSDFDQ2h4enMzNzFRRy12MWhOZ1hNb2t5Z21UZXhIaldndkROWmZzb0pmcdIB-wFBVV95cUxPVlU3aUg1a2ZCaGg2c1M2WEV3cmFvNHc1N2UyYnZaRnlBVVR2Wngtdl9rNEEzT1B3YldhUHV3U3JBbnB2QzR3WEEyTVNCa2lpYWtNZ0J0VnM5ZzBCYlZST1lLX0NZb2ZPRVNIb2ZHQ2owLUpKYVFlcWEzMG5QaEo1OGtOVFVFR0d3Wm0wOUIwd1Y2enlYNm5WVXVVUGFSeGtYZ2F6X3Nrb0FSWEdmbWpZbHZBY1A0dWJCZUpTS0JSQy1FeG9kTW1EU2dhTWFvbC1YQ2hVSDVucDFWQ25UTFgtMUVITnpxendkYnpicWNoWHJiZXUyQjNydDJPRQ?oc=5",
         "publishedAt": "2026-09-29T07:00:00.000Z"
+      },
+      {
+        "title": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” - Infobae",
+        "summary": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZkl0eXcxNEwyUDZrN1hILXpPcXg5NGtQOEw0OEl1bUVRdGY2Y1ZSQjNIbzY0Unk5czQ0MHRoUk9qRHhKQkJsVjVKMGVWLWx3b0wxYTMwM1ZNQ1NGSDA4dWcxTndOOTRuRW9qcU5WbndpaGpiellyQXlDNndLWU4yUkt0Y1NzX1dyNFYtM2xKRTBoTHQ2WHZzWDFBaXRwZzVKdEtIWW9sTVBTLVRWUEpJWGx1c0hUYWtyOWkxdFNkLXA2Tngya0RsUTNWV3I2Nm40LWpRTmF3TTdUX2pHNUg5NDBuUmlxOFVsNFhtUklFSXlLUFJpblMyY1drZ2bSAZcCQVVfeXFMT1o5dDZIVkxkRW9fa05iczBSeUxGUG9OaFlGaVp4ZmNNbkFpUWotS0ZScVdJNkpieG55VllmcUlscFExVHhYVHdfSjlHZm50SGJuNUp1NmFoOHRkeDR6dDdfOTVISXlodGt1MUcyaXRzNUNhc3o2cU1RVjc3amExb2kwZWl1Z3piMW1UYVNORzNZMFVwRmZneThyYW9WNktDX29SR0hGZUYzMm9JeDNWX0dGYjZCVlBKTWNBdnptSGFtZTI4Y0cxeWU4UGI4RGc3WVl5UXFKaXdyeVk3OWpZX0ZGOXZheU40NGg1b09LUksxRW1INjdLb3VtUmNZbUh2RFdQRU5mV2lCNEtEbzZJSGQ1emc1Z21v?oc=5",
+        "publishedAt": "2026-09-24T07:00:00.000Z"
       },
       {
         "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
@@ -401,23 +408,9 @@
         "source": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNHB3Q3VNa2NsSkFlN0U0UzEtWFRURUNsNVFzWWJNcXBCTUNqeVhBdElLOEdfSTRZSURTUFIyNG9kMDBvUWFoeW9ham5tNDQzMmg4Z0RhN2tSeFJVUy0xYXBsZkpFcXB4RHFCNHgtSDUzWFdwTEI3VWRycWVkVWtCTmdWY2xrZlJjaDlXSkJPM19YSUxYS0tyMXhPR3VHTlNMUXI5RFRXd1NwbHppeWFNZ0RxOU56b3lhWFVKZ0hiU0NIWGlnaEE0RGVVa3NYbUd0NVFBM2FpMzh4Y1hZWDhz?oc=5",
         "publishedAt": "2026-08-14T07:00:00.000Z"
-      },
-      {
-        "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
-        "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
       }
     ],
     "farandula": [
-      {
-        "title": "Esta es la historia de HYBE, la empresa detrás del fenómeno BTS: De una pequeña agencia en crisis a un imperio global del entretenimiento - El Comercio Perú",
-        "summary": "Esta es la historia de HYBE, la empresa detrás del fenómeno BTS: De una pequeña agencia en crisis a un imperio global del entretenimiento &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxObHM5dTdqa0M4Rk1iQmlZMWpzek5KOWVnVEJPa2dOZ1FHaU9KWTdvMm9lNU54bllKY2YwR2M4Zk1KNEw0ZUZtblJHLWN1LTZGVTlZd1puSUZDTVdfMkhnY0lxT2JzTW82Y2FfRHBxRlFvR09JNnpsQTVfdk8xMnBRdDRvVm9YQlR2X0o2Sm1yWVhJXzJBYXFITWxYQ2VySkp2ZVBicXByTm1CSERNbHFoTDI4TXlPOXI2ODVkZkh2OC13UzVnVExpRi1iRF9vOUtDaktSeHNtODd1ellLc2VtT2FIckJfZUQxcUhKa3lCcmxQQWxJV3pic3NkX21WTXF4Qk5hU1pPVExQdko2ZjdxSGtvcnl1dm91aVFyaGY4aWhLdU3SAbcCQVVfeXFMUDRVV2FEVTFaYm5NXzNualpESEREMEpfU2ZKVEpqN0hvckxNMHVjaXJlaXV3LWtQTWUwOEdhTXNzNVZtQ0xOajhSSEFpaE9HczNPYUQ3QVlaNmNUNjJpeDFaZUk2bXN1bGFlYUs5eVpVcVFDX3BweW1UVlM5WXBUdnQyQXNOY1R2Z01LUnlqYzZRaEptREI3Z3N3Z0hjY0pUcFh1RU95OEhjdGxnUVBpajF2Z3p0TkpIR3BKajY2NV8wcDRvZGxSQmNOZGJaSEJVRlhkaU4wQXNJR2FsOHQ2cllBdUFidkgybW5fNDF5Zy1maXlvWkVDNVV0QUNiUllMcGhNVG1RMmRiTTRSbmhCcFRnWWxmd21aUGo0YnozVmw3ZExHdmxqRkR3a082Zzk4VFU2d2gteUE?oc=5",
-        "publishedAt": "2026-10-09T07:00:00.000Z"
-      },
       {
         "title": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS - Trome.com",
         "summary": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS &nbsp;&nbsp; Trome.com",
@@ -447,13 +440,6 @@
         "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
-        "title": "Yaco Eskenazi revela que carga solo con las deudas del hogar y genera polémica en farándula peruana - RPP Noticias",
-        "summary": "Yaco Eskenazi revela que carga solo con las deudas del hogar y genera polémica en farándula peruana &nbsp;&nbsp; RPP Noticias",
-        "source": "RPP Noticias",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNm1WZzNIVUtUendDZVRoZGVHRk9HdUJDVjdGMFVKOVVabzhHTXdxalRTVW1WR01kWnpwMThsTzY2Y0ttQW5MWXBpUDZLNzlVVHFNQVluYlBKdV9qTXBtd0FBelNWNVlTWjZRdi1yck42ZVpIWTkyS0MyRUI1QzZjODhPY1hiUlB6eV9iTHpNQ0RzclpYNVZxLTh2dXYyXzlIZDJfWGYyel92VU5nbjBqaV93aEZjM0NPRXZwbTUyMHlMVVI4UHFsenk4TWkzTS1qc1ZzRDQzUVhzeVFKaTY3M1A4LUR5YVE?oc=5",
-        "publishedAt": "2026-08-30T07:00:00.000Z"
-      },
-      {
         "title": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” - Trome.com",
         "summary": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -466,15 +452,29 @@
         "source": "Diario Correo",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
+        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
+        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
       }
     ],
     "cultura": [
       {
-        "title": "Zott no podrá asistir a la Internacional de Campo de Marte en Lima - https://urbanstreet.com.pe/",
-        "summary": "Zott no podrá asistir a la Internacional de Campo de Marte en Lima &nbsp;&nbsp; https://urbanstreet.com.pe/",
-        "source": "https://urbanstreet.com.pe/",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmhjTHdhTU90eklHYUV6dGFSMUJqZHBJcDF3bTJYSmVpWlM3SkJTS2hyVGszYVFRNWNTRk0tMmNlWl82Vnlzdjd0VFdidlJzTXdUSlBBclVBd0hoQ29rbC03VW9kNjZtZzhjZU8yd2h1WS1LTEdYUjBtOWN3NzBTbWR0bklDSXhndWNjX0ZsZHlfdmpuaEVB?oc=5",
-        "publishedAt": "2026-11-18T03:48:27.000Z"
+        "title": "🔴🔵 Papamóviles del papa León XIV serán exhibidos en Lima: conoce AQUÍ dónde y cuándo podrás ver los vehículos 👇 - Facebook",
+        "summary": "🔴🔵 Papamóviles del papa León XIV serán exhibidos en Lima: conoce AQUÍ dónde y cuándo podrás ver los vehículos 👇 &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTHdhcndsZERZV0xyaG9EaWE0ekZ1eTdzczdya2FKSEEwU0VfcUU2UTBXWWl3TnFTNDdaS1BFOElUSUpVYThIWC04aFd6akFKNDVrQW1Ga0RoOVNJbjFEVXNTX3FPOHNEQVhVRS1RaHlVazNLUEE3ek0tLU1xNzNkQVpuLVV3YjhiUTdnUml0aWxUN3lydHlXRWQ3bDY5N2s5YTBwaTZaT0dxZzVfVzIzOWZkMm03SXkwX1Z2WEJOY01TQVQ3bjl3UEpWUzBxVnFRMWhnV2VhNWwxU1Vzc2hZNEpHdnZ1YWRVQ0pmRXEzcUJNQl9Lc1NxVXZHbW4yRXotaTJlQTFB?oc=5",
+        "publishedAt": "2026-11-19T14:19:04.000Z"
       },
       {
         "title": "Humberto Vélez, la voz de Homero Simpson, y Cony Madera llegan a Lima para «Anda la Osa - QMC Oficial",
@@ -484,11 +484,25 @@
         "publishedAt": "2026-11-16T19:27:22.000Z"
       },
       {
-        "title": "Supremacía MC 2026 resultados: KG se corona campeón internacional en Lima - https://urbanstreet.com.pe/",
-        "summary": "Supremacía MC 2026 resultados: KG se corona campeón internacional en Lima &nbsp;&nbsp; https://urbanstreet.com.pe/",
-        "source": "https://urbanstreet.com.pe/",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdEJ3MmZMWlhvcVZTUWhCR3B2N2FuQ2NBX3NIQ2dzeE9mT2VSOEo0aWdFYzNRTmJMQ0I0M2xqYmowZFd5UDRYbkpVbWhXY0w1YnhkaU0wRUllTTR6bUl2N1ZoMHh4eGlRLXJHbUVZamhoQkl0aHBydXl0WjVWU2x1bHpwbmh4WThlNlMzRG9JM0tlU1ItOVpXVm90OTA0RnNVZ2I4dUJTcw?oc=5",
-        "publishedAt": "2026-11-15T16:45:32.000Z"
+        "title": "Conciertos en Lima noviembre 2026: fechas, artistas, precios y dónde comprar entradas - La República",
+        "summary": "Conciertos en Lima noviembre 2026: fechas, artistas, precios y dónde comprar entradas &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPR1dWQV9EekN2TVZOLWZpTW1ycnpUYldmaXZxclJROEVjR0tqQWt2cTN1UnZWRUl5VUhRNnktTXN2cDNncUQ1UU82UzlESWVEdm1idlBWQ3JLcHVRdnBGUGpKWXkwQkwxWndhb21wZXR3eEdlNGUtUGs0a3NhMlFGQURKdE0zOWF3QzJPNUJtNjR4NGUxVEFiVnlRZWZtTmQ2cV9KWGhfNWdPX05nNDZQM0RNSUhaX0NDUU1aOTQtUC1SZDhhY1oxQkR0M0ZRdUxVRmZSRE9tR25NVTFXX1dPRGoyWnVqTmk5Z0FWZmlhOUVXTE5oTFowelBSRFRtM0xmeGc5RkZR0gGLAkFVX3lxTFBCLXRKcHp1dzFtWW9BbU1EQ3h0bVd6UjdFSnY5YnJTcDhEVEJHekVrYXRWeUhwRHVzWGN6alNyUlpWUmdYekRkS0NkV0JTUU9KLVJWOFBvTWdEcGxNS25Qd3FIRUJhVUxEa0lPNmRoZUEzWGMzOHF6bnJheVFra2lGbVpBM1hHOEFSVng2UHp6MlY2V2s0NHhac1I0LVd2U2c4Mk9rRmZLU0FNTWkzTDg3bVJ1QkcxSzB0OVhwSFFTaDR4MFZNUU9yUDdLcThTWkY4aVRUYXZ6clFlM2s4RHdCbXZadHBhbHgyRmQwV1ZWaWlxTXNONzJSMzMzWDAyLWpkU3dlSmlWMjEyZw?oc=5",
+        "publishedAt": "2026-11-06T08:00:00.000Z"
+      },
+      {
+        "title": "¿Qué hacer este 31 de octubre y 1 de noviembre en Lima? Lista de eventos y atracciones por Halloween - La República",
+        "summary": "¿Qué hacer este 31 de octubre y 1 de noviembre en Lima? Lista de eventos y atracciones por Halloween &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUndpd2Q2d0NqelF4aXktNDZqNkJoLXZhaFFzdjR2X1ZwUXVId3oxMTdCWVE1bFhWRnc0cW9kZzJsSE4zUE9OWUZOeFpKOUhJZ29nQUpXMTB4ZU1jaGZid1BORFNrTjN6b3lPUmEwYUpNY3VQd1JDd0txTng1UTYtMk9aMGE5QXhpSGNpaksyMTRTUUhQdG9UU3g2SzdWdk1KcXhvdkZfRmstREFITU5sQjBhZkJ3c2JldFM3LUtUMHN4NjBYMTVOb0VnZkhham1qTXN4VF8tVmFuUmh6M0NSOG9xOEpRdFk4Smw1ZDVoVWVNWVcydVRza1B6dTBNak4xOXM2QjZBb3QwU03SAZACQVVfeXFMTXZJQVZhV1FqdXZILU5ZbGRyYnhLMFFRZXdqaTZZcW1vVmFlWUpQcVdBNjNucXRCREJjZEZNcVdaTXJ3TnFSTjVybzFfbmNEcG1sS3VQVV9VLWh0dDNUOFlqOTYwcmktN0puODI5Zzhod0J4QUZ5amtGTFU0U25heGpyXzYtNUNHbFNRejVXdXJDSnpXUDhxSkhwWXJnUWZrdVVjcHJ3aHJpT0w0Yk5raEFNQWhrc1phZFFMN1dmMlRWV0dGS01VaVIyUEdEeUdEYk50eFIwUmpDc3MtZlNCNjRMbkVtUW9TUUhDcGFabFFLQlJ0ZElQQ0VtZXM1Mll1N1Jsb2YtS0Vkd3pYYjE0aVY?oc=5",
+        "publishedAt": "2026-10-31T07:00:00.000Z"
+      },
+      {
+        "title": "¿Sin planes para este fin de semana? Estos son los conciertos por el Día de la Canción Criolla - Perú 21",
+        "summary": "¿Sin planes para este fin de semana? Estos son los conciertos por el Día de la Canción Criolla &nbsp;&nbsp; Perú 21",
+        "source": "Perú 21",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU3dESFd2SGlhTVJQN21BTHJkQnN1MDhGQV8xU3pEb20ySElrWnRUNUt3SUdKSl9pUDYtcE11S1JhS0RFS0FtZzhIUU8waURCOWlIeHhOY0RBSVlXRWRjWFNaSDU0M1l6TUhzZG04NS12TFJSN2RrMFBPbzh1U2NyZVBSWG5MRDZyQ3dteg?oc=5",
+        "publishedAt": "2026-10-28T07:00:00.000Z"
       },
       {
         "title": "31 Minutos llega a Lima con “Radio Guaripolo Tour 2026”: humor, música y canciones que ya son parte de la cultura pop - Blog Joinnus",
@@ -505,25 +519,11 @@
         "publishedAt": "2026-10-16T07:00:00.000Z"
       },
       {
-        "title": "Conciertos Perú 2026: ¡Los shows que no te puedes perder en octubre! - Blog Joinnus",
-        "summary": "Conciertos Perú 2026: ¡Los shows que no te puedes perder en octubre! &nbsp;&nbsp; Blog Joinnus",
-        "source": "Blog Joinnus",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObE5jdThacG00eDdmY2hBcnIyVE5QWmdEcjl6LUZGcFkzYWIxbjAyN2ZvR2FkcGk4Sk10UGFrY3JjdThVbDlRazVwaks2WTItTHRsWllENFdDWUg1R3dnQzdta095eEpobUFYSnNSWENhTl9JMXRsaGJ3SG1kSjJYTWNRRmVHalhkQ1hrajlxUm5CeEdwN1E?oc=5",
-        "publishedAt": "2026-10-01T07:00:00.000Z"
-      },
-      {
-        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - Blog Joinnus",
-        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; Blog Joinnus",
-        "source": "Blog Joinnus",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQempKSjE1ZEJaSUlkTkxKb2ZEb01WelVBMUZpdUMxM1FSR3VlUlZZalFqUnZJMnhWcFc5UUdoZVFMOG1TbWpzc1BqTFUwbTl6MEhWR2NpSW95RmhRQ2tFSFM2NXZsQjFNUXVsY2k5dS1HRUlzU2pJMEN2SGMtSXlBOFhCbVBSVExUWGxFWVV1dTJCbFdtY0Npdmk4UUlFUkxXQi1QRlFCdC1VWG9jR2hxS2xfbGRGb0tGMGl3MzFrNkdvYjVp?oc=5",
-        "publishedAt": "2026-08-19T07:00:00.000Z"
-      },
-      {
-        "title": "Día del Niño 2026 en Perú: Eventos gratuitos y actividades para disfrutar con los pequeños - Infobae",
-        "summary": "Día del Niño 2026 en Perú: Eventos gratuitos y actividades para disfrutar con los pequeños &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNnR0aGw5UFdHdzU5OHpGVERlZUJBM3VIdmhZemsyZzhoeUNuUUcxZDdqbWJmeDNaNDRLaGNRWkhsdlZrRTQyZTdnS1JzaWVXSGt2cFRiSnR0cU1ibDJkdEVVa1lCclpBWTVMV1RPcG5Wbk5TZWZEXzU4WWZJLTIwaDl1R2FkbVBrMHZydU5wN3NQdklna2F0aFFOZzduWF9jYVhEdW5qZFF0UDBpZ1g3ZHJ1S1p3VkdUdE9DZnN5UHJKM21GU3FWbVJR0gHkAUFVX3lxTE9iY29iOEVEMTIzelZVVzNleGM4REVzWmIzc09WOXNWd2dtZ1V4VUZ1LWdXaExoOUM5OGdjUWJja1ZUZ1VYdzN3OTJXOVhoUFo3QUotcnhuQkZZUU9xcGx1V2lYRHpUbzc5eVg2TVg3UGJPeTdkeFFwQTB2UDJXa2RQNWFkQXY3N1BKcnlQazh3S0hXdnkwS21Ha2xHd3lDdFRMd1ZmQW1BdU5PTzNYVHBaNFB0Rm5IUTFBUm01bFVDRnFfeEwxbUVZSWpOUFpzRzN5Rk0waEdKYnZpeHhBV1F5Zk1hRA?oc=5",
-        "publishedAt": "2026-08-15T07:00:00.000Z"
+        "title": "GESTIÓN CULTURAL - Universidad de Piura - UDEP",
+        "summary": "GESTIÓN CULTURAL &nbsp;&nbsp; Universidad de Piura - UDEP",
+        "source": "Universidad de Piura - UDEP",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiWkhiemNzNXJHNkFyck42VnUxVjhseTR4Zlh3cGVhWXhEMEh3OENkTGdWN1RKRjJ0QWt2SktUTU1JVGxnbjJ5RTdiekxjR2NyY1Z1d21SS3VXNnI1eXBoMTFLZ0ozdw?oc=5",
+        "publishedAt": "2026-09-01T22:44:58.000Z"
       }
     ]
   },
