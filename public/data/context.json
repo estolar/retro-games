@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T18:41:53.962Z",
+  "generatedAt": "2026-11-19T00:59:22.011Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "topics": {
@@ -64,6 +64,41 @@
     ],
     "economia": [
       {
+        "title": "Doble Fenómeno El Niño y guerra en Medio Oriente afectan a Perú: inflación, combustibles y alimentos seguirían al alza - Infobae",
+        "summary": "Doble Fenómeno El Niño y guerra en Medio Oriente afectan a Perú: inflación, combustibles y alimentos seguirían al alza &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON3NFNm1ZMzBKMkxnYVNYQ295eDMyaE9OWEpEWXdSSGFEMS10LUdlLVhfRFhiMGxVYUJHWjlBOXlyVjlQdnhhVmQxVEVEZm15TG1FaFhpaUliQTY5aUlYVzctZnBObGNJRkJUQmVMTWhUX1F6SHBudU1heVI2ajg4MGZBWGQzU04tb3NVel90UlBZckxEeEZRbXBmekZiVmlyRl8tSExyX0ZTdW80M1l2Z2ZvV3YxRWc5M1VDSDFQenhjejNvYWFhbXpuZFJZQVloZXZ2R2JzbTNnaVBNa1J1d2VoNy1DVkh0RTdtbWVB0gGIAkFVX3lxTE5kb1pjcnZtODUxSHk3YmRNekpBMW5yTnZMcENGSVV6Z0t1MnVnZTJ1VU1SMFI2dHMxZmlyNlAxNXY5Vkd2MXlrUkJ6aV9GYU9JOUNqdFhrR19tQ1E0eERQekVaSE90NUd1V25yTmc5TzdPazBoQ2M4OWliTW1NVG5tR2YwWWRmQXRZdFNGa1lzT0lGdEp6VTczUFMwWnBmLXNwM0t2QkhTX3FTMW5UM2pJNXdvUHI3ekFnbVVsZHNSRVpxVnN4aGpzdFF2MUxLT2h1NnhsNWdVcm9HbkdYUjFNQmptMHNlLVFPSlllSlo1Nlo1ajNpVU9rNC1wTi1TWE4td3JXaHhITA?oc=5",
+        "publishedAt": "2026-11-19T00:21:00.000Z"
+      },
+      {
+        "title": "Julio Velarde advierte que el mal manejo económico puede provocar décadas de retroceso en el Perú - Rumbo Minero",
+        "summary": "Julio Velarde advierte que el mal manejo económico puede provocar décadas de retroceso en el Perú &nbsp;&nbsp; Rumbo Minero",
+        "source": "Rumbo Minero",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEM5TmxHOEc1bjA3bl9aVzd6MGhJR2paQVgza01wckh1emtjTFc5LW13cW82QW4wbEV4Nk8xSUd4cHdFbGJPNFNCLUEtTDVYTGx3ekE0cjFuYmQ0cTRSRXN1cXhlVFJFUzhTTExhc3hxRG1nUU04MThjQnFCT2Fka0k2ZEpURmtXbUpQX2EzeTkxeUlxaDlra0Fsb3pSVXNZVU1VLUpJci1ISmtVYlk5MlBkYnE?oc=5",
+        "publishedAt": "2026-11-18T22:10:27.000Z"
+      },
+      {
+        "title": "APEC: se abrirá nueva era en las relaciones bilaterales con China [entrevista] - Agencia Andina",
+        "summary": "APEC: se abrirá nueva era en las relaciones bilaterales con China [entrevista] &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnF4czJuRVA0azV4QmMwbUJwQWNEbWo3b3lvTkxNNEJ0LTRHeURwa2xBRjZibEZUZDFNUVJMOTU3SF95dHpRbXN6YWIyQzc5NkFjYmxjSkdrMGNmQm5vT05vWTgzQXZacW5XQktvcXozcGdEcUVJb1k1WFpFYnhQTnIyaE40Mjd4T2VyMWFzRGM2Qm9zYmxSS1h1ZW9HTmthTVBBODRlc1oyUW1OUVgzaDZsRXlZdw?oc=5",
+        "publishedAt": "2026-11-18T20:05:00.000Z"
+      },
+      {
+        "title": "Papa León XIV dejó crecimiento en venta de artículos religiosos: ¿Cuáles fueron los más demandados? - Infobae",
+        "summary": "Papa León XIV dejó crecimiento en venta de artículos religiosos: ¿Cuáles fueron los más demandados? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMkhyX0NOdWRHWXdGRGlGbkJGZHNqclVNZmxJYS1vTnBhaXFMM2Y5X3VDaHZ5emhWTkRUOTJBTXFWanh1MnBEZlF4QVZyR1ByZEhVbjAyOHpYRVdZUXZ0WlhIMENyalgyVTZxbFFRR0RLWFdVeGp5enhIZDAyYloxUTBQazFDMEc5YXY1N3NSNGkydmFPNUs2M29vUHVQZUFpbVJ3eVU5SllsTFg1MEVwMG9uOWM5bUVkVW96ak9QSHNQZjdSeE1XMWcxM2dxMkRzeDJF0gHuAUFVX3lxTFBFRFh5c1NHcGktYjBJNHQ2cTR2XzZKUmp1NzR0aXZIeFBmdHlpdXk1V1B3LXRJYmxZZEt4V0hVbmNGb0VEeXBtX2dGcncwSGFUa3Q3bTN0NEdhdGRTNjN1N3B0dC15Q2RzZHVoNEpySk5TeTljV1VTR05vX2VucEZZNU1zS0FOcTN4RklCeUFVaDFVbUl5alBmMkVpVmoycG9nSkRFMlJQS2pUVVpMQU9NSFVTVTdUWVVsbjl3QmdZQ0ZGT3pNeU5JRGl1OExHa29rNkZ5S3Q0YTNjeEVkczN2N3dybTgxV1hEakpLTGc?oc=5",
+        "publishedAt": "2026-11-18T19:02:00.000Z"
+      },
+      {
+        "title": "Perú sale a conquistar el capital global desde Panamá con proyectos por US$ 41,297 millones - Diario Altavoz",
+        "summary": "Perú sale a conquistar el capital global desde Panamá con proyectos por US$ 41,297 millones &nbsp;&nbsp; Diario Altavoz",
+        "source": "Diario Altavoz",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZV91QVNKUE16a3JSWEtRejJOREYzQ1BTZkNoWWdHY3c5RDN4emlxTk9JX3NQVnctc1d2ODZDZVZVMWdTUFc1b2prU1ZYM0NnOThQMGVEck4xR0sxSXJFYkVNWDFRbnphZ2dlbEdQVS16YXh2VVRYU1M1YkNKbmN0RUVlV1Rhb1RxZmtyUGFscWVKUQ?oc=5",
+        "publishedAt": "2026-11-18T18:39:18.000Z"
+      },
+      {
         "title": "Proponen nuevo tope de tasas de interés en 50%, para tarjetas y créditos de consumo - Infobae",
         "summary": "Proponen nuevo tope de tasas de interés en 50%, para tarjetas y créditos de consumo &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -83,41 +118,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdEtkUmlVYTRDZ0xtdnlmTUg4SVd4NnVMM0MxNE9kSnlSWGFXSUFOQXpsUzhDaFNRR2lnY09iUHpsNk9PUW5GWHZRVnNtVVd3eVdpaV9rVFJfNWxSQXNqb0s3ZmdYWHpkN1BQd3pfS18zdmRCdENwUnFSYUdwYnFzQzZuYlNxYXFnVEg5bUJERFZJQWcwVEppNll3VmVrenotVmJkTzNGdzVkandZZnNtcjBLOFMtbnpFUkRfSmthemU3eE10QU5rcF8zeVdweV9VS2xsaHNHelJmVmNTdXRyMtIB-wFBVV95cUxNbnZGcHJVRDcwWllVa3lieTdsZDVYbmFvRU02ZFdNc0RxalIxOTV6RXZETl9oUmJuUjNWUVphdlVJalRGSXh0Z0xCM2FQdVpMajd2TmJoMkM0WVhXMDVGQ0twWXJmaGZxYXZOc0YtbEdmUmNrdy1Fd3ZRbFhTaEdwNUVyVXdfZzhsNGMydFlHVVppemk3QnluSEZ1MS1qVlhzX2JqZGVsanQtdW5pWFViYnRCQmxmVHdMcnd2Z1FXRDVqLU52TDRxZHZTeTIwN1VRdGF6M3RVQmRfTmJ3RVM4QjJId09ZTHVlYUpPbGFRb21rRzJzN1ZfSC05Yw?oc=5",
         "publishedAt": "2026-11-18T17:32:00.000Z"
-      },
-      {
-        "title": "Perú en APEC: ¿cuánto les vende nuestra economía a los gigantes del foro? - Gestión",
-        "summary": "Perú en APEC: ¿cuánto les vende nuestra economía a los gigantes del foro? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHhxdWVnVUJLeVRqTlUtd3ZtRk5iZ09YQUV6MFZWWFNXYTNlWnpkNUNldEd4aUNFN3hiZDl5SlJxVTRzU283YVdJQ2RmU08zYl9GQ3RkM1BQVGc5bkg0ZzRqa3Naa3l6Sm1mRV9Dcl9Cd25HaDF5a0JTNzl4TmF0bGcta3ZmMkJWQXktYTRaenFZT0liZjdSd0Z2d3R1NU1xMHdfcjV4MENnRjg?oc=5",
-        "publishedAt": "2026-11-18T17:07:00.000Z"
-      },
-      {
-        "title": "Perú busca posicionarse como hub latinoamericano de innovación y economía del conocimiento - Revista Economía",
-        "summary": "Perú busca posicionarse como hub latinoamericano de innovación y economía del conocimiento &nbsp;&nbsp; Revista Economía",
-        "source": "Revista Economía",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcUROd0RYT2VZWTRkODNCSVVrVDBodVlmcUxpSWdUWHJoS0hRaGYzOF9WdVljbUNINFU5RWR0dEVXblNpMkJ3OEJ1Zzg5RmNhMDUwcHdaQzBYRDdJNWVhTExDWXlDRHZyNFZhdHFmUHpCOThRdlpFejZoWE1WRjdvTTQxRmVvNmdXajc0S2hqRHNyR3JFRE9hbUMwMU9WdTl2MGgwZTJrRnEwTmFmZU9VWmNZSWFRYzNWQnpPS09vaVo?oc=5",
-        "publishedAt": "2026-11-18T16:55:27.000Z"
-      },
-      {
-        "title": "Perú en APEC: ¿cuánto les vende nuestra economía a los gigantes del foro? - Revista Minería & Energía",
-        "summary": "Perú en APEC: ¿cuánto les vende nuestra economía a los gigantes del foro? &nbsp;&nbsp; Revista Minería & Energía",
-        "source": "Revista Minería & Energía",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZE01ZFN1Mzh4emxzWk1wX2RYdmZKYWE2ZFpzaEpoMTB1US1TUEhvRGlKRjFtSDZVSzd0ZEtRc0U1T2doUXJwdll0T3pjOEFQVGIza2RpdUpidFBEdDFHMHhMbFlSNzJneS1XeHp3bWp5aEpVZ0ctcHNfSGswVy05ZDA4d2Zja1pxMXVZaGcwR1JnR1dqUlVpMWh2dGFPOEk?oc=5",
-        "publishedAt": "2026-11-18T15:09:20.000Z"
-      },
-      {
-        "title": "Cronograma de pagos para trabajadores públicos inicia hoy 18 de noviembre - Infobae",
-        "summary": "Cronograma de pagos para trabajadores públicos inicia hoy 18 de noviembre &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMkZJQmxDZU1GRzdsMmliTFMtMnFpdDlPTXNVeVJEcTcwZVp5LW1iN3VvVDhkTk9BYU9aLUZQcEFoZTgtT2JsVXN5a1E3YlExczJ6OGlvRWIzaTNITS1uLTYxbU1Ma085Y2NuTm9xWUZFWmNuWmhTYUQwUXExZGtGWlRfOGtfTmRJR29xdzUxdkx4NjdmQlZuWnRZYkJuR1pvQWx6SUhTMDJMSER4QzJIcWNiS05fRkFLTkHSAdQBQVVfeXFMTldweDZDMEtQUDVBTnFmSEw4d3JFR05veVlHbVE4NHBXaVc5Y2RzaGloSUVSRWdNVlZJUlJfbHJnZXpTUm9YSFNOdkRQSTVxekd1ZmQ4TnNnRGF4NWJFX1IzaUphUjRtRWtwUWk1ekk3MzRkdjV6eC11dDlxaEtyckhBSU9sdTNlTFFMWXFsemxlcDd2dzlnUDM1cVRzd3F5VWJtbzVWMnNZdzBUUFpnR29OMFlOMGlFT1NOa0hnMXZJeF9senF6VExqa1dUNTM5WlJySWs?oc=5",
-        "publishedAt": "2026-11-18T13:18:00.000Z"
-      },
-      {
-        "title": "¿Cómo ha evolucionado la economía peruana en el tercer trimestre y cuánto impactará en el desarrollo del país en 2027? - Infobae",
-        "summary": "¿Cómo ha evolucionado la economía peruana en el tercer trimestre y cuánto impactará en el desarrollo del país en 2027? &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdV9qRk14M1Frb0V2eTI1VldBTnlLeTVoV08xWkJKenlRSjR3M1czZ0VJVk5HV0JXLWZBc3FBRWNreFp0blRuYjIxRVQza1N4My1ZbjZ5RG9fN29XWDZrZ3lCME02WGp4T2tOQlh3X0N0SzZOUU50Ylg3YWRmbFVCSGlodjlBbHFmeFV6TXgtTzRVdTZWanc5QVJaZzJPWXZPNWlGMEdieS1GWGNzczdmaGF3V2VSUU1pZ2Rlb0ZNMzlOR0dvNENUbFJmZW9UbFJTalgzblhmbzV5ZS1HcC10b3dMVEZ3aWM1XzBmUkF30gGIAkFVX3lxTE5MX21UbjdjVVJYRjJZSnJQcWVmX3VXVjAzVVVMZGZRZXBtNld5OEV1cjFRM0hoMlZrSTRyVVFoVmpDZXBEYVlqRl9uVVE1WXBSMm05cTd1SXVvYVZjNHcwMHhUSlJ3dFRjOEhsSGVFc3JVS2lEb1NBSVU1Y0loMXRMOEdpOGdaOHBJbzhlOUtRZGgyRUp2ZS1LNzdVV2pXcHdrRUpMTS1nOVB1OHNGcWRhWnMzYnMxT3ViTEhEc3VSN3FGcW1VVFh5LU1LT2lkN3Z6T2xuNkFSSDRiWHZTYWxMUGdiQm1IalVUVFhzLURKMlFLejdfZHZ5QnBhSmhkYXl2aEZKLVJwUQ?oc=5",
-        "publishedAt": "2026-11-18T11:46:00.000Z"
       }
     ],
     "sociedad": [
@@ -134,6 +134,13 @@
         "source": "La Voz del Sur",
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVVZtZk52LXBsU0VlbFlCNTF3SVV2ODg1aEpCMmE0UDJ2cmVpTGpfMkcyUG0yUGdMV3YwTXA5MGY4RkhnNV9KejlIU3ptMnoxLTJsX1B3Vk9HUWU3OWJjVDBZbDdCM1BTQ0FWZjY4SGpWamZtbksyOUtTTTZKLUNXQm9wSTlnc0RzemZOdEZBakxGSFBSamlPcm9vNUVlN0Y4eElfSi1PYThWZHVJNzhsdlkwRkRQRXBpZVNpR01YeGN3LWdwTjgyZEdNUWdfMjU0N3JVX1gtTExwa0FGMGJlbF9pVG9HOUREYlJUOWNjelhjUlZVdW9PeUlDdm84MXk2RktwTnkzOA?oc=5",
         "publishedAt": "2026-11-18T18:08:25.000Z"
+      },
+      {
+        "title": "Devolución del IDH sumará Bs 8,5 millones para Sucre - Correo del Sur",
+        "summary": "Devolución del IDH sumará Bs 8,5 millones para Sucre &nbsp;&nbsp; Correo del Sur",
+        "source": "Correo del Sur",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQk1uajFBVmtaYllFWnFXejhQUlRwTnVVUFRBSHZiSnlMZG5TNTBTYm4tTGNibDFzeHBkdTNVMWdlU1lRWWc1Rjh1ZnFXSVNtUmNpNHdxV1llVjZuRWZ1TUc2TEt3aHp0Q1Byc0FOZl80VEtVQ3lSN3JOSS0wcGZDNHctRGdKOXgwZEVYODllUlp6RDdiV2I4LTlJMVNYalJYV0E?oc=5",
+        "publishedAt": "2026-11-18T10:37:00.000Z"
       },
       {
         "title": "Nuestra necesidad de formalizarnos; Por Carlos Gálvez Pinillos - CanalB.pe",
@@ -164,13 +171,6 @@
         "publishedAt": "2026-11-16T05:52:05.000Z"
       },
       {
-        "title": "Hablando Braavo | ¿Casa o casco? - Evidencia.pe",
-        "summary": "Hablando Braavo | ¿Casa o casco? &nbsp;&nbsp; Evidencia.pe",
-        "source": "Evidencia.pe",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9US3ZUcktZcDNfblQzaDhLTHdnVkdndHlPTjhkWmtDQnI0bjdSTnNfd2xwY1NkNWZKcG1DZHJSSjJPemhLS1dKeHRwdXNjRUU5QmFOcDVuQnRnRF9wOHpF0gGzAkFVX3lxTFA0d1lMeHRmd2xFY1lXbUhsYmoydm9rbUlwYXpzVG5ROC1USjNMTnFRZ3J1ZWJZa25Uak55T25YTVNJNTRBbDl1bzFkSFNHR2o2OFExUHJqNXdHdHlZeENuYWtsZ0JsUVBRMFkyMXZ0TXdTVXUxdTA0LTJfZUNfdHZrSEpyMnpXaDE1VHBmOUVDand4cHdwVV9BMkFYbi1vbHlsclVDeFJIdTJvQ29iZGZoSEVvQVJNakozckZMZmo5ZU5kcFByYzBnT3FzeXZ6Y2VWUGNvZ0R0TDBXRmhiemZCSzVyN1hWcHVtWWRUb0lzZVQxSGFLNmZ6X09OU3JiZzRGaXNGRkZrWGpocngzYnVfejRQSDdTYUVIQ3JhX2RBX3ZtQUZQM3E3VHZrWFFEY1dhUDA?oc=5",
-        "publishedAt": "2026-11-14T16:39:39.000Z"
-      },
-      {
         "title": "Educación - Desarrollo Sostenible - Welcome to the United Nations",
         "summary": "Educación - Desarrollo Sostenible &nbsp;&nbsp; Welcome to the United Nations",
         "source": "Welcome to the United Nations",
@@ -184,14 +184,14 @@
         "summary": "Fernando Eguiluz, CEO de BBVA Perú: “Mi primer emprendimiento fue un negocio de agua embotellada” &nbsp;&nbsp; Gestión",
         "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbjBIUUgzOE1hX3lTVUpNd2pLNnhmcnVCLUJwZWpONkRrSEV5YjR6UFFUSnZwbGNPYWRBblJHcUZlcWI5N2R0c2U5UWVSZ1ZTaThVSlM3eG5MVEpGM2VWV0tNdVF1T051Q09FOHFpdmJDRFNoY3Q5WWZucWZwbjdIazN6RGQ4Z25YbTVGYjgtMTNXa1NscHlnbmI3WGJqenc4eGxLN3pZaGN2bHlxbjdjWFFWMWpLUVVkYjVWdlB0Zm9rVURmNDVvOTNUeEFfYUZZWEI2ejg1SEFpQ0owR1ZCT3BUb1RacW1FS3lJdGNaTmw3a0Jh?oc=5",
-        "publishedAt": "2026-11-18T18:10:00.000Z"
+        "publishedAt": "2026-11-18T22:58:00.000Z"
       },
       {
         "title": "Radiografía sobre el avance de la IA en las empresas de Perú 2026: un ranking revelador - Gestión",
         "summary": "Radiografía sobre el avance de la IA en las empresas de Perú 2026: un ranking revelador &nbsp;&nbsp; Gestión",
         "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjVQVGdiYVZIZkJ5VmZROHlQc3NmaXl4bkJfeXhuc0VnZXpyWHhGZ2N2UmJ3TjlDZ2pzMjhfZFdJNXNKMEZicDItTlhBZ29nM01hU3FJZW42SDk2c3BQNVAzcmxGU3U5a3FKWEZEWUhMQUF3d3dXTUJEWllSNkIxRmhJV2QxdEx5Vjk0QWwtNGRnQnFYWkE1cEFack9TSGlIci1hMWEtZzB4VkJDZXpCTDNyVEFsd3BrTTA1ZlJPdVc4SmpQSGdZ?oc=5",
-        "publishedAt": "2026-11-18T17:45:37.000Z"
+        "publishedAt": "2026-11-18T20:30:00.000Z"
       },
       {
         "title": "De ideas innovadoras a negocios tecnológicos: conoce a estas emprendedoras peruanas - Business Empresarial",
@@ -237,6 +237,13 @@
       }
     ],
     "ideas": [
+      {
+        "title": "Córdoba presentó su experiencia en un encuentro internacional de ecosistemas de innovación en Perú - La Ribera Web",
+        "summary": "Córdoba presentó su experiencia en un encuentro internacional de ecosistemas de innovación en Perú &nbsp;&nbsp; La Ribera Web",
+        "source": "La Ribera Web",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaVFYNHRRRkJ4T0x2eThiRWdkSDdkMUw5UWMyRHViRXRrYTU4QzA1UWh4bnQtSjFKNXRUakNEdUxCX2tRN3ZrVkRPVEdpMG1HaElGb2NTVUZ6Qmlha0p1M3A3U21CMk51V1VYdk5zcUJNR0pDbEpMeUlZVHNzNlBVSndVYW1sYnFFWXNPcHlGT1hJWjVLbG1Ta04yUkVqQjJRVzdyWHJFcDROX09kVTZJUFZRRXY3WVZLNHQ2YWZtMk1XdFRfS2NvTU81c1lfWnda?oc=5",
+        "publishedAt": "2026-11-18T16:29:26.000Z"
+      },
       {
         "title": "De ideas innovadoras a negocios tecnológicos: conoce a estas emprendedoras peruanas - Business Empresarial",
         "summary": "De ideas innovadoras a negocios tecnológicos: conoce a estas emprendedoras peruanas &nbsp;&nbsp; Business Empresarial",
@@ -285,16 +292,16 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1l3UjlBcXZfbXZPWG1QNHBaUDNWTkxfc2FJbkhZZG9fRXl6emhTVzBvOVBvZS1pQ0hCZjg1bUQwemdOWkZNOHRtNTlHUGJnaERLOUZjQVZnOTUtd09kS3FfWUpxQ29RMTVxWmphVmNfa0hmeUdfejJvSjdpRGRBR0F2UnA?oc=5",
         "publishedAt": "2026-08-12T07:00:00.000Z"
-      },
-      {
-        "title": "UNESCO Perú impulsará diálogos sobre inteligencia artificial y revitalización de lenguas indígenas en la FIL 2026 - UNESCO",
-        "summary": "UNESCO Perú impulsará diálogos sobre inteligencia artificial y revitalización de lenguas indígenas en la FIL 2026 &nbsp;&nbsp; UNESCO",
-        "source": "UNESCO",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS3FHVFJGSm5ucTU1WnU3SFJUSzEzTVhfVnJBWHZzc25VUEdBVW5FNUdsRzNpVjhrNjJya3hEMHZjWHFBU216V0VxVkJXQlJoOXMteG9rVGFfVXVnVkdYZ3NmNkhnSUxIbWRnU083WmluV3Q1NEh5V3NzMnBnOVQ3NzJhRDI0alFaZ19mNDdOQkpvN18zM1BRQWJsWWxHT085c3pCUzFZMXFuMnN2YXJwUktaQWROYXAxY3h0SkgySVUwV2d6R3dPRXZ5VUN1Zw?oc=5",
-        "publishedAt": "2026-07-23T07:00:00.000Z"
       }
     ],
     "ia": [
+      {
+        "title": "Inteligencia artificial en el Poder Judicial: ¿cómo se utiliza en Perú? - La República",
+        "summary": "Inteligencia artificial en el Poder Judicial: ¿cómo se utiliza en Perú? &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNUIyT0p6cURRdGo2a1ROQ1N0ZFo4WWhSOGFUcjJLazVWb3VkOVJCZTBGUUpPRXljR25vc0ZFbVlaR0x1ZHFYTVkxWXNSeXphUXR2X25ONkFCR3RGWGJwd3BqZ253SzhKZDZTMU5LOGZLZElBWGlTZ0tNTkJIekdGdjRYZzVJaFVuMUo0c3ZvcWlfcWRPUlIwYXlCTEJtY3NLWWVveEVVZVZxdkNoM2VQNk9JMGZoaEd2b1ZkSnJiZi1rYVZRNnNWN3E5bFI1bHBuV3lXalljMlRBMDNRekEzNEdjQUMzNFlMWW05bDFmaw?oc=5",
+        "publishedAt": "2026-11-18T20:45:36.000Z"
+      },
       {
         "title": "Nuevas cámaras con IA llegan al mercado peruano - La República",
         "summary": "Nuevas cámaras con IA llegan al mercado peruano &nbsp;&nbsp; La República",
@@ -343,13 +350,6 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWU9QeVVMZWZqNkUtQXdqcjB3YXFvWERHQ0pDZ0RtSUdoUktaRk1wcENGWENlanFfRlljS0NHVTdnWEgxOUpkYWphRXdqa2RSTWF6SW8xSmhBRmdBZElfb1oxcWdSRGZzalNJaFQ0bDN6TzhHOFJTN01ORHdmaUJCcHMyTHp2Wlh4YVRPUExEZDNQRm1wWnU4d1FjeE1kNjRYZlk4dlJuNDhiMzlqZzVmSGdSX2QtT0Z6SEdGSzFsM0NVb0E0Y3pJWQ?oc=5",
         "publishedAt": "2026-07-13T07:00:00.000Z"
-      },
-      {
-        "title": "Inteligencia artificial transforma la salud y acelera la modernización hospitalaria en Perú - El Peruano",
-        "summary": "Inteligencia artificial transforma la salud y acelera la modernización hospitalaria en Perú &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeGcyN0M2VUxPY0gxN3d3Y2pGMF9fbFlYZmk2RGpXWS1neU1oUTBQME5hYnNaNXV0andvZmtrY1dqQ3lxbUtVYmxsN1BYY1hkLWJ4ZXVnaHZ3dFVBbE1uQ1o5aDF4QS0xZ1pmWjgzc3E3ajk1MmFOb19IM2dSd3dCdkxZZXBUeEZIY2xYdmx3el9LbHdaZlM0b0g1aURrTXlfdC14cWRCQzFCR19BMExtY1RtM2VRVFRoUzB3U1ctR0JYczEtci1zaXhuTQ?oc=5",
-        "publishedAt": "2026-05-13T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -484,13 +484,6 @@
         "publishedAt": "2026-11-16T19:27:22.000Z"
       },
       {
-        "title": "Estación La Cultura del Metro cerrará este miércoles 11 de noviembre por actividad del papa León XIV - Infobae",
-        "summary": "Estación La Cultura del Metro cerrará este miércoles 11 de noviembre por actividad del papa León XIV &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdTNkd0ZBVmN4TmhTRHIxTGNQckZQaXpEMDJzYlM5SVhIaWVnMGlEemwwcFRwcUpCeTRyNzVkQm5KWEtPSTdMN0dtY3RvblBvNjNrMDVHc3NzcVBoT015YnZ2OFZULWdWTE84R011SU9iTmR4SmUzZjI3bk1QVlR2MGhpZjlDeE0tMVFObUxmbGZ5aEcwVHR6UFpfbHVlR1dNWm5YdVJWdVlYQWJPcHNLWFRxWFhXY05SREpHVTltRnBJWEHSAd4BQVVfeXFMUENPaTh4WVpFRDg1ZjFseGdlbThTY2RaREpJQVZRWkg3NWZwS2x4c0JiMGhCS2tndWtpa0pmZW1iOTZma3RtSHdSUTdpejdrZ3cwdGRvV0hRV1pFQ29wbm5COGZFcTB2WUtDbTczT1NNcHF6cnFhQXZ1ZlVEWUhkVFk4MEl1aXNCclJhUGhCWnZPanFORVVXYjBnc3pDR1d0T3FOWjZYT1V1T2VLdWJ4ZWhxSEFHcHVleWwtb0Fhblp6TFZjV1Nvb2hxd1ZSSmVkX2VFTFZTMW5LQS1lcC1R?oc=5",
-        "publishedAt": "2026-11-09T08:00:00.000Z"
-      },
-      {
         "title": "31 Minutos llega a Lima con “Radio Guaripolo Tour 2026”: humor, música y canciones que ya son parte de la cultura pop - Blog Joinnus",
         "summary": "31 Minutos llega a Lima con “Radio Guaripolo Tour 2026”: humor, música y canciones que ya son parte de la cultura pop &nbsp;&nbsp; Blog Joinnus",
         "source": "Blog Joinnus",
@@ -510,6 +503,13 @@
         "source": "Blog Joinnus",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObE5jdThacG00eDdmY2hBcnIyVE5QWmdEcjl6LUZGcFkzYWIxbjAyN2ZvR2FkcGk4Sk10UGFrY3JjdThVbDlRazVwaks2WTItTHRsWllENFdDWUg1R3dnQzdta095eEpobUFYSnNSWENhTl9JMXRsaGJ3SG1kSjJYTWNRRmVHalhkQ1hrajlxUm5CeEdwN1E?oc=5",
         "publishedAt": "2026-10-01T07:00:00.000Z"
+      },
+      {
+        "title": "Conciertos en Perú 2026: fechas, artistas, lugares y precios de entradas - La República",
+        "summary": "Conciertos en Perú 2026: fechas, artistas, lugares y precios de entradas &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTDSAagCQVVfeXFMTlUyQXAxei13aVQwbmNabDBUdU9QSWM3Tm5CSmNvZVJTRDFzZUxpb3E2M1R5OUFyNXNudDhka2RHNVJ5bE1YS0dWNmFZWVgtSnlWUWR5enRUOTJxaHIzNkNMNkU3Z0llUy1Yb25YOGloZnJCOU5YbmlvMFlwSDA1UUVpLTNUR1NHS3psZzNYenM0NFNrVkotVWtlNWVXekV6Ty02Qngxcy1QX29hMTFPMTBqMkY0VEsyVU9pVl8tMlNNVVByOTR3V2N0YXB3eXdKbjc3cHFHX1hsdWhEYVQ4S0oxdVUtdDk0dlE4SVI3NW5PUzcyUzVSUWhrOVl1a19yWGdlUE9iS3RibHk2REpKNHp6TEdXZUN6aU1pcml3V2dnd2VyTVNPaXg?oc=5",
+        "publishedAt": "2026-09-22T07:00:00.000Z"
       },
       {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
